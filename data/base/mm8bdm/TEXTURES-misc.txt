@@ -1,0 +1,2578 @@
+//these are the huds / bars / other important sprites used in the game
+
+Texture SCAM1, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN01, 0, 0
+}
+
+Texture SCAM2, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN02, 0, 0
+}
+
+Texture SCAM3, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN03, 0, 0
+}
+
+Texture SCAM4, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN04, 0, 0
+}
+
+Texture SCAM5, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN05, 0, 0
+}
+
+Texture SCAM6, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN06, 0, 0
+}
+
+Texture SCAM7, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN07, 0, 0
+}
+
+Texture SCAM8, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN08, 0, 0
+}
+
+Texture SCAM9, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN09, 0, 0
+}
+
+Texture SCAM10, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN10, 0, 0
+}
+
+Texture SCAM11, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN11, 0, 0
+}
+
+Texture SCAM12, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN12, 0, 0
+}
+
+Texture SCAM13, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN13, 0, 0
+}
+
+Texture SCAM14, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN14, 0, 0
+}
+
+Texture SCAM15, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN15, 0, 0
+}
+
+Texture SCAM16, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN16, 0, 0
+}
+
+Texture SCAM17, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN17, 0, 0
+}
+
+Texture SCAM18, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN18, 0, 0
+}
+
+Texture SCAM19, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN19, 0, 0
+}
+
+Texture SCAM20, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN20, 0, 0
+}
+
+Texture SCAM21, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN21, 0, 0
+}
+
+Texture SCAM22, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN22, 0, 0
+}
+
+Texture SCAM23, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN23, 0, 0
+}
+
+Texture SCAM24, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN24, 0, 0
+}
+
+Texture SCAM25, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN25, 0, 0
+}
+
+Texture SCAM26, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN26, 0, 0
+}
+
+Texture SCAM27, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN27, 0, 0
+}
+
+Texture SCAM28, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN28, 0, 0
+}
+
+Texture SCAM29, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN29, 0, 0
+}
+
+Texture SCAM30, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN30, 0, 0
+}
+
+Texture SCAM31, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN31, 0, 0
+}
+
+Texture SCAM32, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN32, 0, 0
+}
+
+Texture SCAM33, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN33, 0, 0
+}
+
+Texture SCAM34, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN34, 0, 0
+}
+
+Texture SCAM35, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN35, 0, 0
+}
+
+Texture SCAM36, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN36, 0, 0
+}
+
+Texture SCAM37, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN37, 0, 0
+}
+
+Texture SCAM38, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN38, 0, 0
+}
+
+Texture SCAM39, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN39, 0, 0
+}
+
+Texture SCAM40, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN40, 0, 0
+}
+
+Texture SCAM41, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN41, 0, 0
+}
+
+Texture SCAM42, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN42, 0, 0
+}
+
+Texture SCAM43, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN43, 0, 0
+}
+
+Texture SCAM44, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN44, 0, 0
+}
+
+Texture SCAM45, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN45, 0, 0
+}
+
+Texture SCAM46, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN46, 0, 0
+}
+
+Texture SCAM47, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN47, 0, 0
+}
+
+Texture SCAM48, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN48, 0, 0
+}
+
+Texture SCAM49, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN49, 0, 0
+}
+
+Texture SCAM50, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN50, 0, 0
+}
+
+Texture SCAM51, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN51, 0, 0
+}
+
+Texture SCAM52, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN52, 0, 0
+}
+
+Texture SCAM53, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN53, 0, 0
+}
+
+Texture SCAM54, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN54, 0, 0
+}
+
+Texture SCAM55, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN55, 0, 0
+}
+
+Texture SCAM56, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN56, 0, 0
+}
+
+Texture SCAM57, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN57, 0, 0
+}
+
+Texture SCAM58, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN58, 0, 0
+}
+
+Texture SCAM59, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN59, 0, 0
+}
+
+Texture SCAM60, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN60, 0, 0
+}
+
+Texture SCAM61, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN61, 0, 0
+}
+
+Texture SCAM62, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN62, 0, 0
+}
+
+Texture SCAM63, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN63, 0, 0
+}
+
+Texture SCAM64, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN64, 0, 0
+}
+
+Texture SCAM65, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN65, 0, 0
+}
+
+Texture SCAM66, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN66, 0, 0
+}
+
+Texture SCAM67, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN67, 0, 0
+}
+
+Texture SCAM68, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN68, 0, 0
+}
+
+Texture SCAM69, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN69, 0, 0
+}
+
+Texture SCAM70, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN70, 0, 0
+}
+
+Texture SCAM71, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN71, 0, 0
+}
+
+Texture SCAM72, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN72, 0, 0
+}
+
+Texture SCAM73, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN73, 0, 0
+}
+
+Texture SCAM74, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN74, 0, 0
+}
+
+Texture SCAM78, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN78, 0, 0
+}
+
+Texture SCAM79, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN79, 0, 0
+}
+
+Texture SCAM80, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN80, 0, 0
+}
+
+Texture SCAM81, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN81, 0, 0
+}
+
+Texture SCAM82, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN82, 0, 0
+}
+
+Texture SCAM83, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN83, 0, 0
+}
+
+Texture SCAM84, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN84, 0, 0
+}
+
+Texture SCAM85, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN85, 0, 0
+}
+
+Texture SCAM86, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN86, 0, 0
+}
+
+Texture SCAM87, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN87, 0, 0
+}
+
+Texture SCAM88, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN88, 0, 0
+}
+
+Texture SCAM89, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN89, 0, 0
+}
+
+Texture SCAM90, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN90, 0, 0
+}
+
+Texture SCAM91, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN91, 0, 0
+}
+
+Texture SCAM92, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN92, 0, 0
+}
+
+Texture SCAM93, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN93, 0, 0
+}
+
+Texture SCAM94, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN94, 0, 0
+}
+
+Texture SCAM95, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN95, 0, 0
+}
+
+
+Texture SCAM96, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch SCRN96, 0, 0
+}
+
+Texture NOSCAM, 512, 512
+{
+	XScale 2.0
+	YScale 2.0
+	WorldPanning
+	Patch NOSTAGE, 0, 0
+}
+
+Texture SELEC1, 256, 256
+{
+	WorldPanning
+	Patch STAGE1, 0, 0
+}
+
+Texture SELEC1X, 256, 256
+{
+	WorldPanning
+	Patch STAGE1X, 0, 0
+}
+
+Texture SELEC2, 256, 256
+{
+	WorldPanning
+	Patch STAGE2, 0, 0
+}
+
+Texture SELEC2X, 256, 256
+{
+	WorldPanning
+	Patch STAGE2X, 0, 0
+}
+
+Texture SELEC3, 256, 256
+{
+	WorldPanning
+	Patch STAGE3, 0, 0
+}
+
+Texture SELEC3X, 256, 256
+{
+	WorldPanning
+	Patch STAGE3X, 0, 0
+}
+
+Texture SELEC4, 256, 256
+{
+	WorldPanning
+	Patch STAGE4, 0, 0
+}
+
+Texture SELEC4X, 256, 256
+{
+	WorldPanning
+	Patch STAGE4X, 0, 0
+}
+
+Texture SELEC5, 256, 256
+{
+	WorldPanning
+	Patch STAGE5, 0, 0
+}
+
+Texture SELEC5X, 256, 256
+{
+	WorldPanning
+	Patch STAGE5X, 0, 0
+}
+
+Texture SELEC6, 256, 256
+{
+	WorldPanning
+	Patch STAGE6, 0, 0
+}
+
+Texture SELEC6X, 256, 256
+{
+	WorldPanning
+	Patch STAGE6X, 0, 0
+}
+
+Texture SELEC7, 256, 256
+{
+	WorldPanning
+	Patch STAGE7, 0, 0
+}
+
+texture VAREMPTY, 56, 8{patch BAREMPTY, 0, 0 {rotate 90}}
+texture VARHEALT, 56, 8{patch BARHEALT, 0, 0 {rotate 90}}
+
+texture BARAMMO1, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=94:94"}}
+texture BARAMMO2, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=220:220"}}
+texture BARAMMO3, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=75:75"}}
+texture BARAMMO4, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=110:110"}}
+texture BARAMMO5, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=227:227"}}
+texture BARAMMO6, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=215:215", "198:198=94:94"}}
+texture BARAMMO7, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=34:34", "198:198=239:239"}}
+texture BARAMMO8, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=68:68", "198:198=47:47"}}
+texture BARAMMO9, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=210:210", "198:198=164:164"}}
+texture BARAMM10, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4"}}
+texture BARAMM11, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=34:34", "198:198=39:39"}}
+texture BARAMM12, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=225:225"}}
+texture BARAMM13, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=41:41"}}
+texture BARAMM14, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=87:87", "198:198=227:227"}}
+texture BARAMM15, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=197:197"}}
+texture BARAMM16, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=87:87", "198:198=199:199"}}
+texture BARAMM17, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=52:52", "198:198=93:93"}}
+texture BARAMM18, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=239:239"}}
+texture BARAMM19, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=104:104"}}
+texture BARAMM20, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=52:52", "198:198=225:225"}}
+texture BARAMM21, 8, 56{patch BARENERG, 0, 0 {Translation "198:198=197:197"}}
+texture BARAMM22, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=46:46"}}
+texture BARAMM23, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=220:220"}}
+texture BARAMM24, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=216:216", "198:198=75:75"}}
+texture BARAMM25, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=193:193"}}
+texture BARAMM26, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=117:117"}}
+texture BARAMM27, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=87:87"}}
+texture BARAMM28, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=39:39"}}
+texture BARAMM29, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=52:52", "198:198=220:220"}}
+texture BARAMM30, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=236:236"}}
+texture BARAMM31, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=203:203"}}
+texture BARAMM32, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=68:68", "198:198=94:94"}}
+texture BARAMM33, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=4:4", "198:198=232:232"}}
+texture BARAMM34, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=228:228", "198:198=73:73"}}
+texture BARAMM35, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=109:109", "198:198=238:238"}}
+texture BARAMM36, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=228:228", "198:198=111:111"}}
+texture BARAMM37, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=204:204", "198:198=61:61"}}
+texture BARAMM38, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=93:93", "198:198=42:42"}}
+texture BARAMM39, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=197:197", "198:198=239:239"}}
+texture BARAMM40, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=236:236", "198:198=194:194"}}
+texture BARAMM41, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=128:128"}}
+texture BARAMM42, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=248:248", "198:198=41:41"}}
+texture BARAMM43, 8, 56{patch BARENERG, 0, 0 {Translation "198:198=220:220"}}
+texture BARAMM44, 8, 56{patch BARENERG, 0, 0 {Translation "198:198=230:230"}}
+texture BARAMM45, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=205:205"}}
+texture BARAMM46, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=77:77"}}
+texture BARAMM47, 8, 56{patch BARENERG, 0, 0 {Translation "198:198=62:62"}}
+texture BARAMM48, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=138:138", "198:198=130:130"}}
+texture BARAMM49, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=229:229", "198:198=76:76"}}
+texture BARAMM50, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=54:54", "198:198=42:42"}}
+texture BARAMM51, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=64:64", "198:198=62:62"}}
+texture BARAMM52, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=201:201", "198:198=110:110"}}
+texture BARAMM53, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=93:93", "198:198=229:229"}}
+texture BARAMM54, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=200:200", "198:198=75:75"}}
+texture BARAMM55, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=87:87", "198:198=220:220"}}
+texture BARAMM56, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=41:41", "198:198=3:3"}}
+texture BARAMM57, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=218:218", "198:198=40:40"}}
+texture BARAMM58, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=236:236", "198:198=3:3"}}
+texture BARAMM59, 8, 56{patch BARENERG, 0, 0 {Translation "192:192=62:62", "198:198=95:95"}}
+
+texture VARAMMO1, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=94:94"}}
+texture VARAMMO2, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=220:220"}}
+texture VARAMMO3, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=75:75"}}
+texture VARAMMO4, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=110:110"}}
+texture VARAMMO5, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=227:227"}}
+texture VARAMMO6, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=215:215", "198:198=94:94"}}
+texture VARAMMO7, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=34:34", "198:198=239:239"}}
+texture VARAMMO8, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=68:68", "198:198=47:47"}}
+texture VARAMMO9, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=210:210", "198:198=164:164"}}
+texture VARAMM10, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4"}}
+texture VARAMM11, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=34:34", "198:198=39:39"}}
+texture VARAMM12, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=225:225"}}
+texture VARAMM13, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=41:41"}}
+texture VARAMM14, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=87:87", "198:198=227:227"}}
+texture VARAMM15, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=197:197"}}
+texture VARAMM16, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=87:87", "198:198=199:199"}}
+texture VARAMM17, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=52:52", "198:198=93:93"}}
+texture VARAMM18, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=239:239"}}
+texture VARAMM19, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=104:104"}}
+texture VARAMM20, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=52:52", "198:198=225:225"}}
+texture VARAMM21, 56, 8{patch VARENERG, 0, 0 {Translation "198:198=197:197"}}
+texture VARAMM22, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=46:46"}}
+texture VARAMM23, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=220:220"}}
+texture VARAMM24, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=216:216", "198:198=75:75"}}
+texture VARAMM25, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=193:193"}}
+texture VARAMM26, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=117:117"}}
+texture VARAMM27, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=87:87"}}
+texture VARAMM28, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=39:39"}}
+texture VARAMM29, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=52:52", "198:198=220:220"}}
+texture VARAMM30, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=236:236"}}
+texture VARAMM31, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=203:203"}}
+texture VARAMM32, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=68:68", "198:198=94:94"}}
+texture VARAMM33, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=4:4", "198:198=232:232"}}
+texture VARAMM34, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=228:228", "198:198=73:73"}}
+texture VARAMM35, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=109:109", "198:198=238:238"}}
+texture VARAMM36, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=228:228", "198:198=111:111"}}
+texture VARAMM37, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=204:204", "198:198=61:61"}}
+texture VARAMM38, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=93:93", "198:198=42:42"}}
+texture VARAMM39, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=197:197", "198:198=239:239"}}
+texture VARAMM40, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=236:236", "198:198=194:194"}}
+texture VARAMM41, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=128:128"}}
+texture VARAMM42, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=248:248", "198:198=41:41"}}
+texture VARAMM43, 56, 8{patch VARENERG, 0, 0 {Translation "198:198=220:220"}}
+texture VARAMM44, 56, 8{patch VARENERG, 0, 0 {Translation "198:198=230:230"}}
+texture VARAMM45, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=205:205"}}
+texture VARAMM46, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=77:77"}}
+texture VARAMM47, 56, 8{patch VARENERG, 0, 0 {Translation "198:198=62:62"}}
+texture VARAMM48, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=138:138", "198:198=130:130"}}
+texture VARAMM49, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=229:229", "198:198=76:76"}}
+texture VARAMM50, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=54:54", "198:198=42:42"}}
+texture VARAMM51, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=64:64", "198:198=62:62"}}
+texture VARAMM52, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=201:201", "198:198=110:110"}}
+texture VARAMM53, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=93:93", "198:198=229:229"}}
+texture VARAMM54, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=200:200", "198:198=75:75"}}
+texture VARAMM55, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=87:87", "198:198=220:220"}}
+texture VARAMM56, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=41:41", "198:198=3:3"}}
+texture VARAMM57, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=218:218", "198:198=40:40"}}
+texture VARAMM58, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=236:236", "198:198=3:3"}}
+texture VARAMM59, 56, 8{patch VARENERG, 0, 0 {Translation "192:192=62:62", "198:198=95:95"}}
+
+texture BARFLS1, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS2, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS3, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS4, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS5, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS6, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS7, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS8, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS9, 8, 56{patch BARAMMO1, 0, 0}
+texture BARFLS10, 8, 56{patch BARAMMO1, 0, 0}
+
+texture VARFLS1, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS2, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS3, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS4, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS5, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS6, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS7, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS8, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS9, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+texture VARFLS10, 56, 8{patch BARAMMO1, 0, 0 {rotate 90}}
+
+Texture VARAMT31, 56, 8{Patch BARAMT31, 0, 0{Rotate 90}}
+Texture VNOBAR, 56, 8{Patch NOBAR, 0, 0{Rotate 90}}
+Texture VARHLTRN, 56, 8{Patch BARHLTRN, 0, 0{Rotate 90}}
+Texture BARFLS11, 8, 56{Patch BARAMM43, 0, 0}
+Texture VARFLS11, 56, 8{Patch BARAMM43, 0, 0{Rotate 90}}
+
+texture FBLIND1, 64,64
+{
+   XScale 0.08
+   YScale 0.08
+   Patch BLIND1, 0, 0
+}
+
+texture FBLIND2, 64,64
+{
+   XScale 0.08
+   YScale 0.08
+   Patch BLIND2, 0, 0
+}
+
+texture FBLIND3, 64,64
+{
+   XScale 0.08
+   YScale 0.08
+   Patch BLIND3, 0, 0
+}
+
+//===================//
+//======Busters======//
+//===================//
+
+//Bubble Lead
+sprite BUBBD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+sprite BUBBE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+sprite BUBBF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+//Gyro Attack (Old Leaf Shield name)
+sprite WOODI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=128:128"}
+}
+
+sprite WOODJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=128:128"}
+}
+
+sprite WOODK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=128:128"}
+}
+
+//Search Snake
+Sprite SNAKI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=110:110"}
+}
+
+Sprite SNAKJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=110:110"}
+}
+
+Sprite SNAKK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=110:110"}
+}
+
+//Air Shooter
+sprite AIRSD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4"}
+}
+
+sprite AIRSE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4"}
+}
+
+sprite AIRSF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4"}
+}
+
+//Water Wave
+Sprite WWAVE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=4:4"}
+}
+
+Sprite WWAVF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=4:4"}
+}
+
+Sprite WWAVG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=4:4"}
+}
+
+//Ice Slasher
+Sprite ICESD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=75:75"}
+}
+
+Sprite ICESE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=75:75"}
+}
+
+Sprite ICESF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=75:75"}
+}
+
+//Atomic Fire
+sprite HEATG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=41:41"}
+}
+
+sprite HEATH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=41:41", "0:2=201:201", "3:8=201:201", "243:247=201:201"}
+}
+
+sprite HEATI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=193:193", "0:2=37:37", "3:8=37:37", "243:247=37:37"}
+}
+
+sprite HEATJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=4:4", "0:2=4:4", "3:8=4:4", "243:247=4:4"}
+}
+
+sprite HEATK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=229:229", "198:198=41:41"}
+}
+
+sprite HEATL0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=229:229", "198:198=41:41"}
+}
+
+//Blizzard Attack
+sprite BLIZD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=197:197"}
+}
+
+sprite BLIZE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=197:197"}
+}
+
+sprite BLIZF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=197:197"}
+}
+
+//Crash Bomb
+sprite CRASX0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+sprite CRASY0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+sprite CRASZ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+//Crystal Eye
+sprite CRYEK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=193:193"}
+}
+
+sprite CRYEL0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=193:193"}
+}
+
+sprite CRYEM0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=193:193"}
+}
+
+//Drill Bomb
+sprite DRILD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+sprite DRILE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+sprite DRILF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+//Dust Crusher
+sprite DSTSB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+sprite DSTSC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+sprite DSTSD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=93:93"}
+}
+
+
+//Fire Storm
+sprite FIREG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=227:227"}
+}
+
+sprite FIREH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=229:229", "198:198=227:227"}
+}
+
+sprite FIREI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=229:229", "198:198=227:227"}
+}
+
+
+//Flame Blast
+sprite FLMBP0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=52:52", "198:198=225:225"}
+}
+
+sprite FLMBQ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=52:52", "198:198=225:225"}
+}
+
+sprite FLMBR0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=52:52", "198:198=225:225"}
+}
+
+//Knight Crush
+sprite KNIGB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=87:87"}
+}
+
+sprite KNIGC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=87:87"}
+}
+
+sprite KNIGD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=87:87"}
+}
+
+//Magnet Missile
+sprite MAGGC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+sprite MAGGD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+sprite MAGGE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=87:87", "198:198=227:227"}
+}
+
+//Napalm Bomb
+sprite NAPAT0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=216:216", "198:198=75:75"}
+}
+
+sprite NAPAU0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=216:216", "198:198=75:75"}
+}
+
+sprite NAPAV0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=216:216", "198:198=75:75"}
+}
+
+//Needle Cannon
+sprite NEDCB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=220:220"}
+}
+
+sprite NEDCC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=220:220"}
+}
+
+sprite NEDCD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=220:220"}
+}
+
+//Plant Barrier
+sprite PLANT0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=39:39"}
+}
+
+sprite PLANS0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=39:39"}
+}
+
+//Silver Tomahawk
+sprite TOMAC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=52:52", "198:198=220:220"}
+}
+
+sprite TOMAD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=52:52", "198:198=220:220"}
+}
+
+sprite TOMAE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=52:52", "198:198=220:220"}
+}
+
+
+//Skull Barrier
+sprite SKLBG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "198:198=197:197"}
+}
+
+sprite SKLBH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "198:198=197:197"}
+}
+
+
+//Spark Shock
+sprite SPASC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+sprite SPASD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+sprite SPASE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=225:225"}
+}
+
+//Star Crash
+sprite STARI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=220:220"}
+}
+
+sprite STARJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=229:229", "198:198=220:220"}
+}
+
+sprite STARK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=229:229", "198:198=220:220"}
+}
+
+//Thunder Beam
+sprite THUNH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=215:215", "198:198=94:94"}
+}
+
+sprite THUNI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=215:215", "198:198=94:94"}
+}
+
+sprite THUNJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=215:215", "198:198=94:94"}
+}
+
+
+//Time Stopper
+sprite TIMSA0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=34:34", "198:198=239:239"}
+}
+
+//Yamato Spear
+sprite YAMAD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=236:236"}
+}
+
+sprite YAMAB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=236:236"}
+}
+
+sprite YAMAC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=236:236"}
+}
+
+//Quick Boomerang
+sprite QUICF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=34:34", "198:198=39:39"}
+}
+
+sprite QUICE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=34:34", "198:198=39:39"}
+}
+
+//Ring Boomerang
+sprite RINGG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=215:215", "198:198=230:230"}
+}
+
+sprite RINGE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=215:215", "198:198=230:230"}
+}
+
+sprite RINGF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=215:215", "198:198=230:230"}
+}
+
+//Mirror Buster
+sprite MIRRG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=229:229", "198:198=76:76"}
+}
+
+sprite MIRRF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=76:76"}
+}
+
+sprite MIRRH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=229:229", "198:198=76:76"}
+}
+
+//Freeze Cracker
+sprite FCRAH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=203:203"}
+}
+
+sprite FCRAF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=203:203"}
+}
+
+sprite FCRAG0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=203:203"}
+}
+
+//Noise Crush
+sprite NCRUK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=204:204", "198:198=61:61"}
+}
+
+sprite NCRUI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=204:204", "198:198=61:61"}
+}
+
+sprite NCRUJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=204:204", "198:198=61:61"}
+}
+
+sprite NCRUL0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=204:204", "198:198=61:61", "0:2=112:112", "3:8=112:112", "243:247=112:112"}
+}
+
+sprite NCRUM0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=247:247", "198:198=204:204", "0:2=61:61", "3:8=61:61", "243:247=61:61"}
+}
+
+sprite NCRUN0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=61:61", "198:198=247:247", "0:2=204:204", "3:8=204:204", "243:247=204:204"}
+}
+
+//Danger Wrap
+sprite DWRAK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=232:232"}
+}
+
+sprite DWRAI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=232:232"}
+}
+
+sprite DWRAJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=232:232"}
+}
+
+//Super Adaptor
+sprite SAPTA0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=176:176"}
+}
+
+sprite SAPTB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=4:4", "198:198=176:176"}
+}
+
+sprite SAPTC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=4:4", "198:198=176:176"}
+}
+
+sprite SAPTD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=4:4", "198:198=176:176", "0:2=22:22", "3:8=22:22", "243:247=22:22"}
+}
+
+//Thunder Bolt
+sprite TBOLS0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTB0, 184, 94 {Translation "192:192=228:228", "198:198=73:73"}
+}
+
+sprite TBOLT0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTC0, 184, 98 {Translation "192:192=228:228", "198:198=73:73"}
+}
+
+sprite TBOLU0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+   Patch BUSTD0, 188, 102 {Translation "192:192=228:228", "198:198=73:73"}
+}
+
+
+//Oil Slider
+Sprite OILLA0, 320, 200
+{
+  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=68:68", "198:198=47:47"}
+}
+
+Sprite OILLB0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=68:68", "198:198=47:47"}
+}
+
+Sprite OILLC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=68:68", "198:198=47:47"}
+}
+
+//Ice Wave
+Sprite ICEWI0, 320, 200
+{ XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=205:205"}
+}
+
+Sprite ICEWJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=229:229", "198:198=205:205"}
+}
+
+Sprite ICEWK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=229:229", "198:198=205:205"}
+}
+
+//Thunder Claw
+Sprite TCLDD0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "198:198=220:220"}
+}
+
+Sprite TCLDE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "198:198=220:220"}
+}
+
+Sprite TCLDF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "198:198=220:220"}
+}
+
+//Homing Sniper
+Sprite HSNIC0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "198:198=230:230"}
+}
+
+Sprite HSNID0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "198:198=230:230"}
+}
+
+Sprite HSNIE0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "198:198=230:230"}
+}
+
+Sprite HSNIF0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "198:198=230:230", "244:247=26:26"}
+}
+
+Sprite HSNII0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=247:247", "198:198=192:192", "244:247=230:230"}
+}
+
+Sprite HSNIJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=230:230", "198:198=247:247", "244:247=192:192"}
+}
+
+//Water Balloon
+Sprite WTRBH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "198:198=62:62"}
+}
+
+Sprite WTRBI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "198:198=62:62"}
+}
+
+Sprite WTRBJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "198:198=62:62"}
+}
+
+//Mega Ball
+Sprite MBALN0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=197:197", "198:198=239:239"}
+}
+
+Sprite MBALO0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=197:197", "198:198=239:239"}
+}
+
+Sprite MBALP0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=197:197", "198:198=239:239"}
+}
+
+//Charging Busters
+
+//Arrow
+Sprite CHBUH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "0:2=39:39", "3:8=39:39", "243:247=39:39"}
+}
+
+Sprite CHBUI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=8:8", "198:198=192:192", "0:2=198:198", "3:8=198:198", "243:247=198:198"}
+}
+
+Sprite CHBUJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=198:198", "198:198=247:247", "0:2=192:192", "3:8=192:192", "243:247=192:192"}
+}
+
+//Laser
+Sprite LBSTH0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "3:8=70:70", "243:247=70:70"}
+}
+
+Sprite LBSTI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=100:100", "198:198=109:109", "3:8=104:104", "243:247=104:104"}
+}
+
+
+//Tornado Hold
+Sprite THOLI0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=236:236", "198:198=194:194"}
+}
+
+Sprite THOLJ0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 98 {Translation "192:192=236:236", "198:198=194:194"}
+}
+
+Sprite THOLK0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 188, 102 {Translation "192:192=236:236", "198:198=194:194"}
+}
+
+//Flash Bomb
+Sprite FLSBT0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTB0, 184, 94 {Translation "192:192=229:229", "198:198=77:77"}
+}
+
+Sprite FLSBU0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTC0, 184, 94 {Translation "192:192=229:229", "198:198=77:77"}
+}
+
+Sprite FLSBV0, 320, 200
+{  XScale 1.0 YScale 1.0 Offset 0,0
+	Patch BUSTD0, 184, 94 {Translation "192:192=229:229", "198:198=77:77"}
+}
+
+//Wave Burner
+sprite WAVBK0, 320, 200
+{
+Patch BUSTB0, 184, 94 {Translation "192:192=218:218", "198:198=40:40"}
+}
+
+sprite WAVBL0, 320, 200
+{
+Patch BUSTC0, 184, 98 {Translation "192:192=218:218", "198:198=40:40"}
+}
+
+sprite WAVBM0, 320, 200
+{
+Patch BUSTD0, 188, 102 {Translation "192:192=218:218", "198:198=40:40"}
+}
+
+// Copy Vision
+sprite COPBA0, 320, 200
+{  Patch BUSTB0, 184, 94 {Translation "192:192=201:201", "198:198=110:110"}
+}
+
+sprite COPBB0, 320, 200
+{  Patch BUSTC0, 184, 98 {Translation "192:192=201:201", "198:198=110:110"}
+}
+
+sprite COPBC0, 320, 200
+{  Patch BUSTD0, 188, 102 {Translation "192:192=201:201", "198:198=110:110"}
+}
+
+//Spread Drill
+sprite SPREH0, 320, 200
+{
+Patch BUSTB0, 184, 94 {Translation "192:192=87:87", "198:198=220:220"}
+}
+
+sprite SPREI0, 320, 200
+{
+Patch BUSTC0, 184, 98 {Translation "192:192=87:87", "198:198=220:220"}
+}
+
+sprite SPREJ0, 320, 200
+{
+Patch BUSTD0, 188, 102 {Translation "192:192=87:87", "198:198=220:220"}
+}
+
+//Magic Card
+sprite MCARH0, 320, 200
+{
+Patch BUSTB0, 184, 94 {Translation "192:192=236:236", "198:198=3:3"}
+}
+
+sprite MCARI0, 320, 200
+{
+Patch BUSTC0, 184, 98 {Translation "192:192=236:236", "198:198=3:3"}
+}
+
+sprite MCARJ0, 320, 200
+{
+Patch BUSTD0, 188, 102 {Translation "192:192=236:236", "198:198=3:3"}
+}
+
+//Remote Mine
+sprite REMBA0, 320, 200
+{
+Patch BUSTB0, 184, 94 {Translation "192:192=41:41", "198:198=3:3"}
+}
+
+sprite  REMBB0, 320, 200
+{
+Patch BUSTC0, 184, 98 {Translation "192:192=41:41", "198:198=3:3"}
+}
+
+sprite REMBC0, 320, 200
+{
+Patch BUSTD0, 188, 102 {Translation "192:192=41:41", "198:198=3:3"}
+}
+
+//Ice Wall
+sprite ICWLH0, 320, 200
+{
+Patch BUSTB0, 184, 94 {Translation "192:192=200:200", "198:198=75:75"}
+}
+
+sprite  ICWLI0, 320, 200
+{
+Patch BUSTC0, 184, 98 {Translation "192:192=200:200", "198:198=75:75"}
+}
+
+sprite ICWLJ0, 320, 200
+{
+Patch BUSTD0, 188, 102 {Translation "192:192=200:200", "198:198=75:75"}
+}
+
+sprite TALKA0, 40, 18
+{
+   XScale 0.5
+   YScale 0.5
+   Offset 0, 12
+   Patch TALKB0, 4, 0
+}
+
+graphic REGGS, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3J0, 0, 0
+}
+
+graphic RCOIL, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPB0, 0, 0
+}
+
+graphic ETANK, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch EBALF0, 0, 0
+}
+
+graphic MTANK, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch EBALG0, 0, 0
+}
+
+graphic WTANK, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch EBALH0, 0, 0
+}
+
+graphic BUBBI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPD0, 0, 0
+}
+
+graphic LEAFI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPF0, 0, 0
+}
+
+graphic NAPAI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPC0, 0, 0
+}
+
+graphic SHADI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPA0, 0, 0
+}
+
+graphic ATOMI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPE0, 0, 0
+}
+
+graphic AIRSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPG0, 0, 0
+}
+
+graphic BOMBSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPH0, 0, 0
+}
+
+graphic MAGNETSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPI0, 0, 0
+}
+
+graphic TOPSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPJ0, 0, 0
+}
+
+graphic NEEDSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPL0, 0, 0
+}
+
+graphic GEMISI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPM0, 0, 0
+}
+
+
+graphic SNAKESI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPK0, 0, 0
+}
+
+graphic FLASHSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPN0, 0, 0
+}
+
+graphic SARMSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPO0, 0, 0
+}
+
+graphic ICESI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPP0, 0, 0
+}
+
+graphic EDDIEC, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPQ0, 0, 0
+}
+
+graphic CBUSTI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch CBSTC0, 0, 0
+}
+
+graphic PROTOS, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPU0, 0, 0
+}
+
+graphic THUNSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPR0, 0, 0
+}
+
+graphic METLSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPS0, 0, 0
+}
+
+graphic HARDSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPT0, 0, 0
+}
+
+graphic DRILLSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPV0, 0, 0
+}
+
+graphic BLIZSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPW0, 0, 0
+}
+
+graphic FIRESI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPY0, 0, 0
+}
+
+graphic QUICKSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEAPZ0, 0, 0
+}
+
+graphic ITEM1, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2A0, 0, 0
+}
+
+graphic ITEM2, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2D0, 0, 0
+}
+
+graphic RUSHJ, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2B0, 0, 0
+}
+
+graphic CRASSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2C0, 0, 0
+}
+
+graphic CHARSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2E0, 0, 0
+}
+
+graphic RCUTSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2F0, 0, 0
+}
+
+graphic SPARSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2G0, 0, 0
+}
+
+graphic RINGSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2H0, 0, 0
+}
+
+graphic GYROSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2I0, 0, 0
+}
+
+graphic POWSSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2J0, 0, 0
+}
+
+graphic DUSTSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2K0, 0, 0
+}
+
+graphic PHASSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2L0, 0, 0
+}
+
+graphic WATRSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2M0, 0, 0
+}
+
+graphic CRYSSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2N0, 0, 0
+}
+
+graphic SKLBSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2O0, 0, 0
+}
+
+graphic FLMBSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2P0, 0, 0
+}
+
+graphic PROTUP, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2Q0, 0, 0
+}
+
+graphic BASSUP, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3A0, 0, 0
+}
+
+
+graphic TANGOSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3B0, 0, 0
+}
+
+graphic YAMASI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2R0, 0, 0
+}
+
+graphic DIVESI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2S0, 0, 0
+}
+
+graphic PLANTSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2T0, 0, 0
+}
+
+graphic TOMASI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2U0, 0, 0
+}
+
+graphic WINDSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2V0, 0, 0
+}
+
+graphic KNIGSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2W0, 0, 0
+}
+
+graphic STARSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2X0, 0, 0
+}
+
+graphic RAINSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2Y0, 0, 0
+}
+
+graphic SAKUSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA2Z0, 0, 0
+}
+
+graphic BALLSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3C0, 0, 0
+}
+
+graphic SCRWSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3D0, 0, 0
+}
+
+graphic BRIGHSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3E0, 0, 0
+}
+
+graphic GRAVSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3F0, 0, 0
+}
+
+
+graphic CENTSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3G0, 0, 0
+}
+
+graphic MIRRSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3H0, 0, 0
+}
+
+graphic FCRASI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3O0, 0, 0
+}
+
+
+graphic NCRUSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3J0, 0, 0
+}
+
+graphic WCOISI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3K0, 0, 0
+}
+
+graphic DWRASI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3L0, 0, 0
+}
+
+graphic SWHESI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3M0, 0, 0
+}
+
+graphic JSHISI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3N0, 0, 0
+}
+
+graphic ADAPSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3P0, 0, 0
+}
+
+graphic SCLASI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3Q0, 0, 0
+}
+
+graphic TBOLSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA3R0, 0, 0
+}
+
+graphic TRBLSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch TRBIA0, 0, 0
+}
+
+
+graphic EXITSI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch EXITA0, 0, 0
+}
+
+
+Graphic ICEWAVI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4A0, 0, 0
+}
+
+Graphic FLSHBOMI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4B0, 0, 0
+}
+
+Graphic TORNAHI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4C0, 0, 0
+}
+
+Graphic MEGABALI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4D0, 0, 0
+}
+
+Graphic ASTROI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4E0, 0, 0
+}
+
+Graphic FSWORDI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4F0, 0, 0
+}
+
+Graphic TCLAWI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4G0, 0, 0
+}
+
+Graphic HSNIPERI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4H0, 0, 0
+}
+
+Graphic WATERBI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4I0, 0, 0
+}
+
+Graphic LASERSI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4K0, 0, 0
+}
+
+Graphic ARROWSH, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4L0, 0, 0
+}
+
+Graphic DUOHAND, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch DUOFA0, 0, 0
+}
+
+Graphic TIMMI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch SLOTX0, 0, 0
+}
+
+Graphic TIMMI2, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch SLOTX0, 0, 0
+}
+
+Graphic TIMICON, 30, 30
+{
+	XScale 0.3
+	YScale 0.3
+	Offset 16, 10
+	Patch SLOTX0, 0, 0
+}
+
+Graphic OILLI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA7J0, 0, 0
+}
+
+Graphic BEATI, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WEA4O0, 0, 0
+}
+
+Graphic WIRE, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch WADPA0, 0, 0
+}
+
+graphic LIGHTNI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch LIBOA0, 0, 0
+}
+
+graphic TENBLI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch TBLAX0, 0, 0
+}
+
+graphic BURNRI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WABUX0, 0, 0
+}
+
+graphic SPREI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch SPREX0, 0, 0
+}
+
+graphic MAGII, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch MCARX0, 0, 0
+}
+
+graphic REMOI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch REMIX0, 0, 0
+}
+
+graphic COPYVI, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch COPYX0, 0, 0
+}
+
+graphic IWALL, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch ICWLX0, 0, 0
+}
+
+graphic REGGS, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WEA9Z0, 0, 0
+}
+
+graphic RUSHM, 30, 30
+{
+   XScale 2.0
+   YScale 2.0
+   Patch RUSHN0, 0, 0
+}
+
+Graphic TREBBOO, 30, 30
+{
+	XScale 2.0
+	YScale 2.0
+	Patch TRBBI0, 0, 0
+}

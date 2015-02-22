@@ -1,0 +1,255 @@
+[enu default]
+
+POSSESSIONARTIFACT_PICKEDUP = "Circuit Board picked up!";
+POSSESSIONARTIFACT_DROPPED = "Circuit Board dropped!";
+PICKUP_POSSESSIONSTONE = "Circuit Board!";
+
+QUITMSG = "fight, megaman!\nfor everlasting peace!";
+QUITMSG1 = "See you in my dreams.";
+QUITMSG2 = "My scheme for world domination has faild!";
+QUITMSG3 =  "Don't forget to write down the password!";
+QUITMSG4 = "Don't make us stop production on Mega Man 9...";
+QUITMSG5 = "The joke's on you, \nI've given your computer roboezna!";
+QUITMSG6 = "Go on and quit, ya blue dweeb!";
+QUITMSG7 = "What? You couldn't defeat Air Man either?!";
+QUITMSG8 = "You're leaving? Well all right... \nSee you on Ghouls vs. Humans!";
+QUITMSG9 = "sizzlin' circuits, you're leaving?";
+QUITMSG10 = "Stay tuned for more megaman after the break!";
+QUITMSG11 = "WEAPON GET \n\nRAGE QUIT!";
+QUITMSG12 = "Bumomomomomo. \nBumomomo? Bumomomomo!";
+QUITMSG13 = "Hey, Megaman! \nYou're a little low on air!";
+QUITMSG14 = "Press 'N' to unlock Splash Woman's secret outfit!";
+
+//weapon obits
+OB_MEGABUSTER = "%o was bombed by %k's Mega Buster.";
+OB_PROTOBUSTER = "%o was sniped by %k's Proto Buster.";
+OB_BASSBUSTER = "%o was pelted by %k's Bass Buster.";
+OB_SUPERADAPTOR = "%o was defeated by %k's Super Adaptor.";
+OB_ARROWBUSTER = "%o was the bulls-eye of %k's Arrow Buster.";
+OB_LASERBUSTER = "%o was pierced by %k's Laser Buster.";
+OB_DUOFIST = "%o was purged by %k's Duo Fist.";
+OB_TREBLEBOOST = "%o was barraged by %k's Treble Boost.";
+
+OB_ROLLINGCUTTER = "%o was sliced and diced by %k's rolling cutter.";
+OB_SUPERARM = "%o was pulverized by %k's Super Arm.";
+OB_HYPERBOMB = "%o was blown up by %k's Hyper Bomb.";
+OB_FIRESTORM = "%o was melted by %k's Fire Storm.";
+OB_ICESLASHER = "%o was iced by %k's Ice Slasher.";
+OB_THUNDERBEAM = "%o was electrocuted by %k's Thunder Beam.";
+OB_OILSLIDER = "%o was covered in %k's Oil Slider.";
+OB_OILSLIDER2 = "%o was ignited by %k's Oil Flame.";
+OB_TIMESLOW = "%o was frozen in time by %k's Time Slow.";
+
+OB_AIRSHOOTER = "%o was aired out by %k's Air Shooter.";
+OB_ATOMICFIRE = "%o was roasted by %k's Atomic Fire.";
+OB_BUBBLELEAD = "%o was lead astray by %k's Bubble Lead.";
+OB_CRASHBOMB = "%o was crashed by %k's Crash Bomb.";
+OB_LEAFSHIELD = "%o was brushed by %k's Leaf Shield.";
+OB_METALBLADE = "%o was sliced by %k's Metal Blade.";
+OB_IGMETALBLADE = "%o was obliterated by %k's Metal Blade.";
+OB_QUICKBOOMERANG = "%o couldn't dodge %k's Quick Boomerang.";
+OB_TIMESTOPPER = "%o thought %h was Quick Man due to %k's Time Stopper.";
+
+OB_GEMINILASER = "%o was surprised by %k's Gemini Laser.";
+OB_HARDKNUCKLE = "%o was smacked by %k's Hard Knuckle.";
+OB_MAGNETMISSILE = "%o was magnetized by %k's Magnet Missile.";
+OB_NEEDLECANNON = "%o was pinned down by %k's Needle Cannon.";
+OB_SEARCHSNAKE = "%o was caught by one of %k's Search Snakes."; 
+OB_SHADOWBLADE = "%o was assassinated by %k's Shadow Blade.";
+OB_SPARKSHOCK = "%o was shocked by %k's Spark Shock.";
+OB_TOPSPIN = "%o was twisted by %k's Top Spin.";
+
+OB_DIVEMISSILE = "%o was intercepted by %k's Dive Missile.";
+OB_DRILLBOMB = "%o was detonated by %k's Drill Bomb.";
+OB_DUSTCRUSHER = "%o got made into junk by %k's Dust Crusher.";
+OB_FLASHSTOPPER = "%o's visuals were fried by %k's Flash Stopper.";
+OB_PHARAOHSHOT = "%o was sacrificed by %k's Pharaoh Shot.";
+OB_RAINFLUSH = "%o was flushed away by %k's Rain Flush.";
+OB_RINGBOOMERANG = "%o had rings ran around %h by %k's Ring Boomerangs.";
+OB_SKULLBARRIER =  "%o was boned by %k's Skull Barrier.";
+
+OB_CHARGEKICK = "%o was kicked around by %k's charge kick.";
+OB_CRYSTALEYE = "%o did not see %k's Crystal Eye.";
+OB_GRAVITYHOLD = "%o was pressurized by %k's Gravity Hold.";
+OB_GYROATTACK = "%o was chopped to bits by %k's Gyro Attack.";
+OB_NAPALMBOMB = "%o was blown to bits by %k's Napalm Bomb.";
+OB_POWERSTONE = "%o was slammed by %k's Power Stone.";
+OB_STARCRASH = "%o saw stars by %k's Star Crash.";
+OB_WATERWAVE = "%o was drowned by %k's Water Wave.";
+
+OB_BLIZZARDATTACK = "%o was frozen by %k's Blizzard Attack.";
+OB_CENTAURFLASH = "%o was distorted by %k's Centaur Flash.";
+OB_FLAMEBLAST = "%o was ignited by %k's Flame Blast.";
+OB_KNIGHTCRUSH = "%o was slain by %k's Knight Crush.";
+OB_PLANTBARRIER = "%o was made into a bouquet by %k's Plant Barrier.";
+OB_SILVERTOMAHAWK = "%o was Tomahawk'd by %k's Silver Tomahawk.";
+OB_WINDSTORM = "%o was blown away by %k's Wind Storm.";
+OB_YAMATOSPEAR = "%o was impaled by %k's Yamato Spear.";
+
+OB_FREEZECRACKER = "%o was cracked by %k's Freeze Cracker.";
+OB_DANGERWRAP = "%o was burst by %k's Danger Wrap.";
+OB_JUNKSHIELD = "%o was trashed by %k's Junk Shield.";
+OB_NOISECRUSH = "%o was silenced by %k's Noise Crush.";
+OB_SCORCHWHEEL = "%o was scorched by %k's Scorch Wheel.";
+OB_THUNDERBOLT = "%o was fried by %k's Thunder Bolt.";
+OB_WILDCOIL = "%o was bounced away by %k's Wild Coil.";
+OB_SLASHCLAW = "%o was slashed by %k's slash claw.";
+
+OB_MEGABALL = "%o was bounced out by %k's Mega Ball.";
+OB_ASTROCRUSH = "%o was smashed into a crater by %k's Astro Crush.";
+OB_FLAMESWORD = "%o was slashed and burned by %k's Flame Sword.";
+OB_FLASHBOMB = "%o was blinded by %k's Flash Bomb.";
+OB_HOMINGSNIPER = "%o was searched and destroyed by %k's Homing Sniper.";
+OB_ICEWAVE = "%o was turned into a popsicle by %k's Ice Wave.";
+OB_THUNDERCLAW = "%o couldn't escape the grasp of %k's Thunder Claw.";
+OB_TORNADOHOLD = "%o was whirled away by %k's Tornado Hold.";
+OB_WATERBALLOON = "%o was drenched by %k's Water Balloon.";
+
+OB_TENGUBLADE = "%o was severed by %k's Tengu Blade.";
+OB_WAVEBURNER = "%o was deforested by %k's Wave Burner.";
+OB_WAVEBURNER2 = "%o was blasted away by %k's Wave Burner.";
+OB_SPREADDRILL = "%o was drilled by %k's Spread Drill.";
+OB_COPYVISION = "%o was double teamed by %k's Copy Vision.";
+OB_MAGICCARD = "%o was tricked by %k's Magic Card.";
+OB_REMOTEMINE = "%o was keelhauled by %k's Remote Mine.";
+OB_ICEWALL = "%o was flattened by %k's Ice Wall.";
+OB_LIGHTNINGBOLT = "%o was conducted by %k's Lightning Bolt.";
+
+OB_BALLADECRACKER = "%o was blown up by %k's Ballade Cracker";
+OB_MIRRORBUSTER = "%o saw %hself in %k's Mirror Buster.";
+OB_SAKUGARNE = "%o was destroyed by %k's Sakugarne.";
+OB_SCREWCRUSHER = "%o was crushed by %k's Screw Crusher.";
+
+//Assists
+OB_TANGOROLL = "%o got Tango'd by %k.";
+OB_TREBLESENTRY = "%o was hounded by %k's Treble Sentry.";
+OB_BEATSUPPORT = "%o was pecked by %k's Beat Support.";
+
+//Pick Up Messages
+PU_MEGABUSTER = "Support Item! Mega Buster...?";
+PU_PROTOBUSTER = "Support Item! Proto Upgrade!";
+PU_BASSBUSTER = "Support Item! Bass Upgrade!";
+PU_SUPERADAPTOR = "Support Item! Super Adaptor Upgrade!";
+PU_ARROWBUSTER = "Support Item! Arrow Buster Upgrade!";
+PU_LASERBUSTER = "Support Item! Laser Buster Upgrade!";
+PU_DUOFIST = "Support Item! Duo Fist Upgrade!";
+PU_TREBLEBOOST = "Support Item! Treble Boost Upgrade!";
+
+PU_ROLLINGCUTTER = "Power up! Rolling Cutter!";
+PU_SUPERARM = "Power up! Super Arm!";
+PU_HYPERBOMB = "Power up! Hyper Bomb!";
+PU_FIRESTORM = "Power up! Fire Storm!";
+PU_ICESLASHER = "Power up! Ice Slasher!";
+PU_THUNDERBEAM = "Power up! Thunder Beam!";
+PU_OILSLIDER = "Power up! Oil Slider!";
+PU_TIMESLOW = "Power up! Time Slow!";
+
+PU_AIRSHOOTER = "Power up! Air Shooter!";
+PU_ATOMICFIRE = "Power up! Atomic Fire!";
+PU_BUBBLELEAD = "Power up! Bubble Lead!";
+PU_CRASHBOMB = "Power up! Crash Bomb!";
+PU_LEAFSHIELD = "Power up! Leaf Shield!";
+PU_METALBLADE = "Power up! Metal Blade!";
+PU_IGMETALBLADE = "Power up! INSTAGIBBING!";
+PU_QUICKBOOMERANG = "Power up! Quick Boomerang!";
+PU_TIMESTOPPER = "Power up! Time Stopper!";
+
+PU_GEMINILASER = "Power up! Gemini Laser!";
+PU_HARDKNUCKLE = "Power up! Hard Knuckle!";
+PU_MAGNETMISSILE = "Power up! Magnet Missile!";
+PU_NEEDLECANNON = "Power up! Needle Cannon!";
+PU_SEARCHSNAKE = "Power up! Search Snake!";
+PU_SHADOWBLADE = "Power up! Shadow Blade!";
+PU_SPARKSHOCK = "Power up! Spark Shock!";
+PU_TOPSPIN = "Power up! Top Spin!";
+
+PU_DIVEMISSILE = "Power up! Dive Missile!";
+PU_DRILLBOMB = "Power up! Drill Bomb!";
+PU_DUSTCRUSHER = "Power up! Dust Crusher!";
+PU_FLASHSTOPPER = "Power up! Flash Stopper!";
+PU_PHARAOHSHOT = "Power up! Pharaoh Shot!";
+PU_RAINFLUSH = "Power up! Rain Flush!";
+PU_RINGBOOMERANG = "Power up! Ring Boomerang!";
+PU_SKULLBARRIER =  "Power up! Skull Barrier!";
+
+PU_CHARGEKICK = "Power up! Charge Kick!";
+PU_CRYSTALEYE = "Power up! Crystal Eye!";
+PU_GRAVITYHOLD = "Power up! Gravity Hold!";
+PU_GYROATTACK = "Power up! Gyro Attack!";
+PU_NAPALMBOMB = "Power up! Napalm Bomb!";
+PU_POWERSTONE = "Power up! Power Stone!";
+PU_STARCRASH = "Power up! Star Crash!";
+PU_WATERWAVE = "Power up! Water Wave!";
+
+PU_BLIZZARDATTACK = "Power up! Blizzard Attack!";
+PU_CENTAURFLASH = "Power up! Centaur Flash!";
+PU_FLAMEBLAST = "Power up! Flame Blast!";
+PU_KNIGHTCRUSH = "Power up! Knight Crush!";
+PU_PLANTBARRIER = "Power up! Plant Barrier!";
+PU_SILVERTOMAHAWK = "Power up! Silver Tomahawk!";
+PU_WINDSTORM = "Power up! Wind Storm!";
+PU_YAMATOSPEAR = "Power up! Yamato Spear!";
+
+PU_FREEZECRACKER = "Power up! Freeze Cracker!";
+PU_DANGERWRAP = "Power up! Danger Wrap!";
+PU_JUNKSHIELD = "Power up! Junk Shield!";
+PU_NOISECRUSH = "Power up! Noise Crush!";
+PU_SCORCHWHEEL = "Power up! Scorch Wheel!";
+PU_THUNDERBOLT = "Power up! Thunder Bolt!";
+PU_WILDCOIL = "Power up! Wild Coil!";
+PU_SLASHCLAW = "Power up! Slash Claw!";
+
+PU_MEGABALL = "Power up! Mega Ball!";
+PU_ASTROCRUSH = "Power up! Astro Crush!";
+PU_FLAMESWORD = "Power up! Flame Sword!";
+PU_FLASHBOMB = "Power up! Flash Bomb!";
+PU_HOMINGSNIPER = "Power up! Homing Sniper!";
+PU_ICEWAVE = "Power up! Ice Wave!";
+PU_THUNDERCLAW = "Power up! Thunder Claw!";
+PU_TORNADOHOLD = "Power up! Tornado Hold!";
+PU_WATERBALLOON = "Power up! Water Balloon!";
+
+PU_TENGUBLADE = "Power up! Tengu Blade!";
+PU_WAVEBURNER = "Power up! Wave Burner!";
+PU_SPREADDRILL = "Power up! Spread Drill!";
+PU_COPYVISION = "Power up! Copy Vision!";
+PU_MAGICCARD = "Power up! Magic Card!";
+PU_REMOTEMINE = "Power up! Remote Mine!";
+PU_ICEWALL = "Power up! Ice Wall!";
+PU_LIGHTNINGBOLT = "Power up! Lightning Bolt!";
+
+PU_BALLADECRACKER = "Power up! Ballade Cracker!";
+PU_MIRRORBUSTER = "Power up! Mirror Buster!";
+PU_SAKUGARNE = "Power up! Sakugarne!";
+PU_SCREWCRUSHER = "Power up! Screw Crusher!";
+
+//Item & Assist Pick Ups
+PU_SMALLHEALTH = "Picked up a health capsule.";
+PU_LARGEHEALTH = "Picked up a large health capsule.";
+PU_SMALLENERGY = "Picked up a small energy capsule.";
+PU_LARGEENERGY = "Picked up a large energy capsule.";
+
+PU_BLUEFLAG = "Picked up the Blue Flag!";
+PU_REDFLAG = "Picked up the Red Flag!";
+PU_ORANGEFLAG = "Picked up the Orange Flag!";
+PU_PURPLEFLAG = "Picked up the Purple Flag!";
+
+PU_ETANK = "Support Item! E-Tank!";
+PU_WTANK = "Support Item! W-Tank!";
+PU_MTANK = "Support Item! M-Tank!";
+
+PU_TANGOROLL = "Support Item! Tango Roll!";
+PU_TREBLESENTRY = "Support Item! Treble Sentry!";
+PU_BEATSUPPORT = "Support Item! Beat Support!";
+
+PU_EDDIECALL = "Support Item! Eddie Call!";
+PU_BEATCALL = "Support Item! Beat Call!";
+PU_RUSHCOIL = "Support Item! Rush Coil!";
+PU_RUSHJET = "Support Item! Rush Jet!";
+PU_RUSHMARINE = "Support Item! Rush Marine!";
+PU_ITEM1 = "Support Item! Item 1!";
+PU_ITEM2 = "Support Item! Item 2!";
+PU_EXITUNIT = "Support Item! Exit Unit!";
+PU_WIREADAPTOR = "Support Item! Wire Adaptor!";
+PU_REGGAECALL = "Support Item! Reggae Call!";
+PU_ENERGYBALANCER = "Support Item! Energy Balancer!";

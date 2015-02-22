@@ -1,0 +1,1687 @@
+texture CURSOX
+    pic CURSOR tics 5
+    pic WIF tics 5
+
+texture FLASHS
+pic FLASHS1 tics 4
+pic FLASHS2 tics 4
+pic FLASHS3 tics 4
+pic FLASHS4 tics 4
+pic FLASHS5 tics 4
+pic FLASHS6 tics 4
+pic FLASHS7 tics 4
+pic FLASHS8 tics 4
+pic FLASHS9 tics 4
+
+texture RUSHOUT
+pic RUSHH2H8 tics 4
+pic TNT1A0 tics 4
+
+texture BEATOUT
+pic BEATB8B2 tics 4
+pic TNT1A0 tics 4
+
+texture QARROW
+pic BLACK tics 4
+pic YELLOW tics 4
+
+texture FBLIND
+pic FBLIND1 tics 2
+pic FBLIND2 tics 2
+pic FBLIND3 tics 2
+
+texture DOZEANI
+pic DOZER1 tics 5
+pic DOZER2 tics 5
+
+texture BARFLS1
+pic BARHLTRN tics 4
+pic BARAMT31 tics 4
+
+texture BARFLS2
+pic BARHEALT tics 1
+pic BARAMM13 tics 1
+
+texture BARFLS3
+pic BARHEALT tics 4
+pic BARAMMO4 tics 4
+
+texture BARFLS4
+pic BARHEALT tics 1
+pic BARAMM20 tics 1
+
+texture BARFLS5
+pic BARHEALT tics 4
+pic BARAMM21 tics 4
+
+texture BARFLS6
+pic BARHEALT tics 4
+pic BARAMM23 tics 4
+
+texture BARFLS7
+pic BARHEALT tics 4
+pic BARAMM28 tics 4
+
+texture BARFLS8
+pic BARHEALT tics 4
+pic BARAMM32 tics 4
+
+texture BARFLS9
+pic BARHEALT tics 4
+pic BARAMM35 tics 4
+
+texture BARFLS10
+pic BARHEALT tics 4
+pic BARAMM37 tics 4
+
+texture VARFLS1
+pic VARHLTRN tics 4
+pic VARAMT31 tics 4
+
+texture VARFLS2
+pic VARHEALT tics 1
+pic VARAMM13 tics 1
+
+texture VARFLS3
+pic VARHEALT tics 4
+pic VARAMMO4 tics 4
+
+texture VARFLS4
+pic VARHEALT tics 1
+pic VARAMM20 tics 1
+
+texture VARFLS5
+pic VARHEALT tics 4
+pic VARAMM21 tics 4
+
+texture VARFLS6
+pic VARHEALT tics 4
+pic VARAMM23 tics 4
+
+texture VARFLS7
+pic VARHEALT tics 4
+pic VARAMM28 tics 4
+
+texture VARFLS8
+pic VARHEALT tics 4
+pic VARAMM32 tics 4
+
+texture VARFLS9
+pic VARHEALT tics 4
+pic VARAMM35 tics 4
+
+texture VARFLS10
+pic VARHEALT tics 4
+pic VARAMM37 tics 4
+
+texture BARFLS11
+pic BARHEALT tics 4
+pic BARAMM44 tics 4
+
+texture VARFLS11
+pic VARHEALT tics 4
+pic VARAMM44 tics 4
+
+texture RUSHMOUT
+pic RUSHO0 tics 4
+pic TNT1A0 tics 4
+
+flat AQWATER
+pic AQWATER1 tics 12
+pic AQWATER2 tics 12
+pic AQWATER3 tics 12
+pic AQWATER4 tics 12
+
+texture AQUAFXX
+    allowdecals
+    pic AQUAFL1 tics 3
+	pic AQUAFL2 tics 3
+	pic AQUAFL3 tics 3
+
+texture ASTBGX
+    allowdecals
+    pic ASTBG1 tics 6
+	pic ASTBG2 tics 6
+	pic ASTBG3 tics 6
+	pic ASTBG4 tics 6
+
+texture ASTLDRX
+    allowdecals
+    pic ASTLDR1 tics 6
+	pic ASTLDR2 tics 6
+	pic ASTLDR3 tics 6
+	pic ASTLDR4 tics 6
+	pic ASTLDR5 tics 6
+    pic ASTLDR4 tics 6
+    pic ASTLDR3 tics 6
+	pic ASTLDR2 tics 6
+
+texture ASTSNDX
+    allowdecals
+    pic ASTSND1 tics 6
+	pic ASTSND2 tics 6
+	pic ASTSND3 tics 6
+
+texture ASBGSTEX
+    allowdecals
+    pic ASBGSTE1 tics 4
+	pic ASBGSTE2 tics 4
+	pic ASBGSTE3 tics 4
+	pic ASBGSTE4 tics 4
+	pic ASBGSTE3 tics 4
+	pic ASBGSTE2 tics 4
+
+texture ASBOSTEX
+    allowdecals
+    pic ASBOSTE1 tics 4
+	pic ASBOSTE2 tics 4
+	pic ASBOSTE3 tics 4
+	pic ASBOSTE4 tics 4
+	pic ASBOSTE3 tics 4
+	pic ASBOSTE2 tics 4
+
+texture BRIWALX1
+    allowdecals
+    pic BRIWAL1 tics 4
+	pic BRIWAL2 tics 4
+	pic BRIWAL3 tics 4
+	pic BRIWAL4 tics 4
+	pic BRIWAL5 tics 4
+	pic BRIWAL6 tics 4
+	pic BRIWAL5 tics 4
+	pic BRIWAL4 tics 4
+	pic BRIWAL3 tics 4
+	pic BRIWAL2 tics 4
+
+texture BRIWALX2
+    allowdecals
+    pic BRIWAL7 tics 4
+	pic BRIWAL8 tics 4
+	pic BRIWAL9 tics 4
+	pic BRIWAL10 tics 4
+	pic BRIWAL11 tics 4
+	pic BRIWAL10 tics 4
+	pic BRIWAL9 tics 4
+	pic BRIWAL8 tics 4
+
+texture BRIPINX1
+    allowdecals
+    pic BRIPIN1 tics 4
+	pic BRIPIN2 tics 4
+
+texture BRIPINX2
+    allowdecals
+    pic BRIPIN5 tics 4
+	pic BRIPIN6 tics 4
+
+texture BRIBG1X
+    allowdecals
+    pic BRIBG1 tics 8
+	pic BRIBG2 tics 8
+	pic BRIBG3 tics 8
+	pic BRIBG2 tics 8
+
+texture BRIBG2X
+    allowdecals
+    pic BRIBG4 tics 8
+	pic BRIBG5 tics 8
+	pic BRIBG6 tics 8
+	pic BRIBG5 tics 8
+
+texture BUBBFALX
+    allowdecals
+    pic BUBBFAL1 tics 3
+	pic BUBBFAL2 tics 3
+	pic BUBBFAL3 tics 3
+
+texture BUBBFA2X
+    allowdecals
+    pic BUBBFA21 tics 3
+	pic BUBBFA22 tics 3
+	pic BUBBFA23 tics 3
+
+flat BSTWAT
+	pic BSTWAT1 tics 12
+	pic BSTWAT2 tics 12
+	pic BSTWAT3 tics 12
+	pic BSTWAT4 tics 12
+
+flat BWATER
+    allowdecals
+    pic BURWATR1 tics 12
+	pic BURWATR2 tics 12
+	pic BURWATR3 tics 12
+	pic BURWATR4 tics 12
+
+texture CENTFAL
+    allowdecals
+    pic CENTFAL1 tics 4
+	pic CENTFAL2 tics 4
+	pic CENTFAL3 tics 4
+
+texture CENTWAT
+    allowdecals
+    pic CENTWAT1 tics 12
+	pic CENTWAT2 tics 12
+	pic CENTWAT3 tics 12
+	pic CENTWAT4 tics 12
+
+texture CWATER
+    allowdecals
+    pic CWATER1 tics 12
+	pic CWATER2 tics 12
+	pic CWATER3 tics 12
+	pic CWATER4 tics 12
+
+texture CLOUFAN
+    allowdecals
+    pic CLOUFAN1 tics 4
+	pic CLOUFAN2 tics 4
+	pic CLOUFAN3 tics 4
+
+texture CLORFAN
+    allowdecals
+    pic CLORFAN1 tics 4
+	pic CLORFAN2 tics 4
+	pic CLORFAN3 tics 4
+
+texture COLDLIT1
+	allowdecals
+	pic COLDLI1A tics 35
+	pic COLDLI1B tics 35
+	pic COLDLI1C tics 35
+
+texture COLWATER
+    allowdecals
+    pic COLWATR1 tics 12
+	pic COLWATR2 tics 12
+	pic COLWATR3 tics 12
+	pic COLWATR4 tics 12
+
+texture CRYSSTV
+    allowdecals
+    pic CRYSSTV5 tics 5
+	pic CRYSSTV6 tics 5
+	pic CRYSSTV7 tics 5
+
+texture CRYSSTP
+    allowdecals
+    pic CRYSSTP5 tics 5
+	pic CRYSSTP6 tics 5
+	pic CRYSSTP7 tics 5
+
+texture CRYSTUB
+    allowdecals
+    pic CRYSTUB1 tics 5
+	pic CRYSTUB2 tics 5
+	pic CRYSTUB3 tics 5
+
+texture CRYSBLK
+    allowdecals
+    pic CRYSBLK1 tics 5
+	pic CRYSBLK2 tics 5
+	pic CRYSBLK3 tics 5
+	pic CRYSBLK4 tics 5
+
+texture CRYSLON
+    allowdecals
+    pic CRYSLON1 tics 5
+	pic CRYSLON2 tics 5
+	pic CRYSLON3 tics 5
+	pic CRYSLON4 tics 5
+
+texture CRYSBI1
+    allowdecals
+    pic CRYSBIT1 tics 5
+	pic CRYSBIT2 tics 5
+	pic CRYSBIT3 tics 5
+	pic CRYSBIT4 tics 5
+
+texture CRYSBI2
+    allowdecals
+    pic CRYSBIT5 tics 5
+	pic CRYSBIT6 tics 5
+	pic CRYSBIT7 tics 5
+	pic CRYSBIT8 tics 5
+
+texture CRYSCRY
+    allowdecals
+    pic CRYSCRY1 tics 5
+	pic CRYSCRY2 tics 5
+
+texture CRYSRSTV
+    allowdecals
+    pic CRYRSTV5 tics 5
+	pic CRYRSTV6 tics 5
+	pic CRYRSTV7 tics 5
+
+texture CRYSRSTP
+    allowdecals
+    pic CRYRSTP5 tics 5
+	pic CRYRSTP6 tics 5
+	pic CRYRSTP7 tics 5
+
+texture CRYSRLON
+    allowdecals
+    pic CRYRLON1 tics 5
+	pic CRYRLON2 tics 5
+	pic CRYRLON3 tics 5
+	pic CRYRLON4 tics 5
+
+texture CRYSRBI1
+    allowdecals
+    pic CRYRBIT1 tics 5
+	pic CRYRBIT2 tics 5
+	pic CRYRBIT3 tics 5
+	pic CRYRBIT4 tics 5
+
+texture CRYSRBI2
+    allowdecals
+    pic CRYRBIT5 tics 5
+	pic CRYRBIT6 tics 5
+	pic CRYRBIT7 tics 5
+	pic CRYRBIT8 tics 5
+
+texture CRYSRCRY
+    allowdecals
+    pic CRYRCRY1 tics 5
+	pic CRYRCRY2 tics 5
+
+texture CRYSRBLK
+    allowdecals
+    pic CRYRBLK1 tics 5
+	pic CRYRBLK2 tics 5
+	pic CRYRBLK3 tics 5
+	pic CRYRBLK4 tics 5
+
+texture CRYLDR
+    allowdecals
+    pic CRYLDR1 tics 5
+	pic CRYLDR2 tics 5
+	pic CRYLDR3 tics 5
+	pic CRYLDR4 tics 5
+
+texture CRYRLDR
+    allowdecals
+    pic CRYRLDR1 tics 5
+	pic CRYRLDR2 tics 5
+	pic CRYRLDR3 tics 5
+	pic CRYRLDR4 tics 5
+
+texture DIVEPX4
+    allowdecals
+    pic DIVEPI4 tics 6
+	pic DIVEPI5 tics 6
+
+texture DIVEGX2
+    allowdecals
+    pic DIVEGR2 tics 6
+	pic DIVEGR3 tics 6
+
+
+texture DIVEGX5
+    allowdecals
+    pic DIVEGR5 tics 6
+	pic DIVEGR6 tics 6
+
+texture DIVEPX19
+    allowdecals
+    pic DIVEPI19 tics 6
+	pic DIVEPI20 tics 6
+
+texture DIVEPX21
+    allowdecals
+    pic DIVEPI21 tics 6
+	pic DIVEPI22 tics 6
+
+texture DWATER
+    allowdecals
+    pic DWATER1 tics 6
+	pic DWATER2 tics 6
+	pic DWATER3 tics 6
+	pic DWATER4 tics 6
+
+texture DUSTSAWX
+    allowdecals
+    pic DUSTSAW1 tics 4
+	pic DUSTSAW2 tics 4
+
+texture DUSTBRNX
+    allowdecals
+    pic DUSTBRN1 tics 6
+	pic DUSTBRN2 tics 6
+	pic DUSTBRN3 tics 6
+	pic DUSTBRN4 tics 6
+
+texture DYNWAL1
+	pic DYNWAL1A tics 4
+	pic DYNWAL1B tics 4
+
+texture DYNSIDM1
+	pic DYNSDM1A tics 4
+	pic DYNSDM1B tics 4
+
+texture DYNBEL1A
+	pic DYNBLT1A tics 4
+	pic DYNBLT1B tics 4
+	pic DYNBLT1C tics 4
+	pic DYNBLT1D tics 4
+
+texture DYNBEL2A
+	pic DYNBLT2A tics 4
+	pic DYNBLT2B tics 4
+	pic DYNBLT2C tics 4
+	pic DYNBLT2D tics 4
+
+texture DYNBEL3A
+	pic DYNBLT3A tics 4
+	pic DYNBLT3B tics 4
+	pic DYNBLT3C tics 4
+	pic DYNBLT3D tics 4
+
+texture DYNBEL4A
+	pic DYNBLT4A tics 4
+	pic DYNBLT4B tics 4
+	pic DYNBLT4C tics 4
+	pic DYNBLT4D tics 4
+
+texture DYNBEL5A
+	pic DYNBLT5A tics 4
+	pic DYNBLT5B tics 4
+	pic DYNBLT5C tics 4
+	pic DYNBLT5D tics 4
+
+texture DYNBEL1B
+	pic DYNBLT1A tics 3
+	pic DYNBLT1B tics 3
+	pic DYNBLT1C tics 3
+	pic DYNBLT1D tics 3
+
+texture DYNBEL2B
+	pic DYNBLT2A tics 3
+	pic DYNBLT2B tics 3
+	pic DYNBLT2C tics 3
+	pic DYNBLT2D tics 3
+
+texture DYNBEL3B
+	pic DYNBLT3A tics 3
+	pic DYNBLT3B tics 3
+	pic DYNBLT3C tics 3
+	pic DYNBLT3D tics 3
+
+texture DYNBEL4B
+	pic DYNBLT4A tics 3
+	pic DYNBLT4B tics 3
+	pic DYNBLT4C tics 3
+	pic DYNBLT4D tics 3
+
+texture DYNBEL5B
+	pic DYNBLT5A tics 3
+	pic DYNBLT5B tics 3
+	pic DYNBLT5C tics 3
+	pic DYNBLT5D tics 3
+
+texture DYNBEL1C
+	pic DYNBLT1A tics 2
+	pic DYNBLT1B tics 2
+	pic DYNBLT1C tics 2
+	pic DYNBLT1D tics 2
+
+texture DYNBEL2C
+	pic DYNBLT2A tics 2
+	pic DYNBLT2B tics 2
+	pic DYNBLT2C tics 2
+	pic DYNBLT2D tics 2
+
+texture DYNBEL3C
+	pic DYNBLT3A tics 2
+	pic DYNBLT3B tics 2
+	pic DYNBLT3C tics 2
+	pic DYNBLT3D tics 2
+
+texture DYNBEL4C
+	pic DYNBLT4A tics 2
+	pic DYNBLT4B tics 2
+	pic DYNBLT4C tics 2
+	pic DYNBLT4D tics 2
+
+texture DYNBEL5C
+	pic DYNBLT5A tics 2
+	pic DYNBLT5B tics 2
+	pic DYNBLT5C tics 2
+	pic DYNBLT5D tics 2
+
+texture DYNBEL1D
+	pic DYNBLT1A tics 1
+	pic DYNBLT1B tics 1
+	pic DYNBLT1C tics 1
+	pic DYNBLT1D tics 1
+
+texture DYNBEL2D
+	pic DYNBLT2A tics 1
+	pic DYNBLT2B tics 1
+	pic DYNBLT2C tics 1
+	pic DYNBLT2D tics 1
+
+texture DYNBEL3D
+	pic DYNBLT3A tics 1
+	pic DYNBLT3B tics 1
+	pic DYNBLT3C tics 1
+	pic DYNBLT3D tics 1
+
+texture DYNBEL4D
+	pic DYNBLT4A tics 1
+	pic DYNBLT4B tics 1
+	pic DYNBLT4C tics 1
+	pic DYNBLT4D tics 1
+
+texture DYNBEL5D
+	pic DYNBLT5A tics 1
+	pic DYNBLT5B tics 1
+	pic DYNBLT5C tics 1
+	pic DYNBLT5D tics 1
+
+texture DYNBELT6
+	pic DYNBLT6A tics 4
+	pic DYNBLT6B tics 4
+
+texture DYNELEX
+	pic DYNELE1 tics 2
+	pic DYNELE2 tics 2
+	pic DYNELE3 tics 2
+
+texture ELECZ1
+    allowdecals
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN1 tics 1
+	pic ELECAN2 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+    pic ELECAN3 tics 1
+	pic ELECAN4 tics 1
+
+texture ELECZZ
+	pic ELECTR3 tics 2
+	pic ELECTR4 tics 2
+
+flat FIRELAV
+    pic FIRE19 tics 6
+	pic FIRE20 tics 6
+
+texture FLASHBZ
+    allowdecals
+    pic FLASHB1X tics 14
+	pic FLASHB1 tics 14
+
+texture FLASHB2Z
+    allowdecals
+    pic FLASHB2X tics 14
+	pic FLASHB2 tics 14
+
+texture FLASHB3Z
+    allowdecals
+    pic FLASHB3X tics 14
+	pic FLASHB3 tics 14
+
+texture FLASHB4Z
+    allowdecals
+    pic FLASHB4X tics 14
+	pic FLASHB4 tics 14
+
+texture FLASHB5Z
+    allowdecals
+    pic FLASHB5X tics 14
+	pic FLASHB5 tics 14
+
+texture FLASHB6Z
+    allowdecals
+    pic FLASHB6X tics 14
+	pic FLASHB6 tics 14
+
+texture FLASHFLZ
+    allowdecals
+    pic FLASHFL1 tics 14
+	pic FLASHFL2 tics 14
+
+texture FLASHLZ
+    allowdecals
+    pic FLASHL1 tics 14
+	pic FLASHL2 tics 14
+
+texture GWATER
+    allowdecals
+    pic GWATER1 tics 12
+	pic GWATER2 tics 12
+	pic GWATER3 tics 12
+	pic GWATER4 tics 12
+
+texture GEMCEL1X
+    allowdecals
+    pic GEMCEL1 tics 12
+	pic GEMCEL2 tics 12
+	pic GEMCEL3 tics 12
+
+texture GEMCEL4X
+    allowdecals
+    pic GEMCEL4 tics 12
+	pic GEMCEL5 tics 12
+	pic GEMCEL6 tics 12
+
+texture GEMWEB1X
+    allowdecals
+    pic GEMWEB1 tics 12
+	pic GEMWEB2 tics 12
+	pic GEMWEB3 tics 12
+
+texture GEMWBG1X
+    allowdecals
+    pic GEMWBG1 tics 12
+	pic GEMWBG2 tics 12
+	pic GEMWBG3 tics 12
+
+texture ARROWU
+    allowdecals
+    pic GRAVARU1 tics 3
+	pic GRAVARU2 tics 3
+	pic GRAVARU3 tics 3
+	pic GRAVARU4 tics 3
+	pic GRAVARU5 tics 3
+	pic GRAVARU4 tics 3
+	pic GRAVARU3 tics 3
+	pic GRAVARU2 tics 3
+
+texture ARROWD
+    allowdecals
+    pic GRAVARD1 tics 3
+	pic GRAVARD2 tics 3
+	pic GRAVARD3 tics 3
+	pic GRAVARD4 tics 3
+	pic GRAVARD5 tics 3
+	pic GRAVARD4 tics 3
+	pic GRAVARD3 tics 3
+	pic GRAVARD2 tics 3
+
+texture GRAVGEN
+    allowdecals
+    pic GRAVGEN1 tics 3
+	pic GRAVGEN2 tics 3
+	pic GRAVGEN3 tics 3
+	pic GRAVGEN4 tics 3
+	pic GRAVGEN5 tics 3
+	pic GRAVGEN4 tics 3
+	pic GRAVGEN3 tics 3
+	pic GRAVGEN2 tics 3
+
+texture GRAVMAG
+    allowdecals
+    pic GRAVMAG1 tics 3
+	pic GRAVMAG2 tics 3
+	pic GRAVMAG3 tics 3
+	pic GRAVMAG4 tics 3
+	pic GRAVMAG3 tics 3
+	pic GRAVMAG2 tics 3
+
+texture GRENLIG1
+pic GRENLI1D tics 3
+pic GRENLI1A tics 3
+pic GRENLI1B tics 3
+pic GRENLI1C tics 3
+pic GRENLI1B tics 3
+pic GRENLI1A tics 3
+
+texture GRENLIG2
+pic GRENLI2A tics 3
+pic GRENLI2B tics 3
+pic GRENLI2C tics 3
+pic GRENLI2D tics 3
+pic GRENLI2C tics 3
+pic GRENLI2B tics 3
+
+texture GRENELE
+pic GRENELEA tics 2
+pic GRENELEB tics 2
+pic GRENELEC tics 2
+pic GRENELED tics 2
+
+texture GRENLIG3
+pic GRENLI3A tics 4
+pic GRENLI3B tics 4
+
+texture GRENLIG4
+pic GRENLI4A tics 4
+pic GRENLI4B tics 4
+
+texture GRENMACH range GRENMAC3 tics 4
+
+texture GROSNDLX
+    allowdecals
+    pic GROSNDL4 tics 4
+	pic GROSNDL3 tics 4
+	pic GROSNDL2 tics 4
+	pic GROSNDL1 tics 4
+
+texture GROSNDDX
+    allowdecals
+    pic GROSNDD4 tics 4
+	pic GROSNDD3 tics 4
+	pic GROSNDD2 tics 4
+	pic GROSNDD1 tics 4
+
+texture GROSANDX
+    allowdecals
+    pic GROSAND1 tics 4
+	pic GROSAND2 tics 4
+	pic GROSAND3 tics 4
+
+texture GYROFAX1
+    allowdecals
+    pic GYROFAN1 tics 4
+	pic GYROFAN2 tics 4
+	pic GYROFAN3 tics 4
+
+texture GYROFAX2
+    allowdecals
+    pic GYROFAN5 tics 4
+	pic GYROFAN6 tics 4
+	pic GYROFAN7 tics 4
+
+texture HFALL
+    allowdecals
+    pic HEAT11A tics 3
+	pic HEAT12A tics 3
+	pic HEAT13A tics 3
+
+texture HTUBE
+    allowdecals
+    pic HEAT8A tics 3
+	pic HEAT9A tics 3
+	pic HEAT10A tics 3
+
+texture HTUBE2
+    allowdecals
+    pic HEAT8B tics 3
+	pic HEAT9B tics 3
+	pic HEAT10B tics 3
+
+texture HSHCNVLX
+	pic HSHCONV1 tics 4
+	pic HSHCONV2 tics 4
+	pic HSHCONV3 tics 4
+	pic HSHCONV4 tics 4
+
+texture HSHCNVRX
+	pic HSHCONV1 tics 4
+	pic HSHCONV4 tics 4
+	pic HSHCONV3 tics 4
+	pic HSHCONV2 tics 4
+
+texture HSHCNVXX
+	pic HSHCONV5 tics 4
+	pic HSHCONV6 tics 4
+
+texture HSHCNVFL
+	pic HSHCONV7 tics 4
+	pic HSHCONV8 tics 4
+
+flat IWATER
+pic IWATER1 tics 12
+pic IWATER2 tics 12
+pic IWATER3 tics 12
+pic IWATER4 tics 12
+
+texture JNKLAV
+    allowdecals
+    pic JNKLAV1 tics 12
+	pic JNKLAV2 tics 12
+	pic JNKLAV3 tics 12
+
+texture JLAVA
+    allowdecals
+    pic JLAVA1 tics 12
+	pic JLAVA2 tics 12
+	pic JLAVA3 tics 12
+	pic JLAVA4 tics 12
+
+texture MAGISKY1
+    allowdecals
+    pic MAGISK1X tics 5
+	pic MAGISK1Y tics 5
+
+texture MAGISKY2
+    allowdecals
+    pic MAGISK2X tics 5
+	pic MAGISK2Y tics 5
+
+texture MWATER
+    allowdecals
+    pic MWATER1 tics 12
+	pic MWATER2 tics 12
+	pic MWATER3 tics 12
+	pic MWATER4 tics 12
+
+texture MWSSKYSX
+    allowdecals
+    pic MWSSKYS1 tics 4
+	pic MWSSKYS2 tics 4
+	pic MWSSKYS3 tics 4
+
+texture METAABG1
+    allowdecals
+    pic METALBG1 tics 4
+    pic METALBG2 tics 4
+
+texture METAABG2
+    allowdecals
+    pic METALBG2 tics 4
+    pic METALBG1 tics 4
+
+texture METAABG3
+    allowdecals
+    pic METALBG3 tics 4
+    pic METALBG4 tics 4
+
+texture METAABG5
+    allowdecals
+    pic METALBG5 tics 4
+    pic METALBG6 tics 4
+
+texture METAABG7
+    allowdecals
+    pic METALBG7 tics 4
+    pic METALBG8 tics 4
+
+texture METAABG9
+    allowdecals
+    pic METALBG9 tics 4
+    pic METALBG0 tics 4
+
+texture METAAC1
+    allowdecals
+    pic METALC1 tics 4
+    pic METALC2 tics 4
+
+texture METAAC2
+    allowdecals
+    pic METALC1 tics 4
+    pic METALC3 tics 4
+
+texture METAAC3
+    allowdecals
+    pic METALC4 tics 4
+    pic METALC5 tics 4
+
+texture METAAC4
+    allowdecals
+    pic METALC7 tics 4
+    pic METALC8 tics 4
+
+texture NAPFAL
+    allowdecals
+    pic NAPFAL3 tics 4
+	pic NAPFAL2 tics 4
+	pic NAPFAL1 tics 4
+
+texture NAPLIT
+    allowdecals
+    pic NAPLIT1 tics 4
+	pic NAPLIT2 tics 4
+	pic NAPLIT3 tics 4
+
+texture NAPTREE2
+    allowdecals
+    pic NAPTRE2A tics 12
+	pic NAPTRE2B tics 12
+
+texture NAPGRAS
+    allowdecals
+    pic NAPGRAS1 tics 12
+	pic NAPGRAS2 tics 12
+
+texture OILSKYX
+    allowdecals
+    pic OILSKY1 tics 6
+	pic OILSKY2 tics 6
+	pic OILSKY3 tics 6
+
+texture PTORCH
+    allowdecals
+    pic PHATWL1 tics 4
+	pic PHATWL2 tics 4
+
+texture PSANDY
+    allowdecals
+    pic PHASND1 tics 4
+	pic PHASND2 tics 4
+	pic PHASND3 tics 4
+
+
+texture PHAFLR1
+    allowdecals
+    pic PHAFLR3 tics 4
+	pic PHAFLR4 tics 4
+	pic PHAFLR5 tics 4
+
+texture PIRWATX
+	pic PIRWAT1 tics 12
+	pic PIRWAT2 tics 12
+	pic PIRWAT3 tics 12
+	pic PIRWAT4 tics 12
+
+texture PIRSHORX
+	pic PIRSHOR1 tics 12
+	pic PIRSHOR2 tics 12
+	pic PIRSHOR3 tics 12
+	pic PIRSHOR4 tics 12
+
+flat PWATER
+pic PWATER1 tics 12
+pic PWATER2 tics 12
+pic PWATER3 tics 12
+pic PWATER4 tics 12
+
+texture SEAPLATX
+	allowdecals
+	pic SEAPLAT1 tics 4
+	pic SEAPLAT3 tics 4
+	pic SEAPLAT2 tics 4
+	pic SEAPLAT3 tics 4
+
+texture SEAROCX
+	allowdecals
+	pic SEAROC2M tics 4
+	pic SEAROC2A tics 4
+	pic SEAROC2B tics 4
+	pic SEAROC2A tics 4
+
+texture SEAPUR1X
+	allowdecals
+	pic SEAPUR1A tics 4
+	pic SEAPUR1B tics 4
+	pic SEAPUR1C tics 4
+
+texture SEAPUR3X
+	allowdecals
+	pic SEAPUR3A tics 4
+	pic SEAPUR3B tics 4
+	pic SEAPUR3C tics 4
+	pic SEAPUR3D tics 4
+
+texture SHATANX2
+    allowdecals
+    pic SHATANK2 tics 4
+	pic SHATANK3 tics 4
+	pic SHATANK4 tics 4
+
+texture SHAFALX1
+    allowdecals
+    pic SHAFALL1 tics 4
+	pic SHAFALL2 tics 4
+	pic SHAFALL3 tics 4
+
+texture SHAWATX1
+    allowdecals
+    pic SHAWATR1 tics 4
+	pic SHAWATR2 tics 4
+	pic SHAWATR3 tics 4
+
+texture SHAWATX2
+    allowdecals
+    pic SHAWATR4 tics 4
+	pic SHAWATR5 tics 4
+	pic SHAWATR6 tics 4
+
+texture SHAWATX3
+    allowdecals
+    pic SHAWATR7 tics 4
+	pic SHAWATR8 tics 4
+	pic SHAWATR9 tics 4
+
+texture SHAPIPEX
+    allowdecals
+    pic SHAPIPE1 tics 4
+	pic SHAPIPE2 tics 4
+	pic SHAPIPE3 tics 4
+
+texture SHALAVAX
+    allowdecals
+    pic SHALAV1 tics 4
+	pic SHALAV2 tics 4
+	pic SHALAV3 tics 4
+
+texture SLAWATR
+    allowdecals
+    pic SLAWATR1 tics 4
+	pic SLAWATR2 tics 4
+	pic SLAWATR3 tics 4
+
+texture SLAWATL
+    allowdecals
+    pic SLAWATL1 tics 4
+	pic SLAWATL2 tics 4
+	pic SLAWATL3 tics 4
+
+texture SLAWATO
+    allowdecals
+    pic SLAWATO1 tics 4
+	pic SLAWATO2 tics 4
+	pic SLAWATO3 tics 4
+
+texture SPAMET1X
+    allowdecals
+    pic SPAMET1 tics 4
+	pic SPAMET2 tics 4
+
+texture SPAMET3X
+    allowdecals
+    pic SPAMET3 tics 4
+	pic SPAMET4 tics 4
+
+texture SPAMET5X
+    allowdecals
+    pic SPAMET5 tics 4
+	pic SPAMET6 tics 4
+
+
+texture SPASIGX1
+    allowdecals
+    pic SPASIGN1 tics 4
+	pic SPASIGN2 tics 4
+
+texture SPASIGX3
+    allowdecals
+    pic SPASIGN3 tics 4
+	pic SPASIGN4 tics 4
+
+texture SPASIGX5
+    allowdecals
+    pic SPASIGN5 tics 4
+	pic SPASIGN6 tics 4
+
+texture SPAMAC1X
+    allowdecals
+    pic SPAMAC1 tics 4
+	pic SPAMAC2 tics 4
+
+texture SPAFL1X
+    allowdecals
+    pic SPAFL1 tics 4
+	pic SPAFL2 tics 4
+
+texture SPAFL3X
+    allowdecals
+    pic SPAFL3 tics 4
+	pic SPAFL4 tics 4
+
+texture SPAFL5X
+    allowdecals
+    pic SPAFL5 tics 4
+	pic SPAFL6 tics 4
+
+texture SPAFL7X
+    allowdecals
+    pic SPAFL7 tics 4
+	pic SPAFL8 tics 4
+
+texture SPAFL9X
+    allowdecals
+    pic SPAFL9 tics 4
+	pic SPAFL10 tics 4
+
+texture SPAFL11X
+    allowdecals
+    pic SPAFL11 tics 4
+	pic SPAFL12 tics 4
+
+texture SPAFL18X
+    allowdecals
+    pic SPAFL18 tics 4
+	pic SPAFL19 tics 4
+
+texture SPAFL16X
+    allowdecals
+    pic SPAFL16 tics 4
+	pic SPAFL17 tics 4
+
+texture SPRINGA1
+    allowdecals
+    pic SPRPURP4 tics 4
+	pic SPRPURP4 tics 4
+	pic SPRPURP4 tics 4
+	pic SPRPURP4 tics 4
+	pic SPRPURP4 tics 4
+	pic SPRPURP5 tics 4
+	pic SPRPURP6 tics 4
+	pic SPRPURP7 tics 4
+	pic SPRPURP8 tics 4
+
+texture SPRINGA2
+    allowdecals
+    pic SPRSCRN1 tics 4
+	pic SPRSCRN2 tics 4
+	pic SPRSCRN1 tics 4
+	pic SPRSCRN3 tics 4
+
+texture SPRBOXX
+    allowdecals
+    pic SPRBOX4 tics 4
+	pic SPRBOX5 tics 4
+	pic SPRBOX3 tics 4
+
+texture SWORLAVX
+    allowdecals
+    pic SWORLAV1 tics 3
+	pic SWORLAV2 tics 3
+	pic SWORLAV3 tics 3
+
+texture SWORLAVY
+    allowdecals
+    pic SWORLAV4 tics 3
+	pic SWORLAV5 tics 3
+	pic SWORLAV6 tics 3
+
+texture TENCLOUF
+    allowdecals
+    pic TENCLOF1 tics 4
+	pic TENCLOF2 tics 4
+	pic TENCLOF3 tics 4
+	pic TENCLOF2 tics 4
+
+texture TENBCLOU
+    allowdecals
+    pic TENBCLO1 tics 4
+	pic TENBCLO2 tics 4
+	pic TENBCLO3 tics 4
+	pic TENBCLO2 tics 4
+
+texture TENDCLOU
+    allowdecals
+    pic TENDCLO1 tics 4
+	pic TENDCLO2 tics 4
+	pic TENDCLO3 tics 4
+	pic TENDCLO2 tics 4
+
+texture TIMBELL
+	pic TIMBEL1 tics 3
+	pic TIMBEL2 tics 3
+	pic TIMBEL3 tics 3
+
+texture TIMBELR
+	pic TIMBEL5 tics 3
+	pic TIMBEL6 tics 3
+	pic TIMBEL7 tics 3
+
+texture TIMBELX
+	pic TIMBEL1 tics 3
+	pic TIMBEL2 tics 3
+	pic TIMBEL3 tics 3
+
+texture TIMBELY
+	pic TIMBEL5 tics 3
+	pic TIMBEL6 tics 3
+	pic TIMBEL7 tics 3
+
+texture TIMCONV
+	pic TIMCNV1 tics 3
+	pic TIMCNV2 tics 3
+	pic TIMCNV3 tics 3
+	pic TIMCNV4 tics 3
+
+texture TIMCONV2
+	pic TIMCNV5 tics 1
+	pic TIMCNV6 tics 1
+	pic TIMCNV7 tics 1
+	pic TIMCNV8 tics 1
+
+texture TIMDISN
+	pic TIMDIS1 tics 3
+	pic TIMDIS2 tics 3
+	pic TIMDIS3 tics 3
+
+texture TIMDISR
+	pic TIMDIS4 tics 3
+	pic TIMDIS5 tics 3
+	pic TIMDIS6 tics 3
+
+texture TIMDISH
+	pic TIMDIS7 tics 3
+	pic TIMDIS8 tics 3
+	pic TIMDIS9 tics 3
+
+texture TIMGEAR
+	pic TIMGEAR1 tics 10
+	pic TIMGEAR2 tics 10
+	pic TIMGEAR3 tics 10
+	pic TIMGEAR4 tics 10
+
+texture TOADRAX
+    allowdecals
+    pic TOADRA1 tics 3
+	pic TOADRA2 tics 3
+	pic TOADRA3 tics 3
+
+texture TOADFLX
+    allowdecals
+    pic TOADFL1 tics 3
+	pic TOADFL2 tics 3
+	pic TOADFL3 tics 3
+
+texture TOADFL2X
+    allowdecals
+    pic TOADFL21 tics 3
+	pic TOADFL22 tics 3
+	pic TOADFL23 tics 3
+
+texture TOADFXX
+    allowdecals
+    pic TOADFLW1 tics 3
+	pic TOADFLW2 tics 3
+	pic TOADFLW3 tics 3
+
+texture TOMAGRN
+    allowdecals
+    pic TOMAGRN1 tics 4
+	pic TOMAGRN2 tics 4
+	pic TOMAGRN3 tics 4
+	pic TOMAGRN4 tics 4
+	pic TOMAGRN3 tics 4
+	pic TOMAGRN2 tics 4
+
+texture TOMASUN
+    allowdecals
+    pic TOMASUN1 tics 3
+	pic TOMASUN2 tics 3
+
+texture TOPLIT
+    allowdecals
+    pic TOPLIT1 tics 6
+	pic TOPLIT2 tics 6
+	pic TOPLIT3 tics 6
+	pic TOPLIT4 tics 6
+
+texture TURBSIT
+    allowdecals
+    pic TURBSIT1 tics 42
+	pic TURBSIT2 tics 4
+	pic TURBSIT3 tics 4
+	pic TURBSIT2 tics 4
+	pic TURBSIT1 tics 8
+	pic TURBSIT2 tics 4
+	pic TURBSIT3 tics 4
+	pic TURBSIT2 tics 4
+
+texture TURBSIE
+    allowdecals
+    pic TURBSIE1 tics 42
+	pic TURBSIE2 tics 4
+	pic TURBSIE3 tics 4
+	pic TURBSIE2 tics 4
+
+texture TURBLIT
+    allowdecals
+    pic TURBLIT1 tics 12
+	pic TURBLIT2 tics 12
+	pic TURBLIT3 tics 12
+	pic TURBLIT4 tics 12
+
+texture WAVWAT
+    allowdecals
+    pic WAVWAT1 tics 4
+	pic WAVWAT2 tics 4
+	pic WAVWAT3 tics 4
+
+texture WA2FALL
+    allowdecals
+    pic WA2FAL1 tics 4
+	pic WA2FAL2 tics 4
+	pic WA2FAL3 tics 4
+
+texture WA2TFAL
+    allowdecals
+    pic WA2TFAL1 tics 4
+	pic WA2TFAL2 tics 4
+	pic WA2TFAL3 tics 4
+
+texture WA2MET1
+    allowdecals
+    pic WA2MET1X tics 4
+	pic WA2MET1Y tics 4
+
+texture WA2MET2
+    allowdecals
+    pic WA2MET2X tics 4
+	pic WA2MET2Y tics 4
+
+texture WINDFANX
+    allowdecals
+    pic WINDFAN1 tics 4
+	pic WINDFAN2 tics 4
+	pic WINDFAN3 tics 4
+	pic WINDFAN4 tics 4
+
+texture WINDFANY
+    allowdecals
+    pic WINDFAN5 tics 4
+	pic WINDFAN6 tics 4
+	pic WINDFAN7 tics 4
+	pic WINDFAN8 tics 4
+
+texture WINDFATX
+    allowdecals
+    pic WINDFAT4 tics 4
+	pic WINDFAT3 tics 4
+	pic WINDFAT2 tics 4
+	pic WINDFAT1 tics 4
+
+texture WINDFATY
+    allowdecals
+    pic WINDFAT8 tics 4
+	pic WINDFAT7 tics 4
+	pic WINDFAT6 tics 4
+	pic WINDFAT5 tics 4
+
+texture WOODFAL
+    allowdecals
+    pic WOODFA1 tics 3
+	pic WOODFA2 tics 3
+	pic WOODFA3 tics 3
+
+texture YTOROLL1
+	allowdecals
+	pic YTOROLL1 tics 4
+	pic YTOROLL2 tics 4
+	pic YTOROLL3 tics 4
+
+texture YTOROLL3
+	allowdecals
+	pic YTOROLL3 tics 4
+	pic YTOROLL2 tics 4
+	pic YTOROLL1 tics 4
+
+texture YTOCOV1
+	allowdecals
+	pic YTOCOV1 tics 4
+	pic YTOCOV2 tics 4
+	pic YTOCOV3 tics 4
+
+texture YTOCOV3
+	allowdecals
+	pic YTOCOV3 tics 4
+	pic YTOCOV2 tics 4
+	pic YTOCOV1 tics 4
+
+texture YTOCEGE1
+	allowdecals
+	pic YTOCEGE1 tics 4
+	pic YTOCEGE2 tics 4
+	pic YTOCEGE3 tics 4
+
+texture YAMFALLX
+	allowdecals
+	pic YAMFALL1 tics 4
+	pic YAMFALL2 tics 4
+	pic YAMFALL3 tics 4
+
+flat WWATER
+pic WWATER1 tics 12
+pic WWATER2 tics 12
+pic WWATER3 tics 12
+pic WWATER4 tics 12
+
+flat W6WATER
+pic W6WATER1 tics 12
+pic W6WATER2 tics 12
+pic W6WATER3 tics 12
+pic W6WATER4 tics 12
+
+texture WIL6FANX
+    pic WIL6FAN1 tics 4
+	pic WIL6FAN2 tics 4
+	pic WIL6FAN3 tics 4
+
+texture MRXBLU
+	allowdecals
+	pic MRXBLU2 tics 4
+	pic MRXBLU3 tics 4
+	pic MRXBLU4 tics 4
+	pic MRXBLU5 tics 4
+	pic MRXBLU4 tics 4
+	pic MRXBLU3 tics 4
+
+texture W8LITS
+    allowdecals
+    pic W8LITS1 tics 4
+	pic W8LITS2 tics 4
+	pic W8LITS3 tics 4
+
+texture MM8WILB8
+pic MM8WB8A1 tics 6
+pic MM8WB8A2 tics 6
+pic MM8WB8A3 tics 6
+pic MM8WB8A4 tics 6
+pic MM8WB8A3 tics 6
+pic MM8WB8A2 tics 6
+
+texture MM8WILB9
+pic MM8WB9A1 tics 6
+pic MM8WB9A2 tics 6
+pic MM8WB9A3 tics 6
+pic MM8WB9A4 tics 6
+pic MM8WB9A3 tics 6
+pic MM8WB9A2 tics 6
+
+texture W9PNKX
+    allowdecals
+    pic W9PNK1 tics 3
+    pic W9PNK2 tics 3
+    pic W9PNK3 tics 3
+    pic W9PNK4 tics 3
+    pic W9PNK5 tics 3
+    pic W9PNK6 tics 3
+
+texture W9GRX
+    allowdecals
+    pic W9GEAR1 tics 3
+    pic W9GEAR2 tics 3
+
+texture W9REDMX
+    allowdecals
+    pic W9REDM1 tics 3
+	pic W9REDM2 tics 3
+	pic W9REDM3 tics 3
+	pic W9REDM4 tics 3
+	pic W9REDM3 tics 3
+	pic W9REDM2 tics 3
+
+texture W9LGTX
+    allowdecals
+    pic W9LGT1 tics 6
+    pic W9LGT2 tics 6
+    pic W9LGT3 tics 6
+    pic W9LGT4 tics 6
+    pic W9LGT5 tics 6
+    pic W9LGT6 tics 6
+    pic W9LGT7 tics 6
+    pic W9LGT8 tics 6
+    pic W9LGT9 tics 6
+    pic W9LGT10 tics 6
+    pic W9LGT11 tics 6
+    pic W9LGT12 tics 6
+    pic W9LGT13 tics 6
+    pic W9LGT14 tics 6
+    pic W9LGT15 tics 6
+	pic W9LGT16 tics 6
+
+texture WT1HEATX
+    allowdecals
+    pic WT1HEAT1 tics 6
+	pic WT1HEAT2 tics 6
+	pic WT1HEAT3 tics 6
+
+texture WT1GENEX
+    allowdecals
+    pic WT1GENE1 tics 4
+	pic WT1GENE2 tics 4
+	pic WT1GENE3 tics 4
+	pic WT1GENE4 tics 4
+
+texture WT1LAVAX
+    allowdecals
+    pic WT1LAVA1 tics 4
+	pic WT1LAVA2 tics 4
+	pic WT1LAVA3 tics 4
+
+texture WTWATER
+    allowdecals
+    pic WTWATER1 tics 12
+	pic WTWATER2 tics 12
+	pic WTWATER3 tics 12
+	pic WTWATER4 tics 12
+
+texture WT2COLX
+    allowdecals
+    pic WT2COL1 tics 4
+	pic WT2COL2 tics 4
+	pic WT2COL3 tics 4
+
+texture WT2CORX
+    allowdecals
+    pic WT2COR3 tics 4
+	pic WT2COR2 tics 4
+	pic WT2COR1 tics 4
+
+
+texture WT2COL2X
+    allowdecals
+    pic WT2COL3 tics 4
+	pic WT2COL2 tics 4
+	pic WT2COL1 tics 4
+
+texture WT2COR2X
+    allowdecals
+    pic WT2COR1 tics 4
+	pic WT2COR2 tics 4
+	pic WT2COR3 tics 4
+
+
+texture WT2COMLX
+    allowdecals
+    pic WT2COML1 tics 4
+	pic WT2COML2 tics 4
+	pic WT2COML3 tics 4
+
+texture WT2COMRX
+    allowdecals
+    pic WT2COMR1 tics 4
+	pic WT2COMR2 tics 4
+	pic WT2COMR3 tics 4
+
+texture	WT2COTX
+    allowdecals
+    pic WT2COT1 tics 4
+	pic WT2COT2 tics 4
+	pic WT2COT3 tics 4
+
+texture	WT2COT2X
+    allowdecals
+    pic WT2COT3 tics 4
+	pic WT2COT2 tics 4
+	pic WT2COT1 tics 4
+
+texture	WT2COT3X
+    allowdecals
+    pic WT2COT31 tics 4
+	pic WT2COT32 tics 4
+	pic WT2COT33 tics 4
+
+Texture WT3PIPE
+    allowdecals
+    pic WT3PIP1 tics 3
+	pic WT3PIP2 tics 3
+	pic WT3PIP3 tics 3
+	pic WT3PIP2 tics 3
+
+Texture WT4WALL1
+    allowdecals
+    pic WT4WAL1A tics 3
+	pic WT4WAL1B tics 3
+	pic WT4WAL1C tics 3
+	pic WT4WAL1D tics 3
+
+Texture WT4WALL2
+    allowdecals
+    pic WT4WAL2A tics 3
+	pic WT4WAL2B tics 3
+	pic WT4WAL2C tics 3
+	pic WT4WAL2D tics 3
+
+texture LIGHTCPX
+    allowdecals
+    pic LIGHTCP1 tics 4
+	pic LIGHTCP2 tics 4
+	pic LIGHTCP3 tics 4
+    pic LIGHTCP4 tics 4
+	pic LIGHTCP5 tics 4
+	pic LIGHTCP6 tics 4
+
+texture CASTFIRX
+pic CASTFIR1 tics 5
+pic CASTFIR2 tics 5
+pic CASTFIR3 tics 5
+pic CASTFIR4 tics 5

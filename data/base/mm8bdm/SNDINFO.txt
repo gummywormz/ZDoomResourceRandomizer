@@ -1,0 +1,214 @@
+$playersound	megaman	male	*death		MEGADEAT
+$playersound	megaman	male	*xdeath		MEGADEAT
+$playersound	megaman	male	*gibbed		MEGADEAT
+$playersound	megaman	male	*pain100	MEGAPAIN
+$playersound	megaman	male	*pain75		MEGAPAIN
+$playersound	megaman	male	*pain50		MEGAPAIN
+$playersound	megaman	male	*pain25		MEGAPAIN
+$playersound	megaman	male	*grunt		LAND
+$playersound	megaman	male	*land		LAND
+$playersound	megaman	male	*jump		dsnone
+$playersound	megaman	male	*fist		dsnone
+$playersound	megaman	male	*usefail	LAND
+$playersound	megaman	male	*taunt		dsnone
+
+weapon/weaponup	WEAPONUP
+weapon/mbuster	BUSTER
+weapon/shadow	SHADOWBL
+weapon/napalm	NAPALMB
+weapon/deflect	DEFLECT
+weapon/heat1	AHEAT1
+weapon/heat2	AHEAT2
+weapon/heat3	AHEAT3
+weapon/atomicfire	AHEAT4
+weapon/topspin	TOPSPIN
+weapon/magnetmissile	MAGNET
+weapon/gemini GEMINI
+weapon/superarmhit	SUPERARM
+weapon/superarmuse	COIL
+weapon/iceslasher	ICESLASH
+weapon/thunderbeam THUNDER
+weapon/metalblade	METALB
+weapon/drillexplode	DRILLBOM
+weapon/drillfly	DRILLFLY
+weapon/hyperbomb	HYPERB
+weapon/airshooter	AIRSHOT
+weapon/leafshield	WOODSH
+weapon/firestorm	FIRESTOR
+weapon/crashland	CRASHL
+weapon/crashexplode	CRASHX
+weapon/chargekick	CHARGEK
+weapon/rollingcutter	RCUTTER
+weapon/sparkshock	SSHOCK
+weapon/ringboomerang	RINGB
+weapon/gyroattack	GYROAT
+weapon/powerstone	POWERST
+weapon/pharaoh1	PHSHOT1
+weapon/pharaoh2	PHSHOT2
+weapon/timestopper	TIMEST
+weapon/waterwave	WATERW
+weapon/pshot	PROTOS
+weapon/pcharge	PROTCH
+weapon/rainflush	RAINF
+weapon/sakugarne	SAKUC
+weapon/crackerthrow		CRKTHRW
+weapon/crackerexplode	CRKEXP
+weapon/screwcrusher	SCREWC
+weapon/gravityhold GRAVH
+weapon/flashstopper	FLASHS
+weapon/centaurflash	ACENTF
+weapon/mirroractivate MIRRORS
+weapon/mirrordeflect	MIRRORD
+weapon/mirrordeflect2	MIRRORD2
+weapon/mirrorabsorb MIRRORD3
+weapon/crackermine BALMIN
+
+weapon/freezecracker	RINGB
+weapon/freezecrackerhit	REFLECT
+weapon/noisecrush1	CN1
+weapon/noisecrush2	GRAVH
+weapon/noisecrushcharge	CHARGEL
+weapon/coilstart	CHARGE2
+weapon/coilcharge	CHARGEL
+weapon/coilbounce1	coil1
+weapon/coilbounce2	coil2
+weapon/coilexplode	explo
+weapon/coilthrow	MAGNET
+weapon/wrapfire	dwrap
+weapon/wrapexplode	DRILLBOM
+weapon/scorchwheel	PHSHOT2
+weapon/junkshield	junks
+weapon/junkend	smash
+weapon/slashclaw	claw
+weapon/slashclawhit	clawhit
+weapon/thunderbolt	junks
+weapon/superboost	jet
+weapon/adapterchargeloop	CHARGEL
+weapon/adaptercharge	CHARGE2
+weapon/adapterfire	dwrap
+weapon/adapterreturn	armret
+
+weapon/icewavespawn ICEWSTA
+weapon/icewaveloop ICEWLOOP
+weapon/icewavebreak ICEWBRAK
+weapon/flashbomb FLSHBOMB
+weapon/tornadohold TORNHOLD
+weapon/astrocrush ASTRCRSH
+weapon/flamesword FLMSWOR
+weapon/thunderclaw THUNCLAW
+weapon/chargeup charge2
+weapon/coilcharge CHARGEL
+weapon/waterballoon watbalon
+weapon/lshot laser
+weapon/minchrgshot minishot
+weapon/cfire	cbusfir
+weapon/tscharge CBUSCH
+weapon/slow	timeslow
+weapon/timeshot timearr
+weapon/OilShot	oilblob
+weapon/OilSlider	OilSlid
+weapon/megaball megaball
+weapon/WireAdp WIREA
+
+weapon/waveburner WAVEBURN
+weapon/icewallspawn icewall
+weapon/tengushot tbshot
+weapon/tengudash tbdash
+weapon/copyvision cvision
+weapon/lightningbolt lit3
+weapon/rmineexplode rmexpl
+weapon/rminestick rmstick
+weapon/spreaddrill1 sdrill1
+weapon/spreaddrill2 sdrill2
+weapon/spreaddrill3 sdrill3
+weapon/spreaddrillhit SDHit
+weapon/magiccard mcard
+//$volume weapon/waveburner 5.0
+
+//Map stuff
+misc/trainwhistle	train1
+misc/clnbell	BELL
+misc/clnwindup	PREBELL
+misc/SpawnIn	DSITMBK //Unneeded?
+misc/BombCount	BOMBTIC
+misc/astroplatformappear ASTPLT1
+misc/astroplatformdisappear ASTPLT2
+misc/astroplatformraise ASTPLT3
+misc/jumpjump JUMPVOIC
+misc/partyball PARTYEX
+misc/mm3explosion MM3EXPL
+misc/boing	byon
+$random misc/aciddrip { misc/aciddrip1 misc/aciddrip2 }
+misc/aciddrip1	drip1
+misc/aciddrip2	drip2
+
+robot/death		BOSSPAIN
+robot/bigeye	EYESTOMP
+
+item/energyup	ENERGYUP
+item/1up		1UP
+item/protoreflect		REFLECT
+item/refill		REFILL
+item/beat		BEATC
+item/tango      TANGOM
+item/reggae      REGGL
+$volume item/reggae 10.0
+
+menu/activate			PAUSE	// Activate a new menu
+menu/backup			PAUSE	// Backup to previous menu
+menu/prompt			PAUSE	// Activate a prompt "menu"
+menu/cursor			MENU		// Move cursor up/down
+menu/change			MENU	// Select new value for option
+menu/invalid			PAUSE		// Menu not available
+menu/dismiss			PAUSE	// Dismiss a prompt message
+menu/choose			PAUSE	// Choose a menu item
+menu/clear			PAUSE	// Close top menu
+zandronum/connect   PCONNECT //Players connects to server
+
+misc/electrap ETRAP
+misc/quicktrap QUICKT
+misc/gutslift		GUTLIFT
+misc/vanishblock	BLOCKT
+misc/trainmove	TRAINM
+misc/quake	quake
+misc/gravitywarn	gravw
+misc/gravityup	gravup
+misc/gravitydown	gravdwn
+misc/metdie MM2PAIN
+misc/splash	splash
+misc/oil	flmoil
+misc/lava	flmlava
+misc/devilpain BOSSPAIN
+misc/devildeath MEGADEAT
+misc/devilfire pew
+misc/hugequake hugeq
+misc/hugequake2 hugeq2
+misc/mm4pain	MM4PAIN
+misc/wilystart	wilyats
+misc/wilyball	wilylits
+misc/wilylightning	wilylit
+misc/door	bdoor
+misc/protowhistle	whistl
+misc/icemachinecharge	imacc
+
+misc/trexstomp	trex
+misc/polarroar	sirokuma
+misc/gutsgboost	boostlo
+
+misc/kingblast	kgbla // MM10 Sounds (edited)
+misc/kingswing	kgswin // MM10 Sounds
+misc/kingchop	kgaxe // MM10 Sounds
+misc/kingalarm	kinalarm // MM9 Sounds
+misc/monkeybutt	MEGAPAIN
+misc/hshinhale	HSHIN // MM10 Sounds (edited)
+misc/hshexhale	HSHOUT // MMM10 Sounds (edited)
+misc/hsloop	HSHLOOP // MM10 Sounds (edited)
+misc/genesispain	MM4PAIN
+misc/waterslide	WTRSLID // MM10 Sounds
+misc/brgstaff	BRGSTAFF //MM10 Sounds (edited)
+misc/brgstaffshort	BRGSTAF2 //MM10 Sounds (edited)
+misc/brgillusion	BRGILL //MM10 Sounds (edited)
+misc/mwsburst	WBUST
+misc/scorebounce	REFLECT
+
+world/quake dsnone
