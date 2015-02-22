@@ -53,8 +53,8 @@ public class TEXTURESRandomizer implements ZDoomRandomizer<String>{
     static final Pattern PAT_PATCH_REPLACEPATCHNAME = 
         Pattern.compile("patch (\\w|\\d){1,8},",Pattern.CASE_INSENSITIVE);
 
-    private ArrayList<String> patches;
-    private File base;
+    private final ArrayList<String> patches;
+    private final File base;
 
     /**
      * Constructs a new TEXTURES Randomizer

@@ -39,7 +39,7 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
      * Regex / Pattern for matching $playersound entries
      */
     static final Pattern PAT_PLAYERSND = Pattern.compile
-        ("(?<=\\*(death|xdeath|jump|gibbed|pain\\d{2,3}+|grunt|land|fist|"
+        ("(?<=\\*(death|xdeath|jump|gibbed|pain(\\d{2,3}+|-)|grunt|land|fist|"
             + "usefail|taunt))");
 
     /**
@@ -48,9 +48,11 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
     static final Pattern PAT_GENERAL = Pattern.compile
         ("\\s+");//plus is needed to match multiple whitespace chars
 
-    private ArrayList<String> names;
-    private ArrayList<String> values;
+    private final ArrayList<String> names;
+    private final ArrayList<String> values;
+    private final ArrayList<String> extra;
     private boolean removeValues = false;
+    private int lineNum;
 
     /**
      * Creates new SNDInfoRandomizer
@@ -60,7 +62,9 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
     {
         names = new ArrayList<>();
         values = new ArrayList<>();
+        extra = new ArrayList<>();
         removeValues = valuesFlag;
+        lineNum = 0;
     }
 
     /**
@@ -81,6 +85,8 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
         while( (line = in.readLine()) != null)
         {
             
+            lineNum++;
+            
             if(line.startsWith("/*") && !isComment){isComment = true;}
 
             if(isComment && line.endsWith("*/"))
@@ -96,8 +102,21 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
             if(line.toLowerCase().startsWith("$playersound"))
             {
                 String[] snd = PAT_PLAYERSND.split(line);
-                names.add(snd[0]);
-                values.add(snd[1]);
+                String nameS = snd[0];
+                String value = snd[1];
+                
+                //hacktastic check for damagetypes 
+                //(can't easily shove it into the regex)
+                if(nameS.endsWith("-") || value.startsWith("-"))
+                {
+                    String[] value2 = PAT_GENERAL.split(value.trim());
+                    nameS = nameS + value2[0];
+                    value = value2[1];
+                }
+                
+                names.add(nameS);
+                values.add(value);
+                continue;
             }
 
             if(!line.startsWith("$"))
@@ -105,6 +124,10 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
                 String[] snd = PAT_GENERAL.split(line);
                 names.add(snd[0]);
                 values.add(snd[1]);
+            }
+            else
+            {
+                extra.add(line+"@"+lineNum);
             }
 
         }
@@ -140,19 +163,41 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
 
         Random r = new Random();
 
-        ArrayList<String> noDupNames = new ArrayList<>
-            (new LinkedHashSet<>(names));
+        ArrayList<String> noDupNames = new ArrayList<String>
+            (new LinkedHashSet<String>(names));
 
-        ArrayList<String> noDupValues = new ArrayList<>
-            (new LinkedHashSet<>(values));
+        ArrayList<String> noDupValues = new ArrayList<String>
+            (new LinkedHashSet<String>(values));
+        
+        int extraIndex = 0;//since the lines are added in increasing order,
+        //we can assume that the indexes correspond to increase line numbers
+        
+        int lineNumX = 1; //we don't use i since it might not be the same
 
-        for(String name : noDupNames)
+        for(int i = 0; i <noDupNames.size(); i++)
         {
+            String name = noDupNames.get(i);
+            
+            //places extra lines if needed
+            if(extraIndex < extra.size())
+            {
+                String extraLines = extra.get(extraIndex);
+                String[] lineContent = extraLines.split("@");
+                int insertLine = Integer.parseInt(lineContent[1]);
+                
+                if(lineNumX == insertLine)
+                {
+                out.write(lineContent[0] + sep);
+                extraIndex++;
+                }
+            }
+            
             if(noDupValues.size() < 1){break;}//not all entries were modified!
             int entryNum = r.nextInt(noDupValues.size());
             String entry = noDupValues.get(entryNum).trim();
             String randomizedEntry = name +  " " + entry;
             out.write(randomizedEntry + sep);
+            lineNumX++;
             if(removeValues){noDupValues.remove(entryNum);}
 
         }

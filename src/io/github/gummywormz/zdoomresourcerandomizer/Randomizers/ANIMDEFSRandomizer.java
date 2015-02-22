@@ -34,9 +34,9 @@ import java.util.Random;
  */
 public class ANIMDEFSRandomizer implements ZDoomRandomizer<String>{
     
-    private ArrayList<String> patches;
-    private File base;
-    private int randomizeTics;
+    private final ArrayList<String> patches;
+    private final File base;
+    private final int randomizeTics;
 
     /**
      * Creates a new ANIMDEFS randomizer

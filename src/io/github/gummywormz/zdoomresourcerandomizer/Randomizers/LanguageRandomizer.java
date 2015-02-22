@@ -34,8 +34,8 @@ import java.util.Random;
  */
 public class LanguageRandomizer implements ZDoomRandomizer<String>{
     
-    private ArrayList<String> names;
-    private ArrayList<String> messages;
+    private final ArrayList<String> names;
+    private final ArrayList<String> messages;
     private String lang = "[enu default]";
     private final boolean removeMsg;
     
