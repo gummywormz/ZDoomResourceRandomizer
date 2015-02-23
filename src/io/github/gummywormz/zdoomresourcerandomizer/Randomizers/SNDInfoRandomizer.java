@@ -75,10 +75,6 @@ public class SNDInfoRandomizer implements ZDoomRandomizer<String> {
     @Override
     public void processFile(File f) throws IOException
     {
-        /* TODO preserve $statements instead of disregarding them (important for
-        generic ZDoom support) (Create new list / obj with name and line number
-        and insert if the writer is on that line?)
-        */
         BufferedReader in = new BufferedReader(new FileReader(f));
         String line = "";
         boolean isComment = false; //tracks multiline comments
