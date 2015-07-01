@@ -24,6 +24,9 @@ import java.io.IOException;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
+import org.zeroturnaround.zip.ZipUtil;
+
+
 /**
  * Makes pk3 files of directories (zips them...) 
  * @author Paul Alves
@@ -38,7 +41,16 @@ public class PK3Util {
      */
     public static void zipFolder(File baseDir,String fileName) throws IOException
     {
-        //TODO: add directory support
+        
+        String name1 = baseDir.getAbsolutePath() + File.separator + fileName + ".pk3";
+        String p = "temp" + File.separator;
+        String fullpath = name1.replace(p,"");
+        
+        //System.out.println(fullpath);
+        
+        ZipUtil.pack(baseDir, new File (fullpath)); //infinite haxzorz
+        
+     /*   //TODO: add directory support
         
         byte[] buffer = new byte[1024];
         
@@ -51,15 +63,19 @@ public class PK3Util {
         }
         
         FileOutputStream fos = new FileOutputStream(baseDir.getAbsolutePath()+ 
-                File.separator+fileName+".pk3");
+                                              File.separator+fileName+".pk3");
     	ZipOutputStream zos = new ZipOutputStream(fos);
         
         for(File f : list)
         {
             final String absolutePath = f.getAbsolutePath();
         
-            if(f.isFile() && !absolutePath.endsWith(".pk3")){
+            if(!absolutePath.endsWith(".pk3")){
+                
                 String entryName = f.getName();
+                
+                if(f.getAbsolutePath()){}
+                
                 ZipEntry z = new ZipEntry(entryName);
                 zos.putNextEntry(z);
                 FileInputStream in = new FileInputStream(absolutePath);
@@ -72,7 +88,7 @@ public class PK3Util {
         }
         
         zos.closeEntry();
-        zos.close();
+        zos.close();*/
         
     }
     

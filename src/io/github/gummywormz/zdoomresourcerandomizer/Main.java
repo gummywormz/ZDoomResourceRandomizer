@@ -20,6 +20,7 @@ package io.github.gummywormz.zdoomresourcerandomizer;
 import io.github.gummywormz.zdoomresourcerandomizer.Randomizers.ANIMDEFSRandomizer;
 import io.github.gummywormz.zdoomresourcerandomizer.Randomizers.LanguageRandomizer;
 import io.github.gummywormz.zdoomresourcerandomizer.Randomizers.SNDInfoRandomizer;
+import io.github.gummywormz.zdoomresourcerandomizer.Randomizers.SpriteRandomizer;
 import io.github.gummywormz.zdoomresourcerandomizer.Randomizers.TEXTURESRandomizer;
 import java.io.File;
 import java.io.IOException;
@@ -45,6 +46,7 @@ public class Main {
         ArrayList<File> sndinfo = new ArrayList<>();
         ArrayList<File> animdefs = new ArrayList<>();
         ArrayList<File> language = new ArrayList<>();
+        ArrayList<File> sprites = new ArrayList<>();
         
         boolean removeSnd = false;
         boolean removeMsg = false;
@@ -71,10 +73,16 @@ public class Main {
                 sndinfo.add(f);
             }
             
+            if(args[i].equals("-p"))
+            {
+                File f = new File(args[i+1]);
+                sprites.add(f);
+            }
+            
             if(args[i].equals("-l"))
             {
                 File f = new File(args[i+1]);
-                System.out.println(f.getAbsolutePath());
+                //System.out.println(f.getAbsolutePath());
                 language.add(f);
             }
             
@@ -100,7 +108,7 @@ public class Main {
         }
         
         if(textures.isEmpty() && animdefs.isEmpty() && sndinfo.isEmpty()
-                && language.isEmpty())
+                && language.isEmpty() && sprites.isEmpty())
         {
             System.out.println("No files were given to be randomized!");
             System.exit(2);
@@ -169,12 +177,35 @@ public class Main {
             l.write(new File("temp/LANGUAGE.random"));
         }
         
+        if(!sprites.isEmpty())
+        {
+            System.out.println("Randomizing given sprites...");
+            
+            //sprite lists can easily overflow, so we recreate it for each file instead
+            
+            for(File f : sprites)
+            {
+                System.out.println("Randomizing sprites in " + f.getName());
+                SpriteRandomizer s = new SpriteRandomizer();
+                s.processFile(f);
+                s.write(new File("temp"));
+                System.out.println("Writing new files");
+                s = null;
+            }
+            
+            
+        }
+        
         System.out.println("Making PK3...");
         
         String date = new SimpleDateFormat("yyyy-MM-dd-hh-mm-ss")
                 .format(new Date());
         
         PK3Util.zipFolder(new File("temp"), "randomized" + date);
+        
+        System.out.println("Cleaning Up...");
+        
+        deleteDirectory(new File("temp"));
         
         }
         catch(IOException ex)
@@ -206,6 +237,10 @@ public class Main {
                 + " Multiple entries can be used. "
                 + "This will be output as a combined file");
         
+        System.out.println("-p file.pk3 | Randomizes the sprites in the given pk3"
+                + " Multiple entries can be used. "
+                + "This will be output as a combined file");
+        
         System.out.println("--RANDOMIZETICS integer | Specify to randomize"
                 + " tics in animdefs, with the maximum being the integer. "
                 + "Do not pass this or pass 0 for no randomization");
@@ -224,5 +259,27 @@ public class Main {
         System.exit(2);
         
     }
+    
+ /**
+ * Deletes a directory, recursively deleting anything inside it.
+ * @param dir The dir to delete
+ * @return true if the dir was successfully deleted
+ */
+public static boolean deleteDirectory(File dir) {
+    if(! dir.exists() || !dir.isDirectory())    {
+        return false;
+    }
+
+    String[] files = dir.list();
+    for(int i = 0, len = files.length; i < len; i++)    {
+        File f = new File(dir, files[i]);
+        if(f.isDirectory()) {
+            deleteDirectory(f);
+        }else   {
+            f.delete();
+        }
+    }
+    return dir.delete();
+}
     
 }
