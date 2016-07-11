@@ -59355,14 +59355,6 @@ Texture REVIL39, 128, 128
 	}
 }
 
-Texture CASTFIRE, 96, 91
-{
-	XScale 0.0
-	YScale 0.0
-	WorldPanning
-	Patch CASTLEF, 0, 0
-}
-
 
 texture NEESMSH, 128, 128
 {

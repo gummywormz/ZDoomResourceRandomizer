@@ -1,0 +1,220 @@
+
+item/ItemUseMM9 9STORSND
+item/ItemUseAA ITEMONAA
+
+classes/super super $limit classes/super 0
+
+misc/GBPAINX GBPAIN
+
+//MM0
+weapon/jetfly	JETFLY
+weapon/ccharge	cbusch
+weapon/cfire2	cbusfir2
+weapon/enemyweapon	S_M6SHOT
+weapon/RollSwing ROLLSWNG
+weapon/RollHeal	ROLLGIFT
+weapon/RockBuster ROCKPEW
+item/ScorePickup S_M1JOE
+item/ScoreUse S_M1JOE2
+
+//MM1
+weapon/CutMelee CUTSLICE
+weapon/FastCutter CUTFAST $limit weapon/FastCutter 0
+$limit weapon/rollingcutter 0 //Oh god what have I done
+weapon/CutterCatch BOOMERNG
+weapon/cutsong	WHY
+weapon/GutMelee GPAWNCH
+weapon/GutRock GUTSROCK $limit weapon/GutRock 0
+weapon/ElecTeleport ELECZAP2
+//weapon/ElecStorm ELE
+//weapon/lightningfall	ELE//wilybeam //wilybeam for old elec
+weapon/BombThrow BOMBTHRO
+weapon/BombmanBoom BOMBEXPL
+weapon/FireManShot FIRESHOT
+weapon/IceManShot ICESHOT
+weapon/slow	timesloC
+weapon/timeshot timearr
+weapon/OilShotX	flmoil//oilblob
+//weapon/OilSlider	OilSlid
+
+//MM2
+weapon/directclash CRASHB1
+weapon/HeatShield HEATSHLD
+weapon/heattackle HEATACKL
+weapon/AirWall CYCLONE
+weapon/MetalMelee BUZSLICE
+weapon/leafcounter LEAFCOUN
+weapon/WoodLeap WOODFIRE
+weapon/WoodSlam WOODHIT
+weapon/wilyshot2 WILYSHO2
+weapon/wilyshot3 WILYSHO3
+weapon/wilyshot4 WILYSHO4
+classes/FloodIn SURF1
+classes/FloodOut SURF2
+weapon/BubbleBounce BUBLBOUN
+class/QuickRun QUICKRUN
+
+//MM3
+weapon/MagPush MAGNETSM
+weapon/MagPush2 MAGWAVE
+class/NeedleRevup REVVING
+class/NeedleRevved REVREADY
+weapon/NeedleDakka NEDLSHOT
+weapon/NeedleWham NEDLHMMR
+weapon/TopManShot TOPSHOT
+class/GeminiDouble DOUBLE
+classes/geminipain MEGAPAIN
+weapon/sparkalt	sprksprd
+weapon/hardquakeland	QUAKE
+weapon/HardGlitch FATLAND
+
+//MM4
+weapon/MM4Charge charge4l
+class/ToadDance S_M4TOA3
+weapon/BigRain S_M4TOA2
+weapon/ShortRain S_M4TOAD  $limit weapon/ShortRain 0
+weapon/Shoomp DUSTSHOT
+weapon/dustbit DUSTBIT
+classes/SkullShieldBuzz SKULBAR4
+weapon/skullbust SKULSHOT
+classes/Float PHACURSE
+classes/drilling drillin
+classes/drillout drillout
+$limit weapon/drillexplode 0
+classes/skullabs	KGAXE//skullabs
+
+//MM5
+weapon/WaveSummon WAVEUP $limit weapon/WaveSummon 0
+weapon/WaveSummonGo WAVEGO $limit weapon/WaveSummonGo 0
+weapon/StarMain STARSHO2
+weapon/StarDakka STARSHOT
+weapon/Train CHUGGA $limit weapon/Train 0
+weapon/chugga	CHUG
+classes/Hind GYCHOPPA
+weapon/crystalshot CRYSSHOT
+weapon/crystalbit CRYSBIT
+weapon/upsidedown	graswi
+$limit weapon/waterwave 0
+$limit weapon/napalm 0
+
+weapon/Dark1Shot DAR1SHOT
+weapon/darktread DAR1STEP
+weapon/shieldhum DARKSIDE
+weapon/Dark3Shot DAR3SHOT
+
+//MM6
+weapon/KnightShot KNIGSHOT
+weapon/KnightReturn KNIRETRN
+class/windstart WINDSTAR
+class/windloop WINDLOOP
+weapon/portout teleout2
+weapon/portin telein
+weapon/centaurstomp CENTS
+weapon/BlizzBoss BLIZBOSS
+weapon/BlizzBowl BLIZBOWL
+weapon/BlizzStrike BLIZSTRI
+weapon/BlizzStyle BLIZBELL
+weapon/FlameBall	FLAMEBO
+weapon/FlameWave	FLAMEWA
+
+//MM7
+classes/burstpop BUBLPOP
+weapon/BurstBubAppear BUBLPOOF
+weapon/BurstExplode WRAPEXPL $limit weapon/BurstExplode 0
+weapon/springpunch SPAWNCH
+weapon/SpringBounce2 SPRNCOI2  $limit weapon/SpringBounce2 0
+weapon/SpringDed COILDED
+classes/CarHonk HONKHONK
+classes/CarCharge CARREADY
+classes/CarGoGo CARGO
+weapon/WheelGoGoGo WHEELGO
+weapon/freezefloor imacc//FLORFREZ
+$volume weapon/freezefloor 0.5 $limit weapon/freezefloor 0
+weapon/shadewing habataki
+weapon/shadedive SHDEDIVE//wind
+weapon/NoiseC1 S_M7NC1
+weapon/NoiseC2 S_M7NC2
+weapon/CloudAlt CLOUDALT
+weapon/TSTRIKE TSTRIKE
+weapon/CloudSplit wilybeam
+item/JunkArmor JUNKARMR
+weapon/JunkBreaker JUNBREAK
+item/JunkPick JUNKCOL
+weapon/SlashDClaw DASHCLAW
+weapon/SlashGoop CAKEFART
+weapon/SlashDash SLASDASH
+
+//MM8
+weapon/DuoShotCharge DUOFISTC
+weapon/DuoShot1 DUOFIST1
+weapon/DuoShot2 DUOFIST2
+weapon/DuoShot3 DUOFIST3
+classes/astrowalk ASTRSTEP
+weapon/ClownBall CLOWNBAL
+class/SearchBush SEARBUSH
+weapon/SearchCross SEARCROS $limit weapon/SearchCross 0
+weapon/WaterCannonFire AQUAFIR2
+weapon/WaterCannonGo AQUABEAM
+weapon/AquaCharge AQUACHRG
+weapon/AquaCharge2 AQUACHR2
+weapon/GrenadeShot GRENSHOT
+
+
+
+//MM9-10
+weapon/blackholebomb	BHBFLY
+weapon/blackholebombdetonate	BHBBOOM
+weapon/RamFlight UFORAM $volume weapon/RamFlight 0.70
+weapon/hornetchaser HORNCHAS
+weapon/hornetcommand BEEGOGO
+weapon/hornetfly BEEGLIDE
+weapon/magmabazooka MAGMBAZO
+weapon/magmacharge MAGMCHRG
+weapon/MagmaMode MAGERUPT
+weapon/magmaalert ALARML
+
+weapon/Jewel JWLSHILD
+
+//MMB
+
+weapon/GroundBigDrill GRBGDRIL
+weapon/GroundDig GRODIG
+weapon/WaterSpray MESHOWER
+weapon/PirateBubble MEBUBL
+classes/Stolen1 PIRATEL1
+classes/Stolen2 PIRATEL2
+classes/Stolen3 PIRATEL3
+classes/Stolen4 PIRATEL4
+classes/Stolen5 PIRATEL5
+weapon/ColdField COLDFILD
+weapon/ColdFrozen S_M3PING
+weapon/BurnerBoom BURNFOOM
+weapon/BurnerRise BURNRISE
+weapon/BurnerDive BURNDOWN
+weapon/MagicShot MAGISHOT
+weapon/MagicBirds PIGEONS
+weapon/DynamoCharge DYNCHRG
+weapon/DynamoOrbs DYNORB
+
+//MM9
+classes/GalaxyTeleport TELEPORT
+
+//MMWT
+classes/BRGClone BUNSHIN
+weapon/BRGSpin MEATSPIN $limit weapon/BRGSpin 0
+weapon/BRGStaff BRGSTAF2
+weapon/HSHPew pew
+weapon/HSHSuckBlow HSHLOOP
+weapon/HSHRunning MADWALK
+classes/ShieldPop SHLDPOP
+classes/MWS_Shield SHLDMAKE
+weapon/WaveSummon2 WAVEUP2 $limit weapon/WaveSummon2 0
+weapon/WaveSummonGo2 WAVEGO2 $limit weapon/WaveSummonGo2 0
+
+//MMK
+weapon/GameBoyFire MMVSHOT
+
+//???
+misc/SearchSecret SMSECRET
+$limit misc/freeze 0
+$limit misc/icebreak 0

@@ -1,0 +1,372 @@
+texture CBENDIC1, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CBEND1, 0, 0
+   Patch CBEND2, 0, 32
+   Patch CBEND2, 0, 64
+   Patch CBEND2, 0, 96
+   Patch CBEND2, 0, 128
+   Patch CBEND2, 0, 160
+   Patch CBEND2, 0, 192
+   Patch CBEND2, 0, 224
+   Patch CBEND2, 0, 256
+   Patch CBEND2, 0, 288
+   Patch CBEND2, 0, 320
+   Patch CBEND2, 0, 352
+   Patch CBEND2, 0, 384
+   Patch CBEND2, 0, 416
+   Patch CBEND2, 0, 448
+   Patch CBEND2, 0, 480
+   WorldPanning 
+}
+
+texture CBENDIC2, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CBEND4, 0, 0
+   Patch CBEND2, 0, 32
+   Patch CBEND2, 0, 64
+   Patch CBEND2, 0, 96
+   Patch CBEND2, 0, 128
+   Patch CBEND2, 0, 160
+   Patch CBEND2, 0, 192
+   Patch CBEND2, 0, 224
+   Patch CBEND2, 0, 256
+   Patch CBEND2, 0, 288
+   Patch CBEND2, 0, 320
+   Patch CBEND2, 0, 352
+   Patch CBEND2, 0, 384
+   Patch CBEND2, 0, 416
+   Patch CBEND2, 0, 448
+   Patch CBEND2, 0, 480
+   WorldPanning 
+}
+
+texture CBENDFLR, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CBEND3, 0, 0
+   WorldPanning 
+}
+
+texture CBENDFNC, 32, 32
+{ 
+   XScale 0.5 
+   YScale 0.5 
+   Patch CBEND5, 0, 0
+   WorldPanning
+}
+
+texture CSMAFLR1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CSMASH1, 0, 0
+   WorldPanning
+}
+
+texture CSMAFLR2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CSMASH2, 0, 0
+   WorldPanning
+}
+
+texture CSMAFLR3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CSMASH3, 0, 0
+   WorldPanning
+}
+
+texture TGOLSKY1, 384, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TGOLD1, 0, 0
+   WorldPanning
+}
+
+texture TGOLSKY2, 384, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TGOLD2, 0, 0
+   WorldPanning
+}
+
+texture TGOLFEN, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TGOLD3, 0, 0
+   WorldPanning
+}
+
+texture VBUNSIGN, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch VBUNK1, 0, 0
+   WorldPanning
+}
+
+texture LHPTEX1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX1, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX2, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX3, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX4, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX4, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX5, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX6, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX7, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX8, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX8, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX9, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX9, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX10, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX10, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX11, 128, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX11, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX12, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX7, 0, 0
+   Patch LHTEX2, 0, 32
+   Patch LHTEX2, 0, 64
+   Patch LHTEX2, 0, 96
+   Patch LHTEX2, 0, 128
+   Patch LHTEX2, 0, 160
+   Patch LHTEX2, 0, 192
+   Patch LHTEX2, 0, 224
+   Patch LHTEX2, 0, 256
+   Patch LHTEX2, 0, 288
+   Patch LHTEX2, 0, 320
+   Patch LHTEX2, 0, 352
+   Patch LHTEX2, 0, 384
+   Patch LHTEX2, 0, 416
+   Patch LHTEX2, 0, 448
+   Patch LHTEX2, 0, 480
+   WorldPanning 
+}
+
+texture LHPTEX13, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX12, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX14, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX13, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX15, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX14, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX16, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX15, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX17, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX16, 0, 0
+   WorldPanning 
+}
+
+texture LHPTEX18, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHTEX17, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK1, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK1, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK2, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK2, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK3, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK3, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK4, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK4, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK5, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK5, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK6, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK6, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK7, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK7, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK8, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK8, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK9, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK9, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK10, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK10, 0, 0
+   WorldPanning 
+}
+
+texture LHPBK11, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK11, 0, 0
+   WorldPanning 
+}
+
+texture LHBACK, 128, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch LHBK1, 0, 0
+   WorldPanning 
+}

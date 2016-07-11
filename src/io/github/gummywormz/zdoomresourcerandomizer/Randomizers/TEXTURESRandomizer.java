@@ -55,7 +55,7 @@ public class TEXTURESRandomizer implements ZDoomRandomizer<String>{
 
     private final ArrayList<String> patches;
     private final File base;
-
+    
     /**
      * Constructs a new TEXTURES Randomizer
      * @param baseFile The file to base the randomizer on. 

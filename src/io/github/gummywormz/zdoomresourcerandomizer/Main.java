@@ -35,18 +35,32 @@ import java.util.Date;
  */
 public class Main {
     
+    private static boolean isConsole;
+    
     public static void main(String[] args)
     {
+        
+        isConsole = System.console() != null;
         if(args.length < 2)
         {
-            usage();
+            if(isConsole){
+            usage();}
+            else{ZDUI.main(args);}
+        }
+        else{
+        build(args);
         }
         
+    }
+
+    public static void build(String[] args) {
         ArrayList<File> textures = new ArrayList<>();
         ArrayList<File> sndinfo = new ArrayList<>();
         ArrayList<File> animdefs = new ArrayList<>();
         ArrayList<File> language = new ArrayList<>();
         ArrayList<File> sprites = new ArrayList<>();
+        
+        ArrayList<File> customTextures = null;
         
         boolean removeSnd = false;
         boolean removeMsg = false;
@@ -82,13 +96,23 @@ public class Main {
             if(args[i].equals("-l"))
             {
                 File f = new File(args[i+1]);
-                //System.out.println(f.getAbsolutePath());
                 language.add(f);
+            }
+            
+            if(args[i].equals("-ct"))
+            {
+                File f = new File(args[i+1]);
+                customTextures.add(f);
             }
             
             if(args[i].equals("--RANDOMIZETICS"))
             {
-                ticLimit = Integer.parseInt(args[i+1]);
+                try{ticLimit = Integer.parseInt(args[i+1]);}
+                catch(java.lang.NumberFormatException e){
+                    System.out.println("Tic randomization number is invalid");
+                    if(isConsole)System.exit(2);else{return;}
+                    
+                }
             }
             
             if(args[i].equals("--LANGUAGEHEADER"))
@@ -111,102 +135,103 @@ public class Main {
                 && language.isEmpty() && sprites.isEmpty())
         {
             System.out.println("No files were given to be randomized!");
-            System.exit(2);
+            if(isConsole)System.exit(2);else{return;}
         }
         
         new File("temp").mkdir();
         
         try{
             
-        if(!textures.isEmpty())
-        {
-            System.out.println("Randomizing given TEXTURES files...");
-            File base = textures.get(0);
-            TEXTURESRandomizer t = new TEXTURESRandomizer(base);
-            t.processFile(base);
-           
-            for(int i = 1; i < textures.size(); i++)
+            if(!textures.isEmpty())
             {
-                base = textures.get(i);
+                System.out.println("Randomizing given TEXTURES files...");
+                File base = textures.get(0);
+                TEXTURESRandomizer t = new TEXTURESRandomizer(base);
                 t.processFile(base);
+                
+                for(int i = 1; i < textures.size(); i++)
+                {
+                    base = textures.get(i);
+                    t.processFile(base);
+                }
+                System.out.println("Writing new file");
+                t.write(new File("temp/TEXTURES.random"));
             }
-            System.out.println("Writing new file");
-            t.write(new File("temp/TEXTURES.random"));
-        }
-        
-        if(!sndinfo.isEmpty())
-        {
-            System.out.println("Randomizing given SNDINFO files...");
-            SNDInfoRandomizer s = new SNDInfoRandomizer(removeSnd);
             
-            for(File f : sndinfo)
+            if(!sndinfo.isEmpty())
             {
-                s.processFile(f);
+                System.out.println("Randomizing given SNDINFO files...");
+                SNDInfoRandomizer s = new SNDInfoRandomizer(removeSnd);
+                
+                for(File f : sndinfo)
+                {
+                    s.processFile(f);
+                }
+                System.out.println("Writing new file");
+                s.write(new File("temp/SNDINFO.random"));
             }
-            System.out.println("Writing new file");
-            s.write(new File("temp/SNDINFO.random"));
-        }
-        
-        
-        if(!animdefs.isEmpty())
-        {
-            System.out.println("Randomizing given ANIMDEFS files...");
-            File base = animdefs.get(0);
-            ANIMDEFSRandomizer t = new ANIMDEFSRandomizer(base,ticLimit);
-            t.processFile(base);
-           
-            for(int i = 1; i < animdefs.size(); i++)
+            
+            
+            if(!animdefs.isEmpty())
             {
-                base = animdefs.get(i);
+                System.out.println("Randomizing given ANIMDEFS files...");
+                File base = animdefs.get(0);
+                ANIMDEFSRandomizer t = new ANIMDEFSRandomizer(base,ticLimit);
                 t.processFile(base);
+                
+                for(int i = 1; i < animdefs.size(); i++)
+                {
+                    base = animdefs.get(i);
+                    t.processFile(base);
+                }
+                System.out.println("Writing new file");
+                t.write(new File("temp/ANIMDEFS.random"));
             }
-            System.out.println("Writing new file");
-            t.write(new File("temp/ANIMDEFS.random"));
-        }
-        
-        if(!language.isEmpty())
-        {
-            System.out.println("Randomizing given LANGUAGE files...");
-            LanguageRandomizer l = new LanguageRandomizer(langHead,removeMsg);
             
-            for(File f : language)
+            if(!language.isEmpty())
             {
-                l.processFile(f);
+                System.out.println("Randomizing given LANGUAGE files...");
+                LanguageRandomizer l = new LanguageRandomizer(langHead,removeMsg);
+                
+                for(File f : language)
+                {
+                    l.processFile(f);
+                }
+                System.out.println("Writing new file");
+                l.write(new File("temp/LANGUAGE.random"));
             }
-            System.out.println("Writing new file");
-            l.write(new File("temp/LANGUAGE.random"));
-        }
-        
-        if(!sprites.isEmpty())
-        {
-            System.out.println("Randomizing given sprites...");
             
-            //sprite lists can easily overflow, so we recreate it for each file instead
-            
-            for(File f : sprites)
+            if(!sprites.isEmpty())
             {
-                System.out.println("Randomizing sprites in " + f.getName());
-                SpriteRandomizer s = new SpriteRandomizer();
-                s.processFile(f);
-                s.write(new File("temp"));
-                System.out.println("Writing new files");
-                s = null;
+                System.out.println("Randomizing given sprites...");
+                
+                //sprite lists can easily overflow, so we recreate it for each file instead
+                
+                for(File f : sprites)
+                {
+                    System.out.println("Randomizing sprites in " + f.getName());
+                    SpriteRandomizer s = new SpriteRandomizer();
+                    s.processFile(f);
+                    s.write(new File("temp"));
+                    System.out.println("Writing new files");
+                    s = null;
+                }
+                
+                
             }
             
+            System.out.println("Making PK3...");
             
-        }
-        
-        System.out.println("Making PK3...");
-        
-        String date = new SimpleDateFormat("yyyy-MM-dd-hh-mm-ss")
-                .format(new Date());
-        
-        PK3Util.zipFolder(new File("temp"), "randomized" + date);
-        
-        System.out.println("Cleaning Up...");
-        
-        deleteDirectory(new File("temp"));
-        
+            String date = new SimpleDateFormat("yyyy-MM-dd-hh-mm-ss")
+                    .format(new Date());
+            
+            PK3Util.zipFolder(new File("temp"), "randomized" + date);
+
+            System.out.println("Pk3 made at: " + System.getProperty("user.dir"));
+            System.out.println("Cleaning Up...");
+            
+            deleteDirectory(new File("temp"));
+            
         }
         catch(IOException ex)
         {
@@ -214,7 +239,6 @@ public class Main {
         }
         
         System.out.println("Done!");
-        
     }
 
     private static void usage() {

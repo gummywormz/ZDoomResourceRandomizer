@@ -1,0 +1,293 @@
+$playersound	megamanc	male	*taunt		MEGATAUN
+
+$playersound	protomanc	male	*taunt		whistl
+
+$playersound	bassc	male	*taunt		BASSTAU
+
+$playersound	rollc	male	*taunt		TOAST
+
+$playersound	sniperjoec	male	*taunt		JOETAUNT
+
+$playersound	rockc	male	*taunt		ROCKTAUX
+$playersound	rockc	female	*taunt		ROCKTAUN
+$playersound	rockc	other	*taunt		ROCKTAUX
+
+$playersound	rockmanc	male	*taunt		ROCKMTAU
+
+$playersound	duoc	male	*taunt		DUOTAUNT
+
+$playersound	wilyc	male	*taunt		WILYTAU
+
+$playersound	autoc	male	*taunt		AUTOTAU
+
+$playersound	cutmanc	male	*taunt		WHY
+
+$playersound	gutsmanc	male	*taunt		GUTTAUNT
+
+$playersound	icemanc	male	*taunt		ICETAUN
+
+$playersound	bombmanc	male	*taunt		BOMBTAU
+
+$playersound	firemanc	male	*taunt		FIRETAU
+
+$playersound	elecmanc	male	*taunt		ELECTAU
+
+$playersound	timemanc	male	*taunt		TIMETAU
+
+$playersound	oilmanc	male	*taunt		OILTAU
+
+$playersound	airmanc	male	*taunt		AIRTAUN
+
+$playersound	crashmanc	male	*taunt		CRASTAU
+
+BUBLTAU1 BUBLTAU1
+BUBLTAU2 BUBLTAU2
+$random BUBLTAUN { BUBLTAU1 BUBLTAU2 }
+$playeralias	bubblemanc	male	*taunt		BUBLTAUN
+
+$playersound	heatmanc	male	*taunt		HEATTAU
+
+$playersound	quickmanc	male	*taunt		QUITTAU
+
+$playersound	woodmanc	male	*taunt		WOODTAU
+
+$playersound	metalmanc	male	*taunt		METTAUNT
+
+$playersound	flashmanc	male	*taunt		FLASTAU
+
+$playersound	magnetmanc	male	*taunt		MAGPOW
+
+$playersound	geminimanc	male	*taunt		GEMITAU2
+$playersound	geminimanc	female	*taunt		GEMITAU2
+$playersound	geminimanc	other	*taunt		GEMITAUN
+
+$playersound	sparkmanc	male	*taunt		SPRKTAU
+
+$playersound	topmanc	male	*taunt		TOPTAUN
+
+$playersound	needlemanc	male	*taunt		NEETAUN
+
+$playersound	snakemanc	male	*taunt		SNAKTAU
+
+$playersound	shadowmanc	male	*taunt		SHADTAU
+
+$playersound	hardmanc	male	*taunt		HARTAUN
+
+$playersound	docrobotc	male	*taunt		DOCTAUN
+
+$playersound	ringmanc	male	*taunt		RINGTAU
+
+$playersound	brightmanc	male	*taunt		BRITAUN
+
+$playersound	pharaohmanc	male	*taunt		PHATAUN
+
+$playersound	toadmanc	male	*taunt		TOADTAUN
+
+$playersound	dustmanc	male	*taunt		DUSTTAU
+
+$playersound	divemanc	male	*taunt		DIVTAU2
+
+$playersound	skullmanc	male	*taunt		SKULTAU
+
+$playersound	drillmanc	male	*taunt		DRILTAU
+
+$playersound	gyromanc	male	*taunt		GYROTAU
+
+STATAUN1 STATAUN1
+STATAUN2 STATAUN2
+STATAUN3 STATAUN3
+STATAUN4 STATAUN4
+//STATAUN5 STATAUN5
+$random STATAUN { STATAUN1 STATAUN2 STATAUN3 STATAUN4 /*STATAUN5*/}
+$playeralias	starmanc	male	*taunt		STATAUN
+
+$playersound	crystalmanc	male	*taunt		CRYTAU
+
+$playersound	gravitymanc	male	*taunt		GRAVTAU
+
+$playersound	wavemanc	male	*taunt		WAVTAUN
+
+$playersound	napalmmanc	male	*taunt		NAPATAU
+
+$playersound	stonemanc	male	*taunt		STONTAU
+
+$playersound	chargemanc	male	*taunt		CHARGTAU
+
+$playersound	darkman1c	male	*taunt		DAR1TAU
+
+$playersound	darkman2c	male	*taunt		DAR2TAU
+
+$playersound	darkman3c	male	*taunt		DAR3TAU
+
+$playersound	darkman4c	male	*taunt		DAR4TAU
+
+$playersound	blizzardmanc	male	*taunt		BLIZTAU
+
+$playersound	flamemanc	male	*taunt		FLAMTAU2
+
+$playersound	knightmanc	male	*taunt		KNITAU
+
+$playersound	tomahawkmanc	male	*taunt		TOMATAU
+
+$playersound	plantmanc	male	*taunt		PLANTAUN
+
+$playersound	windmanc	male	*taunt		WINDTAU
+
+$playersound	yamatomanc	male	*taunt		YAMATAUN
+
+$playersound	centaurmanc	male	*taunt		CENTAU
+
+$playersound	springmanc	male	*taunt		SPRTAUN
+$playersound	springmanc	female	*taunt		SPRTAUN
+$playersound	springmanc	other	*taunt		SPRTAUN2
+
+$playersound	burstmanc	male	*taunt		BURSTAU3
+
+$playersound	cloudmanc	male	*taunt		CLOUDTAU
+
+$playersound	freezemanc	male	*taunt		FREETAU
+
+$playersound	junkmanc	male	*taunt		JUNTAUN
+
+$playersound	turbomanc	male	*taunt		TURBTAUN
+
+$playersound	slashmanc	male	*taunt		SLASTAUN
+
+$playersound	shademanc	male	*taunt		SHDETAU
+
+$playersound	aquamanc	male	*taunt		AQUATAUN
+
+$playersound	astromanc	male	*taunt		ASTROTAU
+
+$playersound	clownmanc	male	*taunt		CLOWTAUN
+
+$playersound	frostmanc	male	*taunt		FROSTAUN
+
+$playersound	grenademanc	male	*taunt		GRENTAUN
+
+$playersound	searchmanc	male	*taunt		SEARTAUN
+
+$playersound	swordmanc	male	*taunt		SWORDTAU
+
+$playersound	tengumanc	male	*taunt		TENGUTAU
+
+$playersound	enkerc	male	*taunt		ENKTAU
+
+$playersound	quintc	male	*taunt		QUINTAU
+
+$playersound	punkc	male	*taunt		PUNKTAU
+
+$playersound	balladec	male	*taunt		BALDTAU2
+
+$playersound	busterrodgc	male	*taunt		BUSTTAU
+
+$playersound	megawatersc	male	*taunt		MWSTAUN
+
+$playersound	hyperstormhc	male	*taunt		PIGTAU
+
+$playersound	mercuryc	male	*taunt		MERCTAU
+
+$playersound	venusc	male	*taunt		VENUTAU
+
+$playersound	terrac	male	*taunt		TERRTAU
+
+$playersound	marsc		male	*taunt		MARSTAU
+
+$playersound	jupiterc	male	*taunt		JUPITAU2
+
+$playersound	saturnc	male	*taunt		SATUTAU
+
+$playersound	uranusc	male	*taunt		URATAU
+
+$playersound	neptunec	male	*taunt		NEPTTAU
+
+$playersound	plutoc	male	*taunt		PLUTTAU
+
+$playersound	magicmanc	male	*taunt		MAGITAU
+
+$playersound	dynamomanc	male	*taunt		DYNATAU
+
+$playersound	coldmanc	male	*taunt		COLDTAU
+
+BURTAU1       BURTAU1
+BURTAU2       BURTAU2
+$random BURNTAU { BURTAU1  BURTAU2  }
+$playeralias	burnermanc	male	*taunt		BURNTAU
+
+$playersound	piratemanc	male	*taunt		PIRATAU
+
+$playersound	groundmanc	male	*taunt		GROUTAU
+
+$playersound	kingc	male	*taunt		KINGTAU
+
+$playersound	tornadomanc	male	*taunt		TORNTAU
+
+$playersound	magmamanc	male	*taunt		MAGMTAU
+
+$playersound	hornetmanc	male	*taunt		NOTTHEBS
+
+SPLTAUN1       SPLTAUN1
+SPLTAUN2       SPLTAUN2
+SPLTAUN3       SPLTAUN3
+$random SPLTAUNT { SPLTAUN1  SPLTAUN2  SPLTAUN3 }
+$playeralias	splashwomanc	male	*taunt		SPLTAUNT
+
+$playersound	concretemanc	male	*taunt		CONCTAU1
+
+$playersound	galaxymanc	male	*taunt		SPACE
+
+$playersound	jewelmanc	male	*taunt		JEWTAUN2
+
+$playersound	plugmanc	male	*taunt		PLUGTAUN
+
+$playersound	solarmanc	male	*taunt		dsnone
+
+$playersound	chillmanc	male	*taunt		dsnone
+
+$playersound	nitromanc	male	*taunt		dsnone
+
+$playersound	commandomanc	male	*taunt		dsnone
+
+$playersound	blademanc	male	*taunt		dsnone
+
+$playersound	strikemanc	male	*taunt		dsnone
+
+$playersound	sheepmanc	male	*taunt		dsnone
+
+$playersound	pumpmanc	male	*taunt		dsnone
+
+$playersound	originalduoc	male	*taunt		ODUOTAU
+
+$playersound	evilrobotc	male	*taunt		EVILTAU
+
+$playersound	sunstarc	male	*taunt		dsnone
+
+$playersound	lightc	male	*taunt		dsnone
+
+$playersound	cossackc	male	*taunt		dsnone
+
+$playersound	copymegamanc	male	*taunt		dsnone
+
+$playersound	bbamegamanc	male	*taunt		dsnone
+
+$playersound	rathorc	male	*taunt		dsnone
+
+$playersound	alienc	male	*taunt		dsnone
+
+$playersound	weaponarchivec	male	*taunt		dsnone
+
+
+
+$playersound	danganmanc	male	*taunt		dsnone
+
+$playersound	konromanc	male	*taunt		dsnone
+
+$playersound	airconmanc	male	*taunt		dsnone
+
+$playersound	komusomanc	male	*taunt		dsnone
+
+$playersound	clockmenc	male	*taunt		dsnone
+
+$playersound	compassmanc	male	*taunt		dsnone
+
+$playersound	rshadowc	male	*taunt		dsnone

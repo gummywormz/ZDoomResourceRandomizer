@@ -1,0 +1,3012 @@
+texture KYOFLR1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX1, 0, 0
+   WorldPanning 
+}
+
+texture KYOFLR2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX2, 0, 0
+   WorldPanning 
+}
+
+texture KYOFLR3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX3, 0, 0
+   WorldPanning 
+}
+
+texture KYOFLR4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX4, 0, 0
+   WorldPanning 
+}
+
+texture KYOWAL1, 32, 304
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX5, 0, 0
+   WorldPanning 
+}
+
+texture KYOWAL2, 32, 320
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX6, 0, 0
+   WorldPanning 
+}
+
+texture KYOWAL3, 128, 144
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX7, 0, 0
+   WorldPanning 
+}
+
+texture KYORAIL, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX8, 0, 0
+   WorldPanning 
+}
+
+texture KYOTRE, 128, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX9, 0, 0
+   WorldPanning 
+}
+
+texture KYOVIN1, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX10, 0, 0
+   WorldPanning 
+}
+
+texture KYOVIN2, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX11, 0, 0
+   WorldPanning 
+}
+
+texture KYOVIN3, 32, 320
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX12, 0, 0
+   WorldPanning 
+}
+
+texture KYOSKY, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KYOTEX13, 0, 0
+   WorldPanning 
+}
+
+
+Texture SANSKY1, 64, 152
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch DESKY1, 0, 0
+}
+
+Texture SANSKY2, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch DESKY2, 0, 0
+}
+
+Texture SANSKY3, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch DESKY3, 0, 0
+}
+
+texture ALIWAL1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE01, 0, 0
+   WorldPanning 
+}
+
+texture ALIWAL2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE02, 0, 0
+   WorldPanning 
+}
+
+texture ALIWAL3, 16, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE01, 0, 0
+   Patch ALICE02, 0, 32
+   Patch ALICE02, 0, 64
+   Patch ALICE02, 0, 96
+   Patch ALICE02, 0, 128
+   Patch ALICE02, 0, 160
+   Patch ALICE02, 0, 192
+   Patch ALICE02, 0, 224
+   Patch ALICE02, 0, 256
+   Patch ALICE02, 0, 288
+   Patch ALICE02, 0, 320
+   Patch ALICE02, 0, 352
+   Patch ALICE02, 0, 384
+   Patch ALICE02, 0, 416
+   Patch ALICE02, 0, 448
+   Patch ALICE02, 0, 480
+   WorldPanning 
+}
+
+texture ALIWAL4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE03, 0, 0
+   WorldPanning 
+}
+
+texture ALIWAL5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE04, 0, 0
+   WorldPanning 
+}
+
+texture ALIWAL6, 16, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE03, 0, 0
+   Patch ALICE04, 0, 32
+   Patch ALICE04, 0, 64
+   Patch ALICE04, 0, 96
+   Patch ALICE04, 0, 128
+   Patch ALICE04, 0, 160
+   Patch ALICE04, 0, 192
+   Patch ALICE04, 0, 224
+   Patch ALICE04, 0, 256
+   Patch ALICE04, 0, 288
+   Patch ALICE04, 0, 320
+   Patch ALICE04, 0, 352
+   Patch ALICE04, 0, 384
+   Patch ALICE04, 0, 416
+   Patch ALICE04, 0, 448
+   Patch ALICE04, 0, 480
+   WorldPanning 
+}
+
+texture ALIRCK1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE05, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE06, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE07, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE08, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE09, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE10, 0, 0
+   WorldPanning 
+}
+
+texture ALIRCK7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALICE11, 0, 0
+   WorldPanning 
+}
+
+texture ICEMOON, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALIMOON, 0, 0
+   WorldPanning 
+}
+
+texture ALICHA, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALIFEN, 0, 0
+   WorldPanning 
+}
+
+texture GEMFAL1, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch NAGEM01, 0, 0
+   Patch NAGEM01, 0, 32
+   Patch NAGEM01, 0, 64
+   Patch NAGEM01, 0, 96
+   Patch NAGEM01, 0, 128
+   Patch NAGEM01, 0, 160
+   Patch NAGEM01, 0, 192
+   Patch NAGEM01, 0, 224
+   Patch NAGEM01, 0, 256
+   Patch NAGEM01, 0, 288
+   Patch NAGEM01, 0, 320
+   Patch NAGEM01, 0, 352
+   Patch NAGEM01, 0, 384
+   Patch NAGEM01, 0, 416
+   Patch NAGEM01, 0, 448
+   Patch NAGEM02, 0, 480
+   WorldPanning 
+}
+
+texture GEMFAL2, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch NAGEM03, 0, 0
+   Patch NAGEM03, 0, 32
+   Patch NAGEM03, 0, 64
+   Patch NAGEM03, 0, 96
+   Patch NAGEM03, 0, 128
+   Patch NAGEM03, 0, 160
+   Patch NAGEM03, 0, 192
+   Patch NAGEM03, 0, 224
+   Patch NAGEM03, 0, 256
+   Patch NAGEM03, 0, 288
+   Patch NAGEM03, 0, 320
+   Patch NAGEM03, 0, 352
+   Patch NAGEM03, 0, 384
+   Patch NAGEM03, 0, 416
+   Patch NAGEM03, 0, 448
+   Patch NAGEM04, 0, 480
+   WorldPanning 
+}
+
+texture GEMFAL3, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch NAGEM05, 0, 0
+   Patch NAGEM05, 0, 32
+   Patch NAGEM05, 0, 64
+   Patch NAGEM05, 0, 96
+   Patch NAGEM05, 0, 128
+   Patch NAGEM05, 0, 160
+   Patch NAGEM05, 0, 192
+   Patch NAGEM05, 0, 224
+   Patch NAGEM05, 0, 256
+   Patch NAGEM05, 0, 288
+   Patch NAGEM05, 0, 320
+   Patch NAGEM05, 0, 352
+   Patch NAGEM05, 0, 384
+   Patch NAGEM05, 0, 416
+   Patch NAGEM05, 0, 448
+   Patch NAGEM06, 0, 480
+   WorldPanning 
+}
+
+texture ANISTAR1, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY1, 0, 0
+   WorldPanning 
+}
+
+texture ANISTAR2, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY2, 0, 0
+   WorldPanning 
+}
+
+texture ANISTAR3, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY3, 0, 0
+   WorldPanning 
+}
+
+
+Texture CHEGRS, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WODC4, 0, 0
+	Patch WODC5, 16, 0
+}
+
+Texture CHERRY1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WODC10, 0, 0
+}
+
+Texture CHERRY2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WODC11, 0, 0
+}
+
+Texture CHERRY3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WODC12, 0, 0
+}
+
+Texture CHERRY4, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WOOC38, 0, 0
+}
+
+Texture CHERRY5, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WOOC39, 0, 0
+}
+
+Texture CHERRY6, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WOOC40, 0, 0
+}
+
+Texture CHETRE, 112, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WODC13, 0, 0
+}
+
+Texture WTWAL, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch CHEWAL3, 0, 0
+}
+
+texture NEON0, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Bla, 0, 0
+   WorldPanning 
+}
+
+texture NEON1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu1, 0, 0
+   WorldPanning 
+}
+
+texture NEON2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu2, 0, 0
+   WorldPanning 
+}
+
+texture NEON3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu3, 0, 0
+   WorldPanning 
+}
+
+texture NEON4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu4, 0, 0
+   WorldPanning 
+}
+
+texture NEON5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu5, 0, 0
+   WorldPanning 
+}
+
+texture NEON6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu6, 0, 0
+   WorldPanning 
+}
+
+texture NEON7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu7, 0, 0
+   WorldPanning 
+}
+
+texture NEON8, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu8, 0, 0
+   WorldPanning 
+}
+
+texture NEON9, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu9, 0, 0
+   WorldPanning 
+}
+
+texture NEON10, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu10, 0, 0
+   WorldPanning 
+}
+
+texture NEON11, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu11, 0, 0
+   WorldPanning 
+}
+
+texture NEON12, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu12, 0, 0
+   WorldPanning 
+}
+
+texture NEON13, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu13, 0, 0
+   WorldPanning 
+}
+
+texture NEON14, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu14, 0, 0
+   WorldPanning 
+}
+
+texture NEON15, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur1, 0, 0
+   WorldPanning 
+}
+
+texture NEON16, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur2, 0, 0
+   WorldPanning 
+}
+
+texture NEON17, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur3, 0, 0
+   WorldPanning 
+}
+
+texture NEON18, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur4, 0, 0
+   WorldPanning 
+}
+
+texture NEON19, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur5, 0, 0
+   WorldPanning 
+}
+
+texture NEON20, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur6, 0, 0
+   WorldPanning 
+}
+
+texture NEON21, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur7, 0, 0
+   WorldPanning 
+}
+
+texture NEON22, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur8, 0, 0
+   WorldPanning 
+}
+
+texture NEON23, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur9, 0, 0
+   WorldPanning 
+}
+
+texture NEON24, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur10, 0, 0
+   WorldPanning 
+}
+
+texture NEON25, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur11, 0, 0
+   WorldPanning 
+}
+
+texture NEON26, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur12, 0, 0
+   WorldPanning 
+}
+
+texture NEON27, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur13, 0, 0
+   WorldPanning 
+}
+
+texture NEON28, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur14, 0, 0
+   WorldPanning 
+}
+
+texture NEON29, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre1, 0, 0
+   WorldPanning 
+}
+
+texture NEON30, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre2, 0, 0
+   WorldPanning 
+}
+
+texture NEON31, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre3, 0, 0
+   WorldPanning 
+}
+
+texture NEON32, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre4, 0, 0
+   WorldPanning 
+}
+
+texture NEON33, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre5, 0, 0
+   WorldPanning 
+}
+
+texture NEON34, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre6, 0, 0
+   WorldPanning 
+}
+
+texture NEON35, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre7, 0, 0
+   WorldPanning 
+}
+
+texture NEON36, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre8, 0, 0
+   WorldPanning 
+}
+
+texture NEON37, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre9, 0, 0
+   WorldPanning 
+}
+
+texture NEON38, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre10, 0, 0
+   WorldPanning 
+}
+
+texture NEON39, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre11, 0, 0
+   WorldPanning 
+}
+
+texture NEON40, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre12, 0, 0
+   WorldPanning 
+}
+
+texture NEON41, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre13, 0, 0
+   WorldPanning 
+}
+
+texture NEON42, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre14, 0, 0
+   WorldPanning 
+}
+
+texture NEON43, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red1, 0, 0
+   WorldPanning 
+}
+
+texture NEON44, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red2, 0, 0
+   WorldPanning 
+}
+
+texture NEON45, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red3, 0, 0
+   WorldPanning 
+}
+
+texture NEON46, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red4, 0, 0
+   WorldPanning 
+}
+
+texture NEON47, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red5, 0, 0
+   WorldPanning 
+}
+
+texture NEON48, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red6, 0, 0
+   WorldPanning 
+}
+
+texture NEON49, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red7, 0, 0
+   WorldPanning 
+}
+
+texture NEON50, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red8, 0, 0
+   WorldPanning 
+}
+
+texture NEON51, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red9, 0, 0
+   WorldPanning 
+}
+
+texture NEON52, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red10, 0, 0
+   WorldPanning 
+}
+
+texture NEON53, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red11, 0, 0
+   WorldPanning 
+}
+
+texture NEON54, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red12, 0, 0
+   WorldPanning 
+}
+
+texture NEON55, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red13, 0, 0
+   WorldPanning 
+}
+
+texture NEON56, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red14, 0, 0
+   WorldPanning 
+}
+
+texture NEON57, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu15, 0, 0
+   WorldPanning 
+}
+
+texture NEON58, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu16, 0, 0
+   WorldPanning 
+}
+
+texture NEON59, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu17, 0, 0
+   WorldPanning 
+}
+
+texture NEON60, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur15, 0, 0
+   WorldPanning 
+}
+
+texture NEON61, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur16, 0, 0
+   WorldPanning 
+}
+
+texture NEON62, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur17, 0, 0
+   WorldPanning 
+}
+
+texture NEON63, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre15, 0, 0
+   WorldPanning 
+}
+
+texture NEON64, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre16, 0, 0
+   WorldPanning 
+}
+
+texture NEON65, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre17, 0, 0
+   WorldPanning 
+}
+
+texture NEON66, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red15, 0, 0
+   WorldPanning 
+}
+
+texture NEON67, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red16, 0, 0
+   WorldPanning 
+}
+
+texture NEON68, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red17, 0, 0
+   WorldPanning 
+}
+
+texture NEON69, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu1, 0, 0
+   Patch Blu2, 0, 32
+   Patch Blu2, 0, 64
+   Patch Blu2, 0, 96
+   Patch Blu2, 0, 128
+   Patch Blu2, 0, 160
+   Patch Blu2, 0, 192
+   Patch Blu2, 0, 224
+   Patch Blu2, 0, 256
+   Patch Blu2, 0, 288
+   Patch Blu2, 0, 320
+   Patch Blu2, 0, 352
+   Patch Blu2, 0, 384
+   Patch Blu2, 0, 416
+   Patch Blu2, 0, 448
+   Patch Blu2, 0, 480
+   WorldPanning 
+}
+
+texture NEON70, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu3, 0, 0
+   Patch Bla, 0, 32
+   Patch Bla, 0, 64
+   Patch Bla, 0, 96
+   Patch Bla, 0, 128
+   Patch Bla, 0, 160
+   Patch Bla, 0, 192
+   Patch Bla, 0, 224
+   Patch Bla, 0, 256
+   Patch Bla, 0, 288
+   Patch Bla, 0, 320
+   Patch Bla, 0, 352
+   Patch Bla, 0, 384
+   Patch Bla, 0, 416
+   Patch Bla, 0, 448
+   Patch Bla, 0, 480
+   WorldPanning 
+}
+
+texture NEON71, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu4, 0, 0
+   Patch Blu7, 0, 32
+   Patch Blu7, 0, 64
+   Patch Blu7, 0, 96
+   Patch Blu7, 0, 128
+   Patch Blu7, 0, 160
+   Patch Blu7, 0, 192
+   Patch Blu7, 0, 224
+   Patch Blu7, 0, 256
+   Patch Blu7, 0, 288
+   Patch Blu7, 0, 320
+   Patch Blu7, 0, 352
+   Patch Blu7, 0, 384
+   Patch Blu7, 0, 416
+   Patch Blu7, 0, 448
+   Patch Blu7, 0, 480
+   WorldPanning 
+}
+
+
+
+texture NEON72, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur1, 0, 0
+   Patch Pur2, 0, 32
+   Patch Pur2, 0, 64
+   Patch Pur2, 0, 96
+   Patch Pur2, 0, 128
+   Patch Pur2, 0, 160
+   Patch Pur2, 0, 192
+   Patch Pur2, 0, 224
+   Patch Pur2, 0, 256
+   Patch Pur2, 0, 288
+   Patch Pur2, 0, 320
+   Patch Pur2, 0, 352
+   Patch Pur2, 0, 384
+   Patch Pur2, 0, 416
+   Patch Pur2, 0, 448
+   Patch Pur2, 0, 480
+   WorldPanning 
+}
+
+texture NEON73, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur3, 0, 0
+   Patch Bla, 0, 32
+   Patch Bla, 0, 64
+   Patch Bla, 0, 96
+   Patch Bla, 0, 128
+   Patch Bla, 0, 160
+   Patch Bla, 0, 192
+   Patch Bla, 0, 224
+   Patch Bla, 0, 256
+   Patch Bla, 0, 288
+   Patch Bla, 0, 320
+   Patch Bla, 0, 352
+   Patch Bla, 0, 384
+   Patch Bla, 0, 416
+   Patch Bla, 0, 448
+   Patch Bla, 0, 480
+   WorldPanning 
+}
+
+texture NEON74, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur4, 0, 0
+   Patch Pur7, 0, 32
+   Patch Pur7, 0, 64
+   Patch Pur7, 0, 96
+   Patch Pur7, 0, 128
+   Patch Pur7, 0, 160
+   Patch Pur7, 0, 192
+   Patch Pur7, 0, 224
+   Patch Pur7, 0, 256
+   Patch Pur7, 0, 288
+   Patch Pur7, 0, 320
+   Patch Pur7, 0, 352
+   Patch Pur7, 0, 384
+   Patch Pur7, 0, 416
+   Patch Pur7, 0, 448
+   Patch Pur7, 0, 480
+   WorldPanning 
+}
+
+texture NEON75, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre1, 0, 0
+   Patch Gre2, 0, 32
+   Patch Gre2, 0, 64
+   Patch Gre2, 0, 96
+   Patch Gre2, 0, 128
+   Patch Gre2, 0, 160
+   Patch Gre2, 0, 192
+   Patch Gre2, 0, 224
+   Patch Gre2, 0, 256
+   Patch Gre2, 0, 288
+   Patch Gre2, 0, 320
+   Patch Gre2, 0, 352
+   Patch Gre2, 0, 384
+   Patch Gre2, 0, 416
+   Patch Gre2, 0, 448
+   Patch Gre2, 0, 480
+   WorldPanning 
+}
+
+texture NEON76, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre3, 0, 0
+   Patch Bla, 0, 32
+   Patch Bla, 0, 64
+   Patch Bla, 0, 96
+   Patch Bla, 0, 128
+   Patch Bla, 0, 160
+   Patch Bla, 0, 192
+   Patch Bla, 0, 224
+   Patch Bla, 0, 256
+   Patch Bla, 0, 288
+   Patch Bla, 0, 320
+   Patch Bla, 0, 352
+   Patch Bla, 0, 384
+   Patch Bla, 0, 416
+   Patch Bla, 0, 448
+   Patch Bla, 0, 480
+   WorldPanning 
+}
+
+texture NEON77, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre4, 0, 0
+   Patch Gre7, 0, 32
+   Patch Gre7, 0, 64
+   Patch Gre7, 0, 96
+   Patch Gre7, 0, 128
+   Patch Gre7, 0, 160
+   Patch Gre7, 0, 192
+   Patch Gre7, 0, 224
+   Patch Gre7, 0, 256
+   Patch Gre7, 0, 288
+   Patch Gre7, 0, 320
+   Patch Gre7, 0, 352
+   Patch Gre7, 0, 384
+   Patch Gre7, 0, 416
+   Patch Gre7, 0, 448
+   Patch Gre7, 0, 480
+   WorldPanning 
+}
+
+texture NEON78, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red1, 0, 0
+   Patch Red2, 0, 32
+   Patch Red2, 0, 64
+   Patch Red2, 0, 96
+   Patch Red2, 0, 128
+   Patch Red2, 0, 160
+   Patch Red2, 0, 192
+   Patch Red2, 0, 224
+   Patch Red2, 0, 256
+   Patch Red2, 0, 288
+   Patch Red2, 0, 320
+   Patch Red2, 0, 352
+   Patch Red2, 0, 384
+   Patch Red2, 0, 416
+   Patch Red2, 0, 448
+   Patch Red2, 0, 480
+   WorldPanning 
+}
+
+texture NEON79, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red3, 0, 0
+   Patch Bla, 0, 32
+   Patch Bla, 0, 64
+   Patch Bla, 0, 96
+   Patch Bla, 0, 128
+   Patch Bla, 0, 160
+   Patch Bla, 0, 192
+   Patch Bla, 0, 224
+   Patch Bla, 0, 256
+   Patch Bla, 0, 288
+   Patch Bla, 0, 320
+   Patch Bla, 0, 352
+   Patch Bla, 0, 384
+   Patch Bla, 0, 416
+   Patch Bla, 0, 448
+   Patch Bla, 0, 480
+   WorldPanning 
+}
+
+texture NEON80, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red4, 0, 0
+   Patch Red7, 0, 32
+   Patch Red7, 0, 64
+   Patch Red7, 0, 96
+   Patch Red7, 0, 128
+   Patch Red7, 0, 160
+   Patch Red7, 0, 192
+   Patch Red7, 0, 224
+   Patch Red7, 0, 256
+   Patch Red7, 0, 288
+   Patch Red7, 0, 320
+   Patch Red7, 0, 352
+   Patch Red7, 0, 384
+   Patch Red7, 0, 416
+   Patch Red7, 0, 448
+   Patch Red7, 0, 480
+   WorldPanning 
+}
+
+texture NEON81, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu10, 0, 0
+   Patch Blu11, 0, 32
+   Patch Blu11, 0, 64
+   Patch Blu11, 0, 96
+   Patch Blu11, 0, 128
+   Patch Blu11, 0, 160
+   Patch Blu11, 0, 192
+   Patch Blu11, 0, 224
+   Patch Blu11, 0, 256
+   Patch Blu11, 0, 288
+   Patch Blu11, 0, 320
+   Patch Blu11, 0, 352
+   Patch Blu11, 0, 384
+   Patch Blu11, 0, 416
+   Patch Blu11, 0, 448
+   Patch Blu11, 0, 480
+   WorldPanning 
+}
+
+texture NEON82, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur10, 0, 0
+   Patch Pur11, 0, 32
+   Patch Pur11, 0, 64
+   Patch Pur11, 0, 96
+   Patch Pur11, 0, 128
+   Patch Pur11, 0, 160
+   Patch Pur11, 0, 192
+   Patch Pur11, 0, 224
+   Patch Pur11, 0, 256
+   Patch Pur11, 0, 288
+   Patch Pur11, 0, 320
+   Patch Pur11, 0, 352
+   Patch Pur11, 0, 384
+   Patch Pur11, 0, 416
+   Patch Pur11, 0, 448
+   Patch Pur11, 0, 480
+   WorldPanning 
+}
+
+texture NEON83, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre10, 0, 0
+   Patch Gre11, 0, 32
+   Patch Gre11, 0, 64
+   Patch Gre11, 0, 96
+   Patch Gre11, 0, 128
+   Patch Gre11, 0, 160
+   Patch Gre11, 0, 192
+   Patch Gre11, 0, 224
+   Patch Gre11, 0, 256
+   Patch Gre11, 0, 288
+   Patch Gre11, 0, 320
+   Patch Gre11, 0, 352
+   Patch Gre11, 0, 384
+   Patch Gre11, 0, 416
+   Patch Gre11, 0, 448
+   Patch Gre11, 0, 480
+   WorldPanning 
+}
+
+texture NEON84, 32, 512
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red10, 0, 0
+   Patch Red11, 0, 32
+   Patch Red11, 0, 64
+   Patch Red11, 0, 96
+   Patch Red11, 0, 128
+   Patch Red11, 0, 160
+   Patch Red11, 0, 192
+   Patch Red11, 0, 224
+   Patch Red11, 0, 256
+   Patch Red11, 0, 288
+   Patch Red11, 0, 320
+   Patch Red11, 0, 352
+   Patch Red11, 0, 384
+   Patch Red11, 0, 416
+   Patch Red11, 0, 448
+   Patch Red11, 0, 480
+   WorldPanning 
+}
+
+texture NEON85, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Blu18, 0, 0
+   WorldPanning 
+}
+
+texture NEON86, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Pur18, 0, 0
+   WorldPanning 
+}
+
+texture NEON87, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Gre18, 0, 0
+   WorldPanning 
+}
+
+texture NEON88, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch Red18, 0, 0
+   WorldPanning 
+}
+
+texture COSMOON, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch SUBSR01, 0, 0
+   WorldPanning 
+}
+
+texture METALCRA, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch STECRA, 0, 0
+   WorldPanning 
+}
+
+
+texture ANISTAR1, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY1, 0, 0
+   WorldPanning 
+}
+
+texture ANISTAR2, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY2, 0, 0
+   WorldPanning 
+}
+
+texture ANISTAR3, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ALISKY3, 0, 0
+   WorldPanning 
+}
+
+texture CLEFLR1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO1, 0, 0
+   WorldPanning 
+}
+
+texture CLEFLR2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO2, 0, 0
+   WorldPanning 
+}
+
+texture CLEFLR3, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO3, 0, 0
+   WorldPanning 
+}
+
+texture CLEFLR4, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO4, 0, 0
+   WorldPanning 
+}
+
+texture CLEFLR5, 256, 176
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO5, 0, 0
+   WorldPanning 
+}
+
+texture ROZLEAF, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO6, 0, 0
+   WorldPanning 
+}
+
+texture ROZMTN, 24, 656
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO7, 0, 0
+   Patch ROZFO8, 0, 16
+   Patch ROZFO8, 0, 32
+   Patch ROZFO8, 0, 64
+   Patch ROZFO8, 0, 96
+   Patch ROZFO8, 0, 128
+   Patch ROZFO8, 0, 160
+   Patch ROZFO8, 0, 192
+   Patch ROZFO8, 0, 224
+   Patch ROZFO8, 0, 256
+   Patch ROZFO8, 0, 272
+   Patch ROZFO8, 0, 304
+   Patch ROZFO8, 0, 336
+   Patch ROZFO8, 0, 368
+   Patch ROZFO8, 0, 400
+   Patch ROZFO8, 0, 432
+   Patch ROZFO8, 0, 464
+   Patch ROZFO8, 0, 496
+   Patch ROZFO8, 0, 528
+   Patch ROZFO8, 0, 560
+   Patch ROZFO8, 0, 592
+   Patch ROZFO8, 0, 624
+   WorldPanning 
+}
+
+texture ROZGRN, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO8, 0, 0
+   WorldPanning 
+}
+
+texture ROZCLE, 512, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO9, 0, 0
+   WorldPanning 
+}
+
+texture ROZBLUE, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ROZFO10, 0, 0
+   WorldPanning 
+}
+
+texture CAPBACK1, 512, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP01, 0, 0
+   WorldPanning 
+}
+
+texture ICAPSKY, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP05, 0, 0
+   WorldPanning 
+}
+
+texture CAPWAT1, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP06, 0, 0
+   WorldPanning 
+}
+
+texture CAPWAT2, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP07, 0, 0
+   WorldPanning 
+}
+
+texture CAPWAT3, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP08, 0, 0
+   WorldPanning 
+}
+
+texture CAPWAT4, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch ICAP09, 0, 0
+   WorldPanning 
+}
+
+texture XMSBRX, 32, 1312
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPLT, 0, 0
+   Patch XMSBPL1, 0, 32
+   Patch XMSBPL2, 0, 64
+   Patch XMSBPL3, 0, 96
+   Patch XMSBPL1, 0, 128
+   Patch XMSBPL2, 0, 160
+   Patch XMSBPL3, 0, 192
+   Patch XMSBPL1, 0, 224
+   Patch XMSBPL2, 0, 256
+   Patch XMSBPL3, 0, 288
+   Patch XMSBPL1, 0, 320
+   Patch XMSBPL2, 0, 352
+   Patch XMSBPL3, 0, 384
+   Patch XMSBPL4, 0, 416
+   Patch XMSBPL1, 0, 448
+   Patch XMSBPL2, 0, 480
+   Patch XMSBPL3, 0, 512
+   Patch XMSBPL3, 0, 544
+   WorldPanning 
+}
+
+texture XMSGRX, 32, 1312
+{
+    XScale 0.5
+   YScale 0.5
+   Patch XMSGPLT, 0, 0
+   Patch XMSGPL1, 0, 32
+   Patch XMSGPL2, 0, 64
+   Patch XMSGPL3, 0, 96
+   Patch XMSGPL1, 0, 128
+   Patch XMSGPL2, 0, 160
+   Patch XMSGPL3, 0, 192
+   Patch XMSGPL1, 0, 224
+   Patch XMSGPL2, 0, 256
+   Patch XMSGPL3, 0, 288
+   Patch XMSGPL1, 0, 320
+   Patch XMSGPL2, 0, 352
+   Patch XMSGPL3, 0, 384
+   Patch XMSGPL4, 0, 416
+   Patch XMSGPL1, 0, 448
+   Patch XMSGPL2, 0, 480
+   Patch XMSGPL3, 0, 512
+   Patch XMSGPL3, 0, 544
+   WorldPanning 
+}
+
+texture XMSSNOW1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSSNO1, 0, 0
+   WorldPanning
+}
+
+texture XMSSNOW2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSSNO2, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPLT, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPL1, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPL2, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPL3, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSBPL4, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSGPLT, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSGPL1, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL8, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSGPL2, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL9, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSGPL3, 0, 0
+   WorldPanning
+}
+
+texture ICEPIL10, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch XMSGPL4, 0, 0
+   WorldPanning
+}
+
+texture CHAREND3, 176, 160
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CHAR1, 0, 0
+   WorldPanning 
+}
+
+texture CHAREND4, 176, 160
+{
+   XScale 0.5
+   YScale 0.5
+   Patch CHAR2, 0, 0
+   WorldPanning 
+}
+
+texture KTILE, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch KITCH1, 0, 0
+   WorldPanning 
+}
+
+texture WCUTSTP1, 48, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT76, 0, 0
+   WorldPanning 
+}
+
+texture WCUTSTP2, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT81, 0, 0
+   WorldPanning 
+}
+
+texture WCUTPIP1, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT86, 0, 0
+   WorldPanning 
+}
+
+texture WCUTSTP3, 48, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT85, 0, 0
+   WorldPanning 
+}
+
+texture WCUTFLR1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT83, 0, 0
+   WorldPanning 
+}
+
+texture WCUTFLR2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT1, 0, 0
+   WorldPanning 
+}
+
+texture WCUTFLR3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWCUT2, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTFL1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT01, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTWL1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT02, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTWL2, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT03, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTWL3, 16, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT04, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTFL2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT05, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTFL3, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT06, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTFL4, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT07, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTGR1, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT08, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTGR2, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT09, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTSP1, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT10, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTSP2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT11, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTGR3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT12, 0, 0
+   WorldPanning 
+}
+
+texture WWGUTGR4, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT13, 0, 0
+   WorldPanning 
+}
+
+texture WGUTCA1, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT14, 0, 0
+   WorldPanning 
+}
+
+texture WGUTCA2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT15, 0, 0
+   WorldPanning 
+}
+
+texture WGUTGR5, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT16, 0, 0
+   WorldPanning 
+}
+
+texture WGUTWL4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT17, 0, 0
+   WorldPanning 
+}
+
+texture WGUTGR6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT18, 0, 0
+   WorldPanning 
+}
+
+texture WGUTFL5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT19, 0, 0
+   WorldPanning 
+}
+
+texture WGUTFL6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT20, 0, 0
+   WorldPanning 
+}
+
+texture WGUTGR7, 32, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT21, 0, 0
+   WorldPanning 
+}
+
+texture WGUTSTR, 32, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT22, 0, 0
+   WorldPanning 
+}
+
+texture WGUTL1, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT23, 0, 0
+   WorldPanning 
+}
+
+texture WGUTL2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT24, 0, 0
+   WorldPanning 
+}
+
+texture WGUTCBL, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT25, 0, 0
+   WorldPanning 
+}
+
+texture WGUTSPK, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT26, 0, 0
+   WorldPanning 
+}
+
+texture WGUTMET1, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT27, 0, 0
+   WorldPanning 
+}
+
+texture WGUTMET2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT28, 0, 0
+   WorldPanning 
+}
+
+texture WGUTMET3, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT29, 0, 0
+   WorldPanning 
+}
+
+texture WGUTMET4, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT30, 0, 0
+   WorldPanning 
+}
+
+texture WGUTCAU, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT31, 0, 0
+   WorldPanning 
+}
+
+texture WGUTSKY1, 256, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT32, 0, 0
+   WorldPanning 
+}
+
+texture WGUTSKY2, 256, 160
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WWGUT33, 0, 0
+   WorldPanning 
+}
+
+texture ROZSET1, 512, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch SNT1, 0, 0
+   WorldPanning 
+}
+
+texture ROZSET2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch SNT2, 0, 0
+   WorldPanning 
+}
+
+texture BOATPLA1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT01, 0, 0
+   WorldPanning 
+}
+
+texture BOATWAL1, 32, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT02, 0, 0
+   Patch BOAT10, 0, 16
+   Patch BOAT10, 0, 32
+   Patch BOAT10, 0, 48
+   Patch BOAT10, 0, 64
+   Patch BOAT10, 0, 80
+   Patch BOAT10, 0, 96
+   Patch BOAT10, 0, 112
+   Patch BOAT10, 0, 128
+   Patch BOAT10, 0, 144
+   Patch BOAT10, 0, 160
+   Patch BOAT10, 0, 176
+   Patch BOAT10, 0, 192
+   Patch BOAT10, 0, 208
+   Patch BOAT10, 0, 224
+   Patch BOAT06, 0, 240   
+   //Second Row   
+   Patch BOAT03, 16, 0
+   Patch BOAT08, 16, 16
+   Patch BOAT08, 16, 32
+   Patch BOAT08, 16, 48
+   Patch BOAT08, 16, 64
+   Patch BOAT08, 16, 80
+   Patch BOAT08, 16, 96
+   Patch BOAT08, 16, 112
+   Patch BOAT08, 16, 128
+   Patch BOAT08, 16, 144
+   Patch BOAT08, 16, 160
+   Patch BOAT08, 16, 176
+   Patch BOAT08, 16, 192
+   Patch BOAT08, 16, 208
+   Patch BOAT08, 16, 224
+   Patch BOAT09, 16, 240
+   WorldPanning 
+}
+
+texture BOATPLA2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT12, 0, 0
+   Patch BOAT11, 0, 16
+   WorldPanning 
+}
+
+texture BOATPIP, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT13, 0, 0
+   WorldPanning 
+}
+
+texture BOATWAL2, 32, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT14, 0, 0
+   WorldPanning 
+}
+
+texture BOATWAL3, 32, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT15, 0, 0
+   Patch BOAT10, 0, 16
+   Patch BOAT05, 16, 16
+   Patch BOAT10, 0, 32
+   Patch BOAT05, 16, 32
+   Patch BOAT10, 0, 48
+   Patch BOAT05, 16, 48
+   Patch BOAT10, 0, 64
+   Patch BOAT05, 16, 64
+   Patch BOAT10, 0, 80
+   Patch BOAT05, 16, 80
+   Patch BOAT10, 0, 96
+   Patch BOAT05, 16, 96
+   Patch BOAT10, 0, 112
+   Patch BOAT05, 16, 112
+   WorldPanning 
+}
+
+texture BOATWAL4, 64, 256
+{
+   XScale 0.5
+   YScale 0.5
+   Patch BOAT02, 0, 0
+   Patch BOAT10, 0, 16
+   Patch BOAT10, 0, 32
+   Patch BOAT10, 0, 48
+   Patch BOAT10, 0, 64
+   Patch BOAT10, 0, 80
+   Patch BOAT10, 0, 96
+   Patch BOAT10, 0, 112
+   Patch BOAT10, 0, 128
+   Patch BOAT10, 0, 144
+   Patch BOAT10, 0, 160
+   Patch BOAT10, 0, 176
+   Patch BOAT10, 0, 192
+   Patch BOAT10, 0, 208
+   Patch BOAT10, 0, 224
+   Patch BOAT06, 0, 240
+   //Second Row
+   Patch BOAT02, 16, 0
+   Patch BOAT10, 16, 16
+   Patch BOAT10, 16, 32
+   Patch BOAT10, 16, 48
+   Patch BOAT10, 16, 64
+   Patch BOAT10, 16, 80
+   Patch BOAT10, 16, 96
+   Patch BOAT10, 16, 112
+   Patch BOAT10, 16, 128
+   Patch BOAT10, 16, 144
+   Patch BOAT10, 16, 160
+   Patch BOAT10, 16, 176
+   Patch BOAT10, 16, 192
+   Patch BOAT10, 16, 208
+   Patch BOAT10, 16, 224
+   Patch BOAT06, 16, 240
+   //Third Row
+   Patch BOAT02, 32, 0
+   Patch BOAT10, 32, 16
+   Patch BOAT10, 32, 32
+   Patch BOAT10, 32, 48
+   Patch BOAT10, 32, 64
+   Patch BOAT10, 32, 80
+   Patch BOAT10, 32, 96
+   Patch BOAT10, 32, 112
+   Patch BOAT10, 32, 128
+   Patch BOAT10, 32, 144
+   Patch BOAT10, 32, 160
+   Patch BOAT10, 32, 176
+   Patch BOAT10, 32, 192
+   Patch BOAT10, 32, 208
+   Patch BOAT10, 32, 224
+   Patch BOAT06, 32, 240
+   //Fourth Row
+   Patch BOAT04, 48, 0
+   Patch BOAT05, 48, 16
+   Patch BOAT05, 48, 32
+   Patch BOAT05, 48, 48
+   Patch BOAT05, 48, 64
+   Patch BOAT05, 48, 80
+   Patch BOAT05, 48, 96
+   Patch BOAT05, 48, 112
+   Patch BOAT05, 48, 128
+   Patch BOAT05, 48, 144
+   Patch BOAT05, 48, 160
+   Patch BOAT05, 48, 176
+   Patch BOAT05, 48, 192
+   Patch BOAT05, 48, 208
+   Patch BOAT05, 48, 224
+   Patch BOAT07, 48, 240
+   WorldPanning 
+}
+
+Texture BOATPIL, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch BOAT17, 0, 0
+	Patch BOAT16, 0, 16
+	Patch BOAT16, 0, 32
+	Patch BOAT16, 0, 48
+	Patch BOAT16, 0, 64
+	Patch BOAT16, 0, 80
+	Patch BOAT16, 0, 96
+	Patch BOAT16, 0, 112
+	Patch BOAT16, 0, 128
+	Patch BOAT16, 0, 144
+	Patch BOAT16, 0, 160
+	Patch BOAT16, 0, 176
+	Patch BOAT16, 0, 192
+	Patch BOAT16, 0, 208
+	Patch BOAT16, 0, 224
+	Patch BOAT16, 0, 240
+}
+
+texture TOXWAT1, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX01, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT2, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX02, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT3, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX03, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT4, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX04, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX05, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX06, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX07, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP1, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP2, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP3, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP4, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP4, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP5, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP5, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP6, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP6, 0, 0
+   WorldPanning 
+}
+
+texture ROZPIP7, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch RPIP7, 0, 0
+   WorldPanning 
+}
+
+texture PSKYA1, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY1, 0, 0
+   WorldPanning 
+}
+
+texture PSKYA2, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY2, 0, 0
+   WorldPanning 
+}
+
+texture PSKYA3, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY3, 0, 0
+   WorldPanning 
+}
+
+texture PSKYB1, 256, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY4, 0, 0
+   WorldPanning 
+}
+
+texture PSKYB2, 256, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY5, 0, 0
+   WorldPanning 
+}
+
+texture PSKYB3, 256, 128
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PARTY6, 0, 0
+   WorldPanning 
+}
+
+// Texture definitions generated by SLADE3
+// on Fri Jul 26 22:39:00 2013
+
+Texture TEMFLR1, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM5, 0, 0
+}
+
+Texture TEMFLR2, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM4, 0, 0
+}
+
+Texture TEMFLR3, 128, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM6, 0, 0
+}
+
+Texture TEMWOOD, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM9, 0, 0
+}
+
+Texture TEMWAL1, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM1, 0, 0
+	Patch TEM2, 0, 16
+	Patch TEM3, 0, 32
+	Patch TEM4, 0, 48
+	Patch TEM2, 0, 64
+	Patch TEM3, 0, 80
+	Patch TEM4, 0, 96
+	Patch TEM2, 0, 112
+	Patch TEM3, 0, 128
+	Patch TEM4, 0, 144
+	Patch TEM2, 0, 160
+	Patch TEM3, 0, 176
+	Patch TEM4, 0, 192
+	Patch TEM2, 0, 208
+	Patch TEM3, 0, 224
+	Patch TEM4, 0, 240
+}
+
+Texture TEMWAL2, 128, 288
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM7, 0, 0
+	Patch TEM8, 0, 32
+	Patch TEM8, 0, 96
+	Patch TEM8, 0, 160
+	Patch TEM8, 0, 224
+}
+
+Texture TEMWAL3, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM9, 0, 0
+	Patch TEM1, 0, 16
+	Patch TEM2, 0, 32
+	Patch TEM3, 0, 48
+	Patch TEM4, 0, 64
+	Patch TEM2, 0, 80
+	Patch TEM3, 0, 96
+	Patch TEM4, 0, 112
+	Patch TEM2, 0, 128
+	Patch TEM3, 0, 144
+	Patch TEM4, 0, 160
+	Patch TEM2, 0, 176
+	Patch TEM3, 0, 192
+	Patch TEM4, 0, 208
+	Patch TEM2, 0, 224
+	Patch TEM3, 0, 240
+}
+
+Texture TEMSKY, 256, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM16, 0, 0
+}
+
+Texture TEMWAL4, 96, 480
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM10, 0, 0
+	Patch TEM12, 0, 16
+	Patch TEM14, 0, 48
+	Patch TEM12, 0, 80
+	Patch TEM12, 0, 112
+	Patch TEM13, 0, 144
+	Patch TEM12, 0, 176
+	Patch TEM12, 0, 208
+	Patch TEM12, 0, 240
+	Patch TEM12, 0, 272
+	Patch TEM12, 0, 304
+	Patch TEM12, 0, 336
+	Patch TEM13, 0, 368
+	Patch TEM12, 0, 400
+	Patch TEM14, 0, 432
+	Patch TEM10, 0, 464
+	Patch TEM11, 32, 0
+	Patch TEM13, 32, 16
+	Patch TEM12, 32, 48
+	Patch TEM12, 32, 80
+	Patch TEM13, 32, 112
+	Patch TEM12, 32, 144
+	Patch TEM14, 32, 176
+	Patch TEM12, 32, 208
+	Patch TEM12, 32, 240
+	Patch TEM13, 32, 272
+	Patch TEM12, 32, 304
+	Patch TEM12, 32, 336
+	Patch TEM12, 32, 368
+	Patch TEM12, 32, 400
+	Patch TEM12, 32, 432
+	Patch TEM10, 32, 464
+	Patch TEM10, 64, 0
+	Patch TEM12, 64, 16
+	Patch TEM12, 64, 48
+	Patch TEM12, 64, 80
+	Patch TEM12, 64, 112
+	Patch TEM12, 64, 144
+	Patch TEM13, 64, 176
+	Patch TEM12, 64, 208
+	Patch TEM12, 64, 240
+	Patch TEM12, 64, 272
+	Patch TEM12, 64, 304
+	Patch TEM14, 64, 336
+	Patch TEM12, 64, 368
+	Patch TEM12, 64, 400
+	Patch TEM12, 64, 432
+	Patch TEM10, 64, 464
+}
+
+Texture TEMFLR4, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TEM12, 0, 0
+}
+
+Texture TEMFLR5, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TEM17, 0, 0
+}
+
+Texture TEMLDR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM15, 0, 0
+}
+
+Texture TEMFLR6, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM18, 0, 0
+}
+
+Texture TEMGRAS, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM19, 0, 0
+}
+
+Texture TEMFLR7, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM20, 0, 0
+}
+
+Texture TEMFLR8, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM21, 0, 0
+}
+
+Texture TEMTEL1, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM22, 0, 0
+}
+
+Texture TEMTEL2, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM23, 0, 0
+}
+
+Texture TEMTEL3, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch TEM24, 0, 0
+}
+
+// End of texture definitions
+
+texture TOXWAT1, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX01, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT2, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX02, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT3, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX03, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT4, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX04, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT5, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX05, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT6, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX06, 0, 0
+   WorldPanning 
+}
+
+texture TOXWAT7, 64, 64
+{
+   XScale 0.5
+   YScale 0.5
+   Patch TOX07, 0, 0
+   WorldPanning 
+}
+
+Texture WHISGRS1, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS1, 0, 0
+	Patch WHIS2, 16, 0
+}
+
+Texture WHISGRS2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS3, 0, 0
+}
+
+Texture WHISGRS3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS4, 0, 0
+}
+
+Texture WHISGRS4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS5, 0, 0
+}
+
+Texture WHISGRS5, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS9, 0, 0
+}
+
+Texture WHISGRS6, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS7, 0, 0
+}
+
+Texture WHISGRS7, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS8, 0, 0
+}
+
+Texture WHISTRET, 112, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch WHIS6, 0, 0
+}
+
+texture LASKY1, 144, 111
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WHIS10, 0, 0
+   WorldPanning 
+}
+
+texture LASKY2, 16, 16
+{
+   XScale 0.5
+   YScale 0.5
+   Patch WHIS11, 0, 0
+   WorldPanning 
+}
+
+texture FIS01, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch REDSTO, 0, 0
+   WorldPanning 
+}
+
+texture FIS02, 32, 32
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PURSTO, 0, 0
+   WorldPanning 
+}
+
+texture PONG1, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG1, 0, 0
+   WorldPanning 
+}
+
+texture PONG2, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG2, 0, 0
+   WorldPanning 
+}
+
+texture PONG3, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG3, 0, 0
+   WorldPanning 
+}
+
+texture PONG4, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG4, 0, 0
+   WorldPanning 
+}
+
+texture PONG5, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG5, 0, 0
+   WorldPanning 
+}
+
+texture PONG6, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG6, 0, 0
+   WorldPanning 
+}
+
+texture PONG7, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG7, 0, 0
+   WorldPanning 
+}
+
+texture PONG8, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG8, 0, 0
+   WorldPanning 
+}
+
+texture PONG9, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG9, 0, 0
+   WorldPanning 
+}
+
+texture PONG10, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG10, 0, 0
+   WorldPanning 
+}
+
+texture PONG11, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG11, 0, 0
+   WorldPanning 
+}
+
+texture PONG12, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG12, 0, 0
+   WorldPanning 
+}
+
+texture PONG13, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG13, 0, 0
+   WorldPanning 
+}
+
+texture PONG14, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG14, 0, 0
+   WorldPanning 
+}
+
+texture PONG15, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG15, 0, 0
+   WorldPanning 
+}
+
+texture PONG16, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG16, 0, 0
+   WorldPanning 
+}
+
+texture PONG17, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG17, 0, 0
+   WorldPanning 
+}
+
+texture PONG18, 64, 192
+{
+   XScale 0.5
+   YScale 0.5
+   Patch PENG18, 0, 0
+   WorldPanning 
+}
+
+texture SKYRA1, 128, 128
+{
+   //XScale 0.5
+   //YScale 0.5
+   Patch RAIN1, 0, 0
+   WorldPanning 
+}
+
+texture SKYRA2, 128, 128
+{
+   //XScale 0.5
+   //YScale 0.5
+   Patch RAIN2, 0, 0
+   WorldPanning 
+}
+
+texture SKYRA3, 128, 128
+{
+   //XScale 0.5
+   //YScale 0.5
+   Patch RAIN3, 0, 0
+   WorldPanning 
+}
+
+texture SKYRA4, 128, 128
+{
+   //XScale 0.5
+   //YScale 0.5
+   Patch RAIN4, 0, 0
+   WorldPanning 
+}
