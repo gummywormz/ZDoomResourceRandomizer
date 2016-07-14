@@ -66,6 +66,7 @@ public class Main {
         boolean removeMsg = false;
         int ticLimit = 0;
         String langHead = null;
+        String fileName = "temp";
         
         for(int i = 0; i < args.length; i++)
         {
@@ -73,6 +74,11 @@ public class Main {
             {
                 File f = new File(args[i+1]);
                 textures.add(f);
+            }
+            
+            if(args[i].equals("-i"))
+            {
+                fileName = args[i+1] + "/temp";
             }
             
             if(args[i].equals("-a"))
@@ -155,7 +161,7 @@ public class Main {
                     t.processFile(base);
                 }
                 System.out.println("Writing new file");
-                t.write(new File("temp/TEXTURES.random"));
+                t.write(new File(fileName + "temp/TEXTURES.random"));
             }
             
             if(!sndinfo.isEmpty())
@@ -168,7 +174,7 @@ public class Main {
                     s.processFile(f);
                 }
                 System.out.println("Writing new file");
-                s.write(new File("temp/SNDINFO.random"));
+                s.write(new File(fileName + "temp/SNDINFO.random"));
             }
             
             
@@ -185,7 +191,7 @@ public class Main {
                     t.processFile(base);
                 }
                 System.out.println("Writing new file");
-                t.write(new File("temp/ANIMDEFS.random"));
+                t.write(new File(fileName + "temp/ANIMDEFS.random"));
             }
             
             if(!language.isEmpty())
@@ -198,7 +204,7 @@ public class Main {
                     l.processFile(f);
                 }
                 System.out.println("Writing new file");
-                l.write(new File("temp/LANGUAGE.random"));
+                l.write(new File(fileName + "temp/LANGUAGE.random"));
             }
             
             if(!sprites.isEmpty())
@@ -212,7 +218,7 @@ public class Main {
                     System.out.println("Randomizing sprites in " + f.getName());
                     SpriteRandomizer s = new SpriteRandomizer();
                     s.processFile(f);
-                    s.write(new File("temp"));
+                    s.write(new File(fileName + "temp"));
                     System.out.println("Writing new files");
                     s = null;
                 }
@@ -225,7 +231,7 @@ public class Main {
             String date = new SimpleDateFormat("yyyy-MM-dd-hh-mm-ss")
                     .format(new Date());
             
-            PK3Util.zipFolder(new File("temp"), "randomized" + date);
+            PK3Util.zipFolder(new File(fileName + "temp"), "randomized" + date);
 
             System.out.println("Pk3 made at: " + System.getProperty("user.dir"));
             System.out.println("Cleaning Up...");
@@ -264,6 +270,9 @@ public class Main {
         System.out.println("-p file.pk3 | Randomizes the sprites in the given pk3"
                 + " Multiple entries can be used. "
                 + "This will be output as a combined file");
+        
+         System.out.println("-f folder | Specify output folder. "
+                + "Defaults to the working directory if not passed.");
         
         System.out.println("--RANDOMIZETICS integer | Specify to randomize"
                 + " tics in animdefs, with the maximum being the integer. "

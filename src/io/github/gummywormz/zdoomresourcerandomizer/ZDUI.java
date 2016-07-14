@@ -85,6 +85,7 @@ public class ZDUI extends javax.swing.JFrame {
         jScrollPane7 = new javax.swing.JScrollPane();
         outputArea = new javax.swing.JTextArea();
         jButton1 = new javax.swing.JButton();
+        dirChooser = new javax.swing.JFileChooser();
         jLabel8 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
         jScrollPane2 = new javax.swing.JScrollPane();
@@ -214,6 +215,9 @@ public class ZDUI extends javax.swing.JFrame {
                 .addComponent(jButton1)
                 .addContainerGap(67, Short.MAX_VALUE))
         );
+
+        dirChooser.setDialogTitle("Save File");
+        dirChooser.setFileSelectionMode(javax.swing.JFileChooser.DIRECTORIES_ONLY);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("ZDoom Resource Randomizer v1.2");
@@ -705,7 +709,16 @@ public class ZDUI extends javax.swing.JFrame {
     }//GEN-LAST:event_LDelFile1ActionPerformed
 
     private void randomizeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_randomizeActionPerformed
+        
         ArrayList<String> args = new ArrayList<>();
+        
+        
+        int returnVal = dirChooser.showOpenDialog(ZDUI.this);
+        if (returnVal == JFileChooser.APPROVE_OPTION) 
+        {
+            args.add("-f");
+            args.add(dirChooser.getSelectedFile().getAbsolutePath());
+        }else{return;}
         
         for(String s : tFiles)
         {
@@ -821,6 +834,7 @@ public class ZDUI extends javax.swing.JFrame {
     private javax.swing.JFileChooser addAdditionalFile;
     private javax.swing.JButton addFile;
     private javax.swing.JButton delFile;
+    private javax.swing.JFileChooser dirChooser;
     private javax.swing.JList filesList;
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
