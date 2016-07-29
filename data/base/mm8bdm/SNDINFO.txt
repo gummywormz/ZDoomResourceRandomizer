@@ -25,7 +25,7 @@ weapon/topspin	TOPSPIN
 weapon/magnetmissile	MAGNET
 weapon/gemini GEMINI
 weapon/superarmhit	SUPERARM
-weapon/superarmuse	COIL
+weapon/superarmuse	coil1a
 weapon/iceslasher	ICESLASH
 weapon/thunderbeam THUNDER
 weapon/metalblade	METALB
@@ -34,6 +34,7 @@ weapon/drillfly	DRILLFLY
 weapon/hyperbomb	HYPERB
 weapon/airshooter	AIRSHOT
 weapon/leafshield	WOODSH
+weapon/leafshieldcounter LEAFPARR
 weapon/firestorm	FIRESTOR
 weapon/crashland	CRASHL
 weapon/crashexplode	CRASHX
@@ -49,6 +50,7 @@ weapon/timestopper	TIMEST
 weapon/waterwave	WATERW
 weapon/pshot	PROTOS
 weapon/pcharge	PROTCH
+weapon/pchargelong	PROTCH2
 weapon/rainflush	RAINF
 weapon/sakugarne	SAKUC
 weapon/crackerthrow		CRKTHRW
@@ -62,7 +64,7 @@ weapon/mirrordeflect	MIRRORD
 weapon/mirrordeflect2	MIRRORD2
 weapon/mirrorabsorb MIRRORD3
 weapon/crackermine BALMIN
-
+weapon/centauruncloak	uncloak
 weapon/freezecracker	RINGB
 weapon/freezecrackerhit	REFLECT
 weapon/noisecrush1	CN1
@@ -70,6 +72,8 @@ weapon/noisecrush2	GRAVH
 weapon/noisecrushcharge	CHARGEL
 weapon/coilstart	CHARGE2
 weapon/coilcharge	CHARGEL
+weapon/coilfire1 coilf1
+weapon/coilfire2 coilf2
 weapon/coilbounce1	coil1
 weapon/coilbounce2	coil2
 weapon/coilexplode	explo
@@ -101,7 +105,7 @@ weapon/coilcharge CHARGEL
 weapon/waterballoon watbalon
 weapon/lshot laser
 weapon/minchrgshot minishot
-weapon/cfire	cbusfir
+weapon/cfire	NAPALMB
 weapon/tscharge CBUSCH
 weapon/slow	timeslow
 weapon/timeshot timearr
@@ -123,7 +127,25 @@ weapon/spreaddrill2 sdrill2
 weapon/spreaddrill3 sdrill3
 weapon/spreaddrillhit SDHit
 weapon/magiccard mcard
-//$volume weapon/waveburner 5.0
+
+weapon/lasertrident LASRTRID
+weapon/tornadoblow TORNBLOW
+weapon/concreteshot CONCSHOT
+weapon/concreteblock CONCLAND
+weapon/jewelsatellite JEWESAT
+weapon/blackholebomb	BHB1
+weapon/blackholebombdetonate	BHB2
+weapon/magmabazooka MGMBAZO
+weapon/hornetchaser HORNCHAS
+weapon/hornethover HORNHOV
+$limit weapon/hornethover 3
+$volume weapon/hornethover 0.4
+weapon/plugball	PLUGBALL
+weapon/magmacharge1 MMAGM2
+weapon/magmacharge2 MMAGM3
+
+weapon/solarshoot SOLSHO
+weapon/solarblaze SOLBLA
 
 //Map stuff
 misc/trainwhistle	train1
@@ -141,18 +163,20 @@ misc/boing	byon
 $random misc/aciddrip { misc/aciddrip1 misc/aciddrip2 }
 misc/aciddrip1	drip1
 misc/aciddrip2	drip2
+misc/alarmlong ALARML
+misc/piratebubble pbub
 
 robot/death		BOSSPAIN
 robot/bigeye	EYESTOMP
 
 item/energyup	ENERGYUP
+item/energyup/large	NRGUPLG
 item/1up		1UP
 item/protoreflect		REFLECT
 item/refill		REFILL
 item/beat		BEATC
 item/tango      TANGOM
 item/reggae      REGGL
-$volume item/reggae 10.0
 
 menu/activate			PAUSE	// Activate a new menu
 menu/backup			PAUSE	// Backup to previous menu
@@ -191,9 +215,20 @@ misc/door	bdoor
 misc/protowhistle	whistl
 misc/icemachinecharge	imacc
 
+misc/lightelevator	ELEVATOR // Light lab elevator
+
+misc/truck1 truck1
+misc/truck2 truck2
 misc/trexstomp	trex
 misc/polarroar	sirokuma
 misc/gutsgboost	boostlo
+
+misc/magmatrap MGMMAT
+misc/galaxyteleport TELEPORT
+misc/9thunder kgbla
+
+misc/freeze		msfrz
+misc/icebreak	ACENTF
 
 misc/kingblast	kgbla // MM10 Sounds (edited)
 misc/kingswing	kgswin // MM10 Sounds
@@ -210,5 +245,28 @@ misc/brgstaffshort	BRGSTAF2 //MM10 Sounds (edited)
 misc/brgillusion	BRGILL //MM10 Sounds (edited)
 misc/mwsburst	WBUST
 misc/scorebounce	REFLECT
+
+misc/quintspin	quidrill
+misc/protoland	mm2land
+misc/fakeshot2	fakeshot
+misc/fakeshot	fakeshot
+misc/fakereload	fakerelo
+misc/fakereloadshort	fakerel2
+misc/dragonbreath	dragonbr
+misc/sharklaser	sharkl
+misc/sharkjoeraise	darkstep
+misc/sharktorpedo	canon
+misc/sharkflyby		sharkf
+misc/sharkspinner	sharksp
+misc/fullenglish	sizzle
+misc/ufo	ufosnd
+misc/policesiren	psiren
+misc/cardrive	cargo
+misc/tirescreech	carready
+misc/phonering	phoner
+misc/itemthrow	bombthro
+
+$volume misc/fakeshot 0.5
+$limit misc/fakeshot2 0
 
 world/quake dsnone

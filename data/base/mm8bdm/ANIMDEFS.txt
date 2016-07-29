@@ -1680,8 +1680,1058 @@ texture LIGHTCPX
 	pic LIGHTCP5 tics 4
 	pic LIGHTCP6 tics 4
 
-texture CASTFIRX
-pic CASTFIR1 tics 5
-pic CASTFIR2 tics 5
-pic CASTFIR3 tics 5
-pic CASTFIR4 tics 5
+texture CONWATF1
+    allowdecals
+    pic CONWATFA tics 4
+	pic CONWATFB tics 4
+	pic CONWATFC tics 4
+	
+texture CONWATF2
+    allowdecals
+    pic CONWATDA tics 4
+	pic CONWATDB tics 4
+	pic CONWATDC tics 4
+	
+texture CONWATF3
+    allowdecals
+    pic CONWATEA tics 4
+    pic CONWATEB tics 4
+    pic CONWATEC tics 4
+
+texture HORCLCKX
+    allowdecals
+    pic HORCLCK1 tics 18
+	pic HORCLCK2 tics 18
+	pic HORCLCK3 tics 18
+	pic HORCLCK4 tics 18
+	pic HORCLCK5 tics 18
+	pic HORCLCK6 tics 18
+	pic HORCLCK7 tics 18
+	pic HORCLCK8 tics 18
+	pic HORCLCK9 tics 18
+	pic HORCLC10 tics 18
+	pic HORCLC11 tics 18
+	pic HORCLC12 tics 18
+	
+
+texture TORCLOX
+    allowdecals
+    pic TORCLOA tics 4
+	pic TORCLOB tics 4
+	pic TORCLOC tics 4
+	pic TORCLOB tics 4
+	
+texture TORCLOY
+    allowdecals
+    pic TORCLOD tics 4
+	pic TORCLOE tics 4
+	pic TORCLOF tics 4
+	pic TORCLOE tics 4
+
+texture TORRCLOX
+    allowdecals
+    pic TORRCLA tics 4
+	pic TORRCLB tics 4
+	pic TORRCLC tics 4
+	pic TORRCLB tics 4
+	
+texture TORRCLOY
+    allowdecals
+    pic TORRCLD tics 4
+	pic TORRCLE tics 4
+	pic TORRCLF tics 4
+	pic TORRCLE tics 4
+	
+texture TORSCLOX
+    allowdecals
+    pic TORSCLA tics 4
+	pic TORSCLB tics 4
+	pic TORSCLC tics 4
+	pic TORSCLB tics 4
+	
+texture TORSCLOY
+    allowdecals
+    pic TORSCLD tics 4
+	pic TORSCLE tics 4
+	pic TORSCLF tics 4
+	pic TORSCLE tics 4
+	
+texture TORSNOWX
+    allowdecals
+    pic TORSNOWA tics 4
+	pic TORSNOWB tics 4
+	pic TORSNOWC tics 4
+	pic TORSNOWD tics 4
+	
+texture TORRAINX
+	allowdecals
+	pic TORRAINA tics 4
+	pic TORRAINB tics 4
+	pic TORRAINC tics 4
+	
+texture TORRAILX
+	allowdecals
+	pic TORRAILA tics 4
+	pic TORRAILB tics 4
+	pic TORRAILC tics 4
+
+texture SPLGLS4
+    allowdecals
+    pic SPLGLS4A tics 25
+	pic SPLGLS4B tics 5
+	pic SPLGLS4C tics 25
+	pic SPLGLS4B tics 5
+
+texture SPLGLSX
+    allowdecals
+    pic SPLGLS1 tics 25
+	pic SPLGLS2 tics 5
+	pic SPLGLS3 tics 25
+	pic SPLGLS2 tics 5
+	
+texture SPLTOPX
+    allowdecals
+    pic SPLTOP1 tics 25
+	pic SPLTOP2 tics 5
+	pic SPLTOP3 tics 25
+	pic SPLTOP2 tics 5
+
+texture PLUGCLC
+	allowdecals
+	pic PLUGCLA tics 4
+	pic PLUGCLB tics 4
+
+texture PLUGWLD
+	allowdecals
+	pic PLUGWLD1 tics 4
+	pic PLUGWLD2 tics 4
+
+texture PLUGWLF
+	allowdecals
+	pic PLUGWLF1 tics 4
+	pic PLUGWLF2 tics 4
+
+texture PLUGWLL
+	allowdecals
+	pic PLUGWLL1 tics 4
+	pic PLUGWLL2 tics 4
+
+texture PLUGBZA
+	allowdecals
+	pic PLUGBZ1 tics 6
+	pic PLUGBZ2 tics 6
+	
+texture PLUGBZY
+	allowdecals
+	pic PLUGBZY1 tics 6
+	pic PLUGBZY2 tics 6
+
+texture JEWDOORX
+    allowdecals
+    pic JEWDOOR1 tics 6
+	pic JEWDOOR2 tics 6
+	pic JEWDOOR3 tics 6
+	pic JEWDOOR2 tics 6
+	
+texture JEWGEM1X
+    allowdecals
+    pic JEWGEM1 tics 6
+	pic JEWGEM2 tics 6
+	pic JEWGEM3 tics 6
+	pic JEWGEM2 tics 6
+	
+texture JEWGEM2X
+    allowdecals
+    pic JEWGEM4 tics 6
+	pic JEWGEM5 tics 6
+	pic JEWGEM6 tics 6
+	pic JEWGEM5 tics 6
+	
+texture JEWDIA1X
+    allowdecals
+    pic JEWDIA1 tics 6
+	pic JEWDIA2 tics 6
+	pic JEWDIA3 tics 6
+	pic JEWDIA2 tics 6
+	
+texture JEWDIA2X
+    allowdecals
+    pic JEWDIA4 tics 6
+	pic JEWDIA5 tics 6
+	pic JEWDIA6 tics 6
+	pic JEWDIA5 tics 6
+	
+texture JEWLOG1X
+    allowdecals
+    pic JEWLOGO1 tics 6
+	pic JEWLOGO2 tics 6
+	pic JEWLOGO3 tics 6
+	pic JEWLOGO2 tics 6
+	
+texture JEWLOG2X
+    allowdecals
+    pic JEWLOGO4 tics 6
+	pic JEWLOGO5 tics 6
+	pic JEWLOGO6 tics 6
+	pic JEWLOGO5 tics 6
+	
+texture JEWLDR2X
+    allowdecals
+    pic JEWLDR21 tics 6
+	pic JEWLDR22 tics 6
+	pic JEWLDR23 tics 6
+	pic JEWLDR22 tics 6
+	
+texture JEWWAL5X
+    allowdecals
+    pic JEWWAL51 tics 6
+	pic JEWWAL52 tics 6
+	pic JEWWAL53 tics 6
+	pic JEWWAL52 tics 6
+	
+texture JEWWAL6X
+    allowdecals
+    pic JEWWAL61 tics 6
+	pic JEWWAL62 tics 6
+	pic JEWWAL63 tics 6
+	pic JEWWAL62 tics 6
+
+texture MGMLAVX
+    allowdecals
+    pic MGMLAV1 tics 6
+	pic MGMLAV2 tics 6
+	pic MGMLAV3 tics 6
+	
+texture MGMTUBX
+    allowdecals
+    pic MGMTUB1 tics 4
+	pic MGMTUB2 tics 4
+	
+texture MGMTUB2X
+    allowdecals
+    pic MGMTUB3 tics 4
+	pic MGMTUB4 tics 4
+	
+texture GALINT3S
+    allowdecals
+    pic GALIN3SA tics 6
+	pic GALIN3SB tics 6
+	pic GALIN3SC tics 6
+	pic GALIN3SB tics 6
+	
+texture GALINT3M
+    allowdecals
+    pic GALIN3MA tics 6
+	pic GALIN3MB tics 6
+	pic GALIN3MC tics 6
+	pic GALIN3MB tics 6
+	
+texture GALINT3L
+    allowdecals
+    pic GALIN3LA tics 6
+	pic GALIN3LB tics 6
+	pic GALIN3LC tics 6
+	pic GALIN3LB tics 6
+
+texture GALSKYBX
+    allowdecals
+    pic GALSKYB1 tics 6
+	pic GALSKYB2 tics 6
+	pic GALSKYB3 tics 6
+	pic GALSKYB4 tics 6
+	pic GALSKYB3 tics 6
+	pic GALSKYB2 tics 6
+	
+texture GALSKYCX
+    allowdecals
+    pic GALSKYC1 tics 6
+	pic GALSKYC2 tics 6
+	pic GALSKYC3 tics 6
+	pic GALSKYC4 tics 6
+	pic GALSKYC3 tics 6
+	pic GALSKYC2 tics 6
+
+texture GALSKYCX
+    allowdecals
+    pic GALSKYC1 tics 6
+	pic GALSKYC2 tics 6
+	pic GALSKYC3 tics 6
+	pic GALSKYC4 tics 6
+	pic GALSKYC3 tics 6
+	pic GALSKYC2 tics 6
+	
+texture GALSKYDX
+    allowdecals
+    pic GALSKYD1 tics 6
+	pic GALSKYD2 tics 6
+	pic GALSKYD3 tics 6
+	pic GALSKYD4 tics 6
+	pic GALSKYD3 tics 6
+	pic GALSKYD2 tics 6
+
+texture GALSKYEX
+    allowdecals
+    pic GALSKYE1 tics 128
+	pic GALSKYE2 tics 6
+	pic GALSKYE3 tics 6
+	pic GALSKYE4 tics 6
+	pic GALSKYE5 tics 6
+	pic GALSKYE6 tics 6
+	pic GALSKYE7 tics 6
+	pic GALSKYE8 tics 6
+
+texture GALSKYFX
+    allowdecals
+    pic GALSKYF0 tics 256
+	pic GALSKYF1 tics 6
+	pic GALSKYF2 tics 6
+	pic GALSKYF3 tics 6
+	pic GALSKYF4 tics 6
+	pic GALSKYF5 tics 6
+	pic GALSKYF6 tics 6
+	pic GALSKYF7 tics 6
+	pic GALSKYF8 tics 6
+	pic GALSKYF9 tics 6
+	pic GALSKYFA tics 6
+	pic GALSKYFB tics 6
+	pic GALSKYFC tics 6
+	pic GALSKYFD tics 6
+	pic GALSKYFC tics 6
+	pic GALSKYFB tics 6
+	pic GALSKYFA tics 6
+	pic GALSKYF9 tics 6
+	pic GALSKYF8 tics 6
+	pic GALSKYF7 tics 6
+	pic GALSKYF6 tics 6
+	pic GALSKYF5 tics 6
+	pic GALSKYF4 tics 6
+	pic GALSKYF3 tics 6
+	pic GALSKYF2 tics 6
+	pic GALSKYF1 tics 6
+
+texture GALSKYAX
+    allowdecals
+    pic GALSKYA1 tics 6
+	pic GALSKYA2 tics 6
+	pic GALSKYA3 tics 6
+	pic GALSKYA4 tics 6
+	pic GALSKYA5 tics 6
+	pic GALSKYA6 tics 6
+	pic GALSKYA7 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA0 tics 6
+	pic GALSKYA8 tics 6
+	pic GALSKYA9 tics 6
+	pic GALSKYA8 tics 6
+	
+texture 9W2WAT
+	allowdecals
+	pic 9W2WAT tics 12
+	pic 9W2WATA tics 12
+	pic 9W2WATB tics 12
+	pic 9W2WATC tics 12
+
+texture 9W2MET1
+    allowdecals
+    pic 9W2MET1 tics 4
+    pic 9W2MET1A tics 4
+    pic 9W2MET1B tics 4
+    pic 9W2MET1C tics 4
+    pic 9W2MET1D tics 4
+    pic 9W2MET1C tics 4
+    pic 9W2MET1B tics 4
+    pic 9W2MET1A tics 4
+	
+texture 9W2MET2
+    allowdecals
+    pic 9W2MET2 tics 4
+    pic 9W2MET2A tics 4
+    pic 9W2MET2B tics 4
+    pic 9W2MET2C tics 4
+    pic 9W2MET2D tics 4
+    pic 9W2MET2C tics 4
+    pic 9W2MET2B tics 4
+    pic 9W2MET2A tics 4
+	
+texture 9W2FLR1
+    allowdecals
+    pic 9W2FLR1 tics 4
+    pic 9W2FLR1A tics 4
+    pic 9W2FLR1B tics 4
+    pic 9W2FLR1C tics 4
+    pic 9W2FLR1D tics 4
+    pic 9W2FLR1C tics 4
+    pic 9W2FLR1B tics 4
+    pic 9W2FLR1A tics 4
+	
+texture 9W2LOGO
+    allowdecals
+    pic 9W2LOGO tics 4
+    pic 9W2LOGOA tics 4
+    pic 9W2LOGOB tics 4
+    pic 9W2LOGOC tics 4
+    pic 9W2LOGOD tics 4
+    pic 9W2LOGOC tics 4
+    pic 9W2LOGOB tics 4
+    pic 9W2LOGOA tics 4
+	
+texture 9W2LIG1
+    allowdecals
+    pic 9W2LIG1 tics 4
+    pic 9W2LIG1A tics 4
+    pic 9W2LIG1B tics 4
+    pic 9W2LIG1C tics 4
+    pic 9W2LIG1D tics 4
+    pic 9W2LIG1C tics 4
+    pic 9W2LIG1B tics 4
+    pic 9W2LIG1A tics 4
+	
+texture 9W2LIG2
+    allowdecals
+    pic 9W2LIG2 tics 4
+    pic 9W2LIG2A tics 4
+    pic 9W2LIG2B tics 4
+    pic 9W2LIG2C tics 4
+    pic 9W2LIG2D tics 4
+    pic 9W2LIG2C tics 4
+    pic 9W2LIG2B tics 4
+    pic 9W2LIG2A tics 4
+	
+texture 9W2LIG3
+    allowdecals
+    pic 9W2LIG3 tics 4
+    pic 9W2LIG3A tics 4
+    pic 9W2LIG3B tics 4
+    pic 9W2LIG3C tics 4
+    pic 9W2LIG3D tics 4
+    pic 9W2LIG3C tics 4
+    pic 9W2LIG3B tics 4
+    pic 9W2LIG3A tics 4
+	
+texture 9W2LIG4
+    allowdecals
+    pic 9W2LIG4 tics 4
+    pic 9W2LIG4A tics 4
+    pic 9W2LIG4B tics 4
+    pic 9W2LIG4C tics 4
+    pic 9W2LIG4D tics 4
+    pic 9W2LIG4C tics 4
+    pic 9W2LIG4B tics 4
+    pic 9W2LIG4A tics 4
+	
+texture 9W2LIG5
+    allowdecals
+    pic 9W2LIG5 tics 4
+    pic 9W2LIG5A tics 4
+    pic 9W2LIG5B tics 4
+    pic 9W2LIG5C tics 4
+    pic 9W2LIG5D tics 4
+    pic 9W2LIG5C tics 4
+    pic 9W2LIG5B tics 4
+    pic 9W2LIG5A tics 4
+	
+texture 9W2LIG6
+    allowdecals
+    pic 9W2LIG6 tics 4
+    pic 9W2LIG6A tics 4
+    pic 9W2LIG6B tics 4
+    pic 9W2LIG6C tics 4
+    pic 9W2LIG6D tics 4
+    pic 9W2LIG6C tics 4
+    pic 9W2LIG6B tics 4
+    pic 9W2LIG6A tics 4
+	
+texture 9W2LIG7
+    allowdecals
+    pic 9W2LIG7 tics 4
+    pic 9W2LIG7A tics 4
+    pic 9W2LIG7B tics 4
+    pic 9W2LIG7C tics 4
+    pic 9W2LIG7D tics 4
+    pic 9W2LIG7C tics 4
+    pic 9W2LIG7B tics 4
+    pic 9W2LIG7A tics 4
+	
+texture 9W2LIG8
+    allowdecals
+    pic 9W2LIG8 tics 4
+    pic 9W2LIG8A tics 4
+    pic 9W2LIG8B tics 4
+    pic 9W2LIG8C tics 4
+    pic 9W2LIG8D tics 4
+    pic 9W2LIG8C tics 4
+    pic 9W2LIG8B tics 4
+    pic 9W2LIG8A tics 4
+	
+texture 9W2LOGO2
+    allowdecals
+    pic 9W2LOGO2 tics 4
+    pic 9W2LOG2A tics 4
+    pic 9W2LOG2B tics 4
+    pic 9W2LOG2C tics 4
+    pic 9W2LOG2D tics 4
+    pic 9W2LOG2C tics 4
+    pic 9W2LOG2B tics 4
+    pic 9W2LOG2A tics 4
+	
+texture 9W2DOOR
+    allowdecals
+    pic 9W2DOOR tics 4
+    pic 9W2DOORA tics 4
+    pic 9W2DOORB tics 4
+    pic 9W2DOORC tics 4
+    pic 9W2DOORD tics 4
+    pic 9W2DOORC tics 4
+    pic 9W2DOORB tics 4
+    pic 9W2DOORA tics 4
+	
+texture 9W2LADD
+    allowdecals
+    pic 9W2LADD tics 4
+    pic 9W2LADDA tics 4
+    pic 9W2LADDB tics 4
+    pic 9W2LADDC tics 4
+    pic 9W2LADDD tics 4
+    pic 9W2LADDC tics 4
+    pic 9W2LADDB tics 4
+    pic 9W2LADDA tics 4
+	
+texture 9W2MET3
+    allowdecals
+    pic 9W2MET3 tics 4
+    pic 9W2MET3A tics 4
+    pic 9W2MET3B tics 4
+    pic 9W2MET3C tics 4
+    pic 9W2MET3D tics 4
+    pic 9W2MET3C tics 4
+    pic 9W2MET3B tics 4
+    pic 9W2MET3A tics 4
+	
+texture 9W2MET4
+    allowdecals
+    pic 9W2MET4 tics 4
+    pic 9W2MET4A tics 4
+    pic 9W2MET4B tics 4
+    pic 9W2MET4C tics 4
+    pic 9W2MET4D tics 4
+    pic 9W2MET4C tics 4
+    pic 9W2MET4B tics 4
+    pic 9W2MET4A tics 4
+	
+texture 9W2MET5
+    allowdecals
+    pic 9W2MET5 tics 4
+    pic 9W2MET5A tics 4
+    pic 9W2MET5B tics 4
+    pic 9W2MET5C tics 4
+    pic 9W2MET5D tics 4
+    pic 9W2MET5C tics 4
+    pic 9W2MET5B tics 4
+    pic 9W2MET5A tics 4
+	
+texture 9W2FLR2
+    allowdecals
+    pic 9W2FLR2 tics 4
+    pic 9W2FLR2A tics 4
+    pic 9W2FLR2B tics 4
+    pic 9W2FLR2C tics 4
+    pic 9W2FLR2D tics 4
+    pic 9W2FLR2C tics 4
+    pic 9W2FLR2B tics 4
+    pic 9W2FLR2A tics 4
+
+texture 9W2PIL1
+    allowdecals
+    pic 9W2PIL1 tics 4
+    pic 9W2PIL1A tics 4
+    pic 9W2PIL1B tics 4
+    pic 9W2PIL1C tics 4
+    pic 9W2PIL1D tics 4
+    pic 9W2PIL1C tics 4
+    pic 9W2PIL1B tics 4
+    pic 9W2PIL1A tics 4
+	
+texture 9W2PIL2
+    allowdecals
+    pic 9W2PIL2 tics 4
+    pic 9W2PIL2A tics 4
+    pic 9W2PIL2B tics 4
+    pic 9W2PIL2C tics 4
+    pic 9W2PIL2D tics 4
+    pic 9W2PIL2C tics 4
+    pic 9W2PIL2B tics 4
+    pic 9W2PIL2A tics 4
+	
+texture 9W2LAD2
+    allowdecals
+    pic 9W2LAD2 tics 4
+    pic 9W2LAD2A tics 4
+    pic 9W2LAD2B tics 4
+    pic 9W2LAD2C tics 4
+    pic 9W2LAD2D tics 4
+    pic 9W2LAD2C tics 4
+    pic 9W2LAD2B tics 4
+    pic 9W2LAD2A tics 4
+	
+texture 9W3MET1
+    allowdecals
+    pic 9W3MET1 tics 4
+    pic 9W3MET1A tics 4
+    pic 9W3MET1B tics 4
+    pic 9W3MET1C tics 4
+    pic 9W3MET1D tics 4
+    pic 9W3MET1C tics 4
+    pic 9W3MET1B tics 4
+    pic 9W3MET1A tics 4
+	
+texture 9W3MET2
+    allowdecals
+    pic 9W3MET2 tics 4
+    pic 9W3MET2A tics 4
+    pic 9W3MET2B tics 4
+    pic 9W3MET2C tics 4
+    pic 9W3MET2D tics 4
+    pic 9W3MET2C tics 4
+    pic 9W3MET2B tics 4
+    pic 9W3MET2A tics 4
+	
+texture 9W3MET3
+    allowdecals
+    pic 9W3MET3 tics 4
+    pic 9W3MET3A tics 4
+    pic 9W3MET3B tics 4
+    pic 9W3MET3C tics 4
+    pic 9W3MET3D tics 4
+    pic 9W3MET3C tics 4
+    pic 9W3MET3B tics 4
+    pic 9W3MET3A tics 4
+	
+texture 9W3MET4
+    allowdecals
+    pic 9W3MET4 tics 4
+    pic 9W3MET4A tics 4
+    pic 9W3MET4B tics 4
+    pic 9W3MET4C tics 4
+    pic 9W3MET4D tics 4
+    pic 9W3MET4C tics 4
+    pic 9W3MET4B tics 4
+    pic 9W3MET4A tics 4
+	
+texture 9W3MET5
+    allowdecals
+    pic 9W3MET5 tics 4
+    pic 9W3MET5A tics 4
+    pic 9W3MET5B tics 4
+    pic 9W3MET5C tics 4
+    pic 9W3MET5D tics 4
+    pic 9W3MET5C tics 4
+    pic 9W3MET5B tics 4
+    pic 9W3MET5A tics 4
+	
+texture 9W3LITE
+    allowdecals
+    pic 9W3LITE tics 4
+    pic 9W3LITEA tics 4
+    pic 9W3LITEB tics 4
+    pic 9W3LITEC tics 4
+    pic 9W3LITED tics 4
+    pic 9W3LITEC tics 4
+    pic 9W3LITEB tics 4
+    pic 9W3LITEA tics 4
+	
+texture 9W3FLR1
+    allowdecals
+    pic 9W3FLR1 tics 4
+    pic 9W3FLR1A tics 4
+    pic 9W3FLR1B tics 4
+    pic 9W3FLR1C tics 4
+    pic 9W3FLR1D tics 4
+    pic 9W3FLR1C tics 4
+    pic 9W3FLR1B tics 4
+    pic 9W3FLR1A tics 4
+	
+texture 9W3LOGO
+    allowdecals
+    pic 9W3LOGO tics 4
+    pic 9W3LOGOA tics 4
+    pic 9W3LOGOB tics 4
+    pic 9W3LOGOC tics 4
+    pic 9W3LOGOD tics 4
+    pic 9W3LOGOC tics 4
+    pic 9W3LOGOB tics 4
+    pic 9W3LOGOA tics 4
+	
+texture 9W3LIG1
+    allowdecals
+    pic 9W3LIG1 tics 4
+    pic 9W3LIG1A tics 4
+    pic 9W3LIG1B tics 4
+    pic 9W3LIG1C tics 4
+    pic 9W3LIG1D tics 4
+    pic 9W3LIG1C tics 4
+    pic 9W3LIG1B tics 4
+    pic 9W3LIG1A tics 4
+	
+texture 9W3LIG2
+    allowdecals
+    pic 9W3LIG2 tics 4
+    pic 9W3LIG2A tics 4
+    pic 9W3LIG2B tics 4
+    pic 9W3LIG2C tics 4
+    pic 9W3LIG2D tics 4
+    pic 9W3LIG2C tics 4
+    pic 9W3LIG2B tics 4
+    pic 9W3LIG2A tics 4
+	
+texture 9W3LIG3
+    allowdecals
+    pic 9W3LIG3 tics 4
+    pic 9W3LIG3A tics 4
+    pic 9W3LIG3B tics 4
+    pic 9W3LIG3C tics 4
+    pic 9W3LIG3D tics 4
+    pic 9W3LIG3C tics 4
+    pic 9W3LIG3B tics 4
+    pic 9W3LIG3A tics 4
+	
+texture 9W3LIG4
+    allowdecals
+    pic 9W3LIG4 tics 4
+    pic 9W3LIG4A tics 4
+    pic 9W3LIG4B tics 4
+    pic 9W3LIG4C tics 4
+    pic 9W3LIG4D tics 4
+    pic 9W3LIG4C tics 4
+    pic 9W3LIG4B tics 4
+    pic 9W3LIG4A tics 4
+	
+texture 9W3LIG5
+    allowdecals
+    pic 9W3LIG5 tics 4
+    pic 9W3LIG5A tics 4
+    pic 9W3LIG5B tics 4
+    pic 9W3LIG5C tics 4
+    pic 9W3LIG5D tics 4
+    pic 9W3LIG5C tics 4
+    pic 9W3LIG5B tics 4
+    pic 9W3LIG5A tics 4
+	
+texture 9W3LIG6
+    allowdecals
+    pic 9W3LIG6 tics 4
+    pic 9W3LIG6A tics 4
+    pic 9W3LIG6B tics 4
+    pic 9W3LIG6C tics 4
+    pic 9W3LIG6D tics 4
+    pic 9W3LIG6C tics 4
+    pic 9W3LIG6B tics 4
+    pic 9W3LIG6A tics 4
+	
+texture 9W3LIG7
+    allowdecals
+    pic 9W3LIG7 tics 4
+    pic 9W3LIG7A tics 4
+    pic 9W3LIG7B tics 4
+    pic 9W3LIG7C tics 4
+    pic 9W3LIG7D tics 4
+    pic 9W3LIG7C tics 4
+    pic 9W3LIG7B tics 4
+    pic 9W3LIG7A tics 4
+	
+texture 9W3LIG8
+    allowdecals
+    pic 9W3LIG8 tics 4
+    pic 9W3LIG8A tics 4
+    pic 9W3LIG8B tics 4
+    pic 9W3LIG8C tics 4
+    pic 9W3LIG8D tics 4
+    pic 9W3LIG8C tics 4
+    pic 9W3LIG8B tics 4
+    pic 9W3LIG8A tics 4
+	
+texture 9W3LOGO2
+    allowdecals
+    pic 9W3LOGO2 tics 4
+    pic 9W3LOG2A tics 4
+    pic 9W3LOG2B tics 4
+    pic 9W3LOG2C tics 4
+    pic 9W3LOG2D tics 4
+    pic 9W3LOG2C tics 4
+    pic 9W3LOG2B tics 4
+    pic 9W3LOG2A tics 4
+	
+texture 9W3WAL8
+    allowdecals
+    pic 9W3WAL8 tics 6
+    pic 9W3WALA tics 6
+    pic 9W3WALB tics 6
+	
+texture 9W3DOOR
+    allowdecals
+    pic 9W3DOOR tics 4
+    pic 9W3DOORA tics 4
+    pic 9W3DOORB tics 4
+    pic 9W3DOORC tics 4
+    pic 9W3DOORD tics 4
+    pic 9W3DOORC tics 4
+    pic 9W3DOORB tics 4
+    pic 9W3DOORA tics 4
+	
+texture 9W3LADD
+    allowdecals
+    pic 9W3LADD tics 4
+    pic 9W3LADDA tics 4
+    pic 9W3LADDB tics 4
+    pic 9W3LADDC tics 4
+    pic 9W3LADDD tics 4
+    pic 9W3LADDC tics 4
+    pic 9W3LADDB tics 4
+    pic 9W3LADDA tics 4
+	
+texture 9W4LIG1
+    allowdecals
+    pic 9W4LIG1 tics 4
+    pic 9W4LIG1A tics 4
+    pic 9W4LIG1B tics 4
+    pic 9W4LIG1C tics 4
+    pic 9W4LIG1D tics 4
+    pic 9W4LIG1C tics 4
+    pic 9W4LIG1B tics 4
+    pic 9W4LIG1A tics 4
+	
+texture 9W4LIG2
+    allowdecals
+    pic 9W4LIG2 tics 4
+    pic 9W4LIG2A tics 4
+    pic 9W4LIG2B tics 4
+    pic 9W4LIG2C tics 4
+    pic 9W4LIG2D tics 4
+    pic 9W4LIG2C tics 4
+    pic 9W4LIG2B tics 4
+    pic 9W4LIG2A tics 4
+	
+texture 9W4LIG3
+    allowdecals
+    pic 9W4LIG3 tics 4
+    pic 9W4LIG3A tics 4
+    pic 9W4LIG3B tics 4
+    pic 9W4LIG3C tics 4
+    pic 9W4LIG3D tics 4
+    pic 9W4LIG3C tics 4
+    pic 9W4LIG3B tics 4
+    pic 9W4LIG3A tics 4
+	
+texture 9W4LIG4
+    allowdecals
+    pic 9W4LIG4 tics 4
+    pic 9W4LIG4A tics 4
+    pic 9W4LIG4B tics 4
+    pic 9W4LIG4C tics 4
+    pic 9W4LIG4D tics 4
+    pic 9W4LIG4C tics 4
+    pic 9W4LIG4B tics 4
+    pic 9W4LIG4A tics 4
+	
+texture 9W4LIG5
+    allowdecals
+    pic 9W4LIG5 tics 4
+    pic 9W4LIG5A tics 4
+    pic 9W4LIG5B tics 4
+    pic 9W4LIG5C tics 4
+    pic 9W4LIG5D tics 4
+    pic 9W4LIG5C tics 4
+    pic 9W4LIG5B tics 4
+    pic 9W4LIG5A tics 4
+	
+texture 9W4LIG6
+    allowdecals
+    pic 9W4LIG6 tics 4
+    pic 9W4LIG6A tics 4
+    pic 9W4LIG6B tics 4
+    pic 9W4LIG6C tics 4
+    pic 9W4LIG6D tics 4
+    pic 9W4LIG6C tics 4
+    pic 9W4LIG6B tics 4
+    pic 9W4LIG6A tics 4
+	
+texture 9W4LIG7
+    allowdecals
+    pic 9W4LIG7 tics 4
+    pic 9W4LIG7A tics 4
+    pic 9W4LIG7B tics 4
+    pic 9W4LIG7C tics 4
+    pic 9W4LIG7D tics 4
+    pic 9W4LIG7C tics 4
+    pic 9W4LIG7B tics 4
+    pic 9W4LIG7A tics 4
+	
+texture 9W4LIG8
+    allowdecals
+    pic 9W4LIG8 tics 4
+    pic 9W4LIG8A tics 4
+    pic 9W4LIG8B tics 4
+    pic 9W4LIG8C tics 4
+    pic 9W4LIG8D tics 4
+    pic 9W4LIG8C tics 4
+    pic 9W4LIG8B tics 4
+    pic 9W4LIG8A tics 4
+	
+texture 9W4LOGO2
+    allowdecals
+    pic 9W4LOGO2 tics 4
+    pic 9W4LOG2A tics 4
+    pic 9W4LOG2B tics 4
+    pic 9W4LOG2C tics 4
+    pic 9W4LOG2D tics 4
+    pic 9W4LOG2C tics 4
+    pic 9W4LOG2B tics 4
+    pic 9W4LOG2A tics 4
+	
+texture 9W4MET1
+    allowdecals
+    pic 9W4MET1 tics 4
+    pic 9W4MET1A tics 4
+    pic 9W4MET1B tics 4
+    pic 9W4MET1C tics 4
+    pic 9W4MET1D tics 4
+    pic 9W4MET1C tics 4
+    pic 9W4MET1B tics 4
+    pic 9W4MET1A tics 4
+	
+texture 9W4MET2
+    allowdecals
+    pic 9W4MET2 tics 4
+    pic 9W4MET2A tics 4
+    pic 9W4MET2B tics 4
+    pic 9W4MET2C tics 4
+    pic 9W4MET2D tics 4
+    pic 9W4MET2C tics 4
+    pic 9W4MET2B tics 4
+    pic 9W4MET2A tics 4
+	
+texture 9W4MET4
+    allowdecals
+    pic 9W4MET4 tics 4
+    pic 9W4MET4A tics 4
+    pic 9W4MET4B tics 4
+    pic 9W4MET4C tics 4
+    pic 9W4MET4D tics 4
+    pic 9W4MET4C tics 4
+    pic 9W4MET4B tics 4
+    pic 9W4MET4A tics 4
+	
+texture 9W4MET6
+    allowdecals
+    pic 9W4MET6 tics 4
+    pic 9W4MET6A tics 4
+    pic 9W4MET6B tics 4
+    pic 9W4MET6C tics 4
+    pic 9W4MET6D tics 4
+    pic 9W4MET6C tics 4
+    pic 9W4MET6B tics 4
+    pic 9W4MET6A tics 4
+	
+texture 9W4MET7
+    allowdecals
+    pic 9W4MET7 tics 4
+    pic 9W4MET7A tics 4
+    pic 9W4MET7B tics 4
+    pic 9W4MET7C tics 4
+    pic 9W4MET7D tics 4
+    pic 9W4MET7C tics 4
+    pic 9W4MET7B tics 4
+    pic 9W4MET7A tics 4
+	
+texture 9W4LASR
+    allowdecals
+    pic 9W4LASR tics 2
+    pic 9W4LASRA tics 2
+	
+texture 9W4TELT
+	allowdecals
+	pic 9W4TELT tics 4
+	pic 9W4TELTA tics 4
+	
+texture 9W4WAL3
+    allowdecals
+    pic 9W4WAL3 tics 4
+    pic 9W4WAL3A tics 4
+	
+texture 9W4WAL4
+    allowdecals
+    pic 9W4WAL4 tics 2
+    pic 9W4WAL4A tics 2
+    pic 9W4WAL4B tics 2
+    pic 9W4WAL4C tics 2
+    pic 9W4WAL4D tics 2
+    pic 9W4WAL4E tics 2
+    pic 9W4WAL4F tics 2
+    pic 9W4WAL4G tics 2
+	
+texture 9W4WAL5
+    allowdecals
+    pic 9W4WAL5 tics 2
+    pic 9W4WAL5A tics 2
+    pic 9W4WAL5B tics 2
+    pic 9W4WAL5C tics 2
+    pic 9W4WAL5D tics 2
+    pic 9W4WAL5E tics 2
+    pic 9W4WAL5F tics 2
+    pic 9W4WAL5G tics 2
+	
+texture 9W4WAL6
+    allowdecals
+    pic 9W4WAL6 tics 4
+    pic 9W4WAL6A tics 4
+	
+texture 9W4MACH
+    allowdecals
+    pic 9W4MACH tics 4
+    pic 9W4MACHA tics 4
+    pic 9W4MACHB tics 4
+    pic 9W4MACHA tics 4
+	
+texture FAKESKYX
+    allowdecals
+    pic FAKESKY1 tics 4
+	pic FAKESKY2 tics 4
+	
+texture FAKECOLX
+    allowdecals
+    pic FAKECOL1 tics 4
+	pic FAKECOL2 tics 4
+	
+texture FAKEWILY
+    allowdecals
+    pic FAKEWIL1 tics 4
+	pic FAKEWIL2 tics 4
+	
+texture FAKELEFX
+    allowdecals
+    pic FAKELEF1 tics 4
+	pic FAKELEF2 tics 4
+	
+texture FAKERIGX
+    allowdecals
+    pic FAKERIG1 tics 4
+	pic FAKERIG2 tics 4
