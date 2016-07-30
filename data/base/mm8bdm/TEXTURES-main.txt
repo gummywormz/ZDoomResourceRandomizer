@@ -66425,24 +66425,6 @@ Texture MGMTUB5, 32, 48
    Patch MAGM68, 0, 0
 }
 
-texture MGMLAVX
-    allowdecals
-    pic MGMLAV1 tics 6
-	pic MGMLAV2 tics 6
-	pic MGMLAV3 tics 6
-	
-texture MGMTUBX
-    allowdecals
-    pic MGMTUB1 tics 4
-	pic MGMTUB2 tics 4
-	
-texture MGMTUB2X
-    allowdecals
-    pic MGMTUB3 tics 4
-	pic MGMTUB4 tics 4
-	
-
-
 
 Texture 9W1ROC1, 16, 32
 {
