@@ -1,0 +1,31 @@
+misc/FlameBall	FLAMEBO
+misc/crypthand	taker
+
+$volume misc/crypthand 0.5
+
+$musicvolume FUSMUS 1.2
+$musicvolume SHOMUS 1.2
+$musicvolume VIRMUS 1.2
+$musicvolume CRPMUS 1.2
+$musicvolume PULMUS 1.2
+$musicvolume CIRMUS 1.2
+$musicvolume CHRMUS 1.2
+$musicvolume PHOMUS 1.2
+
+$musicvolume FLRMUS 1.4
+$musicvolume POWMUS 1.4
+$musicvolume PLGMUS 1.4
+$musicvolume TERMUS 1.4
+
+$musicvolume THEMUS 1.4
+$musicvolume WARMUS 1.4
+$musicvolume PORMUS 1.4
+$musicvolume THIMUS 1.4
+
+$musicvolume DEAMUS 1.4
+$musicvolume FISMUS 1.4
+$musicvolume POLMUS 1.4
+$musicvolume JUSMUS 1.4
+
+$musicvolume RFBOSS 1.4
+$musicvolume RFBOSS2 1.5

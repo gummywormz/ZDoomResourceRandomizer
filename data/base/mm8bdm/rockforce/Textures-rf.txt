@@ -1,0 +1,11025 @@
+Texture CRPTBLCK, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP32, 0, 0
+	WorldPanning
+}
+
+Texture CRPTPIL1, 32, 320
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP1, 0, 0
+	Patch CRYP2, 0, 16
+	Patch CRYP3, 0, 32
+	Patch CRYP3, 0, 48
+	Patch CRYP3, 0, 64
+	Patch CRYP3, 0, 80
+	Patch CRYP3, 0, 96
+	Patch CRYP3, 0, 112
+	Patch CRYP3, 0, 128
+	Patch CRYP3, 0, 144
+	Patch CRYP3, 0, 160
+	Patch CRYP3, 0, 176
+	Patch CRYP3, 0, 192
+	Patch CRYP3, 0, 208
+	Patch CRYP3, 0, 224
+	Patch CRYP3, 0, 240
+	Patch CRYP3, 0, 256
+	Patch CRYP3, 0, 272
+	Patch CRYP3, 0, 288
+	Patch CRYP3, 0, 304
+	Patch CRYP3, 0, 320
+	WorldPanning
+}
+
+texture CRPTPIL2, 32, 320
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP20, 0, 0
+	Patch CRYP19, 0,16
+	Patch CRYP19, 0, 32
+	Patch CRYP19, 0, 48
+	Patch CRYP19, 0, 64
+	Patch CRYP19, 0, 80
+	Patch CRYP19, 0, 96
+	Patch CRYP19, 0, 112
+	Patch CRYP19, 0, 128
+	Patch CRYP19, 0, 144
+	Patch CRYP19, 0, 160
+	Patch CRYP19, 0, 176
+	Patch CRYP19, 0, 192
+	Patch CRYP19, 0, 208
+	Patch CRYP19, 0, 224
+	Patch CRYP19, 0, 240
+	Patch CRYP19, 0, 256
+	Patch CRYP19, 0, 272
+	Patch CRYP19, 0, 288
+	Patch CRYP19, 0, 304
+	Patch CRYP19, 0, 320
+	WorldPanning
+}
+
+texture CRPTLDG1, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP4, 0, 0
+	WorldPanning
+}
+
+texture CRPTLDG2, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP16, 0, 0
+	WorldPanning
+}
+
+texture CRPTLDG3, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch CRYP7, 0, 0
+	WorldPanning
+}
+
+texture CRPTLDG4, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch CRYP14, 0, 0
+	Patch CRYP15, 0, 32
+	WorldPanning
+}
+
+texture CRPTBLK1, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP8, 0, 0
+	Patch CRYP5, 0, 16
+	Patch CRYP8, 0, 48
+	Patch CRYP4, 16, 0
+	Patch CRYP12, 16, 16
+	Patch CRYP4, 16, 48
+	Patch CRYP8, 48, 0
+	Patch CRYP5, 48, 16
+	Patch CRYP8, 48, 48
+	WorldPanning
+}
+
+texture CRPTBLK2, 128, 128
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP8, 0, 0
+	Patch CRYP8, 0, 16
+	Patch CRYP8, 16, 0
+	Patch CRYP8, 16, 16
+	Patch CRYP6, 0, 32
+	Patch CRYP6, 16, 32
+	Patch CRYP8, 0, 96
+	Patch CRYP8, 16, 96
+	Patch CRYP8, 0, 112
+	Patch CRYP8, 16, 112
+	Patch CRYP7, 32, 0
+	Patch CRYP7, 32, 16
+	Patch CRYP12, 32, 32
+	Patch CRYP12, 32, 64
+	Patch CRYP7, 32, 96
+	Patch CRYP7, 32, 112
+	Patch CRYP7, 64, 0
+	Patch CRYP7, 64, 16
+	Patch CRYP12, 64, 32
+	Patch CRYP12, 64, 64
+	Patch CRYP7, 64, 96
+	Patch CRYP7, 64, 112
+	Patch CRYP8, 96, 0
+	Patch CRYP8, 96, 16
+	Patch CRYP8, 112, 0
+	Patch CRYP8, 112, 16
+	Patch CRYP6, 96, 32
+	Patch CRYP6, 112, 32
+	Patch CRYP8, 96, 96
+	Patch CRYP8, 112, 96
+	Patch CRYP8, 96, 112
+	Patch CRYP8, 112, 112
+	WorldPanning
+}
+
+texture CRPTBLK3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP8, 0, 0
+	WorldPanning
+}
+
+texture CRPTBLK4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP9, 0, 0
+	WorldPanning
+}
+
+texture CRPTBLK5, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP8, 0, 0
+	Patch CRYP8, 16, 0
+	Patch CRYP9, 0, 16
+	Patch CRYP8, 16, 16
+	WorldPanning
+}
+
+
+texture CRPTLADD, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP10, 0, 0
+	WorldPanning
+}
+
+texture CRPTFLR1, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP30, 0, 0
+	WorldPanning
+}
+
+texture CRPTFLR2, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP31, 0, 0
+	WorldPanning
+}
+
+texture CRPTFLR3, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP33, 0, 0
+	WorldPanning
+}
+
+
+texture CRPTRCK1, 32, 320
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP11, 0, 0
+	Patch CRYP12, 0, 16
+	Patch CRYP12, 0, 48
+	Patch CRYP12, 0, 80
+	Patch CRYP12, 0, 112
+	Patch CRYP12, 0, 144
+	Patch CRYP12, 0, 176
+	Patch CRYP12, 0, 208
+	Patch CRYP12, 0, 240
+	Patch CRYP12, 0, 272
+	Patch CRYP12, 0, 304
+	WorldPanning
+}
+
+texture CRPTRCK2, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP12, 0, 0
+	WorldPanning
+}
+
+texture CRPTMURA, 128, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP13, 0, 0
+	WorldPanning
+}
+
+texture CRPTWAL1, 32, 320
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP18, 0, 0
+	Patch CRYP17, 0, 32
+	Patch CRYP17, 0, 64
+	Patch CRYP17, 0, 96
+	Patch CRYP17, 0, 128
+	Patch CRYP17, 0, 160
+	Patch CRYP17, 0, 192
+	Patch CRYP17, 0, 224
+	Patch CRYP17, 0, 256
+	Patch CRYP17, 0, 288
+	Patch CRYP17, 0, 320
+	WorldPanning
+}
+
+texture CRPTWAL2, 32, 320
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP23, 0, 0
+	Patch CRYP24, 0, 32
+	Patch CRYP24, 0, 64
+	Patch CRYP24, 0, 96
+	Patch CRYP24, 0, 128
+	Patch CRYP24, 0, 160
+	Patch CRYP24, 0, 192
+	Patch CRYP24, 0, 224
+	Patch CRYP24, 0, 256
+	Patch CRYP24, 0, 288
+	Patch CRYP24, 0, 320
+	WorldPanning
+}
+
+texture CRPTTITE, 128, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP21, 0, 0
+	WorldPanning
+}
+
+texture CRPTMITE, 128, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP22, 0, 0
+	WorldPanning
+}
+
+texture CRPTBCK1, 128, 176
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP25, 0, 0
+	WorldPanning
+}
+
+texture CRPTBCK2, 224, 128
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP28, 0, 0
+	WorldPanning
+}
+
+texture CRPTBCK3, 224, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP34, 0, 0
+	WorldPanning
+}
+
+
+texture CRPTTREE, 224, 176
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP26, 0, 0
+	WorldPanning
+}
+
+texture CRPTKNIG, 64, 192
+{
+	XScale 0.5
+	YScale 0.5
+	Patch CRYP27, 0, 0
+	WorldPanning
+}
+
+
+
+
+Texture PHOEYE1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOEYE1, 0, 0
+}
+
+Texture PHOEYE2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOEYE2, 0, 0
+}
+
+Texture PHOFLR1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR1, 0, 0
+}
+
+Texture PHOFLR2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR2, 0, 0
+}
+
+Texture PHOFLR3, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR3, 0, 0
+}
+
+Texture PHOFLR4, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR4, 0, 0
+}
+
+Texture PHOFLR5, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR5, 0, 0
+}
+
+Texture PHOGLS1, 64, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOGLS1, 0, 0
+}
+
+Texture PHOGLS2, 16, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOGLS2T, 0, 0
+	Patch PHOGLS2, 0, 16
+	Patch PHOGLS2, 0, 32
+	Patch PHOGLS2, 0, 48
+	Patch PHOGLS2, 0, 64
+	Patch PHOGLS2, 0, 80
+	Patch PHOGLS2, 0, 96
+	Patch PHOGLS2, 0, 112
+}
+
+Texture PHOGLS3, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOGLS3, 0, 0
+}
+
+Texture PHOGLS4, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOGLS4, 0, 0
+}
+
+Texture PHOLDR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLDR, 0, 0
+}
+
+Texture PHOLIG1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIG1, 0, 0
+}
+
+Texture PHOLIG2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIG2, 0, 0
+}
+
+Texture PHOLIG3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIG3, 0, 0
+}
+
+Texture PHOMIX1, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOMIX1, 0, 0
+}
+
+Texture PHOMIX2, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOMIX2, 0, 0
+}
+
+Texture PHOMIX3, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOMIX3, 0, 0
+}
+
+Texture PHOMIX4, 64, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOMIX4, 0, 0
+}
+
+Texture PHOPUR1, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR1, 0, 0
+}
+
+Texture PHOPUR2, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR2, 0, 0
+}
+
+Texture PHOPUR3, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR3, 0, 0
+}
+
+Texture PHOPUR4, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR4, 0, 0
+}
+
+Texture PHOPUR5, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR5, 0, 0
+}
+
+Texture PHOPUR6, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR6, 0, 0
+}
+
+Texture PHOPUR7, 128, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR7, 0, 0
+}
+
+Texture PHOPUR8, 16, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR8, 0, 0
+}
+
+Texture PHOPUR9, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR9, 0, 0
+}
+
+Texture PHOPUR10, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR10, 0, 0
+}
+
+Texture PHOPUR11, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR11, 0, 0
+}
+
+Texture PHOPUR12, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR12, 0, 0
+}
+
+Texture PHOSKY1, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSKY1, 0, 0
+}
+
+Texture PHOSKY2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSKY2, 0, 0
+}
+
+Texture PHOSKY3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSKY3, 0, 0
+}
+
+Texture PHOYEL1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL1, 0, 0
+}
+
+Texture PHOYEL2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL2, 0, 0
+}
+
+Texture PHOYEL3, 32, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL3, 0, 0
+}
+
+Texture PHOYEL4, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL4, 0, 0
+}
+
+Texture PHOYEL5, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL5, 0, 0
+}
+
+Texture PHOYEL6, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL6, 0, 0
+}
+
+Texture PHOYEL7, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL7, 0, 0
+}
+
+Texture PHOYEL8, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOYEL8, 0, 0
+}
+
+Texture PHOFLR6, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR6, 0, 0
+}
+
+Texture PHOFLR7, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR7, 0, 0
+}
+
+Texture PHOFLR8, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR8, 0, 0
+}
+
+Texture PHOFLR9, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR9, 0, 0
+}
+
+Texture PHOLIN1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIN1, 0, 0
+}
+
+Texture PHOLIN2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIN2, 0, 0
+}
+
+Texture PHOLIN3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIN3, 0, 0
+}
+
+Texture PHOLIN4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOLIN4, 0, 0
+}
+
+Texture PHOSUN1, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSUN1, 0, 0
+}
+
+Texture PHOSUN2, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSUN2, 0, 0
+}
+
+Texture PHOSUN3, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOSUN3, 0, 0
+}
+
+Texture PHOFLR10, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFLR10, 0, 0
+}
+
+Texture PHOPUR13, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR13, 0, 0
+}
+
+Texture PHOPUR14, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR14, 0, 0
+}
+
+Texture PHOPUR15, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR15, 0, 0
+}
+
+Texture PHOPUR16, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR16, 0, 0
+}
+
+Texture PHOPUR17, 16, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR17, 0, 0
+}
+
+Texture PHOPUR18, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR18, 0, 0
+}
+
+Texture PHOPUR19, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR19, 0, 0
+}
+
+Texture PHOPUR20, 16, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOPUR20, 0, 0
+}
+
+Texture PHOFEN, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch PHOFEN, 0, 0
+}
+
+
+
+
+
+
+Texture PULBRED1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRED1, 0, 0
+}
+
+Texture PULBBLU1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBLU1, 0, 0
+}
+
+Texture PULBCOL1, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL1, 0, 0
+}
+
+Texture PULBCOL2, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL2, 0, 0
+}
+
+Texture PULBCOL3, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL3, 0, 0
+}
+
+Texture PULBCOL4, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL4, 0, 0
+}
+
+Texture PULBCOL5, 128, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL5, 0, 0
+}
+
+Texture PULBCOL6, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL6, 0, 0
+}
+
+Texture PULBCOL7, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL7, 0, 0
+}
+
+Texture PULBCOL8, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL6, -8, 0
+}
+
+Texture PULBCOL9, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOL7, 0, -8
+}
+
+Texture PULBCOF1, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBCOF1, 0, 0
+}
+
+Texture PULBPIP1, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP1, 0, 0
+}
+
+Texture PULBPIP2, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP2, 0, 0
+}
+
+Texture PULBPIP3, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP3, 0, 0
+}
+
+Texture PULBPIP4, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP4, 0, 0
+}
+
+Texture PULBPIP5, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP5, 0, 0
+}
+
+Texture PULBPIP6, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP6, 0, 0
+}
+
+Texture PULBPIP7, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP7, 0, 0
+}
+
+Texture PULBPIP8, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBPIP8, 0, 0
+}
+
+Texture PULBTUB1, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBTUB1, 0, 0
+}
+
+Texture PULBTUB2, 128, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBTUB2, 0, 0
+}
+
+Texture PULBTUB3, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBTUB1, 0, -8
+}
+
+Texture PULBTUB4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULBTUB2, -9, 0
+}
+
+Texture PULDAR1, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDARK1, 0, 0
+}
+
+Texture PULDAR2, 224, 224
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDARK1, 0, 0
+}
+
+Texture PULDCOL1, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDCOL1, 0, 0
+}
+
+Texture PULDCOL2, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDCOL2, 0, 0
+}
+
+Texture PULDCOL3, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDCOL3, 0, 0
+}
+
+Texture PULDCOL4, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDCOL4, 0, 0
+}
+
+Texture PULDCOL5, 128, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDCOL5, 0, 0
+}
+
+Texture PULDINT1, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDINT1, 0, 0
+}
+
+Texture PULDINT2, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDINT2, 0, 0
+}
+
+Texture PULDINT3, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDINT3, 0, 0
+}
+
+Texture PULDINT4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDINT4, 0, 0
+}
+
+Texture PULDPIP1, 128, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDPIP1, 0, 0
+}
+
+Texture PULDPIP2, 128, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDPIP2, 0, 0
+}
+
+Texture PULDPIP3, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDPIP3, 0, 0
+}
+
+Texture PULDPIP4, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDPIP4, 0, 0
+}
+
+Texture PULDPIP5, 128, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULDPIP5, 0, 0
+}
+
+Texture PULFLR1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR1, 0, 0
+}
+
+Texture PULFLR2, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR2, 0, 0
+}
+
+Texture PULFLR3, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR3, 0, 0
+}
+
+Texture PULFLR4, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR4, 0, 0
+}
+
+Texture PULFLR5, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR5, 0, 0
+}
+
+Texture PULFLR6, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR6, 0, 0
+}
+
+Texture PULFLR7, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR7, 0, 0
+}
+
+Texture PULFLR8, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR8, 0, 0
+}
+
+Texture PULFLR9, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULFLR9, 0, 0
+}
+
+Texture PULINT1, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT1, 0, 0
+}
+
+Texture PULINT2, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT2, 0, 0
+}
+
+Texture PULINT3, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT3, 0, 0
+}
+
+Texture PULINT4, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT4, 0, 0
+}
+
+Texture PULINT5, 256, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT5, 0, 0
+}
+
+Texture PULINT6, 256, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT6, 0, 0
+}
+
+Texture PULINT7, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT7, 0, 0
+}
+
+Texture PULINT8, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULINT8, 0, 0
+}
+
+Texture PULLDR, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULLDR, 0, 0
+}
+
+Texture PULMECH1, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULMECH1, 0, 0
+}
+
+Texture PULMECH2, 64, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULMECH2, 0, 0
+}
+
+Texture PULMECH3, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULMECH3, 0, 0
+}
+
+Texture PULPULX, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULA, 0, 0 { FlipX }
+}
+
+Texture PULPULA, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULA, 0, 0
+}
+
+Texture PULPULB, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULB, 0, 0
+}
+
+Texture PULPULC, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULC, 0, 0
+}
+
+Texture PULPULD, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULD, 0, 0
+}
+
+Texture PULPULNX, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULA, 0, 0 { FlipX }
+}
+
+Texture PULPULNA, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULA, 0, 0 { FlipX }
+}
+
+Texture PULPULNB, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULB, 0, 0 { FlipX }
+}
+
+Texture PULPULNC, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULC, 0, 0 { FlipX }
+}
+
+Texture PULPULND, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULD, 0, 0 { FlipX }
+}
+
+Texture PULPUUA, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULA, 0, 0
+	{
+		Rotate -90
+	}
+}
+
+Texture PULPUUB, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULB, 0, 0
+	{
+		Rotate -90
+	}
+}
+
+Texture PULPUUC, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULC, 0, 0
+	{
+		Rotate -90
+	}
+}
+
+Texture PULPUUD, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULPULD, 0, 0
+	{
+		Rotate -90
+	}
+}
+
+Texture PULRAD, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRAD, 0, 0
+}
+
+Texture PULRAD2, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRAD2, 0, 0
+}
+
+Texture PULRCOL1, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL1, 0, 0
+}
+
+Texture PULRCOL2, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL2, 0, 0
+}
+
+Texture PULRCOL3, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL3, 0, 0
+}
+
+Texture PULRCOL4, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL4, 0, 0
+}
+
+Texture PULRCOL5, 128, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL5, 0, 0
+}
+
+Texture PULRCOL6, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL6, 0, 0
+}
+
+Texture PULRCOL7, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL7, 0, 0
+}
+
+Texture PULRCOL8, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL6, -9, 0
+}
+
+Texture PULRCOL9, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOL7, 0, -8
+}
+
+Texture PULRCOF1, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRCOF1, 0, 0
+}
+
+Texture PULRPIP1, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP1, 0, 0
+}
+
+Texture PULRPIP2, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP2, 0, 0
+}
+
+Texture PULRPIP3, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP3, 0, 0
+}
+
+Texture PULRPIP4, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP4, 0, 0
+}
+
+Texture PULRPIP5, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP5, 0, 0
+}
+
+Texture PULRPIP6, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP6, 0, 0
+}
+
+Texture PULRPIP7, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP7, 0, 0
+}
+
+Texture PULRPIP8, 256, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRPIP8, 0, 0
+}
+
+Texture PULRTUB1, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRTUB1, 0, 0
+}
+
+Texture PULRTUB2, 128, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRTUB2, 0, 0
+}
+
+Texture PULRTUB3, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRTUB1, 0, -8
+}
+
+Texture PULRTUB4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch PULRTUB2, -8, 0
+}
+
+
+
+
+
+
+Texture "VIRPIL01", 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS02", 0, 16
+	Patch "VIRUS05", 0, 48
+}
+
+Texture "VIRPIL02", 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS02", 0, 16
+	Patch "VIRUS02", 0, 64
+	Patch "VIRUS03", 0, 48
+	Patch "VIRUS03", 0, 96
+	Patch "VIRUS05", 0, 112
+}
+
+Texture "VIRPIL03", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS05", 0, 16
+}
+
+Texture "VIRPIL04", 32, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS04", 0, 16
+	Patch "VIRUS05", 0, 64
+}
+
+Texture "VIRPIL05", 32, 160
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS01", 0, 80
+	Patch "VIRUS02", 0, 16
+	Patch "VIRUS03", 0, 48
+	Patch "VIRUS05", 0, 64
+	Patch "VIRUS05", 0, 144
+	Patch "VIRUS04", 0, 96
+}
+
+Texture "VIRPIL06", 32, 48
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS01", 0, 0
+	Patch "VIRUS03", 0, 16
+	Patch "VIRUS05", 0, 32
+}
+
+Texture "VIREDG01", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS06", 0, 0
+	Patch "VIRUS09", 0, 16
+	Patch "VIRUS10", 0, 32
+	Patch "VIRUS10", 0, 48
+	Patch "VIRUS10", 0, 64
+	Patch "VIRUS10", 0, 80
+	Patch "VIRUS10", 0, 96
+	Patch "VIRUS10", 0, 112
+	Patch "VIRUS10", 0, 128
+	Patch "VIRUS10", 0, 144
+	Patch "VIRUS10", 0, 160
+	Patch "VIRUS10", 0, 176
+	Patch "VIRUS10", 0, 192
+	Patch "VIRUS10", 0, 208
+	Patch "VIRUS10", 0, 224
+	Patch "VIRUS10", 0, 240
+}
+
+Texture "VIREDG02", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS08", 0, 0
+	Patch "VIRUS09", 0, 16
+	Patch "VIRUS10", 0, 32
+	Patch "VIRUS10", 0, 48
+	Patch "VIRUS10", 0, 64
+	Patch "VIRUS10", 0, 80
+	Patch "VIRUS10", 0, 96
+	Patch "VIRUS10", 0, 112
+	Patch "VIRUS10", 0, 128
+	Patch "VIRUS10", 0, 144
+	Patch "VIRUS10", 0, 160
+	Patch "VIRUS10", 0, 176
+	Patch "VIRUS10", 0, 192
+	Patch "VIRUS10", 0, 208
+	Patch "VIRUS10", 0, 224
+	Patch "VIRUS10", 0, 240
+}
+
+Texture "VIREDG03", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS07", 0, 0
+	Patch "VIRUS09", 0, 16
+	Patch "VIRUS10", 0, 32
+	Patch "VIRUS10", 0, 48
+	Patch "VIRUS10", 0, 64
+	Patch "VIRUS10", 0, 80
+	Patch "VIRUS10", 0, 96
+	Patch "VIRUS10", 0, 112
+	Patch "VIRUS10", 0, 128
+	Patch "VIRUS10", 0, 144
+	Patch "VIRUS10", 0, 160
+	Patch "VIRUS10", 0, 176
+	Patch "VIRUS10", 0, 192
+	Patch "VIRUS10", 0, 208
+	Patch "VIRUS10", 0, 224
+	Patch "VIRUS10", 0, 240
+}
+
+Texture "VIRWAL01", 48, 528
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS28", 0, 48
+	Patch "VIRUS28", 0, 96
+	Patch "VIRUS28", 0, 144
+	Patch "VIRUS28", 0, 192
+	Patch "VIRUS28", 0, 240
+	Patch "VIRUS28", 0, 288
+	Patch "VIRUS28", 0, 336
+	Patch "VIRUS28", 0, 384
+	Patch "VIRUS28", 0, 432
+	Patch "VIRUS40", 0, 0
+	Patch "VIRUS39", 0, 480
+}
+
+Texture "VIRWAL02", 48, 528
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS30", 0, 48
+	Patch "VIRUS30", 0, 96
+	Patch "VIRUS30", 0, 144
+	Patch "VIRUS30", 0, 192
+	Patch "VIRUS30", 0, 240
+	Patch "VIRUS30", 0, 288
+	Patch "VIRUS30", 0, 336
+	Patch "VIRUS30", 0, 384
+	Patch "VIRUS30", 0, 432
+	Patch "VIRUS55", 0, 0
+	Patch "VIRUS39", 0, 480
+}
+
+Texture "VIRWAL03", 48, 528
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS29", 0, 48
+	Patch "VIRUS29", 0, 96
+	Patch "VIRUS29", 0, 144
+	Patch "VIRUS29", 0, 192
+	Patch "VIRUS29", 0, 240
+	Patch "VIRUS29", 0, 288
+	Patch "VIRUS29", 0, 336
+	Patch "VIRUS29", 0, 384
+	Patch "VIRUS29", 0, 432
+	Patch "VIRUS56", 0, 0
+	Patch "VIRUS39", 0, 480
+}
+
+Texture "VIRWAL04", 48, 48
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS31", 0, 0
+}
+
+Texture "VIRWAL05", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS27", 0, 0
+}
+
+Texture "VIRLDR", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS11", 0, 0
+}
+
+Texture "VIRTAN01", 16, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS12", 0, 0
+	Patch "VIRUS15", 0, 16
+	Patch "VIRUS18", 0, 32
+	Patch "VIRUS24", 0, 64
+	Patch "VIRUS21", 0, 48
+}
+
+Texture "VIRTAN02", 16, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS16", 0, 16
+	Patch "VIRUS19", 0, 32
+	Patch "VIRUS13", 0, 0
+	Patch "VIRUS25", 0, 64
+	Patch "VIRUS22", 0, 48
+}
+
+Texture "VIRTAN03", 16, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS14", 0, 0
+	Patch "VIRUS17", 0, 16
+	Patch "VIRUS20", 0, 32
+	Patch "VIRUS23", 0, 48
+	Patch "VIRUS26", 0, 64
+}
+
+Texture "VIRTAN04", 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS12", 0, 0
+	Patch "VIRUS15", 0, 16
+	Patch "VIRUS18", 0, 32
+	Patch "VIRUS18", 0, 48
+	Patch "VIRUS18", 0, 64
+	Patch "VIRUS18", 0, 80
+	Patch "VIRUS21", 0, 96
+	Patch "VIRUS24", 0, 112
+}
+
+Texture "VIRTAN05", 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS13", 0, 0
+	Patch "VIRUS16", 0, 16
+	Patch "VIRUS19", 0, 32
+	Patch "VIRUS19", 0, 48
+	Patch "VIRUS19", 0, 64
+	Patch "VIRUS19", 0, 80
+	Patch "VIRUS22", 0, 96
+	Patch "VIRUS25", 0, 112
+}
+
+Texture "VIRTAN06", 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS14", 0, 0
+	Patch "VIRUS17", 0, 16
+	Patch "VIRUS20", 0, 32
+	Patch "VIRUS20", 0, 48
+	Patch "VIRUS20", 0, 64
+	Patch "VIRUS20", 0, 80
+	Patch "VIRUS23", 0, 96
+	Patch "VIRUS26", 0, 112
+}
+
+Texture "VIRTAN07", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	Patch "VIRUS33", 0, 0
+	Patch "VIRUS33", 0, 240
+	Patch "VIRUS32", 0, 16
+	Patch "VIRUS32", 0, 32
+	Patch "VIRUS32", 0, 48
+	Patch "VIRUS32", 0, 64
+	Patch "VIRUS32", 0, 80
+	Patch "VIRUS32", 0, 96
+	Patch "VIRUS32", 0, 112
+	Patch "VIRUS32", 0, 128
+	Patch "VIRUS32", 0, 144
+	Patch "VIRUS32", 0, 160
+	Patch "VIRUS32", 0, 176
+	Patch "VIRUS32", 0, 192
+	Patch "VIRUS32", 0, 208
+	Patch "VIRUS32", 0, 224
+}
+
+Texture "VIRTAN08", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS34", 0, 0
+	Patch "VIRUS37", 0, 16
+	Patch "VIRUS37", 0, 32
+	Patch "VIRUS37", 0, 48
+	Patch "VIRUS37", 0, 64
+	Patch "VIRUS37", 0, 80
+	Patch "VIRUS37", 0, 96
+	Patch "VIRUS37", 0, 112
+	Patch "VIRUS37", 0, 128
+	Patch "VIRUS37", 0, 144
+	Patch "VIRUS37", 0, 160
+	Patch "VIRUS37", 0, 176
+	Patch "VIRUS37", 0, 192
+	Patch "VIRUS37", 0, 208
+	Patch "VIRUS37", 0, 224
+	Patch "VIRUS06", 0, 240
+}
+
+Texture "VIRTAN09", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS35", 0, 0
+	Patch "VIRUS37", 0, 16
+	Patch "VIRUS37", 0, 32
+	Patch "VIRUS37", 0, 48
+	Patch "VIRUS37", 0, 64
+	Patch "VIRUS37", 0, 80
+	Patch "VIRUS37", 0, 96
+	Patch "VIRUS37", 0, 112
+	Patch "VIRUS37", 0, 128
+	Patch "VIRUS37", 0, 144
+	Patch "VIRUS37", 0, 160
+	Patch "VIRUS37", 0, 176
+	Patch "VIRUS37", 0, 192
+	Patch "VIRUS37", 0, 208
+	Patch "VIRUS37", 0, 224
+	Patch "VIRUS07", 0, 240
+}
+
+Texture "VIRTAN10", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS08", 0, 240
+	Patch "VIRUS36", 0, 0
+	Patch "VIRUS37", 0, 16
+	Patch "VIRUS37", 0, 32
+	Patch "VIRUS37", 0, 48
+	Patch "VIRUS37", 0, 64
+	Patch "VIRUS37", 0, 80
+	Patch "VIRUS37", 0, 96
+	Patch "VIRUS37", 0, 112
+	Patch "VIRUS37", 0, 128
+	Patch "VIRUS37", 0, 144
+	Patch "VIRUS37", 0, 160
+	Patch "VIRUS37", 0, 176
+	Patch "VIRUS37", 0, 192
+	Patch "VIRUS37", 0, 208
+	Patch "VIRUS37", 0, 224
+}
+
+Texture "VIRFLR01", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS42", 0, 0
+}
+
+Texture "VIRFLR02", 48, 48
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS41", 0, 0
+}
+
+Texture "VIRFLR03", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS33", 0, 0
+}
+
+Texture "VIRFLR04", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS32", 0, 0
+}
+
+Texture "VIRFLR05", 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS06", 0, 0
+	Patch "VIRUS08", 16, 0
+	Patch "VIRUS08", 0, 0
+}
+
+Texture "VIRFLR06", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS57", 0, 0
+}
+
+Texture "VIRFLR07", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS58", 0, 0
+}
+
+Texture "VIRFLR08", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS59", 0, 0
+}
+
+Texture "VIRBG01", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS47", 0, 0
+}
+
+Texture "VIRBG02", 48, 104
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS38", 0, 0
+}
+
+Texture "VIRBG03", 96, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS43", 0, 0
+	Patch "VIRUS44", 16, 16
+	Patch "VIRUS45", 16, 32
+	Patch "VIRUS52", 16, 48
+	Patch "VIRUS46", 0, 64
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+}
+
+Texture "VIRBG04", 96, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS43", 0, 0
+	Patch "VIRUS44", 16, 16
+	Patch "VIRUS45", 16, 32
+	Patch "VIRUS52", 16, 48
+	Patch "VIRUS44", 16, 64
+	Patch "VIRUS45", 16, 80
+	Patch "VIRUS52", 16, 96
+	Patch "VIRUS46", 0, 112
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+	Patch "VIRUS47", 0, 64
+	Patch "VIRUS47", 0, 80
+	Patch "VIRUS47", 0, 96
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 80, 64
+	Patch "VIRUS47", 80, 80
+	Patch "VIRUS47", 80, 96
+}
+
+Texture "VIRBG05", 96, 240
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS43", 0, 0
+	Patch "VIRUS44", 16, 16
+	Patch "VIRUS45", 16, 32
+	Patch "VIRUS45", 16, 48
+	Patch "VIRUS45", 16, 64
+	Patch "VIRUS45", 16, 80
+	Patch "VIRUS45", 16, 96
+	Patch "VIRUS45", 16, 112
+	Patch "VIRUS45", 16, 128
+	Patch "VIRUS45", 16, 144
+	Patch "VIRUS45", 16, 160
+	Patch "VIRUS45", 16, 176
+	Patch "VIRUS45", 16, 192
+	Patch "VIRUS52", 16, 208
+	Patch "VIRUS46", 0, 224
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 80, 64
+	Patch "VIRUS47", 80, 80
+	Patch "VIRUS47", 80, 96
+	Patch "VIRUS47", 80, 112
+	Patch "VIRUS47", 80, 128
+	Patch "VIRUS47", 80, 144
+	Patch "VIRUS47", 80, 160
+	Patch "VIRUS47", 80, 176
+	Patch "VIRUS47", 80, 192
+	Patch "VIRUS47", 80, 208
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+	Patch "VIRUS47", 0, 64
+	Patch "VIRUS47", 0, 80
+	Patch "VIRUS47", 0, 96
+	Patch "VIRUS47", 0, 112
+	Patch "VIRUS47", 0, 128
+	Patch "VIRUS47", 0, 144
+	Patch "VIRUS47", 0, 160
+	Patch "VIRUS47", 0, 176
+	Patch "VIRUS47", 0, 192
+	Patch "VIRUS47", 0, 208
+}
+
+Texture "VIRBG06", 48, 104
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS54", 0, 0
+}
+
+Texture "VIRBG07", 96, 80
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS48", 0, 0
+	Patch "VIRUS49", 16, 16
+	Patch "VIRUS50", 16, 32
+	Patch "VIRUS53", 16, 48
+	Patch "VIRUS51", 0, 64
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+}
+
+Texture "VIRBG08", 96, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS48", 0, 0
+	Patch "VIRUS49", 16, 16
+	Patch "VIRUS50", 16, 32
+	Patch "VIRUS53", 16, 48
+	Patch "VIRUS49", 16, 64
+	Patch "VIRUS50", 16, 80
+	Patch "VIRUS53", 16, 96
+	Patch "VIRUS51", 0, 112
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+	Patch "VIRUS47", 0, 64
+	Patch "VIRUS47", 0, 80
+	Patch "VIRUS47", 0, 96
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 80, 64
+	Patch "VIRUS47", 80, 80
+	Patch "VIRUS47", 80, 96
+}
+
+Texture "VIRBG09", 96, 240
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "VIRUS48", 0, 0
+	Patch "VIRUS49", 16, 16
+	Patch "VIRUS50", 16, 32
+	Patch "VIRUS50", 16, 48
+	Patch "VIRUS50", 16, 64
+	Patch "VIRUS50", 16, 80
+	Patch "VIRUS50", 16, 96
+	Patch "VIRUS50", 16, 112
+	Patch "VIRUS50", 16, 128
+	Patch "VIRUS50", 16, 144
+	Patch "VIRUS50", 16, 160
+	Patch "VIRUS50", 16, 176
+	Patch "VIRUS50", 16, 192
+	Patch "VIRUS53", 16, 208
+	Patch "VIRUS51", 0, 224
+	Patch "VIRUS47", 0, 16
+	Patch "VIRUS47", 80, 16
+	Patch "VIRUS47", 80, 32
+	Patch "VIRUS47", 80, 48
+	Patch "VIRUS47", 80, 64
+	Patch "VIRUS47", 80, 80
+	Patch "VIRUS47", 80, 96
+	Patch "VIRUS47", 80, 112
+	Patch "VIRUS47", 80, 128
+	Patch "VIRUS47", 80, 144
+	Patch "VIRUS47", 80, 160
+	Patch "VIRUS47", 80, 176
+	Patch "VIRUS47", 80, 192
+	Patch "VIRUS47", 80, 208
+	Patch "VIRUS47", 0, 32
+	Patch "VIRUS47", 0, 48
+	Patch "VIRUS47", 0, 64
+	Patch "VIRUS47", 0, 80
+	Patch "VIRUS47", 0, 96
+	Patch "VIRUS47", 0, 112
+	Patch "VIRUS47", 0, 128
+	Patch "VIRUS47", 0, 144
+	Patch "VIRUS47", 0, 160
+	Patch "VIRUS47", 0, 176
+	Patch "VIRUS47", 0, 192
+	Patch "VIRUS47", 0, 208
+}
+
+
+
+
+Texture FUSFLR01, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE43, 0, 0
+}
+
+Texture FUSFLR02, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE45, 0, 0
+}
+
+Texture FUSFLR03, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE46, 0, 0
+}
+
+Texture FUSFLR04, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE47, 0, 0
+}
+
+Texture FUSFLR05, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE51, 0, 0
+}
+
+Texture FUSWIRLU, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE04, 0, 0
+}
+
+Texture FUSWIRRU, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE05, 0, 0
+}
+
+Texture FUSWIRLL, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE06, 0, 0
+}
+
+Texture FUSWIRRL, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE07, 0, 0
+}
+
+Texture FUSWIRH, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE08, 0, 0
+}
+
+Texture FUSWIRV, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE09, 0, 0
+}
+
+Texture FUSBIRLU, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE10, 0, 0
+}
+
+Texture FUSBIRRU, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE11, 0, 0
+}
+
+Texture FUSBIRLL, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE12, 0, 0
+}
+
+Texture FUSBIRRL, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE13, 0, 0
+}
+
+Texture FUSBIRH, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE15, 0, 0
+}
+
+Texture FUSBIRV, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE16, 0, 0
+}
+
+Texture FUSLADR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE17, 0, 0
+}
+
+Texture FUSGATE, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE35, 0, 0
+}
+
+Texture FUSTNT, 48, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE23, 0, 0
+}
+
+Texture FUSROCL, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE36, 0, 0
+	Patch FUSE39, 0, 32
+	Patch FUSE39, 0, 64
+	Patch FUSE39, 0, 96
+	Patch FUSE39, 0, 128
+	Patch FUSE39, 0, 160
+	Patch FUSE39, 0, 192
+	Patch FUSE40, 0, 224
+}
+
+Texture FUSROCM, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE37, 0, 0
+	Patch FUSE48, 0, 32
+	Patch FUSE48, 0, 64
+	Patch FUSE48, 0, 96
+	Patch FUSE48, 0, 128
+	Patch FUSE48, 0, 160
+	Patch FUSE48, 0, 192
+	Patch FUSE48, 0, 224
+	Patch FUSE48, 0, 256
+	Patch FUSE48, 0, 288
+	Patch FUSE48, 0, 320
+	Patch FUSE48, 0, 352
+	Patch FUSE48, 0, 384
+	Patch FUSE48, 0, 416
+	Patch FUSE48, 0, 448
+	Patch FUSE41, 0, 480
+}
+
+Texture FUSROCR, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE38, 0, 0
+	Patch FUSE49, 0, 32
+	Patch FUSE49, 0, 64
+	Patch FUSE49, 0, 96
+	Patch FUSE49, 0, 128
+	Patch FUSE49, 0, 160
+	Patch FUSE49, 0, 192
+	Patch FUSE42, 0, 223
+}
+
+Texture FUSSKY01, 128, 96
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE01, 0, 0
+}
+
+Texture FUSSKY02, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE02, 0, 0
+}
+
+Texture FUSSKY03, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE03, 0, 0
+}
+
+Texture FUSPIL01, 80, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE24, 0, 0
+	Patch FUSE25, 0, 48
+	Patch FUSE25, 0, 64
+	Patch FUSE25, 0, 80
+	Patch FUSE25, 0, 96
+	Patch FUSE25, 0, 112
+	Patch FUSE25, 0, 128
+	Patch FUSE25, 0, 144
+	Patch FUSE25, 0, 160
+	Patch FUSE25, 0, 176
+	Patch FUSE25, 0, 192
+	Patch FUSE25, 0, 208
+	Patch FUSE25, 0, 224
+	Patch FUSE25, 0, 240
+	Patch FUSE25, 0, 256
+	Patch FUSE25, 0, 272
+	Patch FUSE25, 0, 288
+	Patch FUSE25, 0, 304
+	Patch FUSE25, 0, 320
+	Patch FUSE25, 0, 336
+	Patch FUSE25, 0, 352
+	Patch FUSE25, 0, 368
+	Patch FUSE25, 0, 384
+	Patch FUSE25, 0, 400
+	Patch FUSE25, 0, 416
+	Patch FUSE25, 0, 432
+	Patch FUSE25, 0, 448
+	Patch FUSE25, 0, 464
+	Patch FUSE25, 0, 480
+	Patch FUSE50, 0, 32
+	Patch FUSE26, 0, 496
+}
+
+Texture FUSPIL02, 80, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE24, 0, 0
+	Patch FUSE26, 0, 48
+	Patch FUSE26, 0, 112
+	Patch FUSE26, 0, 176
+	Patch FUSE26, 0, 240
+	Patch FUSE27, 0, 64
+	Patch FUSE27, 0, 192
+	Patch FUSE27, 0, 128
+	Patch FUSE28, 0, 144
+	Patch FUSE28, 0, 208
+	Patch FUSE25, 0, 160
+	Patch FUSE25, 0, 224
+	Patch FUSE28, 0, 80
+	Patch FUSE25, 0, 96
+	Patch FUSE50, 0, 32
+}
+
+Texture FUSPIL03, 80, 512
+{
+XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE24, 0, 0
+	Patch FUSE26, 0, 32
+	Patch FUSE26, 0, 240
+	Patch FUSE29, 0, 48
+	Patch FUSE25, 0, 96
+	Patch FUSE25, 0, 80
+	Patch FUSE25, 0, 112
+	Patch FUSE25, 0, 128
+	Patch FUSE25, 0, 144
+	Patch FUSE25, 0, 160
+	Patch FUSE25, 0, 176
+	Patch FUSE25, 0, 192
+	Patch FUSE25, 0, 208
+	Patch FUSE25, 0, 224
+	Patch FUSE25, 0, 240
+	Patch FUSE25, 0, 256
+	Patch FUSE25, 0, 272
+	Patch FUSE25, 0, 288
+	Patch FUSE25, 0, 304
+	Patch FUSE25, 0, 320
+	Patch FUSE25, 0, 336
+	Patch FUSE25, 0, 352
+	Patch FUSE25, 0, 368
+	Patch FUSE25, 0, 384
+	Patch FUSE25, 0, 400
+	Patch FUSE25, 0, 416
+	Patch FUSE25, 0, 432
+	Patch FUSE25, 0, 448
+	Patch FUSE25, 0, 464
+	Patch FUSE25, 0, 480
+	Patch FUSE26, 0, 496
+}
+
+Texture FUSBG01, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE33, 0, 0
+	Patch FUSE34, 0, 32
+	Patch FUSE34, 0, 64
+	Patch FUSE34, 0, 96
+	Patch FUSE34, 0, 128
+	Patch FUSE34, 0, 160
+	Patch FUSE34, 0, 192
+	Patch FUSE34, 0, 224
+}
+
+Texture FUSBG02, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE31, 0, 0
+	Patch FUSE32, 0, 32
+	Patch FUSE32, 0, 64
+	Patch FUSE32, 0, 96
+	Patch FUSE32, 0, 128
+	Patch FUSE32, 0, 160
+	Patch FUSE32, 0, 192
+	Patch FUSE32, 0, 224
+}
+
+Texture FUSROCW, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE44, 0, 0
+	Patch FUSE48, 0, 32
+	Patch FUSE48, 0, 64
+	Patch FUSE48, 0, 96
+	Patch FUSE48, 0, 128
+	Patch FUSE48, 0, 160
+	Patch FUSE48, 0, 192
+	Patch FUSE41, 0, 224
+}
+
+Texture FUSPIL04, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE21, 0, 16
+	Patch FUSE22, 0, 0
+}
+
+Texture FUSPIL05, 48, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE20, 0, 0
+}
+
+Texture FUSPIL07, 48, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE18, 0, 0
+}
+
+Texture FUSPIL06, 32, 48
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE19, 0, 0
+}
+
+Texture FUSRAIL, 16, 4
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE30, 0, 0
+}
+
+Texture FUSWIRVL, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE04, 0, 0
+	Patch FUSE09, 0, 16
+	Patch FUSE09, 0, 32
+	Patch FUSE09, 0, 48
+	Patch FUSE09, 0, 64
+	Patch FUSE09, 0, 80
+	Patch FUSE09, 0, 96
+	Patch FUSE09, 0, 112
+	Patch FUSE09, 0, 128
+	Patch FUSE09, 0, 144
+	Patch FUSE09, 0, 160
+	Patch FUSE09, 0, 176
+	Patch FUSE09, 0, 192
+	Patch FUSE09, 0, 224
+	Patch FUSE09, 0, 240
+	Patch FUSE09, 0, 208
+}
+
+Texture FUSWIRVR, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch FUSE05, 0, 0
+	Patch FUSE09, 0, 16
+	Patch FUSE09, 0, 32
+	Patch FUSE09, 0, 48
+	Patch FUSE09, 0, 64
+	Patch FUSE09, 0, 80
+	Patch FUSE09, 0, 96
+	Patch FUSE09, 0, 112
+	Patch FUSE09, 0, 128
+	Patch FUSE09, 0, 144
+	Patch FUSE09, 0, 160
+	Patch FUSE09, 0, 176
+	Patch FUSE09, 0, 192
+	Patch FUSE09, 0, 224
+	Patch FUSE09, 0, 240
+	Patch FUSE09, 0, 208
+}
+
+
+
+
+
+Texture SHOPIL01, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK01, 0, 0
+	Patch SHOCK04, 0, 16
+	Patch SHOCK03, 0, 32
+	Patch SHOCK02, 0, 64
+	Patch SHOCK02, 0, 80
+	Patch SHOCK02, 0, 96
+	Patch SHOCK02, 0, 112
+	Patch SHOCK02, 0, 128
+	Patch SHOCK02, 0, 144
+	Patch SHOCK02, 0, 160
+	Patch SHOCK02, 0, 176
+	Patch SHOCK02, 0, 192
+	Patch SHOCK02, 0, 208
+	Patch SHOCK02, 0, 224
+	Patch SHOCK02, 0, 240
+	Patch SHOCK02, 0, 256
+	Patch SHOCK02, 0, 272
+	Patch SHOCK02, 0, 288
+	Patch SHOCK02, 0, 304
+	Patch SHOCK02, 0, 320
+	Patch SHOCK02, 0, 336
+	Patch SHOCK02, 0, 352
+	Patch SHOCK02, 0, 368
+	Patch SHOCK02, 0, 384
+	Patch SHOCK02, 0, 400
+	Patch SHOCK02, 0, 416
+	Patch SHOCK02, 0, 432
+	Patch SHOCK02, 0, 448
+	Patch SHOCK02, 0, 464
+	Patch SHOCK02, 0, 480
+	Patch SHOCK02, 0, 496
+}
+
+Texture SHOPIL02, 32, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK01, 0, 0
+	Patch SHOCK04, 0, 15
+	Patch SHOCK01, 0, 32
+	Patch SHOCK04, 0, 48
+	Patch SHOCK02, 0, 64
+	Patch SHOCK02, 0, 80
+	Patch SHOCK02, 0, 96
+	Patch SHOCK02, 0, 112
+}
+
+Texture SHOPIL03, 32, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK01, 0, 0
+	Patch SHOCK02, 0, 16
+	Patch SHOCK03, 0, 32
+	Patch SHOCK03, 0, 80
+	Patch SHOCK02, 0, 64
+	Patch SHOCK02, 0, 112
+}
+
+Texture SHOBLC0, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK11, 0, 0
+}
+
+Texture SHOBLC01, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK13, 0, 0
+	Patch SHOCK16, 0, 16
+	Patch SHOCK16, 0, 32
+	Patch SHOCK16, 0, 48
+	Patch SHOCK18, 0, 64
+}
+
+Texture SHOBLC02, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK21, 0, 16
+	Patch SHOCK24, 0, 32
+	Patch SHOCK27, 0, 48
+	Patch SHOCK19, 0, 64
+}
+
+Texture SHOBLC03, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK19, 0, 64
+	Patch SHOCK22, 0, 16
+	Patch SHOCK25, 0, 32
+	Patch SHOCK28, 0, 48
+}
+
+Texture SHOBLC04, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK19, 0, 64
+	Patch SHOCK29, 0, 48
+	Patch SHOCK26, 0, 32
+	Patch SHOCK23, 0, 16
+}
+
+Texture SHOBLC05, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK15, 0, 0
+	Patch SHOCK17, 0, 16
+	Patch SHOCK17, 0, 32
+	Patch SHOCK17, 0, 48
+	Patch SHOCK20, 0, 64
+}
+
+Texture SHOBLC06, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK13, 0, 0
+	Patch SHOCK16, 0, 16
+	Patch SHOCK16, 0, 32
+	Patch SHOCK16, 0, 48
+	Patch SHOCK16, 0, 64
+	Patch SHOCK16, 0, 80
+	Patch SHOCK16, 0, 96
+	Patch SHOCK16, 0, 112
+	Patch SHOCK16, 0, 128
+	Patch SHOCK16, 0, 144
+	Patch SHOCK16, 0, 160
+	Patch SHOCK16, 0, 176
+	Patch SHOCK16, 0, 192
+	Patch SHOCK16, 0, 208
+	Patch SHOCK16, 0, 224
+	Patch SHOCK18, 0, 240
+}
+
+Texture SHOBLC07, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK21, 0, 16
+	Patch SHOCK21, 0, 112
+	Patch SHOCK21, 0, 160
+	Patch SHOCK21, 0, 208
+	Patch SHOCK21, 0, 64
+	Patch SHOCK24, 0, 32
+	Patch SHOCK24, 0, 80
+	Patch SHOCK24, 0, 128
+	Patch SHOCK24, 0, 176
+	Patch SHOCK24, 0, 224
+	Patch SHOCK27, 0, 48
+	Patch SHOCK27, 0, 96
+	Patch SHOCK27, 0, 144
+	Patch SHOCK27, 0, 192
+	Patch SHOCK27, 0, 240
+}
+
+Texture SHOBLC08, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK22, 0, 16
+	Patch SHOCK22, 0, 112
+	Patch SHOCK22, 0, 160
+	Patch SHOCK22, 0, 208
+	Patch SHOCK22, 0, 64
+	Patch SHOCK25, 0, 32
+	Patch SHOCK25, 0, 80
+	Patch SHOCK25, 0, 128
+	Patch SHOCK25, 0, 176
+	Patch SHOCK25, 0, 224
+	Patch SHOCK28, 0, 48
+	Patch SHOCK28, 0, 96
+	Patch SHOCK28, 0, 144
+	Patch SHOCK28, 0, 192
+	Patch SHOCK28, 0, 240
+}
+
+Texture SHOBLC09, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK14, 0, 0
+	Patch SHOCK23, 0, 16
+	Patch SHOCK23, 0, 64
+	Patch SHOCK23, 0, 160
+	Patch SHOCK23, 0, 208
+	Patch SHOCK23, 0, 112
+	Patch SHOCK26, 0, 32
+	Patch SHOCK26, 0, 80
+	Patch SHOCK26, 0, 128
+	Patch SHOCK26, 0, 176
+	Patch SHOCK26, 0, 224
+	Patch SHOCK29, 0, 48
+	Patch SHOCK29, 0, 96
+	Patch SHOCK29, 0, 144
+	Patch SHOCK29, 0, 192
+	Patch SHOCK29, 0, 240
+}
+
+Texture SHOBLC10, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK15, 0, 0
+	Patch SHOCK17, 0, 16
+	Patch SHOCK17, 0, 32
+	Patch SHOCK17, 0, 48
+	Patch SHOCK17, 0, 64
+	Patch SHOCK17, 0, 80
+	Patch SHOCK17, 0, 96
+	Patch SHOCK17, 0, 112
+	Patch SHOCK17, 0, 128
+	Patch SHOCK17, 0, 144
+	Patch SHOCK17, 0, 160
+	Patch SHOCK17, 0, 176
+	Patch SHOCK17, 0, 192
+	Patch SHOCK17, 0, 208
+	Patch SHOCK17, 0, 224
+	Patch SHOCK20, 0, 240
+}
+
+Texture SHOWAL01, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK05, 0, 0
+	Patch SHOCK06, 16, 0
+	Patch SHOCK08, 0, 16
+	Patch SHOCK08, 0, 48
+	Patch SHOCK08, 0, 80
+	Patch SHOCK08, 0, 112
+	Patch SHOCK08, 0, 144
+	Patch SHOCK08, 0, 176
+	Patch SHOCK08, 0, 208
+	Patch SHOCK08, 0, 240
+}
+
+Texture SHOWAL02, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK06, 0, 0
+	Patch SHOCK06, 16, 0
+	Patch SHOCK08, 0, 16
+	Patch SHOCK08, 0, 48
+	Patch SHOCK08, 0, 80
+	Patch SHOCK08, 0, 112
+	Patch SHOCK08, 0, 144
+	Patch SHOCK08, 0, 176
+	Patch SHOCK08, 0, 208
+	Patch SHOCK08, 0, 240
+}
+
+Texture SHOWAL03, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK06, 0, 0
+	Patch SHOCK07, 16, 0
+	Patch SHOCK08, 0, 16
+	Patch SHOCK08, 0, 48
+	Patch SHOCK08, 0, 80
+	Patch SHOCK08, 0, 112
+	Patch SHOCK08, 0, 144
+	Patch SHOCK08, 0, 176
+	Patch SHOCK08, 0, 208
+	Patch SHOCK08, 0, 240
+}
+
+Texture SHOWAL04, 16, 208
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK05, 0, 0
+	Patch SHOCK10, 0, 16
+	Patch SHOCK10, 0, 80
+	Patch SHOCK10, 0, 144
+}
+
+Texture SHOWAL05, 16, 208
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK09, 0, 0
+	Patch SHOCK10, 0, 16
+	Patch SHOCK10, 0, 80
+	Patch SHOCK10, 0, 144
+}
+
+Texture SHOWAL06, 16, 208
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK07, 0, 0
+	Patch SHOCK10, 0, 16
+	Patch SHOCK10, 0, 80
+	Patch SHOCK10, 0, 144
+}
+
+Texture SHOWAL07, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK85, 0, 0
+	Patch SHOCK86, 0, 32
+	Patch SHOCK86, 0, 64
+	Patch SHOCK86, 0, 96
+	Patch SHOCK86, 0, 128
+	Patch SHOCK86, 0, 160
+	Patch SHOCK86, 0, 192
+	Patch SHOCK86, 0, 224
+}
+
+Texture SHOLDR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK12, 0, 0
+}
+
+Texture SHOBG01, 32, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK35, 0, 0
+	Patch SHOCK36, 0, 16
+	Patch SHOCK36, 0, 32
+	Patch SHOCK36, 0, 48
+	Patch SHOCK36, 0, 64
+	Patch SHOCK36, 0, 80
+	Patch SHOCK36, 0, 96
+	Patch SHOCK36, 0, 112
+	Patch SHOCK36, 0, 128
+	Patch SHOCK36, 0, 144
+	Patch SHOCK36, 0, 160
+	Patch SHOCK36, 0, 176
+	Patch SHOCK36, 0, 192
+	Patch SHOCK36, 0, 208
+	Patch SHOCK36, 0, 224
+	Patch SHOCK36, 0, 240
+}
+
+Texture SHOBG02, 48, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK37, 0, 0
+	Patch SHOCK38, 0, 16
+	Patch SHOCK38, 0, 64
+	Patch SHOCK38, 0, 112
+	Patch SHOCK38, 0, 160
+	Patch SHOCK38, 0, 208
+}
+
+Texture SHOBG03, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK30, 0, 0
+	Patch SHOCK31, 0, 16
+	Patch SHOCK31, 0, 32
+	Patch SHOCK31, 0, 48
+	Patch SHOCK31, 0, 64
+	Patch SHOCK31, 0, 80
+	Patch SHOCK31, 0, 96
+	Patch SHOCK31, 0, 112
+	Patch SHOCK31, 0, 128
+	Patch SHOCK31, 0, 144
+	Patch SHOCK31, 0, 160
+	Patch SHOCK31, 0, 176
+	Patch SHOCK31, 0, 192
+	Patch SHOCK31, 0, 208
+	Patch SHOCK31, 0, 224
+	Patch SHOCK31, 0, 240
+}
+
+Texture SHOBG04, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK32, 0, 0
+	Patch SHOCK33, 0, 16
+	Patch SHOCK33, 0, 32
+	Patch SHOCK33, 0, 48
+	Patch SHOCK33, 0, 64
+	Patch SHOCK33, 0, 80
+	Patch SHOCK33, 0, 96
+	Patch SHOCK33, 0, 112
+	Patch SHOCK33, 0, 128
+	Patch SHOCK33, 0, 144
+	Patch SHOCK33, 0, 160
+	Patch SHOCK33, 0, 176
+	Patch SHOCK33, 0, 192
+	Patch SHOCK33, 0, 208
+	Patch SHOCK33, 0, 224
+	Patch SHOCK33, 0, 240
+}
+
+Texture SHOBG05, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK34, 0, 0
+}
+
+Texture SHOBG06, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK40, 0, 0
+}
+
+Texture SHOBG07, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK66, 0, 0
+}
+
+Texture SHOSKY, 128, 96
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK39, 0, 0
+}
+
+Texture SHOFLR01, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK87, 0, 0
+}
+
+Texture SHOFLR02, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch SHOCK89, 0, 0
+}
+
+Texture SHOFLR03, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK91, 0, 0
+}
+
+Texture SHOFLR04, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK88, 0, 0
+}
+
+Texture SHOFLR05, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK90, 0, 0
+}
+
+Texture SHOWAT01, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK67, 0, 0
+}
+
+Texture SHOWAT02, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK68, 0, 0
+}
+
+Texture SHOWAT03, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK69, 0, 0
+}
+
+Texture SHOWAT04, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK70, 0, 0
+}
+
+Texture SHOWATX, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK70, 0, 0
+}
+
+Texture SHOWATL1, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK71, 0, 0
+}
+
+Texture SHOWATL2, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK72, 0, 0
+}
+
+Texture SHOFAL01, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK73, 0, 0
+	Patch SHOCK76, 0, 16
+	Patch SHOCK76, 0, 32
+	Patch SHOCK76, 0, 48
+	Patch SHOCK76, 0, 64
+	Patch SHOCK76, 0, 80
+	Patch SHOCK76, 0, 96
+	Patch SHOCK76, 0, 112
+	Patch SHOCK76, 0, 128
+	Patch SHOCK76, 0, 144
+	Patch SHOCK76, 0, 160
+	Patch SHOCK76, 0, 176
+	Patch SHOCK76, 0, 192
+	Patch SHOCK76, 0, 208
+	Patch SHOCK76, 0, 224
+	Patch SHOCK76, 0, 240
+}
+
+Texture SHOFAL02, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK74, 0, 0
+	Patch SHOCK77, 0, 16
+	Patch SHOCK77, 0, 32
+	Patch SHOCK77, 0, 48
+	Patch SHOCK77, 0, 64
+	Patch SHOCK77, 0, 80
+	Patch SHOCK77, 0, 96
+	Patch SHOCK77, 0, 112
+	Patch SHOCK77, 0, 128
+	Patch SHOCK77, 0, 144
+	Patch SHOCK77, 0, 160
+	Patch SHOCK77, 0, 176
+	Patch SHOCK77, 0, 192
+	Patch SHOCK77, 0, 208
+	Patch SHOCK77, 0, 224
+	Patch SHOCK77, 0, 240
+}
+
+Texture SHOFAL03, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK75, 0, 0
+	Patch SHOCK78, 0, 16
+	Patch SHOCK78, 0, 32
+	Patch SHOCK78, 0, 48
+	Patch SHOCK78, 0, 64
+	Patch SHOCK78, 0, 80
+	Patch SHOCK78, 0, 96
+	Patch SHOCK78, 0, 112
+	Patch SHOCK78, 0, 128
+	Patch SHOCK78, 0, 144
+	Patch SHOCK78, 0, 160
+	Patch SHOCK78, 0, 176
+	Patch SHOCK78, 0, 192
+	Patch SHOCK78, 0, 208
+	Patch SHOCK78, 0, 224
+	Patch SHOCK78, 0, 240
+}
+
+Texture SHOFALX1, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK75, 0, 0
+	Patch SHOCK78, 0, 16
+	Patch SHOCK78, 0, 32
+	Patch SHOCK78, 0, 48
+	Patch SHOCK78, 0, 64
+	Patch SHOCK78, 0, 80
+	Patch SHOCK78, 0, 96
+	Patch SHOCK78, 0, 112
+	Patch SHOCK78, 0, 128
+	Patch SHOCK78, 0, 144
+	Patch SHOCK78, 0, 160
+	Patch SHOCK78, 0, 176
+	Patch SHOCK78, 0, 192
+	Patch SHOCK78, 0, 208
+	Patch SHOCK78, 0, 224
+	Patch SHOCK78, 0, 240
+}
+
+Texture SHOFAL04, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK79, 0, 0
+	Patch SHOCK82, 0, 16
+	Patch SHOCK82, 0, 32
+	Patch SHOCK82, 0, 48
+	Patch SHOCK82, 0, 64
+	Patch SHOCK82, 0, 80
+	Patch SHOCK82, 0, 96
+	Patch SHOCK82, 0, 112
+	Patch SHOCK82, 0, 128
+	Patch SHOCK82, 0, 144
+	Patch SHOCK82, 0, 160
+	Patch SHOCK82, 0, 176
+	Patch SHOCK82, 0, 192
+	Patch SHOCK82, 0, 208
+	Patch SHOCK82, 0, 224
+	Patch SHOCK82, 0, 240
+}
+
+Texture SHOFAL05, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK80, 0, 0
+	Patch SHOCK83, 0, 16
+	Patch SHOCK83, 0, 32
+	Patch SHOCK83, 0, 48
+	Patch SHOCK83, 0, 64
+	Patch SHOCK83, 0, 80
+	Patch SHOCK83, 0, 96
+	Patch SHOCK83, 0, 112
+	Patch SHOCK83, 0, 128
+	Patch SHOCK83, 0, 144
+	Patch SHOCK83, 0, 160
+	Patch SHOCK83, 0, 176
+	Patch SHOCK83, 0, 192
+	Patch SHOCK83, 0, 208
+	Patch SHOCK83, 0, 224
+	Patch SHOCK83, 0, 240
+}
+
+Texture SHOFAL06, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK81, 0, 0
+	Patch SHOCK84, 0, 16
+	Patch SHOCK84, 0, 32
+	Patch SHOCK84, 0, 48
+	Patch SHOCK84, 0, 64
+	Patch SHOCK84, 0, 80
+	Patch SHOCK84, 0, 96
+	Patch SHOCK84, 0, 112
+	Patch SHOCK84, 0, 128
+	Patch SHOCK84, 0, 144
+	Patch SHOCK84, 0, 160
+	Patch SHOCK84, 0, 176
+	Patch SHOCK84, 0, 192
+	Patch SHOCK84, 0, 208
+	Patch SHOCK84, 0, 224
+	Patch SHOCK84, 0, 240
+}
+
+Texture SHOFALX2, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK81, 0, 0
+	Patch SHOCK84, 0, 16
+	Patch SHOCK84, 0, 32
+	Patch SHOCK84, 0, 48
+	Patch SHOCK84, 0, 64
+	Patch SHOCK84, 0, 80
+	Patch SHOCK84, 0, 96
+	Patch SHOCK84, 0, 112
+	Patch SHOCK84, 0, 128
+	Patch SHOCK84, 0, 144
+	Patch SHOCK84, 0, 160
+	Patch SHOCK84, 0, 176
+	Patch SHOCK84, 0, 192
+	Patch SHOCK84, 0, 208
+	Patch SHOCK84, 0, 224
+	Patch SHOCK84, 0, 240
+}
+
+Texture SHOWIL01, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK41, 0, 0
+	Patch SHOCK44, 0, 16
+	Patch SHOCK43, 0, 32
+	Patch SHOCK42, 0, 64
+	Patch SHOCK42, 0, 80
+	Patch SHOCK42, 0, 96
+	Patch SHOCK42, 0, 112
+	Patch SHOCK42, 0, 128
+	Patch SHOCK42, 0, 144
+	Patch SHOCK42, 0, 160
+	Patch SHOCK42, 0, 176
+	Patch SHOCK42, 0, 192
+	Patch SHOCK42, 0, 208
+	Patch SHOCK42, 0, 224
+	Patch SHOCK42, 0, 240
+	Patch SHOCK42, 0, 256
+	Patch SHOCK42, 0, 272
+	Patch SHOCK42, 0, 288
+	Patch SHOCK42, 0, 304
+	Patch SHOCK42, 0, 320
+	Patch SHOCK42, 0, 336
+	Patch SHOCK42, 0, 352
+	Patch SHOCK42, 0, 368
+	Patch SHOCK42, 0, 384
+	Patch SHOCK42, 0, 400
+	Patch SHOCK42, 0, 416
+	Patch SHOCK42, 0, 432
+	Patch SHOCK42, 0, 448
+	Patch SHOCK42, 0, 464
+	Patch SHOCK42, 0, 480
+	Patch SHOCK42, 0, 496
+}
+
+Texture SHOWIL02, 32, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK41, 0, 0
+	Patch SHOCK44, 0, 15
+	Patch SHOCK41, 0, 32
+	Patch SHOCK44, 0, 48
+	Patch SHOCK42, 0, 64
+	Patch SHOCK42, 0, 80
+	Patch SHOCK42, 0, 96
+	Patch SHOCK42, 0, 112
+}
+
+Texture SHOWIL03, 32, 128
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK41, 0, 0
+	Patch SHOCK42, 0, 16
+	Patch SHOCK43, 0, 32
+	Patch SHOCK43, 0, 80
+	Patch SHOCK42, 0, 64
+	Patch SHOCK42, 0, 112
+}
+
+Texture SHOWLC01, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK49, 0, 0
+	Patch SHOCK52, 0, 16
+	Patch SHOCK52, 0, 32
+	Patch SHOCK52, 0, 48
+	Patch SHOCK54, 0, 64
+}
+
+Texture SHOWLC02, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK57, 0, 16
+	Patch SHOCK60, 0, 32
+	Patch SHOCK63, 0, 48
+	Patch SHOCK55, 0, 64
+}
+
+Texture SHOWLC03, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK55, 0, 64
+	Patch SHOCK58, 0, 16
+	Patch SHOCK61, 0, 32
+	Patch SHOCK64, 0, 48
+}
+
+Texture SHOWLC04, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK55, 0, 64
+	Patch SHOCK65, 0, 48
+	Patch SHOCK62, 0, 32
+	Patch SHOCK59, 0, 16
+}
+
+Texture SHOWLC05, 16, 80
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK51, 0, 0
+	Patch SHOCK53, 0, 16
+	Patch SHOCK53, 0, 32
+	Patch SHOCK53, 0, 48
+	Patch SHOCK56, 0, 64
+}
+
+Texture SHOWLC06, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK49, 0, 0
+	Patch SHOCK52, 0, 16
+	Patch SHOCK52, 0, 32
+	Patch SHOCK52, 0, 48
+	Patch SHOCK52, 0, 64
+	Patch SHOCK52, 0, 80
+	Patch SHOCK52, 0, 96
+	Patch SHOCK52, 0, 112
+	Patch SHOCK52, 0, 128
+	Patch SHOCK52, 0, 144
+	Patch SHOCK52, 0, 160
+	Patch SHOCK52, 0, 176
+	Patch SHOCK52, 0, 192
+	Patch SHOCK52, 0, 208
+	Patch SHOCK52, 0, 224
+	Patch SHOCK54, 0, 240
+}
+
+Texture SHOWLC07, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK57, 0, 16
+	Patch SHOCK57, 0, 112
+	Patch SHOCK57, 0, 160
+	Patch SHOCK57, 0, 208
+	Patch SHOCK57, 0, 64
+	Patch SHOCK60, 0, 32
+	Patch SHOCK60, 0, 80
+	Patch SHOCK60, 0, 128
+	Patch SHOCK60, 0, 176
+	Patch SHOCK60, 0, 224
+	Patch SHOCK63, 0, 48
+	Patch SHOCK63, 0, 96
+	Patch SHOCK63, 0, 144
+	Patch SHOCK63, 0, 192
+	Patch SHOCK63, 0, 240
+}
+
+Texture SHOWLC08, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK58, 0, 16
+	Patch SHOCK58, 0, 112
+	Patch SHOCK58, 0, 160
+	Patch SHOCK58, 0, 208
+	Patch SHOCK58, 0, 64
+	Patch SHOCK61, 0, 32
+	Patch SHOCK61, 0, 80
+	Patch SHOCK61, 0, 128
+	Patch SHOCK61, 0, 176
+	Patch SHOCK61, 0, 224
+	Patch SHOCK64, 0, 48
+	Patch SHOCK64, 0, 96
+	Patch SHOCK64, 0, 144
+	Patch SHOCK64, 0, 192
+	Patch SHOCK64, 0, 240
+}
+
+Texture SHOWLC09, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK50, 0, 0
+	Patch SHOCK59, 0, 16
+	Patch SHOCK59, 0, 64
+	Patch SHOCK59, 0, 160
+	Patch SHOCK59, 0, 208
+	Patch SHOCK59, 0, 112
+	Patch SHOCK62, 0, 32
+	Patch SHOCK62, 0, 80
+	Patch SHOCK62, 0, 128
+	Patch SHOCK62, 0, 176
+	Patch SHOCK62, 0, 224
+	Patch SHOCK65, 0, 48
+	Patch SHOCK65, 0, 96
+	Patch SHOCK65, 0, 144
+	Patch SHOCK65, 0, 192
+	Patch SHOCK65, 0, 240
+}
+
+Texture SHOWLC10, 16, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK51, 0, 0
+	Patch SHOCK53, 0, 16
+	Patch SHOCK53, 0, 32
+	Patch SHOCK53, 0, 48
+	Patch SHOCK53, 0, 64
+	Patch SHOCK53, 0, 80
+	Patch SHOCK53, 0, 96
+	Patch SHOCK53, 0, 112
+	Patch SHOCK53, 0, 128
+	Patch SHOCK53, 0, 144
+	Patch SHOCK53, 0, 160
+	Patch SHOCK53, 0, 176
+	Patch SHOCK53, 0, 192
+	Patch SHOCK53, 0, 208
+	Patch SHOCK53, 0, 224
+	Patch SHOCK56, 0, 240
+}
+
+Texture SHOWWL01, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK45, 0, 0
+	Patch SHOCK46, 16, 0
+	Patch SHOCK48, 0, 16
+	Patch SHOCK48, 0, 48
+	Patch SHOCK48, 0, 80
+	Patch SHOCK48, 0, 112
+	Patch SHOCK48, 0, 144
+	Patch SHOCK48, 0, 176
+	Patch SHOCK48, 0, 208
+	Patch SHOCK48, 0, 240
+}
+
+Texture SHOWWL02, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK46, 0, 0
+	Patch SHOCK46, 16, 0
+	Patch SHOCK48, 0, 16
+	Patch SHOCK48, 0, 48
+	Patch SHOCK48, 0, 80
+	Patch SHOCK48, 0, 112
+	Patch SHOCK48, 0, 144
+	Patch SHOCK48, 0, 176
+	Patch SHOCK48, 0, 208
+	Patch SHOCK48, 0, 240
+}
+
+Texture SHOWWL03, 32, 272
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCK46, 0, 0
+	Patch SHOCK47, 16, 0
+	Patch SHOCK48, 0, 16
+	Patch SHOCK48, 0, 48
+	Patch SHOCK48, 0, 80
+	Patch SHOCK48, 0, 112
+	Patch SHOCK48, 0, 144
+	Patch SHOCK48, 0, 176
+	Patch SHOCK48, 0, 208
+	Patch SHOCK48, 0, 240
+}
+
+Texture SHOBAR01, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB1, 0, 0
+}
+
+Texture SHOBAR02, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB2, 0, 0
+}
+
+Texture SHOBAR03, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB3, 0, 0
+}
+
+Texture SHOBAR04, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB4, 0, 0
+}
+
+Texture SHOBAR05, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB5, 0, 0
+}
+
+Texture SHOBAR06, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB6, 0, 0
+}
+
+Texture SHOBAR07, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB7, 0, 0
+}
+
+Texture SHOBAR08, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB8, 0, 0
+}
+
+Texture SHOBAR09, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB9, 0, 0
+}
+
+Texture SHOBAR10, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB10, 0, 0
+}
+
+Texture SHOBAR11, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB11, 0, 0
+}
+
+Texture SHOBAR12, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB12, 0, 0
+}
+
+Texture SHOBAR13, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB13, 0, 0
+}
+
+Texture SHOBAR14, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB14, 0, 0
+}
+
+Texture SHOBAR15, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB15, 0, 0
+}
+
+Texture SHOBAR16, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB16, 0, 0
+}
+
+Texture SHOBAR17, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB17, 0, 0
+}
+
+Texture SHOBAR18, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB18, 0, 0
+}
+
+Texture SHOBAR19, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB19, 0, 0
+}
+
+Texture SHOBAR20, 64, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch SHOCB20, 0, 0
+}
+
+
+
+
+
+Texture CIRWAL1A, 96, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT016, 0, 0
+	Patch CIRCT017, 0, 16
+	Patch CIRCT017, 0, 272
+	Patch CIRCT017, 0, 144
+	Patch CIRCT017, 0, 400
+	Patch CIRCT017, 0, 80
+	Patch CIRCT017, 0, 336
+	Patch CIRCT017, 0, 208
+	Patch CIRCT017, 0, 464
+}
+
+Texture CIRWAL1B, 96, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT020, 0, 0
+	Patch CIRCT021, 0, 16
+	Patch CIRCT021, 0, 272
+	Patch CIRCT021, 0, 144
+	Patch CIRCT021, 0, 400
+	Patch CIRCT021, 0, 80
+	Patch CIRCT021, 0, 336
+	Patch CIRCT021, 0, 208
+	Patch CIRCT021, 0, 464
+}
+
+Texture CIRWAL2A, 96, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT018, 0, 0
+	Patch CIRCT019, 0, 16
+	Patch CIRCT019, 0, 208
+	Patch CIRCT019, 0, 112
+	Patch CIRCT019, 0, 304
+	Patch CIRCT019, 0, 448
+	Patch CIRCT019, 0, 64
+	Patch CIRCT019, 0, 256
+	Patch CIRCT019, 0, 400
+	Patch CIRCT019, 0, 160
+	Patch CIRCT019, 0, 352
+	Patch CIRCT019, 0, 496
+}
+
+Texture CIRWAL2B, 96, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT022, 0, 0
+	Patch CIRCT023, 0, 16
+	Patch CIRCT023, 0, 208
+	Patch CIRCT023, 0, 112
+	Patch CIRCT023, 0, 304
+	Patch CIRCT023, 0, 448
+	Patch CIRCT023, 0, 64
+	Patch CIRCT023, 0, 256
+	Patch CIRCT023, 0, 400
+	Patch CIRCT023, 0, 160
+	Patch CIRCT023, 0, 352
+	Patch CIRCT023, 0, 496
+}
+
+Texture CIRLAD, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT036, 0, 0
+}
+
+Texture CIRPIL1A, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT006, 0, 0
+	Patch CIRCT007, 0, 16
+	Patch CIRCT007, 0, 112
+	Patch CIRCT007, 0, 208
+	Patch CIRCT007, 0, 304
+	Patch CIRCT007, 0, 400
+	Patch CIRCT007, 0, 64
+	Patch CIRCT007, 0, 160
+	Patch CIRCT007, 0, 256
+	Patch CIRCT007, 0, 352
+	Patch CIRCT007, 0, 448
+	Patch CIRCT007, 0, 496
+	Patch CIRCT008, 0, 32
+	Patch CIRCT008, 0, 128
+	Patch CIRCT008, 0, 224
+	Patch CIRCT008, 0, 320
+	Patch CIRCT008, 0, 416
+	Patch CIRCT008, 0, 80
+	Patch CIRCT008, 0, 176
+	Patch CIRCT008, 0, 272
+	Patch CIRCT008, 0, 368
+	Patch CIRCT008, 0, 464
+	Patch CIRCT009, 0, 48
+	Patch CIRCT009, 0, 144
+	Patch CIRCT009, 0, 240
+	Patch CIRCT009, 0, 336
+	Patch CIRCT009, 0, 432
+	Patch CIRCT009, 0, 96
+	Patch CIRCT009, 0, 192
+	Patch CIRCT009, 0, 288
+	Patch CIRCT009, 0, 384
+	Patch CIRCT009, 0, 480
+}
+
+Texture CIRPIL1B, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT006, 0, 0
+	Patch CIRCT007, 0, 16
+	Patch CIRCT007, 0, 32
+	Patch CIRCT007, 0, 112
+	Patch CIRCT007, 0, 208
+	Patch CIRCT007, 0, 304
+	Patch CIRCT007, 0, 400
+	Patch CIRCT007, 0, 64
+	Patch CIRCT007, 0, 160
+	Patch CIRCT007, 0, 256
+	Patch CIRCT007, 0, 352
+	Patch CIRCT007, 0, 448
+	Patch CIRCT007, 0, 128
+	Patch CIRCT007, 0, 224
+	Patch CIRCT007, 0, 320
+	Patch CIRCT007, 0, 416
+	Patch CIRCT007, 0, 80
+	Patch CIRCT007, 0, 176
+	Patch CIRCT007, 0, 272
+	Patch CIRCT007, 0, 368
+	Patch CIRCT007, 0, 464
+	Patch CIRCT007, 0, 48
+	Patch CIRCT007, 0, 144
+	Patch CIRCT007, 0, 240
+	Patch CIRCT007, 0, 336
+	Patch CIRCT007, 0, 432
+	Patch CIRCT007, 0, 96
+	Patch CIRCT007, 0, 192
+	Patch CIRCT007, 0, 288
+	Patch CIRCT007, 0, 384
+	Patch CIRCT007, 0, 480
+	Patch CIRCT008, 0, 496
+}
+
+Texture CIRPIL1C, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT009, 0, 0
+	Patch CIRCT007, 0, 16
+	Patch CIRCT007, 0, 112
+	Patch CIRCT007, 0, 208
+	Patch CIRCT007, 0, 304
+	Patch CIRCT007, 0, 400
+	Patch CIRCT007, 0, 64
+	Patch CIRCT007, 0, 160
+	Patch CIRCT007, 0, 256
+	Patch CIRCT007, 0, 352
+	Patch CIRCT007, 0, 448
+	Patch CIRCT007, 0, 496
+	Patch CIRCT008, 0, 32
+	Patch CIRCT008, 0, 128
+	Patch CIRCT008, 0, 224
+	Patch CIRCT008, 0, 320
+	Patch CIRCT008, 0, 416
+	Patch CIRCT008, 0, 80
+	Patch CIRCT008, 0, 176
+	Patch CIRCT008, 0, 272
+	Patch CIRCT008, 0, 368
+	Patch CIRCT008, 0, 464
+	Patch CIRCT009, 0, 48
+	Patch CIRCT009, 0, 144
+	Patch CIRCT009, 0, 240
+	Patch CIRCT009, 0, 336
+	Patch CIRCT009, 0, 432
+	Patch CIRCT009, 0, 96
+	Patch CIRCT009, 0, 192
+	Patch CIRCT009, 0, 288
+	Patch CIRCT009, 0, 384
+	Patch CIRCT009, 0, 480
+}
+
+Texture CIRPIL1D, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT009, 0, 0
+	Patch CIRCT007, 0, 16
+	Patch CIRCT007, 0, 32
+	Patch CIRCT007, 0, 112
+	Patch CIRCT007, 0, 208
+	Patch CIRCT007, 0, 304
+	Patch CIRCT007, 0, 400
+	Patch CIRCT007, 0, 64
+	Patch CIRCT007, 0, 160
+	Patch CIRCT007, 0, 256
+	Patch CIRCT007, 0, 352
+	Patch CIRCT007, 0, 448
+	Patch CIRCT007, 0, 128
+	Patch CIRCT007, 0, 224
+	Patch CIRCT007, 0, 320
+	Patch CIRCT007, 0, 416
+	Patch CIRCT007, 0, 80
+	Patch CIRCT007, 0, 176
+	Patch CIRCT007, 0, 272
+	Patch CIRCT007, 0, 368
+	Patch CIRCT007, 0, 464
+	Patch CIRCT007, 0, 48
+	Patch CIRCT007, 0, 144
+	Patch CIRCT007, 0, 240
+	Patch CIRCT007, 0, 336
+	Patch CIRCT007, 0, 432
+	Patch CIRCT007, 0, 96
+	Patch CIRCT007, 0, 192
+	Patch CIRCT007, 0, 288
+	Patch CIRCT007, 0, 384
+	Patch CIRCT007, 0, 480
+	Patch CIRCT008, 0, 496
+}
+
+Texture CIRPIL2, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT010, 0, 0
+	Patch CIRCT010, 0, 16
+	Patch CIRCT010, 0, 32
+	Patch CIRCT010, 0, 112
+	Patch CIRCT010, 0, 208
+	Patch CIRCT010, 0, 304
+	Patch CIRCT010, 0, 400
+	Patch CIRCT010, 0, 64
+	Patch CIRCT010, 0, 160
+	Patch CIRCT010, 0, 256
+	Patch CIRCT010, 0, 352
+	Patch CIRCT010, 0, 448
+	Patch CIRCT010, 0, 128
+	Patch CIRCT010, 0, 224
+	Patch CIRCT010, 0, 320
+	Patch CIRCT010, 0, 416
+	Patch CIRCT010, 0, 80
+	Patch CIRCT010, 0, 176
+	Patch CIRCT010, 0, 272
+	Patch CIRCT010, 0, 368
+	Patch CIRCT010, 0, 464
+	Patch CIRCT010, 0, 48
+	Patch CIRCT010, 0, 144
+	Patch CIRCT010, 0, 240
+	Patch CIRCT010, 0, 336
+	Patch CIRCT010, 0, 432
+	Patch CIRCT010, 0, 96
+	Patch CIRCT010, 0, 192
+	Patch CIRCT010, 0, 288
+	Patch CIRCT010, 0, 384
+	Patch CIRCT010, 0, 480
+	Patch CIRCT011, 0, 496
+}
+
+Texture CIRPIL3, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT012, 0, 0
+	Patch CIRCT013, 0, 16
+	Patch CIRCT013, 0, 32
+	Patch CIRCT013, 0, 112
+	Patch CIRCT013, 0, 208
+	Patch CIRCT013, 0, 304
+	Patch CIRCT013, 0, 400
+	Patch CIRCT013, 0, 64
+	Patch CIRCT013, 0, 160
+	Patch CIRCT013, 0, 256
+	Patch CIRCT013, 0, 352
+	Patch CIRCT013, 0, 448
+	Patch CIRCT013, 0, 128
+	Patch CIRCT013, 0, 224
+	Patch CIRCT013, 0, 320
+	Patch CIRCT013, 0, 416
+	Patch CIRCT013, 0, 80
+	Patch CIRCT013, 0, 176
+	Patch CIRCT013, 0, 272
+	Patch CIRCT013, 0, 368
+	Patch CIRCT013, 0, 464
+	Patch CIRCT013, 0, 48
+	Patch CIRCT013, 0, 144
+	Patch CIRCT013, 0, 240
+	Patch CIRCT013, 0, 336
+	Patch CIRCT013, 0, 432
+	Patch CIRCT013, 0, 96
+	Patch CIRCT013, 0, 192
+	Patch CIRCT013, 0, 288
+	Patch CIRCT013, 0, 384
+	Patch CIRCT013, 0, 480
+	Patch CIRCT013, 0, 496
+}
+
+Texture CIRPIL4A, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT033, 0, 16
+	Patch CIRCT033, 0, 32
+	Patch CIRCT033, 0, 112
+	Patch CIRCT033, 0, 208
+	Patch CIRCT033, 0, 304
+	Patch CIRCT033, 0, 400
+	Patch CIRCT033, 0, 64
+	Patch CIRCT033, 0, 160
+	Patch CIRCT033, 0, 256
+	Patch CIRCT033, 0, 352
+	Patch CIRCT033, 0, 448
+	Patch CIRCT033, 0, 128
+	Patch CIRCT033, 0, 224
+	Patch CIRCT033, 0, 320
+	Patch CIRCT033, 0, 416
+	Patch CIRCT033, 0, 80
+	Patch CIRCT033, 0, 176
+	Patch CIRCT033, 0, 272
+	Patch CIRCT033, 0, 368
+	Patch CIRCT033, 0, 464
+	Patch CIRCT033, 0, 48
+	Patch CIRCT033, 0, 144
+	Patch CIRCT033, 0, 240
+	Patch CIRCT033, 0, 336
+	Patch CIRCT033, 0, 432
+	Patch CIRCT033, 0, 96
+	Patch CIRCT033, 0, 192
+	Patch CIRCT033, 0, 288
+	Patch CIRCT033, 0, 384
+	Patch CIRCT033, 0, 480
+	Patch CIRCT035, 0, 496
+}
+
+Texture CIRPIL4B, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT033, 0, 16
+	Patch CIRCT033, 0, 32
+	Patch CIRCT033, 0, 112
+	Patch CIRCT033, 0, 208
+	Patch CIRCT033, 0, 64
+	Patch CIRCT033, 0, 160
+	Patch CIRCT033, 0, 128
+	Patch CIRCT033, 0, 224
+	Patch CIRCT033, 0, 80
+	Patch CIRCT033, 0, 176
+	Patch CIRCT033, 0, 48
+	Patch CIRCT033, 0, 144
+	Patch CIRCT033, 0, 96
+	Patch CIRCT033, 0, 192
+	Patch CIRCT035, 0, 240
+}
+
+Texture CIRPIL4C, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT033, 0, 16
+	Patch CIRCT033, 0, 32
+	Patch CIRCT033, 0, 64
+	Patch CIRCT033, 0, 80
+	Patch CIRCT033, 0, 48
+	Patch CIRCT033, 0, 96
+	Patch CIRCT035, 0, 112
+}
+
+Texture CIRPIL4D, 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT033, 0, 16
+	Patch CIRCT033, 0, 32
+	Patch CIRCT035, 0, 48
+}
+
+Texture CIRPIL5A, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT034, 0, 16
+	Patch CIRCT034, 0, 32
+	Patch CIRCT034, 0, 112
+	Patch CIRCT034, 0, 208
+	Patch CIRCT034, 0, 304
+	Patch CIRCT034, 0, 400
+	Patch CIRCT034, 0, 64
+	Patch CIRCT034, 0, 160
+	Patch CIRCT034, 0, 256
+	Patch CIRCT034, 0, 352
+	Patch CIRCT034, 0, 448
+	Patch CIRCT034, 0, 128
+	Patch CIRCT034, 0, 224
+	Patch CIRCT034, 0, 320
+	Patch CIRCT034, 0, 416
+	Patch CIRCT034, 0, 80
+	Patch CIRCT034, 0, 176
+	Patch CIRCT034, 0, 272
+	Patch CIRCT034, 0, 368
+	Patch CIRCT034, 0, 464
+	Patch CIRCT034, 0, 48
+	Patch CIRCT034, 0, 144
+	Patch CIRCT034, 0, 240
+	Patch CIRCT034, 0, 336
+	Patch CIRCT034, 0, 432
+	Patch CIRCT034, 0, 96
+	Patch CIRCT034, 0, 192
+	Patch CIRCT034, 0, 288
+	Patch CIRCT034, 0, 384
+	Patch CIRCT034, 0, 480
+	Patch CIRCT035, 0, 496
+}
+
+Texture CIRPIL5B, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT034, 0, 16
+	Patch CIRCT034, 0, 32
+	Patch CIRCT034, 0, 112
+	Patch CIRCT034, 0, 208
+	Patch CIRCT034, 0, 64
+	Patch CIRCT034, 0, 160
+	Patch CIRCT034, 0, 128
+	Patch CIRCT034, 0, 224
+	Patch CIRCT034, 0, 80
+	Patch CIRCT034, 0, 176
+	Patch CIRCT034, 0, 48
+	Patch CIRCT034, 0, 144
+	Patch CIRCT034, 0, 96
+	Patch CIRCT034, 0, 192
+	Patch CIRCT035, 0, 240
+}
+
+Texture CIRPIL5C, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT034, 0, 16
+	Patch CIRCT034, 0, 32
+	Patch CIRCT034, 0, 64
+	Patch CIRCT034, 0, 80
+	Patch CIRCT034, 0, 48
+	Patch CIRCT034, 0, 96
+	Patch CIRCT035, 0, 112
+}
+
+Texture CIRPIL5D, 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT034, 0, 16
+	Patch CIRCT034, 0, 32
+	Patch CIRCT035, 0, 48
+}
+
+Texture CIRPIL6A, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT001, 0, 0
+	Patch CIRCT003, 0, 16
+	Patch CIRCT003, 0, 144
+	Patch CIRCT003, 0, 272
+	Patch CIRCT003, 0, 400
+	Patch CIRCT003, 0, 80
+	Patch CIRCT003, 0, 208
+	Patch CIRCT003, 0, 336
+	Patch CIRCT003, 0, 464
+	Patch CIRCT003, 0, 48
+	Patch CIRCT003, 0, 176
+	Patch CIRCT003, 0, 304
+	Patch CIRCT003, 0, 432
+	Patch CIRCT003, 0, 112
+	Patch CIRCT003, 0, 240
+	Patch CIRCT003, 0, 368
+	Patch CIRCT001, 0, 496
+}
+
+Texture CIRPIL6B, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT001, 0, 0
+	Patch CIRCT003, 0, 16
+	Patch CIRCT003, 0, 144
+	Patch CIRCT003, 0, 80
+	Patch CIRCT003, 0, 208
+	Patch CIRCT003, 0, 240
+	Patch CIRCT003, 0, 48
+	Patch CIRCT003, 0, 176
+	Patch CIRCT003, 0, 112
+}
+
+Texture CIRPIL6C, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT001, 0, 0
+	Patch CIRCT003, 0, 16
+	Patch CIRCT003, 0, 80
+	Patch CIRCT003, 0, 112
+	Patch CIRCT003, 0, 48
+}
+
+Texture CIRPIL6D, 16, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT001, 0, 0
+	Patch CIRCT003, 0, 16
+	Patch CIRCT003, 0, 48
+}
+
+Texture CIRBLK1A, 96, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT002, 0, 496
+	Patch CIRCT002, 32, 0
+	Patch CIRCT002, 32, 496
+	Patch CIRCT002, 64, 0
+	Patch CIRCT002, 64, 496
+	Patch CIRCT004, 0, 16
+	Patch CIRCT004, 0, 256
+	Patch CIRCT004, 48, 16
+	Patch CIRCT004, 48, 256
+	Patch CIRCT004, 0, 112
+	Patch CIRCT004, 0, 352
+	Patch CIRCT004, 48, 112
+	Patch CIRCT004, 48, 352
+	Patch CIRCT004, 0, 64
+	Patch CIRCT004, 0, 304
+	Patch CIRCT004, 48, 64
+	Patch CIRCT004, 48, 304
+	Patch CIRCT004, 0, 160
+	Patch CIRCT004, 0, 400
+	Patch CIRCT004, 48, 160
+	Patch CIRCT004, 48, 400
+	Patch CIRCT004, 0, 208
+	Patch CIRCT004, 0, 448
+	Patch CIRCT004, 48, 208
+	Patch CIRCT004, 48, 448
+	Patch CIRCT005, 0, 32
+	Patch CIRCT005, 0, 272
+	Patch CIRCT005, 48, 32
+	Patch CIRCT005, 48, 272
+	Patch CIRCT005, 0, 128
+	Patch CIRCT005, 0, 368
+	Patch CIRCT005, 48, 128
+	Patch CIRCT005, 48, 368
+	Patch CIRCT005, 0, 80
+	Patch CIRCT005, 0, 320
+	Patch CIRCT005, 48, 80
+	Patch CIRCT005, 48, 320
+	Patch CIRCT005, 0, 176
+	Patch CIRCT005, 0, 416
+	Patch CIRCT005, 48, 176
+	Patch CIRCT005, 48, 416
+	Patch CIRCT005, 0, 224
+	Patch CIRCT005, 0, 464
+	Patch CIRCT005, 48, 224
+	Patch CIRCT005, 48, 464
+}
+
+Texture CIRBLK1B, 96, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT002, 32, 0
+	Patch CIRCT002, 64, 0
+	Patch CIRCT004, 0, 16
+	Patch CIRCT004, 48, 16
+	Patch CIRCT004, 0, 112
+	Patch CIRCT004, 48, 112
+	Patch CIRCT004, 0, 64
+	Patch CIRCT004, 48, 64
+	Patch CIRCT004, 0, 160
+	Patch CIRCT004, 48, 160
+	Patch CIRCT004, 0, 208
+	Patch CIRCT004, 48, 208
+	Patch CIRCT005, 0, 32
+	Patch CIRCT005, 48, 32
+	Patch CIRCT005, 0, 128
+	Patch CIRCT005, 48, 128
+	Patch CIRCT005, 0, 80
+	Patch CIRCT005, 48, 80
+	Patch CIRCT005, 0, 176
+	Patch CIRCT005, 48, 176
+	Patch CIRCT005, 0, 224
+	Patch CIRCT005, 48, 224
+}
+
+Texture CIRBLK1C, 96, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT002, 32, 0
+	Patch CIRCT002, 64, 0
+	Patch CIRCT004, 0, 16
+	Patch CIRCT004, 48, 16
+	Patch CIRCT005, 0, 32
+	Patch CIRCT005, 48, 32
+}
+
+Texture CIRBLK2A, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT002, 0, 496
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 272
+	Patch CIRCT015, 0, 144
+	Patch CIRCT015, 0, 400
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 304
+	Patch CIRCT015, 0, 176
+	Patch CIRCT015, 0, 432
+	Patch CIRCT015, 0, 80
+	Patch CIRCT015, 0, 336
+	Patch CIRCT015, 0, 208
+	Patch CIRCT015, 0, 464
+	Patch CIRCT015, 0, 32
+	Patch CIRCT015, 0, 288
+	Patch CIRCT015, 0, 160
+	Patch CIRCT015, 0, 416
+	Patch CIRCT015, 0, 64
+	Patch CIRCT015, 0, 320
+	Patch CIRCT015, 0, 192
+	Patch CIRCT015, 0, 448
+	Patch CIRCT015, 0, 96
+	Patch CIRCT015, 0, 352
+	Patch CIRCT015, 0, 224
+	Patch CIRCT015, 0, 480
+	Patch CIRCT015, 0, 112
+	Patch CIRCT015, 0, 368
+	Patch CIRCT015, 0, 240
+	Patch CIRCT015, 0, 128
+	Patch CIRCT015, 0, 384
+	Patch CIRCT015, 0, 256
+}
+
+Texture CIRBLK2B, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 144
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 176
+	Patch CIRCT015, 0, 80
+	Patch CIRCT015, 0, 208
+	Patch CIRCT015, 0, 32
+	Patch CIRCT015, 0, 160
+	Patch CIRCT015, 0, 64
+	Patch CIRCT015, 0, 192
+	Patch CIRCT015, 0, 96
+	Patch CIRCT015, 0, 224
+	Patch CIRCT015, 0, 112
+	Patch CIRCT015, 0, 240
+	Patch CIRCT015, 0, 128
+}
+
+Texture CIRBLK2C, 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 32
+}
+
+Texture CIRBLK3, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT003, 0, 0
+	Patch CIRCT005, 16, 0
+}
+
+Texture CIRBLK4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT031, 0, 0
+}
+
+Texture CIRBLK5, 48, 48
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT030, 0, 0
+}
+
+Texture CIRBKG1A, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT051, -88, -97
+	Patch CIRCT029, 0, 176
+	Patch CIRCT027, 0, 160
+	Patch CIRCT026, 16, 160
+	Patch CIRCT028, 32, 160
+	Patch CIRCT024, 16, 0
+	Patch CIRCT026, 16, 16
+	Patch CIRCT026, 16, 48
+	Patch CIRCT026, 16, 32
+	Patch CIRCT026, 16, 64
+	Patch CIRCT026, 16, 96
+	Patch CIRCT026, 16, 128
+	Patch CIRCT026, 16, 80
+	Patch CIRCT026, 16, 112
+	Patch CIRCT026, 16, 144
+}
+
+Texture CIRBKG1B, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT051, -88, -97
+	Patch CIRCT029, 0, 144
+	Patch CIRCT027, 0, 128
+	Patch CIRCT026, 16, 128
+	Patch CIRCT028, 32, 128
+	Patch CIRCT024, 16, 0
+	Patch CIRCT026, 16, 16
+	Patch CIRCT026, 16, 48
+	Patch CIRCT026, 16, 32
+	Patch CIRCT026, 16, 64
+	Patch CIRCT026, 16, 96
+	Patch CIRCT026, 16, 80
+	Patch CIRCT026, 16, 112
+}
+
+Texture CIRBKG1C, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT051, -88, -97
+	Patch CIRCT029, 0, 112
+	Patch CIRCT027, 0, 96
+	Patch CIRCT026, 16, 96
+	Patch CIRCT028, 32, 96
+	Patch CIRCT024, 16, 0
+	Patch CIRCT026, 16, 16
+	Patch CIRCT026, 16, 48
+	Patch CIRCT026, 16, 32
+	Patch CIRCT026, 16, 64
+	Patch CIRCT026, 16, 80
+}
+
+Texture CIRBKG1D, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT051, -88, -97
+	Patch CIRCT029, 0, 80
+	Patch CIRCT027, 0, 64
+	Patch CIRCT026, 16, 64
+	Patch CIRCT028, 32, 64
+	Patch CIRCT024, 16, 0
+	Patch CIRCT026, 16, 16
+	Patch CIRCT026, 16, 48
+	Patch CIRCT026, 16, 32
+}
+
+Texture CIRBKG2, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT051, -88, -121
+	Patch CIRCT029, 0, 16
+	Patch CIRCT029, 0, 112
+	Patch CIRCT029, 0, 64
+	Patch CIRCT029, 0, 160
+	Patch CIRCT029, 0, 208
+	Patch CIRCT024, 16, 0
+	Patch CIRCT024, 32, 0
+	Patch CIRCT024, 0, 0
+}
+
+Texture CIRBKG3, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT024, 0, 0
+	Patch CIRCT026, 0, 16
+	Patch CIRCT026, 0, 128
+	Patch CIRCT026, 0, 256
+	Patch CIRCT026, 0, 384
+	Patch CIRCT026, 0, 48
+	Patch CIRCT026, 0, 160
+	Patch CIRCT026, 0, 288
+	Patch CIRCT026, 0, 416
+	Patch CIRCT026, 0, 96
+	Patch CIRCT026, 0, 208
+	Patch CIRCT026, 0, 336
+	Patch CIRCT026, 0, 464
+	Patch CIRCT026, 0, 32
+	Patch CIRCT026, 0, 144
+	Patch CIRCT026, 0, 272
+	Patch CIRCT026, 0, 400
+	Patch CIRCT026, 0, 80
+	Patch CIRCT026, 0, 192
+	Patch CIRCT026, 0, 320
+	Patch CIRCT026, 0, 448
+	Patch CIRCT026, 0, 64
+	Patch CIRCT026, 0, 176
+	Patch CIRCT026, 0, 304
+	Patch CIRCT026, 0, 432
+	Patch CIRCT026, 0, 112
+	Patch CIRCT026, 0, 240
+	Patch CIRCT026, 0, 368
+	Patch CIRCT026, 0, 224
+	Patch CIRCT026, 0, 352
+	Patch CIRCT026, 0, 480
+	Patch CIRCT026, 0, 496
+}
+
+Texture CIRLIG1, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT049, 0, 0
+}
+
+Texture CIRLIG2, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT050, 0, 0
+}
+
+Texture CIRCONV1, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT041, 0, 0
+	Patch CIRCT047, 16, 0
+}
+
+Texture CIRCONVA, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT041, 0, 0
+	Patch CIRCT047, 16, 0
+}
+
+Texture CIRCONVB, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT042, 0, 0
+	Patch CIRCT048, 16, 0
+}
+
+Texture CIRCONV2, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT043, 0, 0
+}
+
+Texture CIRCONVC, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT043, 0, 0
+}
+
+Texture CIRCONVD, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT044, 0, 0
+}
+
+Texture CIRCONV3, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT045, 0, 0
+}
+
+Texture CIRCONVE, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT045, 0, 0
+}
+
+Texture CIRCONVF, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT046, 0, 0
+}
+
+Texture CIRCONV4, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT052, 0, 0
+}
+
+Texture CIRCONVG, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT052, 0, 0
+}
+
+Texture CIRCONVH, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT053, 0, 0
+}
+
+Texture CIRCONV5, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT052, 0, 0
+	Patch CIRCT052, 16, 0
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 80
+	Patch CIRCT015, 0, 112
+	Patch CIRCT015, 0, 32
+	Patch CIRCT015, 0, 64
+	Patch CIRCT015, 0, 96
+}
+
+Texture CIRCONVI, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT052, 0, 0
+	Patch CIRCT052, 16, 0
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 80
+	Patch CIRCT015, 0, 112
+	Patch CIRCT015, 0, 32
+	Patch CIRCT015, 0, 64
+	Patch CIRCT015, 0, 96
+}
+
+Texture CIRCONVJ, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT053, 0, 0
+	Patch CIRCT053, 16, 0
+	Patch CIRCT015, 0, 16
+	Patch CIRCT015, 0, 48
+	Patch CIRCT015, 0, 80
+	Patch CIRCT015, 0, 112
+	Patch CIRCT015, 0, 32
+	Patch CIRCT015, 0, 64
+	Patch CIRCT015, 0, 96
+}
+
+Texture CIRFLR1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT001, 0, 0
+}
+
+Texture CIRFLR2, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT003, 0, 0
+}
+
+Texture CIRFLR3, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT002, 0, 0
+}
+
+Texture CIRFLR4, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT015, 0, 0
+}
+
+Texture CIRFLR5, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT010, 0, 0
+}
+
+Texture CIRFLR6, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT032, 0, 0
+	Patch CIRCT035, 0, 16
+}
+
+Texture CIRFLR7, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT009, 0, 0
+	Patch CIRCT008, 0, 16
+}
+
+Texture CIRFLR8, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT039, 0, 0
+}
+
+Texture CIRFLR9, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT040, 0, 0
+}
+
+Texture CIRFLR10, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT056, 0, 0
+}
+
+Texture CIRFLR11, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT058, 0, 0
+}
+
+Texture CIRFLR12, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT055, 0, 0
+}
+
+Texture CIRFLR13, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT057, 0, 0
+}
+
+Texture CIRFLR14, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT059, 0, 0
+}
+
+Texture CIRFLR15, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT060, 0, 0
+}
+
+Texture CIRFLR16, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT061, 0, 0
+}
+
+Texture CIRFLR17, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT062, 0, 0
+}
+
+Texture CIRBLACK, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch CIRCT063, 0, 0
+}
+
+
+
+
+
+Texture CHRFLR1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT010, 0, 0
+}
+
+Texture CHRFLR2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT017, 0, 0
+}
+
+Texture CHRFLR3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT018, 0, 0
+}
+
+Texture CHRFLR4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT019, 0, 0
+}
+
+Texture CHRFLR5, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT035, 0, 0
+}
+
+Texture CHRFLR6, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT057, 0, 0
+}
+
+Texture CHRFLR7, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT058, 0, 0
+}
+
+Texture CHRFLR8, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT059, 0, 0
+}
+
+Texture CHRFLR9, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT060, 0, 0
+}
+
+Texture CHRFLR10, 8, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT065, -8, 0
+}
+
+Texture CHRFLR11, 8, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT069, -8, 0
+}
+
+Texture CHRFLR12, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT020, 0, 0
+}
+
+Texture CHRFLR13, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT021, 0, 0
+}
+
+Texture CHRFLR14, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT026, 0, 0
+}
+
+Texture CHRFLR15, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT063, 0, 0
+}
+
+Texture CHRWAL1, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT001, 0, 0
+	Patch RFCT003, 0, 16
+	Patch RFCT003, 0, 272
+	Patch RFCT003, 0, 144
+	Patch RFCT003, 0, 400
+	Patch RFCT003, 0, 80
+	Patch RFCT003, 0, 336
+	Patch RFCT003, 0, 208
+	Patch RFCT003, 0, 464
+	Patch RFCT003, 0, 48
+	Patch RFCT003, 0, 304
+	Patch RFCT003, 0, 176
+	Patch RFCT003, 0, 432
+	Patch RFCT003, 0, 112
+	Patch RFCT003, 0, 368
+	Patch RFCT003, 0, 240
+	Patch RFCT003, 0, 496
+	Patch RFCT004, 0, 32
+	Patch RFCT004, 0, 288
+	Patch RFCT004, 0, 160
+	Patch RFCT004, 0, 416
+	Patch RFCT004, 0, 96
+	Patch RFCT004, 0, 352
+	Patch RFCT004, 0, 224
+	Patch RFCT004, 0, 480
+	Patch RFCT004, 0, 64
+	Patch RFCT004, 0, 320
+	Patch RFCT004, 0, 192
+	Patch RFCT004, 0, 448
+	Patch RFCT004, 0, 128
+	Patch RFCT004, 0, 384
+	Patch RFCT004, 0, 256
+}
+
+Texture CHRWAL2, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT002, 0, 0
+	Patch RFCT003, 0, 32
+	Patch RFCT003, 0, 288
+	Patch RFCT003, 0, 160
+	Patch RFCT003, 0, 416
+	Patch RFCT003, 0, 96
+	Patch RFCT003, 0, 352
+	Patch RFCT003, 0, 224
+	Patch RFCT003, 0, 480
+	Patch RFCT003, 0, 64
+	Patch RFCT003, 0, 320
+	Patch RFCT003, 0, 192
+	Patch RFCT003, 0, 448
+	Patch RFCT003, 0, 128
+	Patch RFCT003, -1, 384
+	Patch RFCT003, 0, 256
+	Patch RFCT004, 0, 48
+	Patch RFCT004, 0, 16
+	Patch RFCT004, 0, 304
+	Patch RFCT004, 0, 176
+	Patch RFCT004, 0, 432
+	Patch RFCT004, 0, 112
+	Patch RFCT004, 0, 368
+	Patch RFCT004, 0, 240
+	Patch RFCT004, 0, 496
+	Patch RFCT004, 0, 80
+	Patch RFCT004, 0, 336
+	Patch RFCT004, 0, 208
+	Patch RFCT004, 0, 464
+	Patch RFCT004, 0, 144
+	Patch RFCT004, 0, 400
+	Patch RFCT004, 0, 272
+}
+
+Texture CHRWAL3, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT011, 0, 0
+	Patch RFCT012, 0, 8
+	Patch RFCT012, 0, 136
+	Patch RFCT012, 0, 264
+	Patch RFCT012, 0, 392
+	Patch RFCT012, 0, 72
+	Patch RFCT012, 0, 200
+	Patch RFCT012, 0, 328
+	Patch RFCT012, 0, 456
+	Patch RFCT012, 0, 40
+	Patch RFCT012, 0, 168
+	Patch RFCT012, 0, 296
+	Patch RFCT012, 0, 424
+	Patch RFCT012, 0, 104
+	Patch RFCT012, 0, 232
+	Patch RFCT012, 0, 360
+	Patch RFCT012, 0, 488
+	Patch RFCT012, 0, 24
+	Patch RFCT012, 0, 152
+	Patch RFCT012, 0, 280
+	Patch RFCT012, 0, 408
+	Patch RFCT012, 0, 88
+	Patch RFCT012, 0, 216
+	Patch RFCT012, 0, 344
+	Patch RFCT012, 0, 472
+	Patch RFCT012, 0, 56
+	Patch RFCT012, 0, 184
+	Patch RFCT012, 0, 312
+	Patch RFCT012, 0, 440
+	Patch RFCT012, 0, 120
+	Patch RFCT012, 0, 248
+	Patch RFCT012, 0, 376
+	Patch RFCT012, 0, 504
+	Patch RFCT012, 0, 16
+	Patch RFCT012, 0, 144
+	Patch RFCT012, 0, 272
+	Patch RFCT012, 0, 400
+	Patch RFCT012, 0, 80
+	Patch RFCT012, 0, 208
+	Patch RFCT012, 0, 336
+	Patch RFCT012, 0, 464
+	Patch RFCT012, 0, 48
+	Patch RFCT012, 0, 176
+	Patch RFCT012, 0, 304
+	Patch RFCT012, 0, 432
+	Patch RFCT012, 0, 112
+	Patch RFCT012, 0, 240
+	Patch RFCT012, 0, 368
+	Patch RFCT012, 0, 496
+	Patch RFCT012, 0, 32
+	Patch RFCT012, 0, 160
+	Patch RFCT012, 0, 288
+	Patch RFCT012, 0, 416
+	Patch RFCT012, 0, 96
+	Patch RFCT012, 0, 224
+	Patch RFCT012, 0, 352
+	Patch RFCT012, 0, 480
+	Patch RFCT012, 0, 64
+	Patch RFCT012, 0, 192
+	Patch RFCT012, 0, 320
+	Patch RFCT012, 0, 448
+	Patch RFCT012, 0, 128
+	Patch RFCT012, 0, 256
+	Patch RFCT012, 0, 384
+}
+
+Texture CHRWAL4, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT008, 0, 0
+	Patch RFCT009, 0, 16
+	Patch RFCT009, 0, 144
+	Patch RFCT009, 0, 272
+	Patch RFCT009, 0, 400
+	Patch RFCT009, 0, 80
+	Patch RFCT009, 0, 208
+	Patch RFCT009, 0, 336
+	Patch RFCT009, 0, 464
+	Patch RFCT009, 0, 48
+	Patch RFCT009, 0, 176
+	Patch RFCT009, 0, 304
+	Patch RFCT009, 0, 432
+	Patch RFCT009, 0, 112
+	Patch RFCT009, 0, 240
+	Patch RFCT009, 0, 368
+	Patch RFCT009, 0, 496
+	Patch RFCT009, 0, 32
+	Patch RFCT009, 0, 160
+	Patch RFCT009, 0, 288
+	Patch RFCT009, 0, 416
+	Patch RFCT009, 0, 96
+	Patch RFCT009, 0, 224
+	Patch RFCT009, 0, 352
+	Patch RFCT009, 0, 480
+	Patch RFCT009, 0, 64
+	Patch RFCT009, 0, 192
+	Patch RFCT009, 0, 320
+	Patch RFCT009, 0, 448
+	Patch RFCT009, 0, 128
+	Patch RFCT009, 0, 256
+	Patch RFCT009, 0, 384
+}
+
+Texture CHRWAL5, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT073, 0, 0
+	Patch RFCT074, 0, 32
+	Patch RFCT074, 0, 160
+	Patch RFCT074, 0, 288
+	Patch RFCT074, 0, 416
+	Patch RFCT074, 0, 96
+	Patch RFCT074, 0, 224
+	Patch RFCT074, 0, 352
+	Patch RFCT074, 0, 480
+	Patch RFCT074, 0, 64
+	Patch RFCT074, 0, 192
+	Patch RFCT074, 0, 320
+	Patch RFCT074, 0, 448
+	Patch RFCT074, 0, 128
+	Patch RFCT074, 0, 256
+	Patch RFCT074, 0, 384
+}
+
+Texture CHRWAL6, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT072, 0, 0
+}
+
+Texture CHRWAL7, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT062, 0, 0
+	Patch RFCT061, 0, 16
+	Patch RFCT061, 0, 144
+	Patch RFCT061, 0, 272
+	Patch RFCT061, 0, 400
+	Patch RFCT061, 0, 80
+	Patch RFCT061, 0, 208
+	Patch RFCT061, 0, 336
+	Patch RFCT061, 0, 464
+	Patch RFCT061, 0, 112
+	Patch RFCT061, 0, 240
+	Patch RFCT061, 0, 368
+	Patch RFCT061, 0, 496
+	Patch RFCT061, 0, 32
+	Patch RFCT061, 0, 160
+	Patch RFCT061, 0, 288
+	Patch RFCT061, 0, 416
+	Patch RFCT061, 0, 48
+	Patch RFCT061, 0, 176
+	Patch RFCT061, 0, 304
+	Patch RFCT061, 0, 432
+	Patch RFCT061, 0, 96
+	Patch RFCT061, 0, 224
+	Patch RFCT061, 0, 352
+	Patch RFCT061, 0, 480
+	Patch RFCT061, 0, 64
+	Patch RFCT061, 0, 192
+	Patch RFCT061, 0, 320
+	Patch RFCT061, 0, 448
+	Patch RFCT061, 0, 128
+	Patch RFCT061, 0, 256
+	Patch RFCT061, 0, 384
+}
+
+Texture CHRPAT1, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT022, 0, 0
+	Patch RFCT024, 16, 0
+	Patch RFCT025, 0, 16
+	Patch RFCT025, 0, 80
+	Patch RFCT025, 0, 144
+	Patch RFCT025, 0, 208
+	Patch RFCT025, 0, 272
+	Patch RFCT025, 0, 336
+	Patch RFCT025, 0, 400
+	Patch RFCT025, 0, 464
+	Patch RFCT025, 0, 48
+	Patch RFCT025, 0, 112
+	Patch RFCT025, 0, 176
+	Patch RFCT025, 0, 240
+	Patch RFCT025, 0, 304
+	Patch RFCT025, 0, 368
+	Patch RFCT025, 0, 432
+	Patch RFCT025, 0, 32
+	Patch RFCT025, 0, 96
+	Patch RFCT025, 0, 160
+	Patch RFCT025, 0, 224
+	Patch RFCT025, 0, 288
+	Patch RFCT025, 0, 352
+	Patch RFCT025, 0, 416
+	Patch RFCT025, 0, 480
+	Patch RFCT025, 0, 64
+	Patch RFCT025, 0, 128
+	Patch RFCT025, 0, 192
+	Patch RFCT025, 0, 256
+	Patch RFCT025, 0, 320
+	Patch RFCT025, 0, 384
+	Patch RFCT025, 0, 448
+	Patch RFCT027, 16, 16
+	Patch RFCT027, 16, 80
+	Patch RFCT027, 16, 144
+	Patch RFCT027, 16, 208
+	Patch RFCT027, 16, 272
+	Patch RFCT027, 16, 336
+	Patch RFCT027, 16, 400
+	Patch RFCT027, 16, 464
+	Patch RFCT027, 16, 48
+	Patch RFCT027, 16, 112
+	Patch RFCT027, 16, 176
+	Patch RFCT027, 16, 240
+	Patch RFCT027, 16, 304
+	Patch RFCT027, 16, 368
+	Patch RFCT027, 16, 432
+	Patch RFCT027, 16, 32
+	Patch RFCT027, 16, 96
+	Patch RFCT027, 16, 160
+	Patch RFCT027, 16, 224
+	Patch RFCT027, 16, 288
+	Patch RFCT027, 16, 352
+	Patch RFCT027, 16, 416
+	Patch RFCT027, 16, 480
+	Patch RFCT027, 16, 64
+	Patch RFCT027, 16, 128
+	Patch RFCT027, 16, 192
+	Patch RFCT027, 16, 256
+	Patch RFCT027, 16, 320
+	Patch RFCT027, 16, 384
+	Patch RFCT027, 16, 448
+	Patch RFCT028, 0, 496
+	Patch RFCT030, 16, 496
+}
+
+Texture CHRPAT2A, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT023, 16, 0
+	Patch RFCT021, 0, 16
+	Patch RFCT021, 0, 80
+	Patch RFCT021, 0, 144
+	Patch RFCT021, 0, 208
+	Patch RFCT021, 0, 272
+	Patch RFCT021, 0, 336
+	Patch RFCT021, 0, 400
+	Patch RFCT021, 0, 464
+	Patch RFCT021, 0, 112
+	Patch RFCT021, 0, 176
+	Patch RFCT021, 0, 240
+	Patch RFCT021, 0, 304
+	Patch RFCT021, 0, 368
+	Patch RFCT021, 0, 432
+	Patch RFCT021, 0, 48
+	Patch RFCT029, 0, 496
+	Patch RFCT029, 16, 496
+}
+
+Texture CHRPAT2B, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT023, 16, 0
+	Patch RFCT020, 0, 16
+	Patch RFCT020, 0, 80
+	Patch RFCT020, 0, 144
+	Patch RFCT020, 0, 208
+	Patch RFCT020, 0, 272
+	Patch RFCT020, 0, 336
+	Patch RFCT020, 0, 400
+	Patch RFCT020, 0, 464
+	Patch RFCT020, 0, 112
+	Patch RFCT020, 0, 176
+	Patch RFCT020, 0, 240
+	Patch RFCT020, 0, 304
+	Patch RFCT020, 0, 368
+	Patch RFCT020, 0, 432
+	Patch RFCT020, 0, 48
+	Patch RFCT029, 0, 496
+	Patch RFCT029, 16, 496
+}
+
+Texture CHRPAT2C, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT026, 0, 16
+	Patch RFCT026, 0, 144
+	Patch RFCT026, 0, 272
+	Patch RFCT026, 0, 400
+	Patch RFCT026, 0, 80
+	Patch RFCT026, 0, 208
+	Patch RFCT026, 0, 336
+	Patch RFCT026, 0, 464
+	Patch RFCT026, 0, 48
+	Patch RFCT026, 0, 176
+	Patch RFCT026, 0, 304
+	Patch RFCT026, 0, 432
+	Patch RFCT026, 0, 112
+	Patch RFCT026, 0, 240
+	Patch RFCT026, 0, 368
+	Patch RFCT026, 0, 32
+	Patch RFCT026, 0, 160
+	Patch RFCT026, 0, 288
+	Patch RFCT026, 0, 416
+	Patch RFCT026, 0, 96
+	Patch RFCT026, 0, 224
+	Patch RFCT026, 0, 352
+	Patch RFCT026, 0, 480
+	Patch RFCT026, 0, 64
+	Patch RFCT026, 0, 192
+	Patch RFCT026, 0, 320
+	Patch RFCT026, 0, 448
+	Patch RFCT026, 0, 128
+	Patch RFCT026, 0, 256
+	Patch RFCT026, 0, 384
+	Patch RFCT029, 0, 496
+}
+
+Texture CHRPAT2D, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT059, 0, 16
+	Patch RFCT059, 0, 144
+	Patch RFCT059, 0, 272
+	Patch RFCT059, 0, 400
+	Patch RFCT059, 0, 80
+	Patch RFCT059, 0, 208
+	Patch RFCT059, 0, 336
+	Patch RFCT059, 0, 464
+	Patch RFCT059, 0, 48
+	Patch RFCT059, 0, 176
+	Patch RFCT059, 0, 304
+	Patch RFCT059, 0, 432
+	Patch RFCT059, 0, 112
+	Patch RFCT059, 0, 240
+	Patch RFCT059, 0, 368
+	Patch RFCT059, 0, 32
+	Patch RFCT059, 0, 160
+	Patch RFCT059, 0, 288
+	Patch RFCT059, 0, 416
+	Patch RFCT059, 0, 96
+	Patch RFCT059, 0, 224
+	Patch RFCT059, 0, 352
+	Patch RFCT059, 0, 480
+	Patch RFCT059, 0, 64
+	Patch RFCT059, 0, 192
+	Patch RFCT059, 0, 320
+	Patch RFCT059, 0, 448
+	Patch RFCT059, 0, 128
+	Patch RFCT059, 0, 256
+	Patch RFCT059, 0, 384
+	Patch RFCT029, 0, 496
+}
+
+Texture CHRPAT2E, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT058, 0, 16
+	Patch RFCT058, 0, 144
+	Patch RFCT058, 0, 272
+	Patch RFCT058, 0, 400
+	Patch RFCT058, 0, 80
+	Patch RFCT058, 0, 208
+	Patch RFCT058, 0, 336
+	Patch RFCT058, 0, 464
+	Patch RFCT058, 0, 48
+	Patch RFCT058, 0, 176
+	Patch RFCT058, 0, 304
+	Patch RFCT058, 0, 432
+	Patch RFCT058, 0, 112
+	Patch RFCT058, 0, 240
+	Patch RFCT058, 0, 368
+	Patch RFCT058, 0, 32
+	Patch RFCT058, 0, 160
+	Patch RFCT058, 0, 288
+	Patch RFCT058, 0, 416
+	Patch RFCT058, 0, 96
+	Patch RFCT058, 0, 224
+	Patch RFCT058, 0, 352
+	Patch RFCT058, 0, 480
+	Patch RFCT058, 0, 64
+	Patch RFCT058, 0, 192
+	Patch RFCT058, 0, 320
+	Patch RFCT058, 0, 448
+	Patch RFCT058, 0, 128
+	Patch RFCT058, 0, 256
+	Patch RFCT058, 0, 384
+	Patch RFCT029, 0, 496
+}
+
+Texture CHRPAT2F, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT060, 0, 16
+	Patch RFCT060, 0, 144
+	Patch RFCT060, 0, 272
+	Patch RFCT060, 0, 400
+	Patch RFCT060, 0, 80
+	Patch RFCT060, 0, 208
+	Patch RFCT060, 0, 336
+	Patch RFCT060, 0, 464
+	Patch RFCT060, 0, 48
+	Patch RFCT060, 0, 176
+	Patch RFCT060, 0, 304
+	Patch RFCT060, 0, 432
+	Patch RFCT060, 0, 112
+	Patch RFCT060, 0, 240
+	Patch RFCT060, 0, 368
+	Patch RFCT060, 0, 32
+	Patch RFCT060, 0, 160
+	Patch RFCT060, 0, 288
+	Patch RFCT060, 0, 416
+	Patch RFCT060, 0, 96
+	Patch RFCT060, 0, 224
+	Patch RFCT060, 0, 352
+	Patch RFCT060, 0, 480
+	Patch RFCT060, 0, 64
+	Patch RFCT060, 0, 192
+	Patch RFCT060, 0, 320
+	Patch RFCT060, 0, 448
+	Patch RFCT060, 0, 128
+	Patch RFCT060, 0, 256
+	Patch RFCT060, 0, 384
+	Patch RFCT029, 0, 496
+}
+
+Texture CHRPAT2G, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT063, 0, 16
+	Patch RFCT063, 0, 144
+	Patch RFCT063, 0, 272
+	Patch RFCT063, 0, 400
+	Patch RFCT063, 0, 80
+	Patch RFCT063, 0, 208
+	Patch RFCT063, 0, 336
+	Patch RFCT063, 0, 464
+	Patch RFCT063, 0, 48
+	Patch RFCT063, 0, 176
+	Patch RFCT063, 0, 304
+	Patch RFCT063, 0, 432
+	Patch RFCT063, 0, 112
+	Patch RFCT063, 0, 240
+	Patch RFCT063, 0, 368
+	Patch RFCT063, 0, 32
+	Patch RFCT063, 0, 160
+	Patch RFCT063, 0, 288
+	Patch RFCT063, 0, 416
+	Patch RFCT063, 0, 96
+	Patch RFCT063, 0, 224
+	Patch RFCT063, 0, 352
+	Patch RFCT063, 0, 480
+	Patch RFCT063, 0, 64
+	Patch RFCT063, 0, 192
+	Patch RFCT063, 0, 320
+	Patch RFCT063, 0, 448
+	Patch RFCT063, 0, 128
+	Patch RFCT063, 0, 256
+	Patch RFCT063, 0, 384
+	Patch RFCT029, 0, 496
+}
+
+Texture CHRPAT2H, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT023, 16, 0
+	Patch RFCT051, 0, 16
+	Patch RFCT051, 0, 144
+	Patch RFCT051, 0, 272
+	Patch RFCT051, 0, 400
+	Patch RFCT050, 0, 80
+	Patch RFCT050, 0, 208
+	Patch RFCT050, 0, 336
+	Patch RFCT050, 0, 464
+	Patch RFCT052, 0, 48
+	Patch RFCT052, 0, 176
+	Patch RFCT052, 0, 304
+	Patch RFCT052, 0, 432
+	Patch RFCT052, 0, 112
+	Patch RFCT052, 0, 240
+	Patch RFCT052, 0, 368
+	Patch RFCT052, 0, 32
+	Patch RFCT052, 0, 160
+	Patch RFCT052, 0, 288
+	Patch RFCT052, 0, 416
+	Patch RFCT052, 0, 96
+	Patch RFCT052, 0, 224
+	Patch RFCT052, 0, 352
+	Patch RFCT052, 0, 480
+	Patch RFCT052, 0, 64
+	Patch RFCT052, 0, 192
+	Patch RFCT052, 0, 320
+	Patch RFCT052, 0, 448
+	Patch RFCT052, 0, 128
+	Patch RFCT052, 0, 256
+	Patch RFCT052, 0, 384
+	Patch RFCT029, 0, 496
+	Patch RFCT029, 16, 496
+}
+
+Texture CHRPAT2I, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT023, 0, 0
+	Patch RFCT023, 16, 0
+	Patch RFCT048, 0, 16
+	Patch RFCT048, 0, 144
+	Patch RFCT048, 0, 272
+	Patch RFCT048, 0, 400
+	Patch RFCT047, 0, 80
+	Patch RFCT047, 0, 208
+	Patch RFCT047, 0, 336
+	Patch RFCT047, 0, 464
+	Patch RFCT049, 0, 48
+	Patch RFCT049, 0, 176
+	Patch RFCT049, 0, 304
+	Patch RFCT049, 0, 432
+	Patch RFCT049, 0, 112
+	Patch RFCT049, 0, 240
+	Patch RFCT049, 0, 368
+	Patch RFCT049, 0, 32
+	Patch RFCT049, 0, 160
+	Patch RFCT049, 0, 288
+	Patch RFCT049, 0, 416
+	Patch RFCT049, 0, 96
+	Patch RFCT049, 0, 224
+	Patch RFCT049, 0, 352
+	Patch RFCT049, 0, 480
+	Patch RFCT049, 0, 64
+	Patch RFCT049, 0, 192
+	Patch RFCT049, 0, 320
+	Patch RFCT049, 0, 448
+	Patch RFCT049, 0, 128
+	Patch RFCT049, 0, 256
+	Patch RFCT049, 0, 384
+	Patch RFCT029, 0, 496
+	Patch RFCT029, 16, 496
+}
+
+Texture CHRPAT3, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT031, 0, 0
+	Patch RFCT033, 16, 0
+	Patch RFCT034, 0, 16
+	Patch RFCT034, 0, 80
+	Patch RFCT034, 0, 144
+	Patch RFCT034, 0, 208
+	Patch RFCT034, 0, 272
+	Patch RFCT034, 0, 336
+	Patch RFCT034, 0, 400
+	Patch RFCT034, 0, 464
+	Patch RFCT034, 0, 48
+	Patch RFCT034, 0, 112
+	Patch RFCT034, 0, 176
+	Patch RFCT034, 0, 240
+	Patch RFCT034, 0, 304
+	Patch RFCT034, 0, 368
+	Patch RFCT034, 0, 432
+	Patch RFCT034, 0, 32
+	Patch RFCT034, 0, 96
+	Patch RFCT034, 0, 160
+	Patch RFCT034, 0, 224
+	Patch RFCT034, 0, 288
+	Patch RFCT034, 0, 352
+	Patch RFCT034, 0, 416
+	Patch RFCT034, 0, 480
+	Patch RFCT034, 0, 64
+	Patch RFCT034, 0, 128
+	Patch RFCT034, 0, 192
+	Patch RFCT034, 0, 256
+	Patch RFCT034, 0, 320
+	Patch RFCT034, 0, 384
+	Patch RFCT034, 0, 448
+	Patch RFCT036, 16, 16
+	Patch RFCT036, 16, 80
+	Patch RFCT036, 16, 144
+	Patch RFCT036, 16, 208
+	Patch RFCT036, 16, 272
+	Patch RFCT036, 16, 336
+	Patch RFCT036, 16, 400
+	Patch RFCT036, 16, 464
+	Patch RFCT036, 16, 48
+	Patch RFCT036, 16, 112
+	Patch RFCT036, 16, 176
+	Patch RFCT036, 16, 240
+	Patch RFCT036, 16, 304
+	Patch RFCT036, 16, 368
+	Patch RFCT036, 16, 432
+	Patch RFCT036, 16, 32
+	Patch RFCT036, 16, 96
+	Patch RFCT036, 16, 160
+	Patch RFCT036, 16, 224
+	Patch RFCT036, 16, 288
+	Patch RFCT036, 16, 352
+	Patch RFCT036, 16, 416
+	Patch RFCT036, 16, 480
+	Patch RFCT036, 16, 64
+	Patch RFCT036, 16, 128
+	Patch RFCT036, 16, 192
+	Patch RFCT036, 16, 256
+	Patch RFCT036, 16, 320
+	Patch RFCT036, 16, 384
+	Patch RFCT036, 16, 448
+	Patch RFCT037, 0, 496
+	Patch RFCT039, 16, 496
+}
+
+Texture CHRPAT4A, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT032, 16, 0
+	Patch RFCT021, 0, 16
+	Patch RFCT021, 0, 80
+	Patch RFCT021, 0, 144
+	Patch RFCT021, 0, 208
+	Patch RFCT021, 0, 272
+	Patch RFCT021, 0, 336
+	Patch RFCT021, 0, 400
+	Patch RFCT021, 0, 464
+	Patch RFCT021, 0, 112
+	Patch RFCT021, 0, 176
+	Patch RFCT021, 0, 240
+	Patch RFCT021, 0, 304
+	Patch RFCT021, 0, 368
+	Patch RFCT021, 0, 432
+	Patch RFCT021, 0, 48
+	Patch RFCT038, 0, 496
+	Patch RFCT038, 16, 496
+}
+
+Texture CHRPAT4B, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT032, 16, 0
+	Patch RFCT020, 0, 16
+	Patch RFCT020, 0, 80
+	Patch RFCT020, 0, 144
+	Patch RFCT020, 0, 208
+	Patch RFCT020, 0, 272
+	Patch RFCT020, 0, 336
+	Patch RFCT020, 0, 400
+	Patch RFCT020, 0, 464
+	Patch RFCT020, 0, 112
+	Patch RFCT020, 0, 176
+	Patch RFCT020, 0, 240
+	Patch RFCT020, 0, 304
+	Patch RFCT020, 0, 368
+	Patch RFCT020, 0, 432
+	Patch RFCT020, 0, 48
+	Patch RFCT038, 0, 496
+	Patch RFCT038, 16, 496
+}
+
+Texture CHRPAT4C, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT026, 0, 16
+	Patch RFCT026, 0, 144
+	Patch RFCT026, 0, 272
+	Patch RFCT026, 0, 400
+	Patch RFCT026, 0, 80
+	Patch RFCT026, 0, 208
+	Patch RFCT026, 0, 336
+	Patch RFCT026, 0, 464
+	Patch RFCT026, 0, 48
+	Patch RFCT026, 0, 176
+	Patch RFCT026, 0, 304
+	Patch RFCT026, 0, 432
+	Patch RFCT026, 0, 112
+	Patch RFCT026, 0, 240
+	Patch RFCT026, 0, 368
+	Patch RFCT026, 0, 32
+	Patch RFCT026, 0, 160
+	Patch RFCT026, 0, 288
+	Patch RFCT026, 0, 416
+	Patch RFCT026, 0, 96
+	Patch RFCT026, 0, 224
+	Patch RFCT026, 0, 352
+	Patch RFCT026, 0, 480
+	Patch RFCT026, 0, 64
+	Patch RFCT026, 0, 192
+	Patch RFCT026, 0, 320
+	Patch RFCT026, 0, 448
+	Patch RFCT026, 0, 128
+	Patch RFCT026, 0, 256
+	Patch RFCT026, 0, 384
+	Patch RFCT038, 0, 496
+}
+
+Texture CHRPAT4D, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT059, 0, 16
+	Patch RFCT059, 0, 144
+	Patch RFCT059, 0, 272
+	Patch RFCT059, 0, 400
+	Patch RFCT059, 0, 80
+	Patch RFCT059, 0, 208
+	Patch RFCT059, 0, 336
+	Patch RFCT059, 0, 464
+	Patch RFCT059, 0, 48
+	Patch RFCT059, 0, 176
+	Patch RFCT059, 0, 304
+	Patch RFCT059, 0, 432
+	Patch RFCT059, 0, 112
+	Patch RFCT059, 0, 240
+	Patch RFCT059, 0, 368
+	Patch RFCT059, 0, 32
+	Patch RFCT059, 0, 160
+	Patch RFCT059, 0, 288
+	Patch RFCT059, 0, 416
+	Patch RFCT059, 0, 96
+	Patch RFCT059, 0, 224
+	Patch RFCT059, 0, 352
+	Patch RFCT059, 0, 480
+	Patch RFCT059, 0, 64
+	Patch RFCT059, 0, 192
+	Patch RFCT059, 0, 320
+	Patch RFCT059, 0, 448
+	Patch RFCT059, 0, 128
+	Patch RFCT059, 0, 256
+	Patch RFCT059, 0, 384
+	Patch RFCT038, 0, 496
+}
+
+Texture CHRPAT4E, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT058, 0, 16
+	Patch RFCT058, 0, 144
+	Patch RFCT058, 0, 272
+	Patch RFCT058, 0, 400
+	Patch RFCT058, 0, 80
+	Patch RFCT058, 0, 208
+	Patch RFCT058, 0, 336
+	Patch RFCT058, 0, 464
+	Patch RFCT058, 0, 48
+	Patch RFCT058, 0, 176
+	Patch RFCT058, 0, 304
+	Patch RFCT058, 0, 432
+	Patch RFCT058, 0, 112
+	Patch RFCT058, 0, 240
+	Patch RFCT058, 0, 368
+	Patch RFCT058, 0, 32
+	Patch RFCT058, 0, 160
+	Patch RFCT058, 0, 288
+	Patch RFCT058, 0, 416
+	Patch RFCT058, 0, 96
+	Patch RFCT058, 0, 224
+	Patch RFCT058, 0, 352
+	Patch RFCT058, 0, 480
+	Patch RFCT058, 0, 64
+	Patch RFCT058, 0, 192
+	Patch RFCT058, 0, 320
+	Patch RFCT058, 0, 448
+	Patch RFCT058, 0, 128
+	Patch RFCT058, 0, 256
+	Patch RFCT058, 0, 384
+	Patch RFCT038, 0, 496
+}
+
+Texture CHRPAT4F, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT060, 0, 16
+	Patch RFCT060, 0, 144
+	Patch RFCT060, 0, 272
+	Patch RFCT060, 0, 400
+	Patch RFCT060, 0, 80
+	Patch RFCT060, 0, 208
+	Patch RFCT060, 0, 336
+	Patch RFCT060, 0, 464
+	Patch RFCT060, 0, 48
+	Patch RFCT060, 0, 176
+	Patch RFCT060, 0, 304
+	Patch RFCT060, 0, 432
+	Patch RFCT060, 0, 112
+	Patch RFCT060, 0, 240
+	Patch RFCT060, 0, 368
+	Patch RFCT060, 0, 32
+	Patch RFCT060, 0, 160
+	Patch RFCT060, 0, 288
+	Patch RFCT060, 0, 416
+	Patch RFCT060, 0, 96
+	Patch RFCT060, 0, 224
+	Patch RFCT060, 0, 352
+	Patch RFCT060, 0, 480
+	Patch RFCT060, 0, 64
+	Patch RFCT060, 0, 192
+	Patch RFCT060, 0, 320
+	Patch RFCT060, 0, 448
+	Patch RFCT060, 0, 128
+	Patch RFCT060, 0, 256
+	Patch RFCT060, 0, 384
+	Patch RFCT038, 0, 496
+}
+
+Texture CHRPAT4G, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT063, 0, 16
+	Patch RFCT063, 0, 144
+	Patch RFCT063, 0, 272
+	Patch RFCT063, 0, 400
+	Patch RFCT063, 0, 80
+	Patch RFCT063, 0, 208
+	Patch RFCT063, 0, 336
+	Patch RFCT063, 0, 464
+	Patch RFCT063, 0, 48
+	Patch RFCT063, 0, 176
+	Patch RFCT063, 0, 304
+	Patch RFCT063, 0, 432
+	Patch RFCT063, 0, 112
+	Patch RFCT063, 0, 240
+	Patch RFCT063, 0, 368
+	Patch RFCT063, 0, 32
+	Patch RFCT063, 0, 160
+	Patch RFCT063, 0, 288
+	Patch RFCT063, 0, 416
+	Patch RFCT063, 0, 96
+	Patch RFCT063, 0, 224
+	Patch RFCT063, 0, 352
+	Patch RFCT063, 0, 480
+	Patch RFCT063, 0, 64
+	Patch RFCT063, 0, 192
+	Patch RFCT063, 0, 320
+	Patch RFCT063, 0, 448
+	Patch RFCT063, 0, 128
+	Patch RFCT063, 0, 256
+	Patch RFCT063, 0, 384
+	Patch RFCT038, 0, 496
+}
+
+Texture CHRPAT4H, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT032, 16, 0
+	Patch RFCT051, 0, 16
+	Patch RFCT051, 0, 144
+	Patch RFCT051, 0, 272
+	Patch RFCT051, 0, 400
+	Patch RFCT050, 0, 80
+	Patch RFCT050, 0, 208
+	Patch RFCT050, 0, 336
+	Patch RFCT050, 0, 464
+	Patch RFCT052, 0, 48
+	Patch RFCT052, 0, 176
+	Patch RFCT052, 0, 304
+	Patch RFCT052, 0, 432
+	Patch RFCT052, 0, 112
+	Patch RFCT052, 0, 240
+	Patch RFCT052, 0, 368
+	Patch RFCT052, 0, 32
+	Patch RFCT052, 0, 160
+	Patch RFCT052, 0, 288
+	Patch RFCT052, 0, 416
+	Patch RFCT052, 0, 96
+	Patch RFCT052, 0, 224
+	Patch RFCT052, 0, 352
+	Patch RFCT052, 0, 480
+	Patch RFCT052, 0, 64
+	Patch RFCT052, 0, 192
+	Patch RFCT052, 0, 320
+	Patch RFCT052, 0, 448
+	Patch RFCT052, 0, 128
+	Patch RFCT052, 0, 256
+	Patch RFCT052, 0, 384
+	Patch RFCT038, 0, 496
+	Patch RFCT038, 16, 496
+}
+
+Texture CHRPAT4I, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT032, 0, 0
+	Patch RFCT032, 16, 0
+	Patch RFCT048, 0, 16
+	Patch RFCT048, 0, 144
+	Patch RFCT048, 0, 272
+	Patch RFCT048, 0, 400
+	Patch RFCT047, 0, 80
+	Patch RFCT047, 0, 208
+	Patch RFCT047, 0, 336
+	Patch RFCT047, 0, 464
+	Patch RFCT049, 0, 48
+	Patch RFCT049, 0, 176
+	Patch RFCT049, 0, 304
+	Patch RFCT049, 0, 432
+	Patch RFCT049, 0, 112
+	Patch RFCT049, 0, 240
+	Patch RFCT049, 0, 368
+	Patch RFCT049, 0, 32
+	Patch RFCT049, 0, 160
+	Patch RFCT049, 0, 288
+	Patch RFCT049, 0, 416
+	Patch RFCT049, 0, 96
+	Patch RFCT049, 0, 224
+	Patch RFCT049, 0, 352
+	Patch RFCT049, 0, 480
+	Patch RFCT049, 0, 64
+	Patch RFCT049, 0, 192
+	Patch RFCT049, 0, 320
+	Patch RFCT049, 0, 448
+	Patch RFCT049, 0, 128
+	Patch RFCT049, 0, 256
+	Patch RFCT049, 0, 384
+	Patch RFCT038, 0, 496
+	Patch RFCT038, 16, 496
+}
+
+Texture CHRBLK1, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT049, 0, 0
+}
+
+Texture CHRBLK2, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT048, 0, 0
+	Patch RFCT049, 0, 16
+	Patch RFCT049, 0, 32
+	Patch RFCT049, 0, 48
+}
+
+Texture CHRBLK3, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT047, 0, 0
+	Patch RFCT049, 0, 16
+	Patch RFCT049, 0, 32
+	Patch RFCT049, 0, 48
+}
+
+Texture CHRBLK4, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT052, 0, 0
+}
+
+Texture CHRBLK5, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT051, 0, 0
+	Patch RFCT052, 0, 16
+	Patch RFCT052, 0, 32
+	Patch RFCT052, 0, 48
+}
+
+Texture CHRBLK6, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT050, 0, 0
+	Patch RFCT052, 0, 16
+	Patch RFCT052, 0, 32
+	Patch RFCT052, 0, 48
+}
+
+Texture CHRPIL1, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT041, 0, 0
+	Patch RFCT042, 0, 16
+	Patch RFCT043, 0, 32
+	Patch RFCT043, 0, 160
+	Patch RFCT043, 0, 288
+	Patch RFCT043, 0, 416
+	Patch RFCT043, 0, 96
+	Patch RFCT043, 0, 224
+	Patch RFCT043, 0, 352
+	Patch RFCT043, 0, 480
+	Patch RFCT043, 0, 64
+	Patch RFCT043, 0, 192
+	Patch RFCT043, 0, 320
+	Patch RFCT043, 0, 448
+	Patch RFCT043, 0, 128
+	Patch RFCT043, 0, 256
+	Patch RFCT043, 0, 384
+	Patch RFCT043, 0, 48
+	Patch RFCT043, 0, 176
+	Patch RFCT043, 0, 304
+	Patch RFCT043, 0, 432
+	Patch RFCT043, 0, 112
+	Patch RFCT043, 0, 240
+	Patch RFCT043, 0, 368
+	Patch RFCT043, 0, 496
+	Patch RFCT043, 0, 80
+	Patch RFCT043, 0, 208
+	Patch RFCT043, 0, 336
+	Patch RFCT043, 0, 464
+	Patch RFCT043, 0, 144
+	Patch RFCT043, 0, 272
+	Patch RFCT043, 0, 400
+}
+
+Texture CHRPIL2, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT044, 0, 0
+	Patch RFCT045, 0, 16
+	Patch RFCT046, 0, 32
+	Patch RFCT046, 0, 160
+	Patch RFCT046, 0, 288
+	Patch RFCT046, 0, 416
+	Patch RFCT046, 0, 96
+	Patch RFCT046, 0, 224
+	Patch RFCT046, 0, 352
+	Patch RFCT046, 0, 480
+	Patch RFCT046, 0, 64
+	Patch RFCT046, 0, 192
+	Patch RFCT046, 0, 320
+	Patch RFCT046, 0, 448
+	Patch RFCT046, 0, 128
+	Patch RFCT046, 0, 256
+	Patch RFCT046, 0, 384
+	Patch RFCT046, 0, 48
+	Patch RFCT046, 0, 176
+	Patch RFCT046, 0, 304
+	Patch RFCT046, 0, 432
+	Patch RFCT046, 0, 112
+	Patch RFCT046, 0, 240
+	Patch RFCT046, 0, 368
+	Patch RFCT046, 0, 496
+	Patch RFCT046, 0, 80
+	Patch RFCT046, 0, 208
+	Patch RFCT046, 0, 336
+	Patch RFCT046, 0, 464
+	Patch RFCT046, 0, 144
+	Patch RFCT046, 0, 272
+	Patch RFCT046, 0, 400
+}
+
+Texture CHRPIL3, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT053, 0, 0
+	Patch RFCT045, 0, 16
+	Patch RFCT046, 0, 32
+	Patch RFCT046, 0, 160
+	Patch RFCT046, 0, 288
+	Patch RFCT046, 0, 416
+	Patch RFCT046, 0, 96
+	Patch RFCT046, 0, 224
+	Patch RFCT046, 0, 352
+	Patch RFCT046, 0, 480
+	Patch RFCT046, 0, 64
+	Patch RFCT046, 0, 192
+	Patch RFCT046, 0, 320
+	Patch RFCT046, 0, 448
+	Patch RFCT046, 0, 128
+	Patch RFCT046, 0, 256
+	Patch RFCT046, 0, 384
+	Patch RFCT046, 0, 48
+	Patch RFCT046, 0, 176
+	Patch RFCT046, 0, 304
+	Patch RFCT046, 0, 432
+	Patch RFCT046, 0, 112
+	Patch RFCT046, 0, 240
+	Patch RFCT046, 0, 368
+	Patch RFCT046, 0, 496
+	Patch RFCT046, 0, 80
+	Patch RFCT046, 0, 208
+	Patch RFCT046, 0, 336
+	Patch RFCT046, 0, 464
+	Patch RFCT046, 0, 144
+	Patch RFCT046, 0, 272
+	Patch RFCT046, 0, 400
+}
+
+Texture CHRPIL4, 32, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT053, 0, 0
+	Patch RFCT042, 0, 16
+	Patch RFCT043, 0, 32
+	Patch RFCT043, 0, 160
+	Patch RFCT043, 0, 288
+	Patch RFCT043, 0, 416
+	Patch RFCT043, 0, 96
+	Patch RFCT043, 0, 224
+	Patch RFCT043, 0, 352
+	Patch RFCT043, 0, 480
+	Patch RFCT043, 0, 64
+	Patch RFCT043, 0, 192
+	Patch RFCT043, 0, 320
+	Patch RFCT043, 0, 448
+	Patch RFCT043, 0, 128
+	Patch RFCT043, 0, 256
+	Patch RFCT043, 0, 384
+	Patch RFCT043, 0, 48
+	Patch RFCT043, 0, 176
+	Patch RFCT043, 0, 304
+	Patch RFCT043, 0, 432
+	Patch RFCT043, 0, 112
+	Patch RFCT043, 0, 240
+	Patch RFCT043, 0, 368
+	Patch RFCT043, 0, 496
+	Patch RFCT043, 0, 80
+	Patch RFCT043, 0, 208
+	Patch RFCT043, 0, 336
+	Patch RFCT043, 0, 464
+	Patch RFCT043, 0, 144
+	Patch RFCT043, 0, 272
+	Patch RFCT043, 0, 400
+}
+
+Texture CHRPIL5, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT017, 0, 0
+	Patch RFCT017, 0, 496
+	Patch RFCT014, 0, 16
+	Patch RFCT014, 0, 144
+	Patch RFCT014, 0, 272
+	Patch RFCT014, 0, 80
+	Patch RFCT014, 0, 208
+	Patch RFCT014, 0, 336
+	Patch RFCT014, 0, 400
+	Patch RFCT014, 0, 48
+	Patch RFCT014, 0, 176
+	Patch RFCT014, 0, 304
+	Patch RFCT014, 0, 112
+	Patch RFCT014, 0, 240
+	Patch RFCT014, 0, 368
+	Patch RFCT014, 0, 432
+	Patch RFCT014, 0, 464
+}
+
+Texture CHRWIN1, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT006, 0, 0
+	Patch RFCT007, 0, 16
+	Patch RFCT011, 48, 0
+	Patch RFCT012, 48, 8
+	Patch RFCT012, 48, 24
+	Patch RFCT012, 48, 40
+	Patch RFCT012, 48, 56
+	Patch RFCT012, 48, 16
+	Patch RFCT012, 48, 32
+	Patch RFCT012, 48, 48
+	Patch RFCT012, 48, 64
+	Patch RFCT012, 48, 96
+	Patch RFCT012, 48, 128
+	Patch RFCT012, 48, 160
+	Patch RFCT012, 48, 192
+	Patch RFCT012, 48, 224
+	Patch RFCT012, 48, 80
+	Patch RFCT012, 48, 112
+	Patch RFCT012, 48, 144
+	Patch RFCT012, 48, 176
+	Patch RFCT012, 48, 208
+	Patch RFCT012, 48, 240
+	Patch RFCT012, 48, 72
+	Patch RFCT012, 48, 104
+	Patch RFCT012, 48, 136
+	Patch RFCT012, 48, 168
+	Patch RFCT012, 48, 200
+	Patch RFCT012, 48, 232
+	Patch RFCT012, 48, 88
+	Patch RFCT012, 48, 120
+	Patch RFCT012, 48, 152
+	Patch RFCT012, 48, 184
+	Patch RFCT012, 48, 216
+	Patch RFCT012, 48, 248
+	Patch RFCT012, 16, 64
+	Patch RFCT012, 16, 96
+	Patch RFCT012, 16, 128
+	Patch RFCT012, 16, 160
+	Patch RFCT012, 16, 192
+	Patch RFCT012, 16, 224
+	Patch RFCT012, 16, 80
+	Patch RFCT012, 16, 112
+	Patch RFCT012, 16, 144
+	Patch RFCT012, 16, 176
+	Patch RFCT012, 16, 208
+	Patch RFCT012, 16, 240
+	Patch RFCT012, 16, 72
+	Patch RFCT012, 16, 104
+	Patch RFCT012, 16, 136
+	Patch RFCT012, 16, 168
+	Patch RFCT012, 16, 200
+	Patch RFCT012, 16, 232
+	Patch RFCT012, 16, 88
+	Patch RFCT012, 16, 120
+	Patch RFCT012, 16, 152
+	Patch RFCT012, 16, 184
+	Patch RFCT012, 16, 216
+	Patch RFCT012, 16, 248
+	Patch RFCT012, 32, 64
+	Patch RFCT012, 32, 96
+	Patch RFCT012, 32, 128
+	Patch RFCT012, 32, 160
+	Patch RFCT012, 32, 192
+	Patch RFCT012, 32, 224
+	Patch RFCT012, 32, 80
+	Patch RFCT012, 32, 112
+	Patch RFCT012, 32, 144
+	Patch RFCT012, 32, 176
+	Patch RFCT012, 32, 208
+	Patch RFCT012, 32, 240
+	Patch RFCT012, 32, 72
+	Patch RFCT012, 32, 104
+	Patch RFCT012, 32, 136
+	Patch RFCT012, 32, 168
+	Patch RFCT012, 32, 200
+	Patch RFCT012, 32, 232
+	Patch RFCT012, 32, 88
+	Patch RFCT012, 32, 120
+	Patch RFCT012, 32, 152
+	Patch RFCT012, 32, 184
+	Patch RFCT012, 32, 216
+	Patch RFCT012, 32, 248
+	Patch RFCT012, 0, 64
+	Patch RFCT012, 0, 96
+	Patch RFCT012, 0, 128
+	Patch RFCT012, 0, 160
+	Patch RFCT012, 0, 192
+	Patch RFCT012, 0, 224
+	Patch RFCT012, 0, 80
+	Patch RFCT012, 0, 112
+	Patch RFCT012, 0, 144
+	Patch RFCT012, 0, 176
+	Patch RFCT012, 0, 208
+	Patch RFCT012, 0, 240
+	Patch RFCT012, 0, 72
+	Patch RFCT012, 0, 104
+	Patch RFCT012, 0, 136
+	Patch RFCT012, 0, 168
+	Patch RFCT012, 0, 200
+	Patch RFCT012, 0, 232
+	Patch RFCT012, 0, 88
+	Patch RFCT012, 0, 120
+	Patch RFCT012, 0, 152
+	Patch RFCT012, 0, 184
+	Patch RFCT012, 0, 216
+	Patch RFCT012, 0, 248
+}
+
+Texture CHRWIN2, 64, 256
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT005, 0, 80
+	Patch RFCT007, 0, 96
+	Patch RFCT011, 48, 0
+	Patch RFCT011, 32, 0
+	Patch RFCT011, 0, 0
+	Patch RFCT011, 16, 0
+	Patch RFCT012, 48, 8
+	Patch RFCT012, 48, 24
+	Patch RFCT012, 48, 40
+	Patch RFCT012, 48, 56
+	Patch RFCT012, 48, 16
+	Patch RFCT012, 48, 32
+	Patch RFCT012, 48, 48
+	Patch RFCT012, 48, 64
+	Patch RFCT012, 48, 96
+	Patch RFCT012, 48, 128
+	Patch RFCT012, 48, 160
+	Patch RFCT012, 48, 192
+	Patch RFCT012, 48, 224
+	Patch RFCT012, 48, 80
+	Patch RFCT012, 48, 112
+	Patch RFCT012, 48, 144
+	Patch RFCT012, 48, 176
+	Patch RFCT012, 48, 208
+	Patch RFCT012, 48, 240
+	Patch RFCT012, 48, 72
+	Patch RFCT012, 48, 104
+	Patch RFCT012, 48, 136
+	Patch RFCT012, 48, 168
+	Patch RFCT012, 48, 200
+	Patch RFCT012, 48, 232
+	Patch RFCT012, 48, 88
+	Patch RFCT012, 48, 120
+	Patch RFCT012, 48, 152
+	Patch RFCT012, 48, 184
+	Patch RFCT012, 48, 216
+	Patch RFCT012, 48, 248
+	Patch RFCT012, 16, 8
+	Patch RFCT012, 16, 40
+	Patch RFCT012, 16, 72
+	Patch RFCT012, 16, 160
+	Patch RFCT012, 16, 192
+	Patch RFCT012, 16, 224
+	Patch RFCT012, 16, 24
+	Patch RFCT012, 16, 56
+	Patch RFCT012, 16, 144
+	Patch RFCT012, 16, 176
+	Patch RFCT012, 16, 208
+	Patch RFCT012, 16, 240
+	Patch RFCT012, 16, 16
+	Patch RFCT012, 16, 48
+	Patch RFCT012, 16, 168
+	Patch RFCT012, 16, 200
+	Patch RFCT012, 16, 232
+	Patch RFCT012, 16, 32
+	Patch RFCT012, 16, 64
+	Patch RFCT012, 16, 152
+	Patch RFCT012, 16, 184
+	Patch RFCT012, 16, 216
+	Patch RFCT012, 16, 248
+	Patch RFCT012, 32, 8
+	Patch RFCT012, 32, 40
+	Patch RFCT012, 32, 72
+	Patch RFCT012, 32, 160
+	Patch RFCT012, 32, 192
+	Patch RFCT012, 32, 224
+	Patch RFCT012, 32, 24
+	Patch RFCT012, 32, 56
+	Patch RFCT012, 32, 144
+	Patch RFCT012, 32, 176
+	Patch RFCT012, 32, 208
+	Patch RFCT012, 32, 240
+	Patch RFCT012, 32, 16
+	Patch RFCT012, 32, 48
+	Patch RFCT012, 32, 168
+	Patch RFCT012, 32, 200
+	Patch RFCT012, 32, 232
+	Patch RFCT012, 32, 32
+	Patch RFCT012, 32, 64
+	Patch RFCT012, 32, 152
+	Patch RFCT012, 32, 184
+	Patch RFCT012, 32, 216
+	Patch RFCT012, 32, 248
+	Patch RFCT012, 0, 8
+	Patch RFCT012, 0, 40
+	Patch RFCT012, 0, 72
+	Patch RFCT012, 0, 160
+	Patch RFCT012, 0, 192
+	Patch RFCT012, 0, 224
+	Patch RFCT012, 0, 24
+	Patch RFCT012, 0, 56
+	Patch RFCT012, 0, 144
+	Patch RFCT012, 0, 176
+	Patch RFCT012, 0, 208
+	Patch RFCT012, 0, 240
+	Patch RFCT012, 0, 16
+	Patch RFCT012, 0, 48
+	Patch RFCT012, 0, 168
+	Patch RFCT012, 0, 200
+	Patch RFCT012, 0, 232
+	Patch RFCT012, 0, 32
+	Patch RFCT012, 0, 64
+	Patch RFCT012, 0, 152
+	Patch RFCT012, 0, 184
+	Patch RFCT012, 0, 216
+	Patch RFCT012, 0, 248
+}
+
+Texture CHRBAL1, 16, 24
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT088, 0, 0
+}
+
+Texture CHRBAL1B, 16, 6
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT091, 0, 0
+}
+
+Texture CHRBAL2, 16, 24
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT089, 0, 0
+}
+
+Texture CHRBAL2B, 16, 6
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT092, 0, 0
+}
+
+Texture CHRBAL3, 16, 24
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT090, 0, 0
+}
+
+Texture CHRBAL3B, 16, 6
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT093, 0, 0
+}
+
+Texture CHRMET1, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT013, 0, 0
+}
+
+Texture CHRMET2, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT014, 0, 0
+}
+
+Texture CHRMET3, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT015, 0, 0
+}
+
+Texture CHRMET4, 32, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT016, 0, 0
+}
+
+Texture CHRBKG1, 48, 192
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT079, 0, 64
+	Patch RFCT082, 0, 0
+	Patch RFCT082, 0, 32
+	Patch RFCT082, 0, 16
+	Patch RFCT082, 0, 48
+	Patch RFCT082, 16, 0
+	Patch RFCT082, 32, 0
+	Patch RFCT082, 16, 32
+	Patch RFCT082, 32, 32
+	Patch RFCT082, 16, 16
+	Patch RFCT082, 32, 16
+	Patch RFCT082, 16, 48
+	Patch RFCT082, 32, 48
+}
+
+Texture CHRBKG2, 160, 176
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT075, 0, 0
+}
+
+Texture CHRCORB1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT064, 0, 0
+}
+
+Texture CHRCORB2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT065, 0, 0
+}
+
+Texture CHRCORB3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT066, 0, 0
+}
+
+Texture CHRCORB4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT067, 0, 0
+}
+
+Texture CHRCORP1, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT068, 0, 0
+}
+
+Texture CHRCORP2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT069, 0, 0
+}
+
+Texture CHRCORP3, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT070, 0, 0
+}
+
+Texture CHRCORP4, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT071, 0, 0
+}
+
+Texture CHRMOD1, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT099, 0, 0
+}
+
+Texture CHRMOD2, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT087, 0, 0
+}
+
+Texture CHRMOD3, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT094, 0, 0
+}
+
+Texture CHRMOD4, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT095, 0, 0
+}
+
+Texture CHRMOD5, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT096, 0, 0
+}
+
+Texture CHRMOD6, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT097, 0, 0
+}
+
+Texture CHRMOD7, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT098, 0, 0
+}
+
+Texture CHRMOD8, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT076, 0, 0
+}
+
+Texture CHRLAD, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT084, 0, 0
+}
+
+Texture CHRDOR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT040, 0, 0
+}
+
+Texture CHRCURT, 16, 512
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT080, 0, 0
+	Patch RFCT080, 0, 128
+	Patch RFCT080, 0, 256
+	Patch RFCT080, 0, 384
+	Patch RFCT080, 0, 32
+	Patch RFCT080, 0, 160
+	Patch RFCT080, 0, 288
+	Patch RFCT080, 0, 416
+	Patch RFCT080, 0, 64
+	Patch RFCT080, 0, 192
+	Patch RFCT080, 0, 320
+	Patch RFCT080, 0, 448
+	Patch RFCT080, 0, 96
+	Patch RFCT080, 0, 224
+	Patch RFCT080, 0, 352
+	Patch RFCT080, 0, 480
+	Patch RFCT080, 0, 16
+	Patch RFCT080, 0, 144
+	Patch RFCT080, 0, 272
+	Patch RFCT080, 0, 400
+	Patch RFCT080, 0, 48
+	Patch RFCT080, 0, 176
+	Patch RFCT080, 0, 304
+	Patch RFCT080, 0, 432
+	Patch RFCT080, 0, 80
+	Patch RFCT080, 0, 208
+	Patch RFCT080, 0, 336
+	Patch RFCT080, 0, 464
+	Patch RFCT080, 0, 112
+	Patch RFCT080, 0, 240
+	Patch RFCT080, 0, 368
+	Patch RFCT081, 0, 496
+}
+
+Texture CHRCURT2, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT080, 0, 0
+	Patch RFCT081, 0, 16
+}
+
+Texture CHRCANE, 512, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT086, 0, 0
+	Patch RFCT086, 128, 0
+	Patch RFCT086, 256, 0
+	Patch RFCT086, 384, 0
+	Patch RFCT086, 32, 0
+	Patch RFCT086, 160, 0
+	Patch RFCT086, 288, 0
+	Patch RFCT086, 416, 0
+	Patch RFCT086, 64, 0
+	Patch RFCT086, 192, 0
+	Patch RFCT086, 320, 0
+	Patch RFCT086, 448, 0
+	Patch RFCT086, 96, 0
+	Patch RFCT086, 224, 0
+	Patch RFCT086, 352, 0
+	Patch RFCT086, 480, 0
+	Patch RFCT086, 16, 0
+	Patch RFCT086, 144, 0
+	Patch RFCT086, 272, 0
+	Patch RFCT086, 400, 0
+	Patch RFCT086, 48, 0
+	Patch RFCT086, 176, 0
+	Patch RFCT086, 304, 0
+	Patch RFCT086, 432, 0
+	Patch RFCT086, 80, 0
+	Patch RFCT086, 208, 0
+	Patch RFCT086, 336, 0
+	Patch RFCT086, 464, 0
+	Patch RFCT086, 112, 0
+	Patch RFCT086, 240, 0
+	Patch RFCT086, 368, 0
+	Patch RFCT085, 496, 0
+}
+
+Texture CHRPUR, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT082, 0, 0
+}
+
+Texture CHRSPI, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	WorldPanning
+	Patch RFCT083, 0, 0
+}
+
+
+Texture TERRPIL1, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER1, 0, 0
+	Patch TER2, 0, 16
+	Patch TER3, 0, 32
+	Patch TER4, 0, 48
+	WorldPanning
+}
+
+Texture TERRPIL2, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER5, 0, 0
+	Patch TER6, 0, 16
+	Patch TER6, 0, 32
+	Patch TER7, 0, 48
+	WorldPanning
+}
+
+Texture TERRPIL3, 32, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER8, 0, 0
+	Patch TER9, 0, 16
+	Patch TER9, 0, 32
+	Patch TER10, 0, 48
+	WorldPanning
+}
+
+Texture TERRPIL4, 32, 80
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER14, 0, 0
+	Patch TER11, 0, 16
+	Patch TER12, 0, 32
+	Patch TER13, 0, 48
+	Patch TER14, 0, 64
+	WorldPanning
+}
+
+Texture TERRPIP1, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER15, 0, 0
+	WorldPanning
+}
+
+Texture TERRPIP2, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER23, 0, 0
+	WorldPanning
+}
+
+Texture TERRRGHT, 16, 96
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER20, 0, 0
+	Patch TER21, 0, 16
+	Patch TER21, 0, 32
+	Patch TER21, 0, 48
+	Patch TER21, 0, 64
+	Patch TER21, 0, 80
+	WorldPanning
+}
+
+Texture TERRLEFT, 16, 96
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER18, 0, 0
+	Patch TER19, 0, 16
+	Patch TER19, 0, 32
+	Patch TER19, 0, 48
+	Patch TER19, 0, 64
+	Patch TER19, 0, 80
+	WorldPanning
+}
+
+Texture TERRMID1, 16, 96
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER22, 0, 0
+	Patch TER43, 0, 16
+	Patch TER43, 0, 32
+	Patch TER43, 0, 48
+	Patch TER43, 0, 64
+	Patch TER43, 0, 80
+	WorldPanning
+}
+
+
+Texture TERRBLK1, 64, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER16, 0, 0
+	WorldPanning
+}
+
+Texture TERRBLK2, 16, 16
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER17, 0, 0
+	WorldPanning
+}
+
+Texture TERRBLK3, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER18, 0, 0
+	Patch TER19, 0, 16
+	Patch TER19, 0, 32
+	Patch TER18, 0, 48
+	Patch TER22, 16, 0
+	Patch TER14, 16, 16
+	Patch TER12, 16, 32
+	Patch TER14, 16, 48
+	Patch TER22, 32, 0
+	Patch TER20, 48, 0
+	Patch TER21, 48, 16
+	Patch TER21, 48, 32
+	Patch TER20, 48, 48
+	WorldPanning
+}
+
+Texture TERRBLK4, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER18, 0, 0
+	Patch TER19, 0, 16
+	Patch TER19, 0, 32
+	Patch TER18, 0, 48
+	Patch TER22, 16, 0
+	Patch TER17, 16, 16
+	Patch TER17, 16, 32
+	Patch TER22, 16, 48
+	Patch TER22, 32, 0
+	Patch TER17, 32, 16
+	Patch TER17, 32, 32
+	Patch TER22, 32, 48
+	Patch TER20, 48, 0
+	Patch TER21, 48, 16
+	Patch TER21, 48, 32
+	Patch TER20, 48, 48
+	WorldPanning
+}
+
+Texture TERRBLK5, 48, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER25, 0, 0
+	WorldPanning
+}
+
+Texture TERRBLK6, 64, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER18, 0, 0
+	Patch TER19, 0, 16
+	Patch TER19, 0, 32
+	Patch TER18, 0, 48
+	Patch TER22, 16, 0
+	Patch TER5, 16, 16
+	Patch TER6, 16, 32
+	Patch TER7, 16, 48
+	Patch TER22, 32, 0
+	Patch TER20, 48, 0
+	Patch TER21, 48, 16
+	Patch TER21, 48, 32
+	Patch TER20, 48, 48
+	WorldPanning
+}
+
+
+Texture TERRJUNK, 32, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER26, 0, 0
+	WorldPanning
+}
+
+Texture TERWAL1, 16, 192
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER35, 0, 0
+	Patch TER29, 0, 16
+	Patch TER29, 0, 32
+	Patch TER29, 0, 48
+	Patch TER29, 0, 64
+	Patch TER29, 0, 80
+	Patch TER29, 0, 96
+	Patch TER29, 0, 112
+	Patch TER29, 0, 128
+	Patch TER29, 0, 144
+	Patch TER29, 0, 160
+	Patch TER29, 0, 176
+	WorldPanning
+}
+
+Texture TERWAL2, 16, 192
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER36, 0, 0
+	Patch TER30, 0, 16
+	Patch TER30, 0, 32
+	Patch TER30, 0, 48
+	Patch TER30, 0, 64
+	Patch TER30, 0, 80
+	Patch TER30, 0, 96
+	Patch TER30, 0, 112
+	Patch TER30, 0, 128
+	Patch TER30, 0, 144
+	Patch TER30, 0, 160
+	Patch TER30, 0, 176
+	WorldPanning
+}
+
+Texture TERWAL3, 32, 192
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER27, 0, 0
+	Patch TER28, 0, 16
+	Patch TER28, 0, 32
+	Patch TER28, 0, 48
+	Patch TER28, 0, 64
+	Patch TER28, 0, 80
+	Patch TER28, 0, 96
+	Patch TER28, 0, 112
+	Patch TER28, 0, 128
+	Patch TER28, 0, 144
+	Patch TER28, 0, 160
+	Patch TER28, 0, 176
+	WorldPanning
+}
+
+Texture TERRCHN1, 16, 32
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER31, 0, 0
+	WorldPanning
+}
+
+Texture TERRCHN2, 16, 64
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER32, 0, 0
+	WorldPanning
+}
+
+Texture TERRSKY, 96, 128
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER33, 0, 0
+	WorldPanning
+}
+
+Texture TERRGAM, 352, 128
+{
+	XScale 0.5
+	YScale 0.5
+	Patch TER34, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR1, 32, 32
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER37, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR2, 32, 32
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER38, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR3, 32, 32
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER39, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR4, 32, 32
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER40, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR5, 32, 32
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER41, 0, 0
+	WorldPanning
+}
+
+Texture TERRFLR6, 16, 16
+{
+	XScale 0.5
+	Yscale 0.5
+	Patch TER42, 0, 0
+	WorldPanning
+}
+
+
+
+
+Texture FLRSKY, 192, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT056, 0, 0
+}
+
+Texture FLRSKYO, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT057, 0, 0
+}
+
+Texture FLRLAD, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT037, 0, 0
+}
+
+Texture FLRGREY, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT025, 0, 0
+}
+
+Texture FLRFENC, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT062, 0, 0
+}
+
+Texture FLRPAT1, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT031, 0, 0
+	Patch RFFLT032, 16, 0
+	Patch RFFLT035, 0, 16
+	Patch RFFLT035, 0, 144
+	Patch RFFLT035, 0, 272
+	Patch RFFLT035, 0, 400
+	Patch RFFLT035, 0, 80
+	Patch RFFLT035, 0, 208
+	Patch RFFLT035, 0, 336
+	Patch RFFLT035, 0, 464
+	Patch RFFLT035, 0, 48
+	Patch RFFLT035, 0, 176
+	Patch RFFLT035, 0, 304
+	Patch RFFLT035, 0, 432
+	Patch RFFLT035, 0, 112
+	Patch RFFLT035, 0, 240
+	Patch RFFLT035, 0, 368
+	Patch RFFLT035, 0, 32
+	Patch RFFLT035, 0, 160
+	Patch RFFLT035, 0, 288
+	Patch RFFLT035, 0, 416
+	Patch RFFLT035, 0, 96
+	Patch RFFLT035, 0, 224
+	Patch RFFLT035, 0, 352
+	Patch RFFLT035, 0, 480
+	Patch RFFLT035, 0, 64
+	Patch RFFLT035, 0, 192
+	Patch RFFLT035, 0, 320
+	Patch RFFLT035, 0, 448
+	Patch RFFLT035, 0, 128
+	Patch RFFLT035, 0, 256
+	Patch RFFLT035, 0, 384
+	Patch RFFLT035, 16, 16
+	Patch RFFLT035, 16, 144
+	Patch RFFLT035, 16, 272
+	Patch RFFLT035, 16, 400
+	Patch RFFLT035, 16, 80
+	Patch RFFLT035, 16, 208
+	Patch RFFLT035, 16, 336
+	Patch RFFLT035, 16, 464
+	Patch RFFLT035, 16, 48
+	Patch RFFLT035, 16, 176
+	Patch RFFLT035, 16, 304
+	Patch RFFLT035, 16, 432
+	Patch RFFLT035, 16, 112
+	Patch RFFLT035, 16, 240
+	Patch RFFLT035, 16, 368
+	Patch RFFLT035, 16, 32
+	Patch RFFLT035, 16, 160
+	Patch RFFLT035, 16, 288
+	Patch RFFLT035, 16, 416
+	Patch RFFLT035, 16, 96
+	Patch RFFLT035, 16, 224
+	Patch RFFLT035, 16, 352
+	Patch RFFLT035, 16, 480
+	Patch RFFLT035, 16, 64
+	Patch RFFLT035, 16, 192
+	Patch RFFLT035, 16, 320
+	Patch RFFLT035, 16, 448
+	Patch RFFLT035, 16, 128
+	Patch RFFLT035, 16, 256
+	Patch RFFLT035, 16, 384
+	Patch RFFLT034, 0, 496
+	Patch RFFLT033, 16, 496
+}
+
+Texture FLRPAT2A, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT038, 0, 16
+	Patch RFFLT038, 0, 32
+	Patch RFFLT038, 0, 144
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 0, 400
+	Patch RFFLT038, 0, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 0, 464
+	Patch RFFLT038, 0, 48
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 0, 432
+	Patch RFFLT038, 0, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 0, 368
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 0, 416
+	Patch RFFLT038, 0, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 0, 352
+	Patch RFFLT038, 0, 480
+	Patch RFFLT038, 0, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 0, 448
+	Patch RFFLT038, 0, 128
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT036, 0, 496
+}
+
+Texture FLRPAT2B, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT039, 0, 16
+	Patch RFFLT039, 0, 144
+	Patch RFFLT039, 0, 272
+	Patch RFFLT039, 0, 400
+	Patch RFFLT039, 0, 80
+	Patch RFFLT039, 0, 208
+	Patch RFFLT039, 0, 336
+	Patch RFFLT039, 0, 464
+	Patch RFFLT039, 0, 48
+	Patch RFFLT039, 0, 176
+	Patch RFFLT039, 0, 304
+	Patch RFFLT039, 0, 432
+	Patch RFFLT039, 0, 112
+	Patch RFFLT039, 0, 240
+	Patch RFFLT039, 0, 368
+	Patch RFFLT039, 0, 32
+	Patch RFFLT039, 0, 160
+	Patch RFFLT039, 0, 288
+	Patch RFFLT039, 0, 416
+	Patch RFFLT039, 0, 96
+	Patch RFFLT039, 0, 224
+	Patch RFFLT039, 0, 352
+	Patch RFFLT039, 0, 480
+	Patch RFFLT039, 0, 64
+	Patch RFFLT039, 0, 192
+	Patch RFFLT039, 0, 320
+	Patch RFFLT039, 0, 448
+	Patch RFFLT039, 0, 128
+	Patch RFFLT039, 0, 256
+	Patch RFFLT039, 0, 384
+	Patch RFFLT036, 0, 496
+}
+
+Texture FLRPAT2C, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT036, 16, 0
+	Patch RFFLT030, 0, 16
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 16, 272
+	Patch RFFLT038, 0, 400
+	Patch RFFLT038, 16, 400
+	Patch RFFLT038, 0, 80
+	Patch RFFLT038, 16, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 16, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 16, 336
+	Patch RFFLT030, 0, 464
+	Patch RFFLT038, 0, 48
+	Patch RFFLT038, 16, 48
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 16, 176
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 16, 304
+	Patch RFFLT038, 0, 432
+	Patch RFFLT038, 16, 432
+	Patch RFFLT038, 0, 112
+	Patch RFFLT038, 16, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 16, 240
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 16, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 16, 288
+	Patch RFFLT038, 0, 416
+	Patch RFFLT038, 16, 416
+	Patch RFFLT038, 0, 96
+	Patch RFFLT038, 16, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 16, 224
+	Patch RFFLT030, 0, 352
+	Patch RFFLT038, 0, 64
+	Patch RFFLT038, 16, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 16, 192
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 16, 320
+	Patch RFFLT038, 0, 448
+	Patch RFFLT038, 16, 448
+	Patch RFFLT030, 0, 128
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 16, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT038, 16, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT036, 16, 496
+}
+
+Texture FLRPAT2D, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT036, 16, 0
+	Patch RFFLT030, 0, 16
+	Patch RFFLT038, 0, 272
+	Patch RFFLT039, 16, 272
+	Patch RFFLT038, 0, 400
+	Patch RFFLT039, 16, 400
+	Patch RFFLT038, 0, 80
+	Patch RFFLT039, 16, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT039, 16, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT039, 16, 336
+	Patch RFFLT030, 0, 464
+	Patch RFFLT038, 0, 48
+	Patch RFFLT039, 16, 48
+	Patch RFFLT038, 0, 176
+	Patch RFFLT039, 16, 176
+	Patch RFFLT038, 0, 304
+	Patch RFFLT039, 16, 304
+	Patch RFFLT038, 0, 432
+	Patch RFFLT039, 16, 432
+	Patch RFFLT038, 0, 112
+	Patch RFFLT039, 16, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT039, 16, 240
+	Patch RFFLT038, 0, 160
+	Patch RFFLT039, 16, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT039, 16, 288
+	Patch RFFLT038, 0, 416
+	Patch RFFLT039, 16, 416
+	Patch RFFLT038, 0, 96
+	Patch RFFLT039, 16, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT039, 16, 224
+	Patch RFFLT030, 0, 352
+	Patch RFFLT038, 0, 64
+	Patch RFFLT039, 16, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT039, 16, 192
+	Patch RFFLT038, 0, 320
+	Patch RFFLT039, 16, 320
+	Patch RFFLT038, 0, 448
+	Patch RFFLT039, 16, 448
+	Patch RFFLT030, 0, 128
+	Patch RFFLT038, 0, 256
+	Patch RFFLT039, 16, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT039, 16, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT036, 16, 496
+}
+
+Texture FLRPAT2E, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT036, 16, 0
+	Patch RFFLT029, 0, 16
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 16, 272
+	Patch RFFLT029, 0, 400
+	Patch RFFLT029, 0, 480
+	Patch RFFLT027, 0, 64
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 16, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 0, 368
+	Patch RFFLT038, 16, 336
+	Patch RFFLT038, 16, 368
+	Patch RFFLT027, 0, 464
+	Patch RFFLT027, 0, 32
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 128
+	Patch RFFLT038, 16, 176
+	Patch RFFLT038, 16, 128
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 16, 304
+	Patch RFFLT027, 0, 432
+	Patch RFFLT029, 0, 96
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 16, 240
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 0, 112
+	Patch RFFLT038, 16, 160
+	Patch RFFLT038, 16, 112
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 16, 288
+	Patch RFFLT027, 0, 416
+	Patch RFFLT027, 0, 80
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 16, 224
+	Patch RFFLT027, 0, 48
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 144
+	Patch RFFLT038, 16, 192
+	Patch RFFLT038, 16, 144
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 0, 352
+	Patch RFFLT038, 16, 320
+	Patch RFFLT038, 16, 352
+	Patch RFFLT027, 0, 448
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 16, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT038, 16, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT036, 16, 496
+}
+
+Texture FLRPAT2F, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT036, 16, 0
+	Patch RFFLT029, 0, 16
+	Patch RFFLT038, 0, 272
+	Patch RFFLT039, 16, 272
+	Patch RFFLT029, 0, 400
+	Patch RFFLT029, 0, 480
+	Patch RFFLT027, 0, 64
+	Patch RFFLT038, 0, 208
+	Patch RFFLT039, 16, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 0, 368
+	Patch RFFLT039, 16, 336
+	Patch RFFLT039, 16, 368
+	Patch RFFLT027, 0, 464
+	Patch RFFLT027, 0, 32
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 128
+	Patch RFFLT039, 16, 176
+	Patch RFFLT039, 16, 128
+	Patch RFFLT038, 0, 304
+	Patch RFFLT039, 16, 304
+	Patch RFFLT027, 0, 432
+	Patch RFFLT029, 0, 96
+	Patch RFFLT038, 0, 240
+	Patch RFFLT039, 16, 240
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 0, 112
+	Patch RFFLT039, 16, 160
+	Patch RFFLT039, 16, 112
+	Patch RFFLT038, 0, 288
+	Patch RFFLT039, 16, 288
+	Patch RFFLT027, 0, 416
+	Patch RFFLT027, 0, 80
+	Patch RFFLT038, 0, 224
+	Patch RFFLT039, 16, 224
+	Patch RFFLT027, 0, 48
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 144
+	Patch RFFLT039, 16, 192
+	Patch RFFLT039, 16, 144
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 0, 352
+	Patch RFFLT039, 16, 320
+	Patch RFFLT039, 16, 352
+	Patch RFFLT027, 0, 448
+	Patch RFFLT038, 0, 256
+	Patch RFFLT039, 16, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT039, 16, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT036, 16, 496
+}
+
+Texture FLRPAT2G, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT028, 0, 32
+	Patch RFFLT038, 0, 144
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 0, 400
+	Patch RFFLT038, 0, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT018, 0, 16
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 0, 432
+	Patch RFFLT038, 0, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 0, 368
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 0, 416
+	Patch RFFLT038, 0, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 0, 352
+	Patch RFFLT018, 0, 480
+	Patch RFFLT038, 0, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 320
+	Patch RFFLT028, 0, 448
+	Patch RFFLT038, 0, 128
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT036, 0, 496
+}
+
+Texture FLRPAT2H, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+	Patch RFFLT025, 0, 16
+	Patch RFFLT025, 0, 144
+	Patch RFFLT025, 0, 272
+	Patch RFFLT025, 0, 400
+	Patch RFFLT025, 0, 80
+	Patch RFFLT025, 0, 208
+	Patch RFFLT025, 0, 336
+	Patch RFFLT025, 0, 464
+	Patch RFFLT025, 0, 48
+	Patch RFFLT025, 0, 176
+	Patch RFFLT025, 0, 304
+	Patch RFFLT025, 0, 432
+	Patch RFFLT025, 0, 112
+	Patch RFFLT025, 0, 240
+	Patch RFFLT025, 0, 368
+	Patch RFFLT025, 0, 32
+	Patch RFFLT025, 0, 160
+	Patch RFFLT025, 0, 288
+	Patch RFFLT025, 0, 416
+	Patch RFFLT025, 0, 96
+	Patch RFFLT025, 0, 224
+	Patch RFFLT025, 0, 352
+	Patch RFFLT025, 0, 480
+	Patch RFFLT025, 0, 64
+	Patch RFFLT025, 0, 192
+	Patch RFFLT025, 0, 320
+	Patch RFFLT025, 0, 448
+	Patch RFFLT025, 0, 128
+	Patch RFFLT025, 0, 256
+	Patch RFFLT025, 0, 384
+	Patch RFFLT036, 0, 496
+}
+
+Texture FLRPIL1, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT010, 0, 0
+	Patch RFFLT011, 16, 0
+	Patch RFFLT012, 0, 16
+	Patch RFFLT012, 0, 144
+	Patch RFFLT012, 0, 272
+	Patch RFFLT012, 0, 400
+	Patch RFFLT012, 0, 80
+	Patch RFFLT012, 0, 208
+	Patch RFFLT012, 0, 336
+	Patch RFFLT012, 0, 464
+	Patch RFFLT012, 0, 48
+	Patch RFFLT012, 0, 176
+	Patch RFFLT012, 0, 304
+	Patch RFFLT012, 0, 432
+	Patch RFFLT012, 0, 112
+	Patch RFFLT012, 0, 240
+	Patch RFFLT012, 0, 368
+	Patch RFFLT012, 0, 32
+	Patch RFFLT012, 0, 160
+	Patch RFFLT012, 0, 288
+	Patch RFFLT012, 0, 416
+	Patch RFFLT012, 0, 96
+	Patch RFFLT012, 0, 224
+	Patch RFFLT012, 0, 352
+	Patch RFFLT012, 0, 480
+	Patch RFFLT012, 0, 64
+	Patch RFFLT012, 0, 192
+	Patch RFFLT012, 0, 320
+	Patch RFFLT012, 0, 448
+	Patch RFFLT012, 0, 128
+	Patch RFFLT012, 0, 256
+	Patch RFFLT012, 0, 384
+	Patch RFFLT013, 16, 16
+	Patch RFFLT013, 16, 144
+	Patch RFFLT013, 16, 272
+	Patch RFFLT013, 16, 400
+	Patch RFFLT013, 16, 80
+	Patch RFFLT013, 16, 208
+	Patch RFFLT013, 16, 336
+	Patch RFFLT013, 16, 464
+	Patch RFFLT013, 16, 48
+	Patch RFFLT013, 16, 176
+	Patch RFFLT013, 16, 304
+	Patch RFFLT013, 16, 432
+	Patch RFFLT013, 16, 112
+	Patch RFFLT013, 16, 240
+	Patch RFFLT013, 16, 368
+	Patch RFFLT013, 16, 32
+	Patch RFFLT013, 16, 160
+	Patch RFFLT013, 16, 288
+	Patch RFFLT013, 16, 416
+	Patch RFFLT013, 16, 96
+	Patch RFFLT013, 16, 224
+	Patch RFFLT013, 16, 352
+	Patch RFFLT013, 16, 480
+	Patch RFFLT013, 16, 64
+	Patch RFFLT013, 16, 192
+	Patch RFFLT013, 16, 320
+	Patch RFFLT013, 16, 448
+	Patch RFFLT013, 16, 128
+	Patch RFFLT013, 16, 256
+	Patch RFFLT013, 16, 384
+	Patch RFFLT014, 0, 496
+	Patch RFFLT015, 16, 496
+}
+
+Texture FLRPIL2, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT003, 16, 0
+	Patch RFFLT024, 0, 16
+	Patch RFFLT024, 0, 144
+	Patch RFFLT024, 0, 272
+	Patch RFFLT024, 0, 400
+	Patch RFFLT024, 0, 80
+	Patch RFFLT024, 0, 208
+	Patch RFFLT024, 0, 336
+	Patch RFFLT024, 0, 464
+	Patch RFFLT024, 0, 48
+	Patch RFFLT024, 0, 176
+	Patch RFFLT024, 0, 304
+	Patch RFFLT024, 0, 432
+	Patch RFFLT024, 0, 112
+	Patch RFFLT024, 0, 240
+	Patch RFFLT024, 0, 368
+	Patch RFFLT024, 0, 32
+	Patch RFFLT024, 0, 160
+	Patch RFFLT024, 0, 288
+	Patch RFFLT024, 0, 416
+	Patch RFFLT024, 0, 96
+	Patch RFFLT024, 0, 224
+	Patch RFFLT024, 0, 352
+	Patch RFFLT024, 0, 480
+	Patch RFFLT024, 0, 64
+	Patch RFFLT024, 0, 192
+	Patch RFFLT024, 0, 320
+	Patch RFFLT024, 0, 448
+	Patch RFFLT024, 0, 128
+	Patch RFFLT024, 0, 256
+	Patch RFFLT024, 0, 384
+	Patch RFFLT026, 16, 16
+	Patch RFFLT026, 16, 144
+	Patch RFFLT026, 16, 272
+	Patch RFFLT026, 16, 400
+	Patch RFFLT026, 16, 80
+	Patch RFFLT026, 16, 208
+	Patch RFFLT026, 16, 336
+	Patch RFFLT026, 16, 464
+	Patch RFFLT026, 16, 48
+	Patch RFFLT026, 16, 176
+	Patch RFFLT026, 16, 304
+	Patch RFFLT026, 16, 432
+	Patch RFFLT026, 16, 112
+	Patch RFFLT026, 16, 240
+	Patch RFFLT026, 16, 368
+	Patch RFFLT026, 16, 32
+	Patch RFFLT026, 16, 160
+	Patch RFFLT026, 16, 288
+	Patch RFFLT026, 16, 416
+	Patch RFFLT026, 16, 96
+	Patch RFFLT026, 16, 224
+	Patch RFFLT026, 16, 352
+	Patch RFFLT026, 16, 480
+	Patch RFFLT026, 16, 64
+	Patch RFFLT026, 16, 192
+	Patch RFFLT026, 16, 320
+	Patch RFFLT026, 16, 448
+	Patch RFFLT026, 16, 128
+	Patch RFFLT026, 16, 256
+	Patch RFFLT026, 16, 384
+	Patch RFFLT007, 0, 496
+	Patch RFFLT009, 16, 496
+}
+
+Texture FLRPIL3, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT002, 0, 0
+	Patch RFFLT025, 0, 16
+	Patch RFFLT025, 0, 144
+	Patch RFFLT025, 0, 272
+	Patch RFFLT025, 0, 400
+	Patch RFFLT025, 0, 80
+	Patch RFFLT025, 0, 208
+	Patch RFFLT025, 0, 336
+	Patch RFFLT025, 0, 464
+	Patch RFFLT025, 0, 48
+	Patch RFFLT025, 0, 176
+	Patch RFFLT025, 0, 304
+	Patch RFFLT025, 0, 432
+	Patch RFFLT025, 0, 112
+	Patch RFFLT025, 0, 240
+	Patch RFFLT025, 0, 368
+	Patch RFFLT025, 0, 32
+	Patch RFFLT025, 0, 160
+	Patch RFFLT025, 0, 288
+	Patch RFFLT025, 0, 416
+	Patch RFFLT025, 0, 96
+	Patch RFFLT025, 0, 224
+	Patch RFFLT025, 0, 352
+	Patch RFFLT025, 0, 480
+	Patch RFFLT025, 0, 64
+	Patch RFFLT025, 0, 192
+	Patch RFFLT025, 0, 320
+	Patch RFFLT025, 0, 448
+	Patch RFFLT025, 0, 128
+	Patch RFFLT025, 0, 256
+	Patch RFFLT025, 0, 384
+	Patch RFFLT008, 0, 496
+}
+
+Texture FLRPIL4, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT003, 16, 0
+	Patch RFFLT004, 0, 16
+	Patch RFFLT004, 0, 144
+	Patch RFFLT004, 0, 272
+	Patch RFFLT004, 0, 400
+	Patch RFFLT004, 0, 80
+	Patch RFFLT004, 0, 208
+	Patch RFFLT004, 0, 336
+	Patch RFFLT004, 0, 464
+	Patch RFFLT004, 0, 48
+	Patch RFFLT004, 0, 176
+	Patch RFFLT004, 0, 304
+	Patch RFFLT004, 0, 432
+	Patch RFFLT004, 0, 112
+	Patch RFFLT004, 0, 240
+	Patch RFFLT004, 0, 368
+	Patch RFFLT004, 0, 32
+	Patch RFFLT004, 0, 160
+	Patch RFFLT004, 0, 288
+	Patch RFFLT004, 0, 416
+	Patch RFFLT004, 0, 96
+	Patch RFFLT004, 0, 224
+	Patch RFFLT004, 0, 352
+	Patch RFFLT004, 0, 480
+	Patch RFFLT004, 0, 64
+	Patch RFFLT004, 0, 192
+	Patch RFFLT004, 0, 320
+	Patch RFFLT004, 0, 448
+	Patch RFFLT004, 0, 128
+	Patch RFFLT004, 0, 256
+	Patch RFFLT004, 0, 384
+	Patch RFFLT006, 16, 16
+	Patch RFFLT006, 16, 144
+	Patch RFFLT006, 16, 272
+	Patch RFFLT006, 16, 400
+	Patch RFFLT006, 16, 80
+	Patch RFFLT006, 16, 208
+	Patch RFFLT006, 16, 336
+	Patch RFFLT006, 16, 464
+	Patch RFFLT006, 16, 48
+	Patch RFFLT006, 16, 176
+	Patch RFFLT006, 16, 304
+	Patch RFFLT006, 16, 432
+	Patch RFFLT006, 16, 112
+	Patch RFFLT006, 16, 240
+	Patch RFFLT006, 16, 368
+	Patch RFFLT006, 16, 32
+	Patch RFFLT006, 16, 160
+	Patch RFFLT006, 16, 288
+	Patch RFFLT006, 16, 416
+	Patch RFFLT006, 16, 96
+	Patch RFFLT006, 16, 224
+	Patch RFFLT006, 16, 352
+	Patch RFFLT006, 16, 480
+	Patch RFFLT006, 16, 64
+	Patch RFFLT006, 16, 192
+	Patch RFFLT006, 16, 320
+	Patch RFFLT006, 16, 448
+	Patch RFFLT006, 16, 128
+	Patch RFFLT006, 16, 256
+	Patch RFFLT006, 16, 384
+	Patch RFFLT007, 0, 496
+	Patch RFFLT009, 16, 496
+}
+
+Texture FLRPIL5, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT002, 0, 0
+	Patch RFFLT005, 0, 16
+	Patch RFFLT005, 0, 144
+	Patch RFFLT005, 0, 272
+	Patch RFFLT005, 0, 400
+	Patch RFFLT005, 0, 80
+	Patch RFFLT005, 0, 208
+	Patch RFFLT005, 0, 336
+	Patch RFFLT005, 0, 464
+	Patch RFFLT005, 0, 48
+	Patch RFFLT005, 0, 176
+	Patch RFFLT005, 0, 304
+	Patch RFFLT005, 0, 432
+	Patch RFFLT005, 0, 112
+	Patch RFFLT005, 0, 240
+	Patch RFFLT005, 0, 368
+	Patch RFFLT005, 0, 32
+	Patch RFFLT005, 0, 160
+	Patch RFFLT005, 0, 288
+	Patch RFFLT005, 0, 416
+	Patch RFFLT005, 0, 96
+	Patch RFFLT005, 0, 224
+	Patch RFFLT005, 0, 352
+	Patch RFFLT005, 0, 480
+	Patch RFFLT005, 0, 64
+	Patch RFFLT005, 0, 192
+	Patch RFFLT005, 0, 320
+	Patch RFFLT005, 0, 448
+	Patch RFFLT005, 0, 128
+	Patch RFFLT005, 0, 256
+	Patch RFFLT005, 0, 384
+	Patch RFFLT008, 0, 496
+}
+
+Texture FLRPIL6A, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT029, 0, 0
+	Patch RFFLT027, 0, 16
+	Patch RFFLT027, 0, 144
+	Patch RFFLT027, 0, 272
+	Patch RFFLT027, 0, 400
+	Patch RFFLT027, 0, 80
+	Patch RFFLT027, 0, 208
+	Patch RFFLT027, 0, 336
+	Patch RFFLT027, 0, 464
+	Patch RFFLT027, 0, 48
+	Patch RFFLT027, 0, 176
+	Patch RFFLT027, 0, 304
+	Patch RFFLT027, 0, 432
+	Patch RFFLT027, 0, 112
+	Patch RFFLT027, 0, 240
+	Patch RFFLT027, 0, 368
+	Patch RFFLT027, 0, 32
+	Patch RFFLT027, 0, 160
+	Patch RFFLT027, 0, 288
+	Patch RFFLT027, 0, 416
+	Patch RFFLT027, 0, 96
+	Patch RFFLT027, 0, 224
+	Patch RFFLT027, 0, 352
+	Patch RFFLT027, 0, 480
+	Patch RFFLT027, 0, 64
+	Patch RFFLT027, 0, 192
+	Patch RFFLT027, 0, 320
+	Patch RFFLT027, 0, 448
+	Patch RFFLT027, 0, 128
+	Patch RFFLT027, 0, 256
+	Patch RFFLT027, 0, 384
+	Patch RFFLT029, 0, 496
+}
+
+Texture FLRPIL6B, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT029, 0, 0
+	Patch RFFLT027, 0, 16
+	Patch RFFLT027, 0, 144
+	Patch RFFLT027, 0, 80
+	Patch RFFLT027, 0, 208
+	Patch RFFLT027, 0, 48
+	Patch RFFLT027, 0, 176
+	Patch RFFLT027, 0, 112
+	Patch RFFLT027, 0, 32
+	Patch RFFLT027, 0, 160
+	Patch RFFLT027, 0, 96
+	Patch RFFLT027, 0, 224
+	Patch RFFLT027, 0, 64
+	Patch RFFLT027, 0, 192
+	Patch RFFLT027, 0, 128
+	Patch RFFLT029, 0, 240
+}
+
+Texture FLRPIL6C, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT029, 0, 0
+	Patch RFFLT027, 0, 16
+	Patch RFFLT027, 0, 80
+	Patch RFFLT027, 0, 48
+	Patch RFFLT027, 0, 32
+	Patch RFFLT027, 0, 96
+	Patch RFFLT027, 0, 64
+	Patch RFFLT029, 0, 112
+}
+
+Texture FLRBLK1A, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT002, 16, 0
+	Patch RFFLT002, 32, 0
+	Patch RFFLT003, 48, 0
+	Patch RFFLT004, 0, 16
+	Patch RFFLT004, 0, 144
+	Patch RFFLT004, 0, 80
+	Patch RFFLT004, 0, 208
+	Patch RFFLT004, 0, 48
+	Patch RFFLT004, 0, 176
+	Patch RFFLT004, 0, 112
+	Patch RFFLT004, 0, 32
+	Patch RFFLT004, 0, 160
+	Patch RFFLT004, 0, 96
+	Patch RFFLT004, 0, 224
+	Patch RFFLT004, 0, 64
+	Patch RFFLT004, 0, 192
+	Patch RFFLT004, 0, 128
+	Patch RFFLT005, 16, 16
+	Patch RFFLT005, 16, 144
+	Patch RFFLT005, 16, 80
+	Patch RFFLT005, 16, 208
+	Patch RFFLT005, 16, 48
+	Patch RFFLT005, 16, 176
+	Patch RFFLT005, 16, 112
+	Patch RFFLT005, 16, 32
+	Patch RFFLT005, 16, 160
+	Patch RFFLT005, 16, 96
+	Patch RFFLT005, 16, 224
+	Patch RFFLT005, 16, 64
+	Patch RFFLT005, 16, 192
+	Patch RFFLT005, 16, 128
+	Patch RFFLT005, 32, 16
+	Patch RFFLT005, 32, 144
+	Patch RFFLT005, 32, 80
+	Patch RFFLT005, 32, 208
+	Patch RFFLT005, 32, 48
+	Patch RFFLT005, 32, 176
+	Patch RFFLT005, 32, 112
+	Patch RFFLT005, 32, 32
+	Patch RFFLT005, 32, 160
+	Patch RFFLT005, 32, 96
+	Patch RFFLT005, 32, 224
+	Patch RFFLT005, 32, 64
+	Patch RFFLT005, 32, 192
+	Patch RFFLT005, 32, 128
+	Patch RFFLT006, 48, 16
+	Patch RFFLT006, 48, 144
+	Patch RFFLT006, 48, 80
+	Patch RFFLT006, 48, 208
+	Patch RFFLT006, 48, 48
+	Patch RFFLT006, 48, 176
+	Patch RFFLT006, 48, 112
+	Patch RFFLT006, 48, 32
+	Patch RFFLT006, 48, 160
+	Patch RFFLT006, 48, 96
+	Patch RFFLT006, 48, 224
+	Patch RFFLT006, 48, 64
+	Patch RFFLT006, 48, 192
+	Patch RFFLT006, 48, 128
+	Patch RFFLT007, 0, 240
+	Patch RFFLT008, 16, 240
+	Patch RFFLT008, 32, 240
+	Patch RFFLT009, 48, 240
+}
+
+Texture FLRBLK1B, 64, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT002, 16, 0
+	Patch RFFLT002, 32, 0
+	Patch RFFLT003, 48, 0
+	Patch RFFLT004, 0, 16
+	Patch RFFLT004, 0, 80
+	Patch RFFLT004, 0, 48
+	Patch RFFLT004, 0, 32
+	Patch RFFLT004, 0, 96
+	Patch RFFLT004, 0, 64
+	Patch RFFLT005, 16, 16
+	Patch RFFLT005, 16, 80
+	Patch RFFLT005, 16, 48
+	Patch RFFLT005, 16, 32
+	Patch RFFLT005, 16, 96
+	Patch RFFLT005, 16, 64
+	Patch RFFLT005, 32, 16
+	Patch RFFLT005, 32, 80
+	Patch RFFLT005, 32, 48
+	Patch RFFLT005, 32, 32
+	Patch RFFLT005, 32, 96
+	Patch RFFLT005, 32, 64
+	Patch RFFLT006, 48, 16
+	Patch RFFLT006, 48, 80
+	Patch RFFLT006, 48, 48
+	Patch RFFLT006, 48, 32
+	Patch RFFLT006, 48, 96
+	Patch RFFLT006, 48, 64
+	Patch RFFLT007, 0, 112
+	Patch RFFLT008, 16, 112
+	Patch RFFLT008, 32, 112
+	Patch RFFLT009, 48, 112
+}
+
+Texture FLRBLK1C, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT002, 16, 0
+	Patch RFFLT002, 32, 0
+	Patch RFFLT003, 48, 0
+	Patch RFFLT004, 0, 16
+	Patch RFFLT004, 0, 32
+	Patch RFFLT005, 16, 16
+	Patch RFFLT005, 16, 32
+	Patch RFFLT005, 32, 16
+	Patch RFFLT005, 32, 32
+	Patch RFFLT006, 48, 16
+	Patch RFFLT006, 48, 32
+	Patch RFFLT007, 0, 48
+	Patch RFFLT008, 16, 48
+	Patch RFFLT008, 32, 48
+	Patch RFFLT009, 48, 48
+}
+
+Texture FLRBLK2, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT021, 0, 0
+	Patch RFFLT023, 16, 0
+}
+
+Texture FLRBLK3, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT022, 0, 0
+}
+
+Texture FLRBLK4, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT019, 0, 0
+}
+
+Texture FLRBLK5, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT029, 0, 0
+}
+
+Texture FLRBLK6, 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT028, 0, 0
+}
+
+Texture FLRBLK7, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 0
+	Patch RFFLT003, 16, 0
+}
+
+Texture FLRBLK8, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT002, 0, 0
+}
+
+Texture FLRBLK9, 32, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT007, 0, 0
+	Patch RFFLT009, 16, 0
+}
+
+Texture FLRBLK10, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT008, 0, 0
+}
+
+Texture FLRWAL1, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT063, 0, 0
+	Patch RFFLT064, 0, 32
+	Patch RFFLT064, 0, 224
+	Patch RFFLT064, 0, 96
+	Patch RFFLT064, 0, 288
+	Patch RFFLT064, 0, 160
+	Patch RFFLT064, 0, 352
+	Patch RFFLT064, 0, 448
+	Patch RFFLT064, 0, 64
+	Patch RFFLT064, 0, 256
+	Patch RFFLT064, 0, 128
+	Patch RFFLT064, 0, 320
+	Patch RFFLT064, 0, 416
+	Patch RFFLT064, 0, 192
+	Patch RFFLT064, 0, 384
+	Patch RFFLT064, 0, 480
+	Patch RFFLT046, 0, 496
+	Patch RFFLT046, 16, 496
+}
+
+Texture FLRWAL2, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT053, 0, 0
+	Patch RFFLT053, 16, 0
+	Patch RFFLT054, 0, 16
+	Patch RFFLT054, 0, 144
+	Patch RFFLT054, 0, 272
+	Patch RFFLT054, 0, 400
+	Patch RFFLT054, 0, 80
+	Patch RFFLT054, 0, 208
+	Patch RFFLT054, 0, 336
+	Patch RFFLT054, 0, 464
+	Patch RFFLT054, 0, 48
+	Patch RFFLT054, 0, 176
+	Patch RFFLT054, 0, 304
+	Patch RFFLT054, 0, 432
+	Patch RFFLT054, 0, 112
+	Patch RFFLT054, 0, 240
+	Patch RFFLT054, 0, 368
+	Patch RFFLT054, 0, 32
+	Patch RFFLT054, 0, 160
+	Patch RFFLT054, 0, 288
+	Patch RFFLT054, 0, 416
+	Patch RFFLT054, 0, 96
+	Patch RFFLT054, 0, 224
+	Patch RFFLT054, 0, 352
+	Patch RFFLT054, 0, 480
+	Patch RFFLT054, 0, 64
+	Patch RFFLT054, 0, 192
+	Patch RFFLT054, 0, 320
+	Patch RFFLT054, 0, 448
+	Patch RFFLT054, 0, 128
+	Patch RFFLT054, 0, 256
+	Patch RFFLT054, 0, 384
+	Patch RFFLT054, 16, 16
+	Patch RFFLT054, 16, 112
+	Patch RFFLT054, 16, 208
+	Patch RFFLT054, 16, 304
+	Patch RFFLT054, 16, 400
+	Patch RFFLT054, 16, 48
+	Patch RFFLT054, 16, 144
+	Patch RFFLT054, 16, 240
+	Patch RFFLT054, 16, 336
+	Patch RFFLT054, 16, 432
+	Patch RFFLT054, 16, 80
+	Patch RFFLT054, 16, 176
+	Patch RFFLT054, 16, 272
+	Patch RFFLT054, 16, 368
+	Patch RFFLT054, 16, 464
+	Patch RFFLT054, 16, 32
+	Patch RFFLT054, 16, 128
+	Patch RFFLT054, 16, 224
+	Patch RFFLT054, 16, 320
+	Patch RFFLT054, 16, 416
+	Patch RFFLT054, 16, 64
+	Patch RFFLT054, 16, 160
+	Patch RFFLT054, 16, 256
+	Patch RFFLT054, 16, 352
+	Patch RFFLT054, 16, 448
+	Patch RFFLT054, 16, 96
+	Patch RFFLT054, 16, 192
+	Patch RFFLT054, 16, 288
+	Patch RFFLT054, 16, 384
+	Patch RFFLT054, 16, 480
+	Patch RFFLT040, 0, 496
+	Patch RFFLT041, 16, 496
+}
+
+Texture FLRWAL3, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT040, 0, 496
+	Patch RFFLT041, 16, 496
+	Patch RFFLT065, 0, 0
+	Patch RFFLT066, 0, 16
+	Patch RFFLT066, 0, 144
+	Patch RFFLT066, 0, 336
+	Patch RFFLT066, 0, 80
+	Patch RFFLT066, 0, 272
+	Patch RFFLT066, 0, 208
+	Patch RFFLT066, 0, 400
+	Patch RFFLT066, 0, 48
+	Patch RFFLT066, 0, 176
+	Patch RFFLT066, 0, 368
+	Patch RFFLT066, 0, 112
+	Patch RFFLT066, 0, 304
+	Patch RFFLT066, 0, 240
+	Patch RFFLT066, 0, 432
+	Patch RFFLT066, 0, 464
+	Patch RFFLT066, 0, 32
+	Patch RFFLT066, 0, 160
+	Patch RFFLT066, 0, 352
+	Patch RFFLT066, 0, 96
+	Patch RFFLT066, 0, 288
+	Patch RFFLT066, 0, 224
+	Patch RFFLT066, 0, 416
+	Patch RFFLT066, 0, 64
+	Patch RFFLT066, 0, 192
+	Patch RFFLT066, 0, 384
+	Patch RFFLT066, 0, 128
+	Patch RFFLT066, 0, 320
+	Patch RFFLT066, 0, 256
+	Patch RFFLT066, 0, 448
+	Patch RFFLT066, 0, 480
+}
+
+Texture FLRWAL4, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT047, 0, 0
+	Patch RFFLT048, 0, 16
+	Patch RFFLT048, 0, 144
+	Patch RFFLT048, 0, 272
+	Patch RFFLT048, 0, 400
+	Patch RFFLT048, 0, 80
+	Patch RFFLT048, 0, 208
+	Patch RFFLT048, 0, 336
+	Patch RFFLT048, 0, 464
+	Patch RFFLT048, 0, 48
+	Patch RFFLT048, 0, 176
+	Patch RFFLT048, 0, 304
+	Patch RFFLT048, 0, 432
+	Patch RFFLT048, 0, 112
+	Patch RFFLT048, 0, 240
+	Patch RFFLT048, 0, 368
+	Patch RFFLT048, 0, 32
+	Patch RFFLT048, 0, 160
+	Patch RFFLT048, 0, 288
+	Patch RFFLT048, 0, 416
+	Patch RFFLT048, 0, 96
+	Patch RFFLT048, 0, 224
+	Patch RFFLT048, 0, 352
+	Patch RFFLT048, 0, 480
+	Patch RFFLT048, 0, 64
+	Patch RFFLT048, 0, 192
+	Patch RFFLT048, 0, 320
+	Patch RFFLT048, 0, 448
+	Patch RFFLT048, 0, 128
+	Patch RFFLT048, 0, 256
+	Patch RFFLT048, 0, 384
+	Patch RFFLT046, 0, 496
+}
+
+Texture FLRLIT1, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT001, 0, 16
+	Patch RFFLT003, 16, 16
+	Patch RFFLT004, 0, 144
+	Patch RFFLT004, 0, 272
+	Patch RFFLT004, 0, 400
+	Patch RFFLT004, 0, 80
+	Patch RFFLT004, 0, 208
+	Patch RFFLT004, 0, 336
+	Patch RFFLT004, 0, 464
+	Patch RFFLT004, 0, 48
+	Patch RFFLT004, 0, 176
+	Patch RFFLT004, 0, 304
+	Patch RFFLT004, 0, 432
+	Patch RFFLT004, 0, 112
+	Patch RFFLT004, 0, 240
+	Patch RFFLT004, 0, 368
+	Patch RFFLT004, 0, 32
+	Patch RFFLT004, 0, 160
+	Patch RFFLT004, 0, 288
+	Patch RFFLT004, 0, 416
+	Patch RFFLT004, 0, 96
+	Patch RFFLT004, 0, 224
+	Patch RFFLT004, 0, 352
+	Patch RFFLT004, 0, 480
+	Patch RFFLT004, 0, 64
+	Patch RFFLT004, 0, 192
+	Patch RFFLT004, 0, 320
+	Patch RFFLT004, 0, 448
+	Patch RFFLT004, 0, 128
+	Patch RFFLT004, 0, 256
+	Patch RFFLT004, 0, 384
+	Patch RFFLT006, 16, 144
+	Patch RFFLT006, 16, 272
+	Patch RFFLT006, 16, 400
+	Patch RFFLT006, 16, 80
+	Patch RFFLT006, 16, 208
+	Patch RFFLT006, 16, 336
+	Patch RFFLT006, 16, 464
+	Patch RFFLT006, 16, 48
+	Patch RFFLT006, 16, 176
+	Patch RFFLT006, 16, 304
+	Patch RFFLT006, 16, 432
+	Patch RFFLT006, 16, 112
+	Patch RFFLT006, 16, 240
+	Patch RFFLT006, 16, 368
+	Patch RFFLT006, 16, 32
+	Patch RFFLT006, 16, 160
+	Patch RFFLT006, 16, 288
+	Patch RFFLT006, 16, 416
+	Patch RFFLT006, 16, 96
+	Patch RFFLT006, 16, 224
+	Patch RFFLT006, 16, 352
+	Patch RFFLT006, 16, 480
+	Patch RFFLT006, 16, 64
+	Patch RFFLT006, 16, 192
+	Patch RFFLT006, 16, 320
+	Patch RFFLT006, 16, 448
+	Patch RFFLT006, 16, 128
+	Patch RFFLT006, 16, 256
+	Patch RFFLT006, 16, 384
+	Patch RFFLT007, 0, 496
+	Patch RFFLT009, 16, 496
+	Patch RFFLT018, 0, 0
+	Patch RFFLT018, 16, 0
+}
+
+Texture FLRLIT2, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT002, 0, 16
+	Patch RFFLT005, 0, 144
+	Patch RFFLT005, 0, 272
+	Patch RFFLT005, 0, 400
+	Patch RFFLT005, 0, 80
+	Patch RFFLT005, 0, 208
+	Patch RFFLT005, 0, 336
+	Patch RFFLT005, 0, 464
+	Patch RFFLT005, 0, 48
+	Patch RFFLT005, 0, 176
+	Patch RFFLT005, 0, 304
+	Patch RFFLT005, 0, 432
+	Patch RFFLT005, 0, 112
+	Patch RFFLT005, 0, 240
+	Patch RFFLT005, 0, 368
+	Patch RFFLT005, 0, 32
+	Patch RFFLT005, 0, 160
+	Patch RFFLT005, 0, 288
+	Patch RFFLT005, 0, 416
+	Patch RFFLT005, 0, 96
+	Patch RFFLT005, 0, 224
+	Patch RFFLT005, 0, 352
+	Patch RFFLT005, 0, 480
+	Patch RFFLT005, 0, 64
+	Patch RFFLT005, 0, 192
+	Patch RFFLT005, 0, 320
+	Patch RFFLT005, 0, 448
+	Patch RFFLT005, 0, 128
+	Patch RFFLT005, 0, 256
+	Patch RFFLT005, 0, 384
+	Patch RFFLT008, 0, 496
+	Patch RFFLT018, 0, 0
+}
+
+Texture FLRLIT3, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT031, 0, 16
+	Patch RFFLT032, 16, 16
+	Patch RFFLT035, 0, 144
+	Patch RFFLT035, 0, 272
+	Patch RFFLT035, 0, 400
+	Patch RFFLT035, 0, 80
+	Patch RFFLT035, 0, 208
+	Patch RFFLT035, 0, 336
+	Patch RFFLT035, 0, 464
+	Patch RFFLT035, 0, 48
+	Patch RFFLT035, 0, 176
+	Patch RFFLT035, 0, 304
+	Patch RFFLT035, 0, 432
+	Patch RFFLT035, 0, 112
+	Patch RFFLT035, 0, 240
+	Patch RFFLT035, 0, 368
+	Patch RFFLT035, 0, 32
+	Patch RFFLT035, 0, 160
+	Patch RFFLT035, 0, 288
+	Patch RFFLT035, 0, 416
+	Patch RFFLT035, 0, 96
+	Patch RFFLT035, 0, 224
+	Patch RFFLT035, 0, 352
+	Patch RFFLT035, 0, 480
+	Patch RFFLT035, 0, 64
+	Patch RFFLT035, 0, 192
+	Patch RFFLT035, 0, 320
+	Patch RFFLT035, 0, 448
+	Patch RFFLT035, 0, 128
+	Patch RFFLT035, 0, 256
+	Patch RFFLT035, 0, 384
+	Patch RFFLT035, 16, 144
+	Patch RFFLT035, 16, 272
+	Patch RFFLT035, 16, 400
+	Patch RFFLT035, 16, 80
+	Patch RFFLT035, 16, 208
+	Patch RFFLT035, 16, 336
+	Patch RFFLT035, 16, 464
+	Patch RFFLT035, 16, 48
+	Patch RFFLT035, 16, 176
+	Patch RFFLT035, 16, 304
+	Patch RFFLT035, 16, 432
+	Patch RFFLT035, 16, 112
+	Patch RFFLT035, 16, 240
+	Patch RFFLT035, 16, 368
+	Patch RFFLT035, 16, 32
+	Patch RFFLT035, 16, 160
+	Patch RFFLT035, 16, 288
+	Patch RFFLT035, 16, 416
+	Patch RFFLT035, 16, 96
+	Patch RFFLT035, 16, 224
+	Patch RFFLT035, 16, 352
+	Patch RFFLT035, 16, 480
+	Patch RFFLT035, 16, 64
+	Patch RFFLT035, 16, 192
+	Patch RFFLT035, 16, 320
+	Patch RFFLT035, 16, 448
+	Patch RFFLT035, 16, 128
+	Patch RFFLT035, 16, 256
+	Patch RFFLT035, 16, 384
+	Patch RFFLT034, 0, 496
+	Patch RFFLT033, 16, 496
+	Patch RFFLT018, 0, 0
+	Patch RFFLT018, 16, 0
+}
+
+Texture FLRLIT4, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 16
+	Patch RFFLT038, 0, 32
+	Patch RFFLT038, 0, 144
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 0, 400
+	Patch RFFLT038, 0, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 0, 464
+	Patch RFFLT038, 0, 48
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 0, 432
+	Patch RFFLT038, 0, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 0, 368
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 0, 416
+	Patch RFFLT038, 0, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 0, 352
+	Patch RFFLT038, 0, 480
+	Patch RFFLT038, 0, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 0, 448
+	Patch RFFLT038, 0, 128
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT018, 0, 0
+}
+
+Texture FLRLIT5, 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 16
+	Patch RFFLT039, 0, 144
+	Patch RFFLT039, 0, 272
+	Patch RFFLT039, 0, 400
+	Patch RFFLT039, 0, 80
+	Patch RFFLT039, 0, 208
+	Patch RFFLT039, 0, 336
+	Patch RFFLT039, 0, 464
+	Patch RFFLT039, 0, 48
+	Patch RFFLT039, 0, 176
+	Patch RFFLT039, 0, 304
+	Patch RFFLT039, 0, 432
+	Patch RFFLT039, 0, 112
+	Patch RFFLT039, 0, 240
+	Patch RFFLT039, 0, 368
+	Patch RFFLT039, 0, 32
+	Patch RFFLT039, 0, 160
+	Patch RFFLT039, 0, 288
+	Patch RFFLT039, 0, 416
+	Patch RFFLT039, 0, 96
+	Patch RFFLT039, 0, 224
+	Patch RFFLT039, 0, 352
+	Patch RFFLT039, 0, 480
+	Patch RFFLT039, 0, 64
+	Patch RFFLT039, 0, 192
+	Patch RFFLT039, 0, 320
+	Patch RFFLT039, 0, 448
+	Patch RFFLT039, 0, 128
+	Patch RFFLT039, 0, 256
+	Patch RFFLT039, 0, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT018, 0, 0
+}
+
+Texture FLRLIT6, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 16
+	Patch RFFLT036, 16, 16
+	Patch RFFLT029, 0, 32
+	Patch RFFLT038, 0, 272
+	Patch RFFLT038, 16, 272
+	Patch RFFLT029, 0, 400
+	Patch RFFLT029, 0, 480
+	Patch RFFLT027, 0, 80
+	Patch RFFLT038, 0, 208
+	Patch RFFLT038, 16, 208
+	Patch RFFLT038, 0, 336
+	Patch RFFLT038, 0, 368
+	Patch RFFLT038, 16, 336
+	Patch RFFLT038, 16, 368
+	Patch RFFLT027, 0, 464
+	Patch RFFLT027, 0, 48
+	Patch RFFLT038, 0, 176
+	Patch RFFLT038, 0, 128
+	Patch RFFLT038, 16, 176
+	Patch RFFLT038, 16, 128
+	Patch RFFLT038, 0, 304
+	Patch RFFLT038, 16, 304
+	Patch RFFLT027, 0, 432
+	Patch RFFLT029, 0, 112
+	Patch RFFLT038, 0, 240
+	Patch RFFLT038, 16, 240
+	Patch RFFLT038, 0, 160
+	Patch RFFLT038, 16, 160
+	Patch RFFLT038, 0, 288
+	Patch RFFLT038, 16, 288
+	Patch RFFLT027, 0, 416
+	Patch RFFLT027, 0, 96
+	Patch RFFLT038, 0, 224
+	Patch RFFLT038, 16, 224
+	Patch RFFLT027, 0, 64
+	Patch RFFLT038, 0, 192
+	Patch RFFLT038, 0, 144
+	Patch RFFLT038, 16, 192
+	Patch RFFLT038, 16, 144
+	Patch RFFLT038, 0, 320
+	Patch RFFLT038, 0, 352
+	Patch RFFLT038, 16, 320
+	Patch RFFLT038, 16, 352
+	Patch RFFLT027, 0, 448
+	Patch RFFLT038, 0, 256
+	Patch RFFLT038, 16, 256
+	Patch RFFLT038, 0, 384
+	Patch RFFLT038, 16, 384
+	Patch RFFLT036, 0, 496
+	Patch RFFLT036, 16, 496
+	Patch RFFLT018, 0, 0
+	Patch RFFLT018, 16, 0
+}
+
+Texture FLRLIT7, 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT010, 0, 16
+	Patch RFFLT011, 16, 16
+	Patch RFFLT012, 0, 144
+	Patch RFFLT012, 0, 272
+	Patch RFFLT012, 0, 400
+	Patch RFFLT012, 0, 80
+	Patch RFFLT012, 0, 208
+	Patch RFFLT012, 0, 336
+	Patch RFFLT012, 0, 464
+	Patch RFFLT012, 0, 48
+	Patch RFFLT012, 0, 176
+	Patch RFFLT012, 0, 304
+	Patch RFFLT012, 0, 432
+	Patch RFFLT012, 0, 112
+	Patch RFFLT012, 0, 240
+	Patch RFFLT012, 0, 368
+	Patch RFFLT012, 0, 32
+	Patch RFFLT012, 0, 160
+	Patch RFFLT012, 0, 288
+	Patch RFFLT012, 0, 416
+	Patch RFFLT012, 0, 96
+	Patch RFFLT012, 0, 224
+	Patch RFFLT012, 0, 352
+	Patch RFFLT012, 0, 480
+	Patch RFFLT012, 0, 64
+	Patch RFFLT012, 0, 192
+	Patch RFFLT012, 0, 320
+	Patch RFFLT012, 0, 448
+	Patch RFFLT012, 0, 128
+	Patch RFFLT012, 0, 256
+	Patch RFFLT012, 0, 384
+	Patch RFFLT013, 16, 144
+	Patch RFFLT013, 16, 272
+	Patch RFFLT013, 16, 400
+	Patch RFFLT013, 16, 80
+	Patch RFFLT013, 16, 208
+	Patch RFFLT013, 16, 336
+	Patch RFFLT013, 16, 464
+	Patch RFFLT013, 16, 48
+	Patch RFFLT013, 16, 176
+	Patch RFFLT013, 16, 304
+	Patch RFFLT013, 16, 432
+	Patch RFFLT013, 16, 112
+	Patch RFFLT013, 16, 240
+	Patch RFFLT013, 16, 368
+	Patch RFFLT013, 16, 32
+	Patch RFFLT013, 16, 160
+	Patch RFFLT013, 16, 288
+	Patch RFFLT013, 16, 416
+	Patch RFFLT013, 16, 96
+	Patch RFFLT013, 16, 224
+	Patch RFFLT013, 16, 352
+	Patch RFFLT013, 16, 480
+	Patch RFFLT013, 16, 64
+	Patch RFFLT013, 16, 192
+	Patch RFFLT013, 16, 320
+	Patch RFFLT013, 16, 448
+	Patch RFFLT013, 16, 128
+	Patch RFFLT013, 16, 256
+	Patch RFFLT013, 16, 384
+	Patch RFFLT014, 0, 496
+	Patch RFFLT015, 16, 496
+	Patch RFFLT018, 0, 0
+	Patch RFFLT018, 16, 0
+}
+
+Texture FLRFLR1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT060, 0, 0
+}
+
+Texture FLRFLR2, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT061, 0, 0
+}
+
+Texture FLRFLR3, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT038, 0, 0
+}
+
+Texture FLRFLR4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT059, 0, 0
+}
+
+Texture FLRFLR5, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT058, 0, 0
+}
+
+Texture FLRFLR6, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT030, 0, 0
+}
+
+Texture FLRFLR7, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT031, 0, 0
+	Patch RFFLT032, 16, 0
+	Patch RFFLT033, 16, 16
+	Patch RFFLT034, 0, 16
+}
+
+Texture FLRFLR8, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT035, 0, 0
+}
+
+Texture FLRFLR9, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch RFFLT036, 0, 0
+}
+
+
+
+
+
+Texture "PGEFLR01", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU83", 0, 0
+}
+
+Texture "PGEFLR02", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU82", 0, 0
+}
+
+Texture "PGEFLR03", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU90", 0, 0
+}
+
+Texture "PGEFLR04", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU84", 0, 0
+}
+
+Texture "PGELDR", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU39", 0, 0
+}
+
+Texture "PGETAN01", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU08", 0, 0
+}
+
+Texture "PGETAN02", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+}
+
+Texture "PGETAN03", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU10", 0, 0
+}
+
+Texture "PGETAN04", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU11", 0, 0
+}
+
+Texture "PGETAN05", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU12", 0, 0
+}
+
+Texture "PGETAN06", 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU13", 0, 0
+}
+
+Texture "PGETAN07", 16, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU14", 0, 0
+}
+
+Texture "PGETAN08", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU15", 0, 0
+}
+
+Texture "PGETAN09", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU16", 0, 0
+}
+
+Texture "PGETAN10", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU17", 0, 0
+}
+
+Texture "PGETANX", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU22", 0, 0
+}
+
+Texture "PGETAN11", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU22", 0, 0
+}
+
+Texture "PGETAN12", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU23", 0, 0
+}
+
+Texture "PGETAN13", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU24", 0, 0
+}
+
+Texture "PGETAN14", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU25", 0, 0
+}
+
+Texture "PGEPIP01", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU01", 0, 0
+}
+
+Texture "PGEPIP02", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU02", 0, 0
+}
+
+Texture "PGEPIP03", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU03", 0, 0
+}
+
+Texture "PGEPIP04", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	Patch "PLAGU04", 0, 0
+}
+
+Texture "PGEPIPH", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU07", 0, 0
+}
+
+Texture "PGEPIPV", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU05", 0, 0
+}
+
+Texture "PGEPIPVL", 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	Patch "PLAGU01", 0, 0
+	Patch "PLAGU05", 0, 32
+	Patch "PLAGU05", 0, 64
+	Patch "PLAGU05", 0, 96
+	Patch "PLAGU05", 0, 128
+	Patch "PLAGU05", 0, 160
+	Patch "PLAGU05", 0, 192
+	Patch "PLAGU05", 0, 224
+	Patch "PLAGU05", 0, 256
+	Patch "PLAGU05", 0, 288
+	Patch "PLAGU05", 0, 320
+	Patch "PLAGU05", 0, 352
+	Patch "PLAGU05", 0, 384
+	Patch "PLAGU05", 0, 416
+	Patch "PLAGU05", 0, 448
+	Patch "PLAGU03", 0, 480
+}
+
+Texture "PGEPIPVR", 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	Patch "PLAGU02", 0, 0
+	Patch "PLAGU05", 0, 32
+	Patch "PLAGU05", 0, 64
+	Patch "PLAGU05", 0, 96
+	Patch "PLAGU05", 0, 128
+	Patch "PLAGU05", 0, 160
+	Patch "PLAGU05", 0, 192
+	Patch "PLAGU05", 0, 224
+	Patch "PLAGU05", 0, 256
+	Patch "PLAGU05", 0, 288
+	Patch "PLAGU05", 0, 320
+	Patch "PLAGU05", 0, 352
+	Patch "PLAGU05", 0, 384
+	Patch "PLAGU05", 0, 416
+	Patch "PLAGU05", 0, 448
+	Patch "PLAGU04", 0, 480
+}
+
+Texture "PGEPIPM", 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU07", 0, 0
+	Patch "PLAGU36", 0, 32
+	Patch "PLAGU36", 16, 32
+	Patch "PLAGU37", 0, 48
+	Patch "PLAGU37", 16, 64
+	Patch "PLAGU37", 0, 80
+	Patch "PLAGU37", 16, 96
+	Patch "PLAGU37", 0, 112
+	Patch "PLAGU37", 16, 48
+	Patch "PLAGU37", 0, 64
+	Patch "PLAGU37", 16, 80
+	Patch "PLAGU37", 0, 96
+	Patch "PLAGU37", 16, 112
+}
+
+Texture "PGEWAL01", 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU35", 0, 0
+	Patch "PLAGU36", 0, 16
+	Patch "PLAGU37", 0, 32
+	Patch "PLAGU37", 0, 48
+	Patch "PLAGU37", 0, 64
+	Patch "PLAGU37", 0, 80
+	Patch "PLAGU37", 0, 96
+	Patch "PLAGU37", 0, 112
+	Patch "PLAGU37", 0, 128
+	Patch "PLAGU37", 0, 144
+	Patch "PLAGU37", 0, 160
+	Patch "PLAGU37", 0, 176
+	Patch "PLAGU37", 0, 192
+	Patch "PLAGU37", 0, 208
+	Patch "PLAGU37", 0, 224
+	Patch "PLAGU37", 0, 240
+	Patch "PLAGU37", 0, 256
+	Patch "PLAGU37", 0, 272
+	Patch "PLAGU37", 0, 288
+	Patch "PLAGU37", 0, 304
+	Patch "PLAGU37", 0, 320
+	Patch "PLAGU37", 0, 336
+	Patch "PLAGU37", 0, 352
+	Patch "PLAGU37", 0, 368
+	Patch "PLAGU37", 0, 384
+	Patch "PLAGU37", 0, 400
+	Patch "PLAGU37", 0, 416
+	Patch "PLAGU37", 0, 432
+	Patch "PLAGU37", 0, 448
+	Patch "PLAGU37", 0, 464
+	Patch "PLAGU37", 0, 480
+	Patch "PLAGU37", 0, 496
+}
+
+Texture "PGEWALL", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU08", 0, 0
+	Patch "PLAGU11", 0, 16
+	Patch "PLAGU11", 0, 32
+	Patch "PLAGU11", 0, 144
+	Patch "PLAGU11", 0, 192
+	Patch "PLAGU13", 0, 48
+	Patch "PLAGU13", 0, 80
+	Patch "PLAGU13", 0, 112
+	Patch "PLAGU13", 0, 160
+	Patch "PLAGU13", 0, 208
+	Patch "PLAGU15", 0, 240
+}
+
+Texture "PGEWALM", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+	Patch "PLAGU18", 0, 16
+	Patch "PLAGU22", 0, 32
+	Patch "PLAGU22", 0, 48
+	Patch "PLAGU22", 0, 64
+	Patch "PLAGU22", 0, 80
+	Patch "PLAGU22", 0, 96
+	Patch "PLAGU22", 0, 112
+	Patch "PLAGU22", 0, 128
+	Patch "PLAGU22", 0, 144
+	Patch "PLAGU22", 0, 160
+	Patch "PLAGU22", 0, 176
+	Patch "PLAGU22", 0, 192
+	Patch "PLAGU22", 0, 208
+	Patch "PLAGU22", 0, 224
+	Patch "PLAGU22", 0, 240
+}
+
+Texture "PGEWAL05", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+	Patch "PLAGU18", 0, 16
+	Patch "PLAGU22", 0, 32
+	Patch "PLAGU22", 0, 48
+	Patch "PLAGU22", 0, 64
+	Patch "PLAGU22", 0, 80
+	Patch "PLAGU22", 0, 96
+	Patch "PLAGU22", 0, 112
+	Patch "PLAGU22", 0, 128
+	Patch "PLAGU22", 0, 144
+	Patch "PLAGU22", 0, 160
+	Patch "PLAGU22", 0, 176
+	Patch "PLAGU22", 0, 192
+	Patch "PLAGU22", 0, 208
+	Patch "PLAGU22", 0, 224
+	Patch "PLAGU22", 0, 240
+}
+
+Texture "PGEWAL02", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+	Patch "PLAGU19", 0, 16
+	Patch "PLAGU23", 0, 32
+	Patch "PLAGU23", 0, 48
+	Patch "PLAGU23", 0, 64
+	Patch "PLAGU23", 0, 80
+	Patch "PLAGU23", 0, 96
+	Patch "PLAGU23", 0, 112
+	Patch "PLAGU23", 0, 128
+	Patch "PLAGU23", 0, 144
+	Patch "PLAGU23", 0, 160
+	Patch "PLAGU23", 0, 176
+	Patch "PLAGU23", 0, 192
+	Patch "PLAGU23", 0, 208
+	Patch "PLAGU23", 0, 224
+	Patch "PLAGU23", 0, 240
+}
+
+Texture "PGEWAL03", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+	Patch "PLAGU20", 0, 16
+	Patch "PLAGU24", 0, 32
+	Patch "PLAGU24", 0, 48
+	Patch "PLAGU24", 0, 64
+	Patch "PLAGU24", 0, 80
+	Patch "PLAGU24", 0, 96
+	Patch "PLAGU24", 0, 112
+	Patch "PLAGU24", 0, 128
+	Patch "PLAGU24", 0, 144
+	Patch "PLAGU24", 0, 160
+	Patch "PLAGU24", 0, 176
+	Patch "PLAGU24", 0, 192
+	Patch "PLAGU24", 0, 208
+	Patch "PLAGU24", 0, 224
+	Patch "PLAGU24", 0, 240
+}
+
+Texture "PGEWAL04", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU09", 0, 0
+	Patch "PLAGU21", 0, 16
+	Patch "PLAGU25", 0, 32
+	Patch "PLAGU25", 0, 48
+	Patch "PLAGU25", 0, 64
+	Patch "PLAGU25", 0, 80
+	Patch "PLAGU25", 0, 96
+	Patch "PLAGU25", 0, 112
+	Patch "PLAGU25", 0, 128
+	Patch "PLAGU25", 0, 144
+	Patch "PLAGU25", 0, 160
+	Patch "PLAGU25", 0, 176
+	Patch "PLAGU25", 0, 192
+	Patch "PLAGU25", 0, 208
+	Patch "PLAGU25", 0, 224
+	Patch "PLAGU25", 0, 240
+}
+
+Texture "PGEWALR", 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU10", 0, 0
+	Patch "PLAGU12", 0, 16
+	Patch "PLAGU12", 0, 32
+	Patch "PLAGU12", 0, 144
+	Patch "PLAGU12", 0, 192
+	Patch "PLAGU13", 0, 48
+	Patch "PLAGU13", 0, 80
+	Patch "PLAGU13", 0, 112
+	Patch "PLAGU13", 0, 160
+	Patch "PLAGU13", 0, 208
+	Patch "PLAGU17", 0, 240
+}
+
+Texture "PGEPIL01", 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU26", 0, 0
+	Patch "PLAGU27", 0, 16
+	Patch "PLAGU32", 16, 16
+	Patch "PLAGU29", 0, 32
+	Patch "PLAGU34", 16, 32
+	Patch "PLAGU26", 0, 48
+}
+
+Texture "PGEPIL02", 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	Patch "PLAGU26", 0, 0
+	Patch "PLAGU27", 0, 16
+	Patch "PLAGU27", 0, 208
+	Patch "PLAGU27", 0, 272
+	Patch "PLAGU27", 0, 336
+	Patch "PLAGU27", 0, 400
+	Patch "PLAGU27", 0, 464
+	Patch "PLAGU27", 0, 80
+	Patch "PLAGU27", 0, 144
+	Patch "PLAGU32", 16, 16
+	Patch "PLAGU32", 16, 208
+	Patch "PLAGU32", 16, 272
+	Patch "PLAGU32", 16, 336
+	Patch "PLAGU32", 16, 400
+	Patch "PLAGU32", 16, 464
+	Patch "PLAGU32", 16, 80
+	Patch "PLAGU32", 16, 144
+	Patch "PLAGU29", 0, 32
+	Patch "PLAGU29", 0, 224
+	Patch "PLAGU29", 0, 288
+	Patch "PLAGU29", 0, 352
+	Patch "PLAGU29", 0, 416
+	Patch "PLAGU29", 0, 480
+	Patch "PLAGU29", 0, 96
+	Patch "PLAGU29", 0, 160
+	Patch "PLAGU34", 16, 32
+	Patch "PLAGU34", 16, 224
+	Patch "PLAGU34", 16, 288
+	Patch "PLAGU34", 16, 352
+	Patch "PLAGU34", 16, 416
+	Patch "PLAGU34", 16, 480
+	Patch "PLAGU34", 16, 96
+	Patch "PLAGU34", 16, 160
+	Patch "PLAGU31", 0, 48
+	Patch "PLAGU31", 0, 240
+	Patch "PLAGU31", 0, 304
+	Patch "PLAGU31", 0, 368
+	Patch "PLAGU31", 0, 432
+	Patch "PLAGU31", 0, 496
+	Patch "PLAGU31", 0, 112
+	Patch "PLAGU31", 0, 176
+	Patch "PLAGU28", 16, 48
+	Patch "PLAGU28", 16, 240
+	Patch "PLAGU28", 16, 304
+	Patch "PLAGU28", 16, 368
+	Patch "PLAGU28", 16, 432
+	Patch "PLAGU28", 16, 496
+	Patch "PLAGU28", 16, 112
+	Patch "PLAGU28", 16, 176
+	Patch "PLAGU30", 16, 64
+	Patch "PLAGU30", 16, 256
+	Patch "PLAGU30", 16, 320
+	Patch "PLAGU30", 16, 384
+	Patch "PLAGU30", 16, 448
+	Patch "PLAGU30", 16, 128
+	Patch "PLAGU30", 16, 192
+	Patch "PLAGU33", 0, 64
+	Patch "PLAGU33", 0, 256
+	Patch "PLAGU33", 0, 320
+	Patch "PLAGU33", 0, 384
+	Patch "PLAGU33", 0, 448
+	Patch "PLAGU33", 0, 128
+	Patch "PLAGU33", 0, 192
+}
+
+Texture "PGEINT01", 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU40", 0, 0
+	Patch "PLAGU41", 0, 16
+	Patch "PLAGU41", 0, 144
+	Patch "PLAGU41", 0, 272
+	Patch "PLAGU41", 0, 400
+	Patch "PLAGU41", 0, 32
+	Patch "PLAGU41", 0, 160
+	Patch "PLAGU41", 0, 288
+	Patch "PLAGU41", 0, 416
+	Patch "PLAGU41", 0, 48
+	Patch "PLAGU41", 0, 176
+	Patch "PLAGU41", 0, 304
+	Patch "PLAGU41", 0, 432
+	Patch "PLAGU41", 0, 64
+	Patch "PLAGU41", 0, 192
+	Patch "PLAGU41", 0, 320
+	Patch "PLAGU41", 0, 448
+	Patch "PLAGU41", 0, 80
+	Patch "PLAGU41", 0, 208
+	Patch "PLAGU41", 0, 336
+	Patch "PLAGU41", 0, 464
+	Patch "PLAGU41", 0, 96
+	Patch "PLAGU41", 0, 224
+	Patch "PLAGU41", 0, 352
+	Patch "PLAGU41", 0, 480
+	Patch "PLAGU41", 0, 112
+	Patch "PLAGU41", 0, 240
+	Patch "PLAGU41", 0, 368
+	Patch "PLAGU41", 0, 496
+	Patch "PLAGU41", 0, 128
+	Patch "PLAGU41", 0, 256
+	Patch "PLAGU41", 0, 384
+}
+
+Texture "PGEINT02", 48, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU42", 0, 0
+	Patch "PLAGU43", 16, 0
+	Patch "PLAGU44", 32, 0
+	Patch "PLAGU45", 0, 16
+	Patch "PLAGU45", 0, 128
+	Patch "PLAGU45", 0, 240
+	Patch "PLAGU45", 0, 352
+	Patch "PLAGU45", 0, 32
+	Patch "PLAGU45", 0, 144
+	Patch "PLAGU45", 0, 256
+	Patch "PLAGU45", 0, 368
+	Patch "PLAGU45", 0, 48
+	Patch "PLAGU45", 0, 160
+	Patch "PLAGU45", 0, 272
+	Patch "PLAGU45", 0, 384
+	Patch "PLAGU45", 0, 64
+	Patch "PLAGU45", 0, 176
+	Patch "PLAGU45", 0, 288
+	Patch "PLAGU45", 0, 400
+	Patch "PLAGU45", 0, 80
+	Patch "PLAGU45", 0, 192
+	Patch "PLAGU45", 0, 304
+	Patch "PLAGU45", 0, 416
+	Patch "PLAGU45", 0, 463
+	Patch "PLAGU45", 0, 96
+	Patch "PLAGU45", 0, 208
+	Patch "PLAGU45", 0, 320
+	Patch "PLAGU45", 0, 432
+	Patch "PLAGU45", 0, 479
+	Patch "PLAGU45", 0, 112
+	Patch "PLAGU45", 0, 224
+	Patch "PLAGU45", 0, 336
+	Patch "PLAGU45", 0, 448
+	Patch "PLAGU45", 0, 495
+	Patch "PLAGU45", 16, 16
+	Patch "PLAGU45", 16, 128
+	Patch "PLAGU45", 16, 240
+	Patch "PLAGU45", 16, 352
+	Patch "PLAGU45", 16, 32
+	Patch "PLAGU45", 16, 144
+	Patch "PLAGU45", 16, 256
+	Patch "PLAGU45", 16, 368
+	Patch "PLAGU45", 16, 48
+	Patch "PLAGU45", 16, 160
+	Patch "PLAGU45", 16, 272
+	Patch "PLAGU45", 16, 384
+	Patch "PLAGU45", 16, 64
+	Patch "PLAGU45", 16, 176
+	Patch "PLAGU45", 16, 288
+	Patch "PLAGU45", 16, 400
+	Patch "PLAGU45", 16, 80
+	Patch "PLAGU45", 16, 192
+	Patch "PLAGU45", 16, 304
+	Patch "PLAGU45", 16, 416
+	Patch "PLAGU45", 16, 463
+	Patch "PLAGU45", 16, 96
+	Patch "PLAGU45", 16, 208
+	Patch "PLAGU45", 16, 320
+	Patch "PLAGU45", 16, 432
+	Patch "PLAGU45", 16, 479
+	Patch "PLAGU45", 16, 112
+	Patch "PLAGU45", 16, 224
+	Patch "PLAGU45", 16, 336
+	Patch "PLAGU45", 16, 448
+	Patch "PLAGU45", 16, 495
+	Patch "PLAGU45", 32, 16
+	Patch "PLAGU45", 32, 128
+	Patch "PLAGU45", 32, 240
+	Patch "PLAGU45", 32, 352
+	Patch "PLAGU45", 32, 32
+	Patch "PLAGU45", 32, 144
+	Patch "PLAGU45", 32, 256
+	Patch "PLAGU45", 32, 368
+	Patch "PLAGU45", 32, 48
+	Patch "PLAGU45", 32, 160
+	Patch "PLAGU45", 32, 272
+	Patch "PLAGU45", 32, 384
+	Patch "PLAGU45", 32, 64
+	Patch "PLAGU45", 32, 176
+	Patch "PLAGU45", 32, 288
+	Patch "PLAGU45", 32, 400
+	Patch "PLAGU45", 32, 80
+	Patch "PLAGU45", 32, 192
+	Patch "PLAGU45", 32, 304
+	Patch "PLAGU45", 32, 416
+	Patch "PLAGU45", 32, 463
+	Patch "PLAGU45", 32, 96
+	Patch "PLAGU45", 32, 208
+	Patch "PLAGU45", 32, 320
+	Patch "PLAGU45", 32, 432
+	Patch "PLAGU45", 32, 479
+	Patch "PLAGU45", 32, 112
+	Patch "PLAGU45", 32, 224
+	Patch "PLAGU45", 32, 336
+	Patch "PLAGU45", 32, 448
+	Patch "PLAGU45", 32, 495
+}
+
+Texture "PGEINT03", 48, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU42", 0, 0
+	Patch "PLAGU43", 16, 0
+	Patch "PLAGU44", 32, 0
+	Patch "PLAGU48", 0, 16
+	Patch "PLAGU45", 0, 128
+	Patch "PLAGU46", 0, 240
+	Patch "PLAGU45", 0, 352
+	Patch "PLAGU45", 0, 32
+	Patch "PLAGU46", 0, 144
+	Patch "PLAGU46", 0, 256
+	Patch "PLAGU45", 0, 368
+	Patch "PLAGU45", 0, 48
+	Patch "PLAGU45", 0, 160
+	Patch "PLAGU45", 0, 272
+	Patch "PLAGU47", 0, 384
+	Patch "PLAGU47", 0, 64
+	Patch "PLAGU45", 0, 176
+	Patch "PLAGU45", 0, 288
+	Patch "PLAGU45", 0, 400
+	Patch "PLAGU45", 0, 80
+	Patch "PLAGU45", 0, 192
+	Patch "PLAGU46", 0, 304
+	Patch "PLAGU46", 0, 416
+	Patch "PLAGU45", 0, 463
+	Patch "PLAGU46", 0, 96
+	Patch "PLAGU45", 0, 208
+	Patch "PLAGU45", 0, 320
+	Patch "PLAGU45", 0, 432
+	Patch "PLAGU48", 0, 479
+	Patch "PLAGU46", 0, 112
+	Patch "PLAGU45", 0, 224
+	Patch "PLAGU45", 0, 336
+	Patch "PLAGU45", 0, 448
+	Patch "PLAGU45", 0, 495
+	Patch "PLAGU45", 16, 16
+	Patch "PLAGU45", 16, 128
+	Patch "PLAGU48", 16, 240
+	Patch "PLAGU45", 16, 352
+	Patch "PLAGU45", 16, 32
+	Patch "PLAGU47", 16, 144
+	Patch "PLAGU47", 16, 256
+	Patch "PLAGU45", 16, 368
+	Patch "PLAGU45", 16, 48
+	Patch "PLAGU45", 16, 160
+	Patch "PLAGU45", 16, 272
+	Patch "PLAGU48", 16, 384
+	Patch "PLAGU48", 16, 64
+	Patch "PLAGU46", 16, 176
+	Patch "PLAGU45", 16, 288
+	Patch "PLAGU45", 16, 400
+	Patch "PLAGU45", 16, 80
+	Patch "PLAGU45", 16, 192
+	Patch "PLAGU47", 16, 304
+	Patch "PLAGU47", 16, 416
+	Patch "PLAGU45", 16, 463
+	Patch "PLAGU48", 16, 96
+	Patch "PLAGU45", 16, 208
+	Patch "PLAGU45", 16, 320
+	Patch "PLAGU45", 16, 432
+	Patch "PLAGU46", 16, 479
+	Patch "PLAGU47", 16, 112
+	Patch "PLAGU45", 16, 224
+	Patch "PLAGU46", 16, 336
+	Patch "PLAGU45", 16, 448
+	Patch "PLAGU45", 16, 495
+	Patch "PLAGU46", 32, 16
+	Patch "PLAGU45", 32, 128
+	Patch "PLAGU45", 32, 240
+	Patch "PLAGU45", 32, 352
+	Patch "PLAGU45", 32, 32
+	Patch "PLAGU45", 32, 144
+	Patch "PLAGU48", 32, 256
+	Patch "PLAGU45", 32, 368
+	Patch "PLAGU45", 32, 48
+	Patch "PLAGU45", 32, 160
+	Patch "PLAGU45", 32, 272
+	Patch "PLAGU46", 32, 384
+	Patch "PLAGU46", 32, 64
+	Patch "PLAGU47", 32, 176
+	Patch "PLAGU45", 32, 288
+	Patch "PLAGU45", 32, 400
+	Patch "PLAGU45", 32, 80
+	Patch "PLAGU45", 32, 192
+	Patch "PLAGU48", 32, 304
+	Patch "PLAGU48", 32, 416
+	Patch "PLAGU45", 32, 463
+	Patch "PLAGU45", 32, 96
+	Patch "PLAGU45", 32, 208
+	Patch "PLAGU45", 32, 320
+	Patch "PLAGU46", 32, 432
+	Patch "PLAGU47", 32, 479
+	Patch "PLAGU48", 32, 112
+	Patch "PLAGU45", 32, 224
+	Patch "PLAGU48", 32, 336
+	Patch "PLAGU45", 32, 448
+	Patch "PLAGU45", 32, 495
+}
+
+Texture "PGEINT04", 48, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU42", 0, 0
+	Patch "PLAGU43", 16, 0
+	Patch "PLAGU44", 32, 0
+	Patch "PLAGU45", 0, 128
+	Patch "PLAGU45", 0, 240
+	Patch "PLAGU45", 0, 352
+	Patch "PLAGU45", 0, 144
+	Patch "PLAGU45", 0, 256
+	Patch "PLAGU45", 0, 368
+	Patch "PLAGU45", 0, 160
+	Patch "PLAGU45", 0, 272
+	Patch "PLAGU45", 0, 384
+	Patch "PLAGU45", 0, 64
+	Patch "PLAGU45", 0, 176
+	Patch "PLAGU45", 0, 288
+	Patch "PLAGU45", 0, 400
+	Patch "PLAGU45", 0, 80
+	Patch "PLAGU45", 0, 192
+	Patch "PLAGU45", 0, 304
+	Patch "PLAGU45", 0, 416
+	Patch "PLAGU45", 0, 463
+	Patch "PLAGU45", 0, 96
+	Patch "PLAGU45", 0, 208
+	Patch "PLAGU45", 0, 320
+	Patch "PLAGU45", 0, 432
+	Patch "PLAGU45", 0, 479
+	Patch "PLAGU45", 0, 112
+	Patch "PLAGU45", 0, 224
+	Patch "PLAGU45", 0, 336
+	Patch "PLAGU45", 0, 448
+	Patch "PLAGU45", 0, 495
+	Patch "PLAGU62", 0, 16
+	Patch "PLAGU45", 16, 128
+	Patch "PLAGU45", 16, 240
+	Patch "PLAGU45", 16, 352
+	Patch "PLAGU45", 16, 144
+	Patch "PLAGU45", 16, 256
+	Patch "PLAGU45", 16, 368
+	Patch "PLAGU45", 16, 160
+	Patch "PLAGU45", 16, 272
+	Patch "PLAGU45", 16, 384
+	Patch "PLAGU45", 16, 64
+	Patch "PLAGU45", 16, 176
+	Patch "PLAGU45", 16, 288
+	Patch "PLAGU45", 16, 400
+	Patch "PLAGU45", 16, 80
+	Patch "PLAGU45", 16, 192
+	Patch "PLAGU45", 16, 304
+	Patch "PLAGU45", 16, 416
+	Patch "PLAGU45", 16, 463
+	Patch "PLAGU45", 16, 96
+	Patch "PLAGU45", 16, 208
+	Patch "PLAGU45", 16, 320
+	Patch "PLAGU45", 16, 432
+	Patch "PLAGU45", 16, 479
+	Patch "PLAGU45", 16, 112
+	Patch "PLAGU45", 16, 224
+	Patch "PLAGU45", 16, 336
+	Patch "PLAGU45", 16, 448
+	Patch "PLAGU45", 16, 495
+	Patch "PLAGU45", 32, 128
+	Patch "PLAGU45", 32, 240
+	Patch "PLAGU45", 32, 352
+	Patch "PLAGU45", 32, 144
+	Patch "PLAGU45", 32, 256
+	Patch "PLAGU45", 32, 368
+	Patch "PLAGU45", 32, 160
+	Patch "PLAGU45", 32, 272
+	Patch "PLAGU45", 32, 384
+	Patch "PLAGU45", 32, 64
+	Patch "PLAGU45", 32, 176
+	Patch "PLAGU45", 32, 288
+	Patch "PLAGU45", 32, 400
+	Patch "PLAGU45", 32, 80
+	Patch "PLAGU45", 32, 192
+	Patch "PLAGU45", 32, 304
+	Patch "PLAGU45", 32, 416
+	Patch "PLAGU45", 32, 463
+	Patch "PLAGU45", 32, 96
+	Patch "PLAGU45", 32, 208
+	Patch "PLAGU45", 32, 320
+	Patch "PLAGU45", 32, 432
+	Patch "PLAGU45", 32, 479
+	Patch "PLAGU45", 32, 112
+	Patch "PLAGU45", 32, 224
+	Patch "PLAGU45", 32, 336
+	Patch "PLAGU45", 32, 448
+	Patch "PLAGU45", 32, 495
+	Patch "PLAGU63", 0, 32
+	Patch "PLAGU64", 0, 48
+	Patch "PLAGU65", 16, 48
+	Patch "PLAGU66", 32, 48
+}
+
+Texture "PGEINT05", 48, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU45", 0, 128
+	Patch "PLAGU45", 0, 240
+	Patch "PLAGU45", 0, 352
+	Patch "PLAGU45", 0, 144
+	Patch "PLAGU45", 0, 256
+	Patch "PLAGU45", 0, 368
+	Patch "PLAGU45", 0, 48
+	Patch "PLAGU45", 0, 160
+	Patch "PLAGU45", 0, 272
+	Patch "PLAGU45", 0, 384
+	Patch "PLAGU45", 0, 64
+	Patch "PLAGU45", 0, 176
+	Patch "PLAGU45", 0, 288
+	Patch "PLAGU45", 0, 400
+	Patch "PLAGU45", 0, 80
+	Patch "PLAGU45", 0, 192
+	Patch "PLAGU45", 0, 304
+	Patch "PLAGU45", 0, 416
+	Patch "PLAGU45", 0, 463
+	Patch "PLAGU45", 0, 96
+	Patch "PLAGU45", 0, 208
+	Patch "PLAGU45", 0, 320
+	Patch "PLAGU45", 0, 432
+	Patch "PLAGU45", 0, 479
+	Patch "PLAGU45", 0, 112
+	Patch "PLAGU45", 0, 224
+	Patch "PLAGU45", 0, 336
+	Patch "PLAGU45", 0, 448
+	Patch "PLAGU45", 0, 495
+	Patch "PLAGU45", 16, 128
+	Patch "PLAGU45", 16, 240
+	Patch "PLAGU45", 16, 352
+	Patch "PLAGU45", 16, 144
+	Patch "PLAGU45", 16, 256
+	Patch "PLAGU45", 16, 368
+	Patch "PLAGU45", 16, 48
+	Patch "PLAGU45", 16, 160
+	Patch "PLAGU45", 16, 272
+	Patch "PLAGU45", 16, 384
+	Patch "PLAGU45", 16, 64
+	Patch "PLAGU45", 16, 176
+	Patch "PLAGU45", 16, 288
+	Patch "PLAGU45", 16, 400
+	Patch "PLAGU45", 16, 80
+	Patch "PLAGU45", 16, 192
+	Patch "PLAGU45", 16, 304
+	Patch "PLAGU45", 16, 416
+	Patch "PLAGU45", 16, 463
+	Patch "PLAGU45", 16, 96
+	Patch "PLAGU45", 16, 208
+	Patch "PLAGU45", 16, 320
+	Patch "PLAGU45", 16, 432
+	Patch "PLAGU45", 16, 479
+	Patch "PLAGU45", 16, 112
+	Patch "PLAGU45", 16, 224
+	Patch "PLAGU45", 16, 336
+	Patch "PLAGU45", 16, 448
+	Patch "PLAGU45", 16, 495
+	Patch "PLAGU45", 32, 128
+	Patch "PLAGU45", 32, 240
+	Patch "PLAGU45", 32, 352
+	Patch "PLAGU45", 32, 144
+	Patch "PLAGU45", 32, 256
+	Patch "PLAGU45", 32, 368
+	Patch "PLAGU45", 32, 48
+	Patch "PLAGU45", 32, 160
+	Patch "PLAGU45", 32, 272
+	Patch "PLAGU45", 32, 384
+	Patch "PLAGU45", 32, 64
+	Patch "PLAGU45", 32, 176
+	Patch "PLAGU45", 32, 288
+	Patch "PLAGU45", 32, 400
+	Patch "PLAGU45", 32, 80
+	Patch "PLAGU45", 32, 192
+	Patch "PLAGU45", 32, 304
+	Patch "PLAGU45", 32, 416
+	Patch "PLAGU45", 32, 463
+	Patch "PLAGU45", 32, 96
+	Patch "PLAGU45", 32, 208
+	Patch "PLAGU45", 32, 320
+	Patch "PLAGU45", 32, 432
+	Patch "PLAGU45", 32, 479
+	Patch "PLAGU45", 32, 112
+	Patch "PLAGU45", 32, 224
+	Patch "PLAGU45", 32, 336
+	Patch "PLAGU45", 32, 448
+	Patch "PLAGU45", 32, 495
+	Patch "PLAGU61", 0, 0
+	Patch "PLAGU63", 0, 16
+	Patch "PLAGU64", 0, 32
+	Patch "PLAGU65", 16, 32
+	Patch "PLAGU66", 32, 32
+}
+
+Texture "PGEINT06", 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU67", 0, 0
+	Patch "PLAGU68", 16, 0
+	Patch "PLAGU69", 0, 16
+	Patch "PLAGU69", 0, 32
+	Patch "PLAGU69", 0, 96
+	Patch "PLAGU69", 0, 160
+	Patch "PLAGU69", 0, 48
+	Patch "PLAGU69", 0, 112
+	Patch "PLAGU69", 0, 176
+	Patch "PLAGU69", 0, 416
+	Patch "PLAGU69", 0, 464
+	Patch "PLAGU69", 0, 64
+	Patch "PLAGU69", 0, 128
+	Patch "PLAGU69", 0, 192
+	Patch "PLAGU69", 0, 224
+	Patch "PLAGU69", 0, 272
+	Patch "PLAGU69", 0, 320
+	Patch "PLAGU69", 0, 352
+	Patch "PLAGU69", 0, 384
+	Patch "PLAGU69", 0, 208
+	Patch "PLAGU69", 0, 240
+	Patch "PLAGU69", 0, 256
+	Patch "PLAGU69", 0, 304
+	Patch "PLAGU69", 0, 288
+	Patch "PLAGU69", 0, 336
+	Patch "PLAGU69", 0, 368
+	Patch "PLAGU69", 0, 400
+	Patch "PLAGU69", 0, 448
+	Patch "PLAGU69", 0, 432
+	Patch "PLAGU69", 0, 480
+	Patch "PLAGU69", 0, 496
+	Patch "PLAGU69", 0, 80
+	Patch "PLAGU69", 0, 144
+	Patch "PLAGU70", 16, 16
+	Patch "PLAGU70", 16, 32
+	Patch "PLAGU70", 16, 96
+	Patch "PLAGU70", 16, 160
+	Patch "PLAGU70", 16, 48
+	Patch "PLAGU70", 16, 112
+	Patch "PLAGU70", 16, 176
+	Patch "PLAGU70", 16, 416
+	Patch "PLAGU70", 16, 464
+	Patch "PLAGU70", 16, 64
+	Patch "PLAGU70", 16, 128
+	Patch "PLAGU70", 16, 192
+	Patch "PLAGU70", 16, 224
+	Patch "PLAGU70", 16, 240
+	Patch "PLAGU70", 16, 256
+	Patch "PLAGU70", 16, 304
+	Patch "PLAGU70", 16, 208
+	Patch "PLAGU70", 16, 288
+	Patch "PLAGU70", 16, 336
+	Patch "PLAGU70", 16, 368
+	Patch "PLAGU70", 16, 400
+	Patch "PLAGU70", 16, 448
+	Patch "PLAGU70", 16, 272
+	Patch "PLAGU70", 16, 320
+	Patch "PLAGU70", 16, 352
+	Patch "PLAGU70", 16, 384
+	Patch "PLAGU70", 16, 432
+	Patch "PLAGU70", 16, 480
+	Patch "PLAGU70", 16, 496
+	Patch "PLAGU70", 16, 80
+	Patch "PLAGU70", 16, 144
+}
+
+Texture "PGEINT07", 32, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU72", 0, 0
+	Patch "PLAGU73", 16, 0
+	Patch "PLAGU74", 0, 16
+	Patch "PLAGU74", 0, 112
+	Patch "PLAGU74", 0, 224
+	Patch "PLAGU74", 0, 368
+	Patch "PLAGU74", 0, 48
+	Patch "PLAGU74", 0, 144
+	Patch "PLAGU74", 0, 256
+	Patch "PLAGU74", 0, 400
+	Patch "PLAGU74", 0, 80
+	Patch "PLAGU74", 0, 176
+	Patch "PLAGU74", 0, 320
+	Patch "PLAGU74", 0, 288
+	Patch "PLAGU74", 0, 432
+	Patch "PLAGU74", 0, 480
+	Patch "PLAGU75", 16, 16
+	Patch "PLAGU75", 16, 112
+	Patch "PLAGU75", 16, 224
+	Patch "PLAGU75", 16, 368
+	Patch "PLAGU75", 16, 48
+	Patch "PLAGU75", 16, 144
+	Patch "PLAGU75", 16, 256
+	Patch "PLAGU75", 16, 400
+	Patch "PLAGU75", 16, 80
+	Patch "PLAGU75", 16, 176
+	Patch "PLAGU75", 16, 320
+	Patch "PLAGU75", 16, 288
+	Patch "PLAGU75", 16, 432
+	Patch "PLAGU75", 16, 480
+	Patch "PLAGU74", 0, 32
+	Patch "PLAGU74", 0, 128
+	Patch "PLAGU74", 0, 240
+	Patch "PLAGU74", 0, 384
+	Patch "PLAGU74", 0, 64
+	Patch "PLAGU74", 0, 160
+	Patch "PLAGU74", 0, 272
+	Patch "PLAGU74", 0, 416
+	Patch "PLAGU74", 0, 464
+	Patch "PLAGU74", 0, 96
+	Patch "PLAGU74", 0, 208
+	Patch "PLAGU74", 0, 352
+	Patch "PLAGU74", 0, 192
+	Patch "PLAGU74", 0, 336
+	Patch "PLAGU74", 0, 304
+	Patch "PLAGU74", 0, 448
+	Patch "PLAGU74", 0, 496
+	Patch "PLAGU75", 16, 32
+	Patch "PLAGU75", 16, 128
+	Patch "PLAGU75", 16, 240
+	Patch "PLAGU75", 16, 384
+	Patch "PLAGU75", 16, 64
+	Patch "PLAGU75", 16, 160
+	Patch "PLAGU75", 16, 272
+	Patch "PLAGU75", 16, 416
+	Patch "PLAGU75", 16, 464
+	Patch "PLAGU75", 16, 96
+	Patch "PLAGU75", 16, 208
+	Patch "PLAGU75", 16, 352
+	Patch "PLAGU75", 16, 192
+	Patch "PLAGU75", 16, 336
+	Patch "PLAGU75", 16, 304
+	Patch "PLAGU75", 16, 448
+	Patch "PLAGU75", 16, 496
+}
+
+Texture "PGEINT08", 16, 512
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU76", 0, 0
+	Patch "PLAGU77", 0, 16
+	Patch "PLAGU77", 0, 144
+	Patch "PLAGU77", 0, 272
+	Patch "PLAGU77", 0, 400
+	Patch "PLAGU77", 0, 32
+	Patch "PLAGU77", 0, 160
+	Patch "PLAGU77", 0, 288
+	Patch "PLAGU77", 0, 416
+	Patch "PLAGU77", 0, 48
+	Patch "PLAGU77", 0, 176
+	Patch "PLAGU77", 0, 304
+	Patch "PLAGU77", 0, 432
+	Patch "PLAGU77", 0, 64
+	Patch "PLAGU77", 0, 192
+	Patch "PLAGU77", 0, 320
+	Patch "PLAGU77", 0, 448
+	Patch "PLAGU77", 0, 80
+	Patch "PLAGU77", 0, 208
+	Patch "PLAGU77", 0, 336
+	Patch "PLAGU77", 0, 464
+	Patch "PLAGU77", 0, 96
+	Patch "PLAGU77", 0, 224
+	Patch "PLAGU77", 0, 352
+	Patch "PLAGU77", 0, 480
+	Patch "PLAGU77", 0, 112
+	Patch "PLAGU77", 0, 240
+	Patch "PLAGU77", 0, 368
+	Patch "PLAGU77", 0, 496
+	Patch "PLAGU77", 0, 128
+	Patch "PLAGU77", 0, 256
+	Patch "PLAGU77", 0, 384
+}
+
+Texture "PGEINT09", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU78", 0, 0
+}
+
+Texture "PGEJUNK", 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU79", 0, 0
+}
+
+Texture "PGESKY0", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU91", 0, 0
+}
+
+Texture "PGESKY01", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU80", 0, 0
+}
+
+Texture "PGESKY02", 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU81", 0, 0
+}
+
+Texture "PGESKY03", 592, 160
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU89", 0, 0
+}
+
+Texture "PLWATX", 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU85", 0, 0
+}
+
+Texture "PLWAT1", 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU85", 0, 0
+}
+
+Texture "PLWAT2", 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU86", 0, 0
+}
+
+Texture "PLWAT2", 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU87", 0, 0
+}
+
+Texture "PLWAT4", 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU88", 0, 0
+}
+
+Texture "PGEFALX", 48, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU49", 0, 0
+}
+
+Texture "PGEFAL01", 48, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU49", 0, 0
+}
+
+Texture "PGEFAL02", 48, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU50", 0, 0
+}
+
+Texture "PGEFAL03", 48, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch "PLAGU60", 0, 0
+}
+
+
+
+
+
+Texture POWBLU1, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU1, 0, 0
+}
+
+Texture POWBLU2, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU2, 0, 0
+}
+
+Texture POWBLU3, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU3, 0, 0
+}
+
+Texture POWBLU4, 16, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU4, 0, 0
+}
+
+Texture POWBLU5, 32, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU5, 0, 0
+}
+
+Texture POWBLU6, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU6, 0, 0
+}
+
+Texture POWBLU7, 64, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU7, 0, 0
+}
+
+Texture POWBLU8, 16, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU8, 0, 0
+}
+
+Texture POWBLU9, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU9, 0, 0
+}
+
+Texture POWBLU10, 128, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWBLU10, 0, 0
+}
+
+Texture POWCON1A, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON1A, 0, 0
+}
+
+Texture POWCON1B, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON1B, 0, 0
+}
+
+Texture POWCON2A, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON2A, 0, 0
+}
+
+Texture POWCON2B, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON2B, 0, 0
+}
+
+Texture POWCON3A, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON3A, 0, 0
+}
+
+Texture POWCON3B, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON3B, 0, 0
+}
+
+Texture POWCON4A, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON4A, 0, 0
+}
+
+Texture POWCON4B, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON4B, 0, 0
+}
+
+Texture POWCON5A, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON5A, 0, 0
+}
+
+Texture POWCON5B, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWCON5B, 0, 0
+}
+
+Texture POWCON1X, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWCON1A, 0, 0
+}
+
+Texture POWCON2X, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWCON2A, 0, 0
+}
+
+Texture POWCON3X, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWCON3A, 0, 0
+}
+
+Texture POWCON4X, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWCON4A, 0, 0
+}
+
+Texture POWCON5X, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWCON5A, 0, 0
+}
+
+Texture POWGEN1, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWGEN1, 0, 0
+}
+
+Texture POWGEN2, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWGEN2, 0, 0
+}
+
+Texture POWGEN3, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWGEN3, 0, 0
+}
+
+Texture POWLDR, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWLDR, 0, 0
+}
+
+Texture POWLINL, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWLINL, 0, 0
+}
+
+Texture POWLINM, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWLINM, 0, 0
+}
+
+Texture POWLINR, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWLINR, 0, 0
+}
+
+Texture POWPIL1, 32, 256
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWPIL1, 0, 0
+}
+
+Texture POWPIL2, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWPIL2, 0, 0
+}
+
+Texture POWPIL3, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWPIL3, 0, 0
+}
+
+Texture POWSNK, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWSNK, 0, 0
+}
+
+Texture POWWAL1, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWAL1, 0, 0
+}
+
+Texture POWWAL2, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWAL2, 0, 0
+}
+
+Texture POWWAL3, 16, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWAL3, 0, 0
+}
+
+Texture POWWAL4, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWAL4, 0, 0
+}
+
+Texture POWWIR1, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR1, 0, 0
+}
+
+Texture POWWIR2, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR2, 0, 0
+}
+
+Texture POWWIR3, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR3, 0, 0
+}
+
+Texture POWWIR4, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR4, 0, 0
+}
+
+Texture POWWIR5, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR5, 0, 0
+}
+
+Texture POWWIR6, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWWIR6, 0, 0
+}
+
+Texture POWYEL1, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL1, 0, 0
+}
+
+Texture POWYEL2, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL2, 0, 0
+}
+
+Texture POWYEL3, 128, 16
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL3, 0, 0
+}
+
+Texture POWYEL4, 64, 64
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL4, 0, 0
+}
+
+Texture POWYEL5, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL5, 0, 0
+}
+
+Texture POWYEL6, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL6, 0, 0
+}
+
+Texture POWYEL7, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL7, 0, 0
+}
+
+Texture POWYEL8, 64, 32
+{
+	XScale 0.500
+	YScale 0.500
+	WorldPanning
+	Patch POWYEL8, 0, 0
+}
+
+Texture POWFLR1, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWFLR1, 0, 0
+}
+
+Texture POWFLR2, 16, 16
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWFLR2, 0, 0
+}
+
+Texture POWFLR3, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWFLR3, 0, 0
+}
+
+Texture POWFLR4, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWFLR4, 0, 0
+}
+
+Texture POWFLR5, 32, 32
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWFLR5, 0, 0
+}
+
+Texture POWCWAL, 32, 128
+{
+	XScale 0.500
+	YScale 0.500
+	Patch POWWIR2, 0, 0
+	Patch POWWIR2, 16, 0
+	Patch POWPIL3, 0, 16
+}
+
+Texture POWFNC, 32, 32
+{
+	Patch POWFNC, 0, 0
+}
+
+
+

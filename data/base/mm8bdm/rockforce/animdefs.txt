@@ -1,0 +1,100 @@
+texture PULPULX
+    pic PULPULA tics 2
+	pic PULPULB tics 2
+	pic PULPULC tics 2
+	pic PULPULD tics 2
+	
+texture PULPULNX
+    pic PULPULNA tics 2
+	pic PULPULNB tics 2
+	pic PULPULNC tics 2
+	pic PULPULND tics 2
+	
+flat SHOWATX
+pic SHOWAT01 tics 12
+pic SHOWAT02 tics 12
+pic SHOWAT03 tics 12
+pic SHOWAT04 tics 12
+
+texture SHOFALX1
+    allowdecals
+    pic SHOFAL01 tics 3
+	pic SHOFAL02 tics 3
+	pic SHOFAL03 tics 3
+	
+	texture SHOFALX2
+    allowdecals
+    pic SHOFAL04 tics 3
+	pic SHOFAL05 tics 3
+	pic SHOFAL06 tics 3
+	
+	texture CIRCONV1
+    allowdecals
+    pic CIRCONVA tics 3
+    pic CIRCONVB tics 3
+
+texture CIRCONV2
+    allowdecals
+    pic CIRCONVC tics 3
+    pic CIRCONVD tics 3
+	
+texture CIRCONV3
+    allowdecals
+    pic CIRCONVE tics 3
+    pic CIRCONVF tics 3
+	
+texture CIRCONV4
+    allowdecals
+    pic CIRCONVG tics 3
+    pic CIRCONVH tics 3
+	
+texture CIRCONV5
+	allowdecals
+    pic CIRCONVI tics 3
+    pic CIRCONVJ tics 3
+	
+flat PLWATX
+pic PLWAT1 tics 12
+pic PLWAT2 tics 12
+pic PLWAT2 tics 12
+pic PLWAT4 tics 12
+
+texture PGEFALX
+    allowdecals
+    pic PGEFAL01 tics 3
+	pic PGEFAL02 tics 3
+	pic PGEFAL03 tics 3
+	
+	texture PGETANX
+    allowdecals
+    pic PGETAN11 tics 5
+	pic PGETAN12 tics 5
+	pic PGETAN13 tics 5
+	pic PGETAN14 tics 5
+	
+	texture PGEWALM
+    allowdecals
+    pic PGEWAL05 tics 5
+	pic PGEWAL02 tics 5
+	pic PGEWAL03 tics 5
+	pic PGEWAL04 tics 5
+	
+	texture POWCON1X
+	pic POWCON1A tics 3
+	pic POWCON1B tics 3
+	
+texture POWCON2X
+	pic POWCON2A tics 3
+	pic POWCON2B tics 3
+	
+texture POWCON3X
+	pic POWCON3A tics 3
+	pic POWCON3B tics 3
+	
+texture POWCON4X
+	pic POWCON4A tics 3
+	pic POWCON4B tics 3
+	
+texture POWCON5X
+	pic POWCON5A tics 3
+	pic POWCON5B tics 3
